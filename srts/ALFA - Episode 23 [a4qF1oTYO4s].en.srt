@@ -1,4768 +1,4184 @@
 1
-00:00:00,000 --> 00:00:02,000
- To be continued...
+00:00:00,000 --> 00:00:20,000
+To be continued...
 
 2
-00:00:03,000 --> 00:00:07,000
- To be continued...
+00:00:20,000 --> 00:00:24,000
+Show your spirit, get ready to find friends
 
 3
-00:00:07,000 --> 00:00:11,000
- To be continued...
+00:00:24,000 --> 00:00:31,000
+Run, run, jump, climb, climb the tower
 
 4
-00:00:11,000 --> 00:00:14,000
- To be continued...
+00:00:31,000 --> 00:00:39,000
+Be brave, don't give up
 
 5
-00:00:14,000 --> 00:00:17,000
- To be continued...
+00:00:39,000 --> 00:00:46,000
+Chase your dreams and hopes
 
 6
-00:00:17,000 --> 00:00:20,000
- To be continued...
+00:00:48,000 --> 00:00:51,000
+Go, go, go, achieve all your dreams
 
 7
-00:00:20,000 --> 00:00:24,000
- Show your spirit, get ready to find friends
+00:00:51,000 --> 00:00:54,000
+Go, go, go, never stop
 
 8
-00:00:24,000 --> 00:00:31,000
- Run, run, jump, climb, climb the tower
+00:00:54,000 --> 00:01:00,000
+Go, go, go, fight with your heart
 
 9
-00:00:31,000 --> 00:00:39,000
- Be brave, don't give up
+00:01:00,000 --> 00:01:04,000
+Go, go, go, make yourself proud
 
 10
-00:00:39,000 --> 00:00:46,000
- Chase your dreams and hopes
+00:01:04,000 --> 00:01:08,000
+Go, go, go, let's dream
 
 11
-00:00:48,000 --> 00:00:51,000
- Go, go, go, achieve all your dreams
+00:01:08,000 --> 00:01:15,000
+Go, go, go, we can do it
 
 12
-00:00:51,000 --> 00:00:54,000
- Go, go, go, never stop
+00:01:16,000 --> 00:01:18,000
+Why did you act against my order?
 
 13
-00:00:54,000 --> 00:01:00,000
- Go, go, go, fight with your heart
+00:01:18,000 --> 00:01:19,000
+But God...
 
 14
-00:01:00,000 --> 00:01:04,000
- Go, go, go, make yourself proud
+00:01:19,000 --> 00:01:20,000
+Shut up!
 
 15
-00:01:04,000 --> 00:01:08,000
- Go, go, go, let's dream
+00:01:20,000 --> 00:01:22,000
+I don't want all my plans to be ruined
 
 16
-00:01:08,000 --> 00:01:15,000
- Go, go, go, we can do it
+00:01:22,000 --> 00:01:24,000
+We'll wait until the full moon
 
 17
-00:01:16,000 --> 00:01:18,000
- Why did you act against my order?
+00:01:24,000 --> 00:01:27,000
+Because now is the right time for us to fight
 
 18
-00:01:18,000 --> 00:01:19,000
- But God...
+00:01:27,000 --> 00:01:29,000
+Mom, what's wrong?
 
 19
-00:01:19,000 --> 00:01:20,000
- Shut up!
+00:01:29,000 --> 00:01:30,000
+Dad!
 
 20
-00:01:20,000 --> 00:01:22,000
- I don't want all my plans to be ruined
+00:01:30,000 --> 00:01:31,000
+Hey, think!
 
 21
-00:01:22,000 --> 00:01:24,000
- We'll wait until the full moon
+00:01:31,000 --> 00:01:32,000
+Think!
 
 22
-00:01:24,000 --> 00:01:27,000
- Because now is the right time for us to fight
+00:01:32,000 --> 00:01:34,000
+What have you done?
 
 23
-00:01:27,000 --> 00:01:29,000
- Mom, what's wrong?
+00:01:34,000 --> 00:01:35,000
+Who are you?
 
 24
-00:01:29,000 --> 00:01:30,000
- Dad!
+00:01:35,000 --> 00:01:36,000
+Who are you really?
 
 25
-00:01:30,000 --> 00:01:31,000
- Hey, think!
+00:01:36,000 --> 00:01:38,000
+You're the one who stole my parents' house
 
 26
-00:01:31,000 --> 00:01:32,000
- Think!
+00:01:38,000 --> 00:01:39,000
+Don't ask me!
 
 27
-00:01:32,000 --> 00:01:34,000
- What have you done?
+00:01:39,000 --> 00:01:41,000
+I'm not lying!
 
 28
-00:01:34,000 --> 00:01:35,000
- Who are you?
+00:01:41,000 --> 00:01:43,000
+I'm the one who stole it!
 
 29
-00:01:35,000 --> 00:01:36,000
- Who are you really?
+00:01:43,000 --> 00:01:45,000
+No, I'm not!
 
 30
-00:01:36,000 --> 00:01:38,000
- You're the one who stole my parents' house
+00:01:45,000 --> 00:01:47,000
+And they're my parents!
 
 31
-00:01:38,000 --> 00:01:39,000
- Don't ask me!
+00:01:47,000 --> 00:02:09,000
+We don't have much time
 
 32
-00:01:39,000 --> 00:01:41,000
- I'm not lying!
+00:02:09,000 --> 00:02:11,000
+We only have 6 hours
 
 33
-00:01:41,000 --> 00:01:43,000
- I'm the one who stole it!
+00:02:11,000 --> 00:02:16,000
+And I don't want to see Serigala turn into a pancake
 
 34
-00:01:43,000 --> 00:01:45,000
- No, I'm not!
+00:02:16,000 --> 00:02:18,000
+Do you understand?
 
 35
-00:01:45,000 --> 00:01:47,000
- And they're my parents!
+00:02:18,000 --> 00:02:20,000
+Yes, sir
 
 36
-00:01:47,000 --> 00:02:09,000
- We don't have much time
+00:02:20,000 --> 00:02:21,000
+I'm ready
 
 37
-00:02:09,000 --> 00:02:11,000
- We only have 6 hours
+00:02:21,000 --> 00:02:22,000
+Action!
 
 38
-00:02:11,000 --> 00:02:16,000
- And I don't want to see Serigala turn into a pancake
+00:02:23,000 --> 00:02:25,000
+Serigala, I'm coming!
 
 39
-00:02:16,000 --> 00:02:18,000
- Do you understand?
+00:02:25,000 --> 00:02:43,000
+Where are you?
 
 40
-00:02:18,000 --> 00:02:20,000
- Yes, sir
+00:02:43,000 --> 00:02:45,000
+I'm here, I'm here!
 
 41
-00:02:20,000 --> 00:02:21,000
- I'm ready
+00:02:45,000 --> 00:02:48,000
+I'm coming!
 
 42
-00:02:21,000 --> 00:02:22,000
- Action!
+00:02:48,000 --> 00:02:58,000
+Serigala!
 
 43
-00:02:23,000 --> 00:02:25,000
- Serigala, I'm coming!
+00:02:58,000 --> 00:02:59,000
+Boss, let's go!
 
 44
-00:02:25,000 --> 00:02:43,000
- Where are you?
+00:02:59,000 --> 00:03:08,000
+I'm here!
 
 45
-00:02:43,000 --> 00:02:45,000
- I'm here, I'm here!
+00:03:15,000 --> 00:03:17,000
+What the power!
 
 46
-00:02:45,000 --> 00:02:47,000
- I'm coming!
+00:03:17,000 --> 00:03:19,000
+Cut the rope!
 
 47
-00:02:47,000 --> 00:02:48,000
- I'm coming!
+00:03:19,000 --> 00:03:29,000
+Sir, don't pull me!
 
 48
-00:02:48,000 --> 00:02:58,000
- Serigala!
+00:03:29,000 --> 00:03:31,000
+I'm going to break the rock!
 
 49
-00:02:58,000 --> 00:02:59,000
- Boss, let's go!
+00:03:31,000 --> 00:03:33,000
+You can't do it alone, right?
 
 50
-00:02:59,000 --> 00:03:00,000
- I'm here!
+00:03:33,000 --> 00:03:34,000
+I'm coming!
 
 51
-00:03:00,000 --> 00:03:02,000
- I'm here!
+00:03:34,000 --> 00:03:36,000
+Sir!
 
 52
-00:03:02,000 --> 00:03:08,000
- I'm here!
+00:03:36,000 --> 00:03:38,000
+Help me!
 
 53
-00:03:15,000 --> 00:03:17,000
- What the power!
+00:03:38,000 --> 00:03:39,000
+There's a thief!
 
 54
-00:03:17,000 --> 00:03:19,000
- Cut the rope!
+00:03:39,000 --> 00:03:41,000
+What's wrong?
 
 55
-00:03:19,000 --> 00:03:29,000
- Sir, don't pull me!
+00:03:41,000 --> 00:03:43,000
+I was attacked, sir!
 
 56
-00:03:29,000 --> 00:03:31,000
- I'm going to break the rock!
+00:03:43,000 --> 00:03:45,000
+What was attacked?
 
 57
-00:03:31,000 --> 00:03:33,000
- You can't do it alone, right?
+00:03:45,000 --> 00:03:50,000
+I was attacked by Serigala's monster, sir!
 
 58
-00:03:33,000 --> 00:03:34,000
- I'm coming!
+00:03:50,000 --> 00:03:52,000
+Serigala?
 
 59
-00:03:34,000 --> 00:03:36,000
- Sir!
+00:03:52,000 --> 00:03:59,000
+Serigala came out of my parents' house
 
 60
-00:03:36,000 --> 00:03:38,000
- Help me!
+00:03:59,000 --> 00:04:03,000
+If so, let's take him to the village doctor!
 
 61
-00:03:38,000 --> 00:03:39,000
- There's a thief!
+00:04:03,000 --> 00:04:05,000
+Let's go!
 
 62
-00:03:39,000 --> 00:03:41,000
- What's wrong?
+00:04:05,000 --> 00:04:10,000
+Professor
 
 63
-00:03:41,000 --> 00:03:43,000
- I was attacked, sir!
+00:04:12,000 --> 00:04:14,000
+If that's the situation,
 
 64
-00:03:43,000 --> 00:03:45,000
- What was attacked?
+00:04:14,000 --> 00:04:15,000
+In my opinion,
 
 65
-00:03:45,000 --> 00:03:50,000
- I was attacked by Serigala's monster, sir!
+00:04:15,000 --> 00:04:18,000
+The only way is
 
 66
-00:03:50,000 --> 00:03:52,000
- Serigala?
+00:04:18,000 --> 00:04:19,000
+Starting tomorrow,
 
 67
-00:03:52,000 --> 00:03:59,000
- Serigala came out of my parents' house
+00:04:19,000 --> 00:04:21,000
+I will train the children
 
 68
-00:03:59,000 --> 00:04:03,000
- If so, let's take him to the village doctor!
+00:04:21,000 --> 00:04:24,000
+So they are more prepared to fight
 
 69
-00:04:03,000 --> 00:04:05,000
- Let's go!
+00:04:24,000 --> 00:04:31,000
+But can they do it, Megantara?
 
 70
-00:04:05,000 --> 00:04:10,000
- Professor
+00:04:31,000 --> 00:04:34,000
+They are brave children
 
 71
-00:04:12,000 --> 00:04:14,000
- If that's the situation,
+00:04:34,000 --> 00:04:38,000
+At home, I won't leave them alone
 
 72
-00:04:14,000 --> 00:04:15,000
- In my opinion,
+00:04:38,000 --> 00:04:40,000
+If necessary,
 
 73
-00:04:15,000 --> 00:04:18,000
- The only way is
+00:04:40,000 --> 00:04:42,000
+I'm ready to sacrifice my life
 
 74
-00:04:18,000 --> 00:04:19,000
- Starting tomorrow,
+00:04:42,000 --> 00:04:44,000
+Until the last drop of blood for them
 
 75
-00:04:19,000 --> 00:04:21,000
- I will train the children
+00:04:44,000 --> 00:04:54,000
+But there's one more problem, Megantara
 
 76
-00:04:21,000 --> 00:04:24,000
- So they are more prepared to fight
+00:04:54,000 --> 00:04:57,000
+What's the problem, professor?
 
 77
-00:04:24,000 --> 00:04:31,000
- But can they do it, Megantara?
+00:04:57,000 --> 00:05:00,000
+About Alva
 
 78
-00:04:31,000 --> 00:04:34,000
- They are brave children
+00:05:00,000 --> 00:05:02,000
+Until now
 
 79
-00:04:34,000 --> 00:04:38,000
- At home, I won't leave them alone
+00:05:02,000 --> 00:05:04,000
+I haven't heard from Vega
 
 80
-00:04:38,000 --> 00:04:40,000
- If necessary,
+00:05:04,000 --> 00:05:06,000
+I'm afraid
 
 81
-00:04:40,000 --> 00:04:42,000
- I'm ready to sacrifice my life
+00:05:06,000 --> 00:05:08,000
+They have a problem with me
 
 82
-00:04:42,000 --> 00:04:44,000
- Until the last drop of blood for them
+00:05:09,000 --> 00:05:11,000
+[Sigh]
 
 83
-00:04:44,000 --> 00:04:54,000
- But there's one more problem, Megantara
+00:05:11,000 --> 00:05:15,000
+Professor
 
 84
-00:04:54,000 --> 00:04:57,000
- What's the problem, professor?
+00:05:15,000 --> 00:05:19,000
+Can we split the task?
 
 85
-00:04:57,000 --> 00:05:00,000
- About Alva
+00:05:19,000 --> 00:05:22,000
+Me, Professor Titan
 
 86
-00:05:00,000 --> 00:05:02,000
- Until now
+00:05:22,000 --> 00:05:24,000
+And Professor Agni
 
 87
-00:05:02,000 --> 00:05:04,000
- I haven't heard from Vega
+00:05:24,000 --> 00:05:27,000
+We train the children at school
 
 88
-00:05:04,000 --> 00:05:06,000
- I'm afraid
+00:05:27,000 --> 00:05:29,000
+Meanwhile,
 
 89
-00:05:06,000 --> 00:05:08,000
- They have a problem with me
+00:05:29,000 --> 00:05:30,000
+Professor Purwa
 
 90
-00:05:09,000 --> 00:05:11,000
- [Sigh]
+00:05:30,000 --> 00:05:31,000
+I think
 
 91
-00:05:11,000 --> 00:05:15,000
- Professor
+00:05:31,000 --> 00:05:33,000
+He's the right person
 
 92
-00:05:15,000 --> 00:05:19,000
- Can we split the task?
+00:05:33,000 --> 00:05:36,000
+To find Vega and his friends to my place
 
 93
-00:05:19,000 --> 00:05:22,000
- Me, Professor Titan
+00:05:36,000 --> 00:05:38,000
+[Footsteps]
 
 94
-00:05:22,000 --> 00:05:24,000
- And Professor Agni
+00:05:38,000 --> 00:05:44,000
+See?
 
 95
-00:05:24,000 --> 00:05:27,000
- We train the children at school
+00:05:44,000 --> 00:05:46,000
+We're left with just a little bit of blood
 
 96
-00:05:27,000 --> 00:05:29,000
- Meanwhile,
+00:05:46,000 --> 00:05:47,000
+We're done!
 
 97
-00:05:29,000 --> 00:05:30,000
- Professor Purwa
+00:05:47,000 --> 00:05:49,000
+Give us more, Vega!
 
 98
-00:05:30,000 --> 00:05:31,000
- I think
+00:05:49,000 --> 00:05:50,000
+If he wants to,
 
 99
-00:05:31,000 --> 00:05:33,000
- He's the right person
+00:05:50,000 --> 00:05:52,000
+He can have our blood!
 
 100
-00:05:33,000 --> 00:05:36,000
- To find Vega and his friends to my place
+00:05:52,000 --> 00:05:58,000
+Where are we going?
 
 101
-00:05:36,000 --> 00:05:38,000
- [Footsteps]
+00:05:58,000 --> 00:06:01,000
+You're the only one who can help us
 
 102
-00:05:38,000 --> 00:05:44,000
- See?
+00:06:01,000 --> 00:06:04,000
+Go!
 
 103
-00:05:44,000 --> 00:05:46,000
- We're left with just a little bit of blood
+00:06:04,000 --> 00:06:06,000
+Go, Srigala!
 
 104
-00:05:46,000 --> 00:05:47,000
- We're done!
+00:06:06,000 --> 00:06:07,000
+I know the way!
 
 105
-00:05:47,000 --> 00:05:49,000
- Give us more, Vega!
+00:06:07,000 --> 00:06:09,000
+What's the lock?
 
 106
-00:05:49,000 --> 00:05:50,000
- If he wants to,
+00:06:09,000 --> 00:06:11,000
+It's a secret
 
 107
-00:05:50,000 --> 00:05:52,000
- He can have our blood!
+00:06:11,000 --> 00:06:12,000
+If you're Srigala,
 
 108
-00:05:52,000 --> 00:05:58,000
- Where are we going?
+00:06:12,000 --> 00:06:14,000
+You'll be human again
 
 109
-00:05:58,000 --> 00:06:01,000
- You're the only one who can help us
+00:06:14,000 --> 00:06:16,000
+If you're hit by a sunbeam
 
 110
-00:06:01,000 --> 00:06:04,000
- Go!
+00:06:16,000 --> 00:06:18,000
+It's already 8 o'clock
 
 111
-00:06:04,000 --> 00:06:06,000
- Go, Srigala!
+00:06:18,000 --> 00:06:19,000
+Sunbeam?
 
 112
-00:06:06,000 --> 00:06:07,000
- I know the way!
+00:06:19,000 --> 00:06:20,000
+Yes
 
 113
-00:06:07,000 --> 00:06:09,000
- What's the lock?
+00:06:20,000 --> 00:06:22,000
+Oh no
 
 114
-00:06:09,000 --> 00:06:11,000
- It's a secret
+00:06:22,000 --> 00:06:24,000
+It's only 12 o'clock
 
 115
-00:06:11,000 --> 00:06:12,000
- If you're Srigala,
+00:06:24,000 --> 00:06:25,000
+So,
 
 116
-00:06:12,000 --> 00:06:14,000
- You'll be human again
+00:06:25,000 --> 00:06:27,000
+We have 6 hours left
 
 117
-00:06:14,000 --> 00:06:16,000
- If you're hit by a sunbeam
+00:06:27,000 --> 00:06:29,000
+Oh no!
 
 118
-00:06:16,000 --> 00:06:18,000
- It's already 8 o'clock
+00:06:29,000 --> 00:06:31,000
+It's already 12 o'clock
 
 119
-00:06:18,000 --> 00:06:19,000
- Sunbeam?
+00:06:31,000 --> 00:06:33,000
+We're done!
 
 120
-00:06:19,000 --> 00:06:20,000
- Yes
+00:06:33,000 --> 00:06:35,000
+[Groaning]
 
 121
-00:06:20,000 --> 00:06:22,000
- Oh no
+00:06:35,000 --> 00:06:38,000
+We're done!
 
 122
-00:06:22,000 --> 00:06:24,000
- It's only 12 o'clock
+00:06:38,000 --> 00:06:40,000
+[Groaning]
 
 123
-00:06:24,000 --> 00:06:25,000
- So,
+00:06:40,000 --> 00:06:43,000
+We're done!
 
 124
-00:06:25,000 --> 00:06:27,000
- We have 6 hours left
+00:06:43,000 --> 00:06:44,000
+Calm down!
 
 125
-00:06:27,000 --> 00:06:29,000
- Oh no!
+00:06:44,000 --> 00:06:45,000
+Let's go!
 
 126
-00:06:29,000 --> 00:06:31,000
- It's already 12 o'clock
+00:06:45,000 --> 00:06:47,000
+[Music]
 
 127
-00:06:31,000 --> 00:06:33,000
- We're done!
+00:06:47,000 --> 00:06:53,000
+Oferita, go to sleep!
 
 128
-00:06:33,000 --> 00:06:35,000
- [Groaning]
+00:06:53,000 --> 00:06:55,000
+[Music]
 
 129
-00:06:35,000 --> 00:06:36,000
- We're done!
+00:06:55,000 --> 00:06:56,000
+[Groaning]
 
 130
-00:06:36,000 --> 00:06:38,000
- We're done!
+00:06:56,000 --> 00:06:57,000
+[Screaming]
 
 131
-00:06:38,000 --> 00:06:40,000
- [Groaning]
+00:06:57,000 --> 00:06:59,000
+What's wrong with you?
 
 132
-00:06:40,000 --> 00:06:41,000
- We're done!
+00:06:59,000 --> 00:07:01,000
+[Music]
 
 133
-00:06:41,000 --> 00:06:42,000
- We're done!
+00:07:01,000 --> 00:07:03,000
+[Groaning]
 
 134
-00:06:42,000 --> 00:06:43,000
- We're done!
+00:07:03,000 --> 00:07:05,000
+I can't
 
 135
-00:06:43,000 --> 00:06:44,000
- Calm down!
+00:07:05,000 --> 00:07:07,000
+I'll try
 
 136
-00:06:44,000 --> 00:06:45,000
- Let's go!
+00:07:07,000 --> 00:07:09,000
+Oferita, sit!
 
 137
-00:06:45,000 --> 00:06:47,000
- [Music]
+00:07:09,000 --> 00:07:11,000
+[Music]
 
 138
-00:06:47,000 --> 00:06:53,000
- Oferita, go to sleep!
+00:07:11,000 --> 00:07:13,000
+[Groaning]
 
 139
-00:06:53,000 --> 00:06:55,000
- [Music]
+00:07:13,000 --> 00:07:14,000
+What?
 
 140
-00:06:55,000 --> 00:06:56,000
- [Groaning]
+00:07:14,000 --> 00:07:16,000
+I'll try again
 
 141
-00:06:56,000 --> 00:06:57,000
- [Screaming]
+00:07:16,000 --> 00:07:18,000
+Oferita, shut up!
 
 142
-00:06:57,000 --> 00:06:59,000
- What's wrong with you?
+00:07:18,000 --> 00:07:20,000
+[Music]
 
 143
-00:06:59,000 --> 00:07:01,000
- [Music]
+00:07:20,000 --> 00:07:22,000
+[Groaning]
 
 144
-00:07:01,000 --> 00:07:03,000
- [Groaning]
+00:07:22,000 --> 00:07:24,000
+What should I do?
 
 145
-00:07:03,000 --> 00:07:05,000
- I can't
+00:07:24,000 --> 00:07:26,000
+I can't do it
 
 146
-00:07:05,000 --> 00:07:07,000
- I'll try
+00:07:26,000 --> 00:07:32,000
+I can't be Srigala
 
 147
-00:07:07,000 --> 00:07:09,000
- Oferita, sit!
+00:07:32,000 --> 00:07:36,000
+[Music]
 
 148
-00:07:09,000 --> 00:07:11,000
- [Music]
+00:07:36,000 --> 00:07:38,000
+[Groaning]
 
 149
-00:07:11,000 --> 00:07:13,000
- [Groaning]
+00:07:38,000 --> 00:07:48,000
+[Music]
 
 150
-00:07:13,000 --> 00:07:14,000
- What?
+00:07:48,000 --> 00:07:50,000
+It's time
 
 151
-00:07:14,000 --> 00:07:16,000
- I'll try again
+00:07:50,000 --> 00:07:56,000
+[Music]
 
 152
-00:07:16,000 --> 00:07:18,000
- Oferita, shut up!
+00:07:56,000 --> 00:08:00,000
+My body
 
 153
-00:07:18,000 --> 00:07:20,000
- [Music]
+00:08:00,000 --> 00:08:02,000
+It's all painful
 
 154
-00:07:20,000 --> 00:07:22,000
- [Groaning]
+00:08:02,000 --> 00:08:04,000
+Hang in there
 
 155
-00:07:22,000 --> 00:07:24,000
- What should I do?
+00:08:04,000 --> 00:08:06,000
+It seems your wound is not too bad
 
 156
-00:07:24,000 --> 00:07:26,000
- I can't do it
+00:08:06,000 --> 00:08:08,000
+You should just rest
 
 157
-00:07:26,000 --> 00:07:28,000
- I can't be Srigala
+00:08:08,000 --> 00:08:10,000
+And don't think too much
 
 158
-00:07:28,000 --> 00:07:30,000
- I can't be Srigala
+00:08:10,000 --> 00:08:12,000
+All of this
 
 159
-00:07:30,000 --> 00:07:32,000
- I can't be Srigala
+00:08:12,000 --> 00:08:14,000
+Because of Srigala
 
 160
-00:07:32,000 --> 00:07:34,000
- [Music]
+00:08:14,000 --> 00:08:16,000
+We can't just be quiet
 
 161
-00:07:34,000 --> 00:07:36,000
- [Music]
+00:08:16,000 --> 00:08:18,000
+We have to discuss it
 
 162
-00:07:36,000 --> 00:07:38,000
- [Groaning]
+00:08:18,000 --> 00:08:20,000
+If not
 
 163
-00:07:38,000 --> 00:07:40,000
- [Music]
+00:08:20,000 --> 00:08:22,000
+There will be other victims
 
 164
-00:07:40,000 --> 00:07:42,000
- [Music]
+00:08:22,000 --> 00:08:24,000
+But how?
 
 165
-00:07:42,000 --> 00:07:44,000
- [Music]
+00:08:24,000 --> 00:08:26,000
+What about Srigala?
 
 166
-00:07:44,000 --> 00:07:46,000
- [Music]
+00:08:26,000 --> 00:08:28,000
+Listen to me
 
 167
-00:07:46,000 --> 00:07:48,000
- [Music]
+00:08:28,000 --> 00:08:30,000
+I am a good butcher
 
 168
-00:07:48,000 --> 00:07:50,000
- It's time
+00:08:30,000 --> 00:08:32,000
+And I know
 
 169
-00:07:50,000 --> 00:07:52,000
- [Music]
+00:08:32,000 --> 00:08:34,000
+How to defeat Srigala
 
 170
-00:07:52,000 --> 00:07:54,000
- [Music]
+00:08:34,000 --> 00:08:36,000
+Srigala is afraid of fire
 
 171
-00:07:54,000 --> 00:07:56,000
- [Music]
+00:08:36,000 --> 00:08:38,000
+And if we attack him
 
 172
-00:07:56,000 --> 00:07:58,000
- My body
+00:08:38,000 --> 00:08:42,000
+And I burn him with eternal fire
 
 173
-00:07:58,000 --> 00:08:00,000
- My body
+00:08:42,000 --> 00:08:46,000
+Which comes from my butcher's axe
 
 174
-00:08:00,000 --> 00:08:02,000
- It's all painful
+00:08:46,000 --> 00:08:48,000
+Then he will die
 
 175
-00:08:02,000 --> 00:08:04,000
- Hang in there
+00:08:48,000 --> 00:08:50,000
+That's right
 
 176
-00:08:04,000 --> 00:08:06,000
- It seems your wound is not too bad
+00:08:50,000 --> 00:08:52,000
+We should gather men
 
 177
-00:08:06,000 --> 00:08:08,000
- You should just rest
+00:08:52,000 --> 00:08:54,000
+And burn him
 
 178
-00:08:08,000 --> 00:08:10,000
- And don't think too much
+00:08:54,000 --> 00:08:56,000
+Okay
 
 179
-00:08:10,000 --> 00:08:12,000
- All of this
+00:08:56,000 --> 00:09:10,000
+[Many people talking]
 
 180
-00:08:12,000 --> 00:08:14,000
- Because of Srigala
+00:09:10,000 --> 00:09:14,000
+[Music]
 
 181
-00:08:14,000 --> 00:08:16,000
- We can't just be quiet
+00:09:14,000 --> 00:09:20,000
+[Many people talking]
 
 182
-00:08:16,000 --> 00:08:18,000
- We have to discuss it
+00:09:20,000 --> 00:09:22,000
+Any more?
 
 183
-00:08:18,000 --> 00:08:20,000
- If not
+00:09:22,000 --> 00:09:32,880
+I think it's over
 
 184
-00:08:20,000 --> 00:08:22,000
- There will be other victims
+00:09:32,880 --> 00:09:34,160
+Let's go to the toilet
 
 185
-00:08:22,000 --> 00:08:24,000
- But how?
+00:09:34,160 --> 00:09:36,160
+I want to go too
 
 186
-00:08:24,000 --> 00:08:26,000
- What about Srigala?
+00:09:36,160 --> 00:09:38,160
+Me too
 
 187
-00:08:26,000 --> 00:08:28,000
- Listen to me
+00:09:38,160 --> 00:09:41,600
+I want to go too
 
 188
-00:08:28,000 --> 00:08:30,000
- I am a good butcher
+00:09:41,600 --> 00:09:48,320
+Uh we can't go there
 
 189
-00:08:30,000 --> 00:08:32,000
- And I know
+00:09:48,320 --> 00:09:50,320
+I'm so tired
 
 190
-00:08:32,000 --> 00:08:34,000
- How to defeat Srigala
+00:09:50,320 --> 00:09:52,320
+I want to go to the toilet
 
 191
-00:08:34,000 --> 00:08:36,000
- Srigala is afraid of fire
+00:09:52,320 --> 00:09:54,320
+I'm so tired
 
 192
-00:08:36,000 --> 00:08:38,000
- And if we attack him
+00:09:54,320 --> 00:09:56,320
+I want to go to the toilet
 
 193
-00:08:38,000 --> 00:08:40,000
- And I burn him with eternal fire
+00:09:56,320 --> 00:09:58,320
+Calm down
 
 194
-00:08:40,000 --> 00:08:42,000
- And I burn him with eternal fire
+00:09:58,320 --> 00:10:00,320
+It's better to be calm than being in a daze
 
 195
-00:08:42,000 --> 00:08:44,000
- Which comes from my butcher's axe
+00:10:00,320 --> 00:10:10,320
+It's getting closer
 
 196
-00:08:44,000 --> 00:08:46,000
- Which comes from my butcher's axe
+00:10:10,320 --> 00:10:24,320
+Oh yeah, I just remembered that the magic mirror is very sharp
 
 197
-00:08:46,000 --> 00:08:48,000
- Then he will die
+00:10:24,320 --> 00:10:28,320
+After that, he knows where we are
 
 198
-00:08:48,000 --> 00:08:50,000
- That's right
+00:10:28,320 --> 00:10:30,320
+Really?
 
 199
-00:08:50,000 --> 00:08:52,000
- We should gather men
+00:10:30,320 --> 00:10:56,320
+Help!
 
 200
-00:08:52,000 --> 00:08:54,000
- And burn him
+00:10:56,320 --> 00:10:58,320
+Oh my god
 
 201
-00:08:54,000 --> 00:08:56,000
- Okay
+00:10:58,320 --> 00:11:04,320
+Are you ready, Rita?
 
 202
-00:08:56,000 --> 00:08:58,000
- [Many people talking]
+00:11:04,320 --> 00:11:06,320
+I don't know
 
 203
-00:08:58,000 --> 00:09:00,000
- [Many people talking]
+00:11:06,320 --> 00:11:08,320
+Happy birthday
 
 204
-00:09:00,000 --> 00:09:02,000
- [Many people talking]
+00:11:08,320 --> 00:11:12,320
+Rita, what if he's a ghost?
 
 205
-00:09:02,000 --> 00:09:04,000
- [Many people talking]
+00:11:12,320 --> 00:11:14,320
+What about my parents?
 
 206
-00:09:04,000 --> 00:09:06,000
- [Many people talking]
+00:11:14,320 --> 00:11:16,320
+I don't know
 
 207
-00:09:06,000 --> 00:09:08,000
- [Many people talking]
+00:11:16,320 --> 00:11:18,320
+I'll look for another one
 
 208
-00:09:08,000 --> 00:09:10,000
- [Many people talking]
+00:11:18,320 --> 00:11:20,320
+Wait, let's hide first
 
 209
-00:09:10,000 --> 00:09:12,000
- [Music]
+00:11:20,320 --> 00:11:24,320
+How do we hide?
 
 210
-00:09:12,000 --> 00:09:14,000
- [Music]
+00:11:24,320 --> 00:11:26,320
+Someone's down there
 
 211
-00:09:14,000 --> 00:09:16,000
- [Many people talking]
+00:11:26,320 --> 00:11:28,320
+Let's go
 
 212
-00:09:16,000 --> 00:09:18,000
- [Many people talking]
+00:11:28,320 --> 00:11:58,320
+[Ghosts]
 
 213
-00:09:18,000 --> 00:09:20,000
- [Many people talking]
+00:11:58,320 --> 00:12:00,320
+I'm scared
 
 214
-00:09:20,000 --> 00:09:22,000
- Any more?
+00:12:00,320 --> 00:12:02,320
+Calm down, honey
 
 215
-00:09:22,000 --> 00:09:32,880
- I think it's over
+00:12:02,320 --> 00:12:06,320
+Actually, a ghost can be a good pet
 
 216
-00:09:32,880 --> 00:09:34,160
- Let's go to the toilet
+00:12:06,320 --> 00:12:10,320
+As long as you can touch its nose
 
 217
-00:09:34,160 --> 00:09:36,160
- I want to go too
+00:12:10,320 --> 00:12:20,320
+[Ghosts]
 
 218
-00:09:36,160 --> 00:09:38,160
- Me too
+00:12:20,320 --> 00:12:22,320
+My dad said
 
 219
-00:09:38,160 --> 00:09:41,600
- I want to go too
+00:12:22,320 --> 00:12:26,320
+If you want to pet a ghost, you have to touch its nose
 
 220
-00:09:41,600 --> 00:09:48,320
- Uh we can't go there
+00:12:26,320 --> 00:12:28,320
+What?
 
 221
-00:09:48,320 --> 00:09:50,320
- I'm so tired
+00:12:28,320 --> 00:12:30,320
+Don't be ridiculous
 
 222
-00:09:50,320 --> 00:09:52,320
- I want to go to the toilet
+00:12:30,320 --> 00:12:32,320
+Yes
 
 223
-00:09:52,320 --> 00:09:54,320
- I'm so tired
+00:12:32,320 --> 00:12:34,320
+Hold it, Rita
 
 224
-00:09:54,320 --> 00:09:56,320
- I want to go to the toilet
+00:12:34,320 --> 00:12:36,320
+Are you crazy?
 
 225
-00:09:56,320 --> 00:09:58,320
- Calm down
+00:12:36,320 --> 00:12:38,320
+Just hold it
 
 226
-00:09:58,320 --> 00:10:00,320
- It's better to be calm than being in a daze
+00:12:38,320 --> 00:12:40,320
+Don't be ridiculous
 
 227
-00:10:00,320 --> 00:10:10,320
- It's getting closer
+00:12:40,320 --> 00:12:48,320
+What are you doing?
 
 228
-00:10:10,320 --> 00:10:24,320
- Oh yeah, I just remembered that the magic mirror is very sharp
+00:12:48,320 --> 00:13:40,320
+[Ghosts]
 
 229
-00:10:24,320 --> 00:10:28,320
- After that, he knows where we are
+00:13:40,320 --> 00:13:42,320
+It's a real ghost
 
 230
-00:10:28,320 --> 00:10:30,320
- Really?
+00:13:42,320 --> 00:13:44,320
+Yes, we have a ghost
 
 231
-00:10:30,320 --> 00:10:32,320
- Help!
+00:13:44,320 --> 00:13:46,320
+It's scary
 
 232
-00:10:32,320 --> 00:10:56,320
- Help!
+00:13:46,320 --> 00:13:48,320
+I want to try
 
 233
-00:10:56,320 --> 00:10:58,320
- Oh my god
+00:13:48,320 --> 00:14:00,320
+[Ghosts]
 
 234
-00:10:58,320 --> 00:11:04,320
- Are you ready, Rita?
+00:14:00,320 --> 00:14:02,320
+I'll look for another one
 
 235
-00:11:04,320 --> 00:11:06,320
- I don't know
+00:14:02,320 --> 00:14:06,320
+[Ghosts]
 
 236
-00:11:06,320 --> 00:11:08,320
- Happy birthday
+00:14:06,320 --> 00:14:08,320
+I'll go
 
 237
-00:11:08,320 --> 00:11:12,320
- Rita, what if he's a ghost?
+00:14:08,320 --> 00:14:10,320
+[Ghosts]
 
 238
-00:11:12,320 --> 00:11:14,320
- What about my parents?
+00:14:10,320 --> 00:14:12,320
+I want to touch it
 
 239
-00:11:14,320 --> 00:11:16,320
- I don't know
+00:14:12,320 --> 00:14:16,320
+[Ghosts]
 
 240
-00:11:16,320 --> 00:11:18,320
- I'll look for another one
+00:14:16,320 --> 00:14:25,520
+Now, I will try some music!
 
 241
-00:11:18,320 --> 00:11:20,320
- Wait, let's hide first
+00:14:25,520 --> 00:14:38,000
+One, two, now stay still!
 
 242
-00:11:20,320 --> 00:11:24,320
- How do we hide?
+00:14:38,720 --> 00:14:42,720
+Yeah! We're the champions!
 
 243
-00:11:24,320 --> 00:11:26,320
- Someone's down there
+00:14:42,720 --> 00:14:44,720
+One, two, three!
 
 244
-00:11:26,320 --> 00:11:28,320
- Let's go
+00:14:44,720 --> 00:14:46,720
+We're the champions!
 
 245
-00:11:28,320 --> 00:11:42,320
- [Ghosts]
+00:14:46,720 --> 00:14:50,720
+Yeah!
 
 246
-00:11:42,320 --> 00:11:58,320
- [Ghosts]
+00:14:50,720 --> 00:15:04,720
+Let's burn that monster!
 
 247
-00:11:58,320 --> 00:12:00,320
- I'm scared
+00:15:04,720 --> 00:15:06,720
+Hey, Panji, get out!
 
 248
-00:12:00,320 --> 00:12:02,320
- Calm down, honey
+00:15:06,720 --> 00:15:08,720
+Panji, get out!
 
 249
-00:12:02,320 --> 00:12:06,320
- Actually, a ghost can be a good pet
+00:15:08,720 --> 00:15:10,720
+Get out!
 
 250
-00:12:06,320 --> 00:12:10,320
- As long as you can touch its nose
+00:15:10,720 --> 00:15:12,720
+Panji, what's going on?
 
 251
-00:12:10,320 --> 00:12:20,320
- [Ghosts]
+00:15:12,720 --> 00:15:14,720
+Panji, get out!
 
 252
-00:12:20,320 --> 00:12:22,320
- My dad said
+00:15:14,720 --> 00:15:16,720
+Get out!
 
 253
-00:12:22,320 --> 00:12:26,320
- If you want to pet a ghost, you have to touch its nose
+00:15:16,720 --> 00:15:20,720
+Panji, get out!
 
 254
-00:12:26,320 --> 00:12:28,320
- What?
+00:15:20,720 --> 00:15:22,720
+Panji, you can't be a monster!
 
 255
-00:12:28,320 --> 00:12:30,320
- Don't be ridiculous
+00:15:22,720 --> 00:15:24,720
+You can't get out!
 
 256
-00:12:30,320 --> 00:12:32,320
- Yes
+00:15:24,720 --> 00:15:30,720
+Panji, get out!
 
 257
-00:12:32,320 --> 00:12:34,320
- Hold it, Rita
+00:15:34,720 --> 00:15:36,720
+Professor Adebar,
 
 258
-00:12:34,320 --> 00:12:36,320
- Are you crazy?
+00:15:36,720 --> 00:15:38,720
+What do you want?
 
 259
-00:12:36,320 --> 00:12:38,320
- Just hold it
+00:15:38,720 --> 00:15:42,720
+I want you to come to my house.
 
 260
-00:12:38,320 --> 00:12:40,320
- Don't be ridiculous
+00:15:42,720 --> 00:15:50,720
+Why would I go there, Professor?
 
 261
-00:12:40,320 --> 00:12:42,320
- What are you doing?
+00:15:50,720 --> 00:15:56,720
+Until now,
 
 262
-00:12:42,320 --> 00:12:48,320
- What are you doing?
+00:15:56,720 --> 00:16:00,720
+Vega and his friends haven't returned.
 
 263
-00:12:48,320 --> 00:13:04,320
- [Ghosts]
+00:16:00,720 --> 00:16:02,720
+And this is what worries me.
 
 264
-00:13:04,320 --> 00:13:24,320
- [Ghosts]
+00:16:02,720 --> 00:16:06,720
+You know how I am.
 
 265
-00:13:24,320 --> 00:13:40,320
- [Ghosts]
+00:16:06,720 --> 00:16:12,720
+I'm afraid Vega and his friends will have a problem there.
 
 266
-00:13:40,320 --> 00:13:42,320
- It's a real ghost
+00:16:12,720 --> 00:16:14,720
+But why should I, Professor?
 
 267
-00:13:42,320 --> 00:13:44,320
- Yes, we have a ghost
+00:16:14,720 --> 00:16:16,720
+Why don't you just hold the reins?
 
 268
-00:13:44,320 --> 00:13:46,320
- It's scary
+00:16:16,720 --> 00:16:20,720
+Or Professor Yasmin, or Professor Raki?
 
 269
-00:13:46,320 --> 00:13:48,320
- I want to try
+00:16:20,720 --> 00:16:24,720
+You know that I've never liked Panji.
 
 270
-00:13:48,320 --> 00:14:00,320
- [Ghosts]
+00:16:24,720 --> 00:16:26,720
+He's a weirdo.
 
 271
-00:14:00,320 --> 00:14:02,320
- I'll look for another one
+00:16:26,720 --> 00:16:30,720
+I know.
 
 272
-00:14:02,320 --> 00:14:04,320
- [Ghosts]
+00:16:30,720 --> 00:16:32,720
+You're the only one who can go there, Professor.
 
 273
-00:14:04,320 --> 00:14:06,320
- [Ghosts]
+00:16:32,720 --> 00:16:34,720
+Because the other professors,
 
 274
-00:14:06,320 --> 00:14:08,320
- I'll go
+00:16:34,720 --> 00:16:38,720
+Megantara, Yasmin, Agni, and Titan,
 
 275
-00:14:08,320 --> 00:14:10,320
- [Ghosts]
+00:16:38,720 --> 00:16:42,720
+They have other tasks for the kids.
 
 276
-00:14:10,320 --> 00:14:12,320
- I want to touch it
+00:16:42,720 --> 00:16:46,720
+And one more thing,
 
 277
-00:14:12,320 --> 00:14:14,320
- [Ghosts]
+00:16:46,720 --> 00:16:50,720
+You're the only one who can hurt Panji.
 
 278
-00:14:14,320 --> 00:14:16,320
- [Ghosts]
+00:16:50,720 --> 00:16:55,720
+What do you think, Professor?
 
 279
-00:14:16,320 --> 00:14:25,520
- Now, I will try some music!
+00:16:55,720 --> 00:16:57,720
+Are you ready?
 
 280
-00:14:25,520 --> 00:14:38,000
- One, two, now stay still!
+00:16:57,720 --> 00:16:59,720
+Yes.
 
 281
-00:14:38,720 --> 00:14:42,720
- Yeah! We're the champions!
+00:16:59,720 --> 00:17:05,720
+Whatever you say, Professor.
 
 282
-00:14:42,720 --> 00:14:44,720
- One, two, three!
+00:17:05,720 --> 00:17:07,720
+I will do it.
 
 283
-00:14:44,720 --> 00:14:46,720
- We're the champions!
+00:17:07,720 --> 00:17:16,720
+I'll count to three.
 
 284
-00:14:46,720 --> 00:14:48,720
- Yeah!
+00:17:16,720 --> 00:17:18,720
+If you don't come out, I'll slam the door.
 
 285
-00:14:48,720 --> 00:14:50,720
- Yeah!
+00:17:18,720 --> 00:17:20,720
+Huh?
 
 286
-00:14:50,720 --> 00:14:52,720
- Let's burn that monster!
+00:17:20,720 --> 00:17:22,720
+Where is this?
 
 287
-00:14:52,720 --> 00:14:54,720
- Let's burn that monster!
+00:17:22,720 --> 00:17:24,720
+Everyone's waiting for me to come out.
 
 288
-00:14:54,720 --> 00:14:56,720
- Let's burn that monster!
+00:17:24,720 --> 00:17:32,720
+I'm scared.
 
 289
-00:14:56,720 --> 00:14:58,720
- Let's burn that monster!
+00:17:32,720 --> 00:17:34,720
+One.
 
 290
-00:14:58,720 --> 00:15:00,720
- Let's burn that monster!
+00:17:34,720 --> 00:17:39,720
+Two.
 
 291
-00:15:00,720 --> 00:15:02,720
- Let's burn that monster!
+00:17:39,720 --> 00:17:45,720
+Three.
 
 292
-00:15:02,720 --> 00:15:04,720
- Let's burn that monster!
+00:17:45,720 --> 00:17:57,720
+Go back there.
 
 293
-00:15:04,720 --> 00:15:06,720
- Hey, Panji, get out!
+00:17:57,720 --> 00:17:59,720
+Run!
 
 294
-00:15:06,720 --> 00:15:08,720
- Panji, get out!
+00:17:59,720 --> 00:18:01,720
+Let's chase them.
 
 295
-00:15:08,720 --> 00:15:10,720
- Get out!
+00:18:01,720 --> 00:18:09,720
+Don't run!
 
 296
-00:15:10,720 --> 00:15:12,720
- Panji, what's going on?
+00:18:09,720 --> 00:18:13,720
+Let's go.
 
 297
-00:15:12,720 --> 00:15:14,720
- Panji, get out!
+00:18:13,720 --> 00:18:19,720
+Be careful.
 
 298
-00:15:14,720 --> 00:15:16,720
- Get out!
+00:18:21,720 --> 00:18:23,720
+Don't run!
 
 299
-00:15:16,720 --> 00:15:18,720
- Panji, get out!
+00:18:23,720 --> 00:18:25,720
+Where do you think you're going?
 
 300
-00:15:18,720 --> 00:15:20,720
- Panji, get out!
+00:18:25,720 --> 00:18:28,720
+Let's go.
 
 301
-00:15:20,720 --> 00:15:22,720
- Panji, you can't be a monster!
+00:18:28,720 --> 00:18:32,720
+Where are you going?
 
 302
-00:15:22,720 --> 00:15:24,720
- You can't get out!
+00:18:32,720 --> 00:18:36,720
+Just burn them.
 
 303
-00:15:24,720 --> 00:15:26,720
- Panji, get out!
+00:18:36,720 --> 00:18:38,720
+Let's go.
 
 304
-00:15:26,720 --> 00:15:28,720
- Panji, get out!
+00:18:38,720 --> 00:18:40,720
+Burn them.
 
 305
-00:15:28,720 --> 00:15:30,720
- Panji, get out!
+00:18:40,720 --> 00:18:48,720
+Don't burn them!
 
 306
-00:15:34,720 --> 00:15:36,720
- Professor Adebar,
+00:18:48,720 --> 00:18:50,720
+That's a good story.
 
 307
-00:15:36,720 --> 00:15:38,720
- What do you want?
+00:18:50,720 --> 00:18:52,720
+This story is not bad.
 
 308
-00:15:38,720 --> 00:15:42,720
- I want you to come to my house.
+00:18:52,720 --> 00:18:57,720
+There's no good story.
 
 309
-00:15:42,720 --> 00:15:50,720
- Why would I go there, Professor?
+00:18:57,720 --> 00:18:59,720
+Let's burn them.
 
 310
-00:15:50,720 --> 00:15:56,720
- Until now,
+00:18:59,720 --> 00:19:03,720
+Is he really a good person?
 
 311
-00:15:56,720 --> 00:16:00,720
- Vega and his friends haven't returned.
+00:19:03,720 --> 00:19:05,720
+He's a good person. / We don't know.
 
 312
-00:16:00,720 --> 00:16:02,720
- And this is what worries me.
+00:19:05,720 --> 00:19:08,720
+Let's run away.
 
 313
-00:16:02,720 --> 00:16:06,720
- You know how I am.
+00:19:08,720 --> 00:19:10,720
+I agree.
 
 314
-00:16:06,720 --> 00:16:12,720
- I'm afraid Vega and his friends will have a problem there.
+00:19:10,720 --> 00:19:12,720
+Let's run away.
 
 315
-00:16:12,720 --> 00:16:14,720
- But why should I, Professor?
+00:19:12,720 --> 00:19:14,720
+We should wait for this story.
 
 316
-00:16:14,720 --> 00:16:16,720
- Why don't you just hold the reins?
+00:19:14,720 --> 00:19:16,720
+Let's go.
 
 317
-00:16:16,720 --> 00:16:20,720
- Or Professor Yasmin, or Professor Raki?
+00:19:16,720 --> 00:19:18,720
+We should wait for this story.
 
 318
-00:16:20,720 --> 00:16:24,720
- You know that I've never liked Panji.
+00:19:18,720 --> 00:19:20,720
+What if something happens to us?
 
 319
-00:16:24,720 --> 00:16:26,720
- He's a weirdo.
+00:19:20,720 --> 00:19:23,720
+We won't be able to live.
 
 320
-00:16:26,720 --> 00:16:30,720
- I know.
+00:19:23,720 --> 00:19:25,720
+Let's go.
 
 321
-00:16:30,720 --> 00:16:32,720
- You're the only one who can go there, Professor.
+00:19:25,720 --> 00:19:27,720
+It's quite far.
 
 322
-00:16:32,720 --> 00:16:34,720
- Because the other professors,
+00:19:27,720 --> 00:19:29,720
+Let's just fight them.
 
 323
-00:16:34,720 --> 00:16:38,720
- Megantara, Yasmin, Agni, and Titan,
+00:19:29,720 --> 00:19:31,720
+How?
 
 324
-00:16:38,720 --> 00:16:42,720
- They have other tasks for the kids.
+00:19:31,720 --> 00:19:33,720
+Just run.
 
 325
-00:16:42,720 --> 00:16:46,720
- And one more thing,
+00:19:33,720 --> 00:19:39,720
+Burn them.
 
 326
-00:16:46,720 --> 00:16:50,720
- You're the only one who can hurt Panji.
+00:19:39,720 --> 00:19:41,720
+Let's run.
 
 327
-00:16:50,720 --> 00:16:55,720
- What do you think, Professor?
+00:19:41,720 --> 00:19:57,720
+Don't let them get away.
 
 328
-00:16:55,720 --> 00:16:57,720
- Are you ready?
+00:19:57,720 --> 00:20:00,720
+People.
 
 329
-00:16:57,720 --> 00:16:59,720
- Yes.
+00:20:00,720 --> 00:20:02,720
+Don't be afraid to attack those kids.
 
 330
-00:16:59,720 --> 00:17:05,720
- Whatever you say, Professor.
+00:20:02,720 --> 00:20:06,720
+They're evil.
 
 331
-00:17:05,720 --> 00:17:07,720
- I will do it.
+00:20:06,720 --> 00:20:07,720
+No.
 
 332
-00:17:07,720 --> 00:17:16,720
- I'll count to three.
+00:20:07,720 --> 00:20:09,720
+That's a lie.
 
 333
-00:17:16,720 --> 00:17:18,720
- If you don't come out, I'll slam the door.
+00:20:09,720 --> 00:20:11,720
+It's true.
 
 334
-00:17:18,720 --> 00:17:20,720
- Huh?
+00:20:11,720 --> 00:20:18,720
+He's evil.
 
 335
-00:17:20,720 --> 00:17:22,720
- Where is this?
+00:20:18,720 --> 00:20:20,720
+You all are his followers.
 
 336
-00:17:22,720 --> 00:17:24,720
- Everyone's waiting for me to come out.
+00:20:20,720 --> 00:20:22,720
+You're a slanderer.
 
 337
-00:17:24,720 --> 00:17:26,720
- I'm scared.
+00:20:22,720 --> 00:20:24,720
+That's right.
 
 338
-00:17:26,720 --> 00:17:28,720
- I'm scared.
+00:20:24,720 --> 00:20:27,720
+People.
 
 339
-00:17:28,720 --> 00:17:30,720
- I'm scared.
+00:20:27,720 --> 00:20:29,720
+Don't believe him.
 
 340
-00:17:30,720 --> 00:17:32,720
- I'm scared.
+00:20:29,720 --> 00:20:36,720
+Kids.
 
 341
-00:17:32,720 --> 00:17:34,720
- One.
+00:20:36,720 --> 00:20:38,720
+Who believes you?
 
 342
-00:17:34,720 --> 00:17:39,720
- Two.
+00:20:38,720 --> 00:20:43,720
+People.
 
 343
-00:17:39,720 --> 00:17:45,720
- Three.
+00:20:43,720 --> 00:20:44,720
+Let's attack them.
 
 344
-00:17:45,720 --> 00:17:47,720
- Go back there.
+00:20:44,720 --> 00:20:46,720
+Let's solve this problem.
 
 345
-00:17:47,720 --> 00:17:52,720
- Go back there.
+00:20:46,720 --> 00:20:48,720
+Catch and burn those kids.
 
 346
-00:17:53,720 --> 00:17:55,720
- Go back there.
+00:20:48,720 --> 00:20:54,720
+Don't.
 
 347
-00:17:55,720 --> 00:17:57,720
- Go back there.
+00:20:54,720 --> 00:20:59,720
+Be a man.
 
 348
-00:17:57,720 --> 00:17:59,720
- Run!
+00:21:00,720 --> 00:21:02,720
+5 minutes later.
 
 349
-00:17:59,720 --> 00:18:01,720
- Let's chase them.
+00:21:02,720 --> 00:21:08,720
+We got caught.
 
 350
-00:18:01,720 --> 00:18:09,720
- Don't run!
+00:21:08,720 --> 00:21:10,720
+Five minutes.
 
 351
-00:18:09,720 --> 00:18:13,720
- Let's go.
+00:21:10,720 --> 00:21:11,720
+Five years.
 
 352
-00:18:13,720 --> 00:18:19,720
- Be careful.
+00:21:11,720 --> 00:21:12,720
+Don't be stupid.
 
 353
-00:18:21,720 --> 00:18:23,720
- Don't run!
+00:21:12,720 --> 00:21:14,720
+This can be a true story.
 
 354
-00:18:23,720 --> 00:18:25,720
- Where do you think you're going?
+00:21:14,720 --> 00:21:16,720
+We should pity them.
 
 355
-00:18:25,720 --> 00:18:28,720
- Let's go.
+00:21:16,720 --> 00:21:17,720
+Enough.
 
 356
-00:18:28,720 --> 00:18:32,720
- Where are you going?
+00:21:17,720 --> 00:21:19,720
+Let's talk later.
 
 357
-00:18:32,720 --> 00:18:36,720
- Just burn them.
+00:21:19,720 --> 00:21:23,720
+Let's go.
 
 358
-00:18:36,720 --> 00:18:38,720
- Let's go.
+00:21:28,720 --> 00:21:30,720
+Run.
 
 359
-00:18:38,720 --> 00:18:40,720
- Burn them.
+00:21:30,720 --> 00:21:32,720
+Where are we going?
 
 360
-00:18:40,720 --> 00:18:48,720
- Don't burn them!
+00:21:32,720 --> 00:21:39,720
+Let's hide in the well.
 
 361
-00:18:48,720 --> 00:18:50,720
- That's a good story.
+00:21:39,720 --> 00:21:43,720
+Let's go.
 
 362
-00:18:50,720 --> 00:18:52,720
- This story is not bad.
+00:21:43,720 --> 00:21:54,720
+It's so hard to find them.
 
 363
-00:18:52,720 --> 00:18:57,720
- There's no good story.
+00:21:55,720 --> 00:21:58,720
+Luckily, this is a good place.
 
 364
-00:18:57,720 --> 00:18:59,720
- Let's burn them.
+00:21:58,720 --> 00:22:02,720
+If not, I won't be able to sleep.
 
 365
-00:18:59,720 --> 00:19:03,720
- Is he really a good person?
+00:22:02,720 --> 00:22:05,720
+Don't be noisy.
 
 366
-00:19:03,720 --> 00:19:05,720
- He's a good person. / We don't know.
+00:22:05,720 --> 00:22:07,720
+They'll come here.
 
 367
-00:19:05,720 --> 00:19:08,720
- Let's run away.
+00:22:07,720 --> 00:22:09,720
+Before they come here.
 
 368
-00:19:08,720 --> 00:19:10,720
- I agree.
+00:22:09,720 --> 00:22:11,720
+Let's just hide.
 
 369
-00:19:10,720 --> 00:19:12,720
- Let's run away.
+00:22:11,720 --> 00:22:15,720
+How many branches are there?
 
 370
-00:19:12,720 --> 00:19:14,720
- We should wait for this story.
+00:22:15,720 --> 00:22:17,720
+Five minutes later.
 
 371
-00:19:14,720 --> 00:19:16,720
- Let's go.
+00:22:17,720 --> 00:22:35,720
+What's wrong?
 
 372
-00:19:16,720 --> 00:19:18,720
- We should wait for this story.
+00:22:35,720 --> 00:22:44,720
+I'm not afraid.
 
 373
-00:19:18,720 --> 00:19:20,720
- What if something happens to us?
+00:22:44,720 --> 00:22:46,720
+I won't let them destroy me.
 
 374
-00:19:20,720 --> 00:19:23,720
- We won't be able to live.
+00:22:46,720 --> 00:22:50,720
+Where are the kids?
 
 375
-00:19:23,720 --> 00:19:25,720
- Let's go.
+00:22:50,720 --> 00:22:52,720
+Everyone.
 
 376
-00:19:25,720 --> 00:19:27,720
- It's quite far.
+00:22:52,720 --> 00:22:54,720
+I told you.
 
 377
-00:19:27,720 --> 00:19:29,720
- Let's just fight them.
+00:22:54,720 --> 00:22:56,720
+They're the kids.
 
 378
-00:19:29,720 --> 00:19:31,720
- How?
+00:22:56,720 --> 00:22:58,720
+They're evil.
 
 379
-00:19:31,720 --> 00:19:33,720
- Just run.
+00:22:58,720 --> 00:23:00,720
+They made us stupid.
 
 380
-00:19:33,720 --> 00:19:37,720
- Burn them.
+00:23:00,720 --> 00:23:02,720
+We shouldn't waste our time.
 
 381
-00:19:37,720 --> 00:19:39,720
- Burn them.
+00:23:02,720 --> 00:23:04,720
+Let's chase them.
 
 382
-00:19:39,720 --> 00:19:41,720
- Let's run.
+00:23:04,720 --> 00:23:06,720
+Let's go.
 
 383
-00:19:41,720 --> 00:19:57,720
- Don't let them get away.
+00:23:06,720 --> 00:23:20,720
+I'm sure they're still here.
 
 384
-00:19:57,720 --> 00:20:00,720
- People.
+00:23:20,720 --> 00:23:23,720
+Let's look for them somewhere else.
 
 385
-00:20:00,720 --> 00:20:02,720
- Don't be afraid to attack those kids.
+00:23:23,720 --> 00:23:25,720
+Maybe they're not here.
 
 386
-00:20:02,720 --> 00:20:04,720
- They're evil.
+00:23:25,720 --> 00:23:27,720
+Let's look for them.
 
 387
-00:20:04,720 --> 00:20:06,720
- They're evil.
+00:23:27,720 --> 00:23:50,720
+Luckily, we're not caught.
 
 388
-00:20:06,720 --> 00:20:07,720
- No.
+00:23:50,720 --> 00:23:54,720
+If they're far away, let's go here.
 
 389
-00:20:07,720 --> 00:20:09,720
- That's a lie.
+00:23:54,720 --> 00:23:55,720
+Here.
 
 390
-00:20:09,720 --> 00:20:11,720
- It's true.
+00:23:55,720 --> 00:24:02,720
+Shh.
 
 391
-00:20:11,720 --> 00:20:13,720
- He's evil.
+00:24:02,720 --> 00:24:10,720
+They can be gone.
 
 392
-00:20:13,720 --> 00:20:18,720
- He's evil.
+00:24:10,720 --> 00:24:13,720
+Is that a sound?
 
 393
-00:20:18,720 --> 00:20:20,720
- You all are his followers.
+00:24:13,720 --> 00:24:14,720
+Yes.
 
 394
-00:20:20,720 --> 00:20:22,720
- You're a slanderer.
+00:24:14,720 --> 00:24:16,720
+I think the sound is coming from here.
 
 395
-00:20:22,720 --> 00:20:24,720
- That's right.
+00:24:16,720 --> 00:24:17,720
+Where?
 
 396
-00:20:24,720 --> 00:20:27,720
- People.
+00:24:17,720 --> 00:24:19,720
+I think it's coming from there.
 
 397
-00:20:27,720 --> 00:20:29,720
- Don't believe him.
+00:24:19,720 --> 00:24:21,720
+Let's go.
 
 398
-00:20:29,720 --> 00:20:36,720
- Kids.
+00:24:21,720 --> 00:24:23,720
+One, two, three.
 
 399
-00:20:36,720 --> 00:20:38,720
- Who believes you?
+00:24:23,720 --> 00:24:29,720
+You're going to pay for this.
 
 400
-00:20:38,720 --> 00:20:43,720
- People.
+00:24:29,720 --> 00:24:38,720
+Wait.
 
 401
-00:20:43,720 --> 00:20:44,720
- Let's attack them.
+00:24:38,720 --> 00:24:39,720
+Let me check.
 
 402
-00:20:44,720 --> 00:20:46,720
- Let's solve this problem.
+00:24:49,720 --> 00:24:51,720
+What's that?
 
 403
-00:20:46,720 --> 00:20:48,720
- Catch and burn those kids.
+00:24:51,720 --> 00:24:53,720
+"Police"
 
 404
-00:20:48,720 --> 00:20:54,720
- Don't.
+00:25:19,720 --> 00:25:21,720
+Let's go, Becky.
 
 405
-00:20:54,720 --> 00:20:59,720
- Be a man.
+00:25:21,720 --> 00:25:39,720
+You can't go anywhere.
 
 406
-00:21:00,720 --> 00:21:02,720
- 5 minutes later.
+00:25:47,720 --> 00:25:49,720
+Don't leave me, Becky.
 
 407
-00:21:02,720 --> 00:21:08,720
- We got caught.
+00:25:49,720 --> 00:25:51,720
+Let's go.
 
 408
-00:21:08,720 --> 00:21:10,720
- Five minutes.
+00:25:51,720 --> 00:26:08,720
+You can't escape this time.
 
 409
-00:21:10,720 --> 00:21:11,720
- Five years.
+00:26:08,720 --> 00:26:10,720
+"Police"
 
 410
-00:21:11,720 --> 00:21:12,720
- Don't be stupid.
+00:26:10,720 --> 00:26:21,720
+People.
 
 411
-00:21:12,720 --> 00:21:14,720
- This can be a true story.
+00:26:21,720 --> 00:26:23,720
+Listen to me.
 
 412
-00:21:14,720 --> 00:21:16,720
- We should pity them.
+00:26:23,720 --> 00:26:25,720
+I'm Angkara.
 
 413
-00:21:16,720 --> 00:21:17,720
- Enough.
+00:26:25,720 --> 00:26:28,720
+A good slayer.
 
 414
-00:21:17,720 --> 00:21:19,720
- Let's talk later.
+00:26:28,720 --> 00:26:31,720
+And now...
 
 415
-00:21:19,720 --> 00:21:21,720
- Let's go.
+00:26:31,720 --> 00:26:34,720
+I'm going to burn this evil tribe...
 
 416
-00:21:21,720 --> 00:21:23,720
- Let's go.
+00:26:34,720 --> 00:26:36,720
+with eternal fire.
 
 417
-00:21:28,720 --> 00:21:30,720
- Run.
+00:26:37,720 --> 00:26:39,720
+And as you know,
 
 418
-00:21:30,720 --> 00:21:32,720
- Where are we going?
+00:26:39,720 --> 00:26:42,720
+this eternal fire...
 
 419
-00:21:32,720 --> 00:21:39,720
- Let's hide in the well.
+00:26:42,720 --> 00:26:45,720
+can't be extinguished by the magic of people.
 
 420
-00:21:39,720 --> 00:21:41,720
- Let's go.
+00:26:45,720 --> 00:26:55,720
+Let me go.
 
 421
-00:21:41,720 --> 00:21:43,720
- Let's go.
+00:26:55,720 --> 00:27:07,720
+Let go of that witch.
 
 422
-00:21:43,720 --> 00:21:54,720
- It's so hard to find them.
+00:27:07,720 --> 00:27:10,720
+Don't burn it again.
 
 423
-00:21:55,720 --> 00:21:58,720
- Luckily, this is a good place.
+00:27:10,720 --> 00:27:12,720
+Let go of that witch.
 
 424
-00:21:58,720 --> 00:22:02,720
- If not, I won't be able to sleep.
+00:27:12,720 --> 00:27:15,720
+And now,
 
 425
-00:22:02,720 --> 00:22:05,720
- Don't be noisy.
+00:27:15,720 --> 00:27:18,720
+it's time for me to burn her.
 
 426
-00:22:05,720 --> 00:22:07,720
- They'll come here.
+00:27:18,720 --> 00:27:20,720
+No.
 
 427
-00:22:07,720 --> 00:22:09,720
- Before they come here.
+00:27:20,720 --> 00:27:28,720
+Let go of that witch.
 
 428
-00:22:09,720 --> 00:22:11,720
- Let's just hide.
+00:27:28,720 --> 00:27:30,720
+"Police"
 
 429
-00:22:11,720 --> 00:22:15,720
- How many branches are there?
+00:27:30,720 --> 00:27:45,720
+Let's go.
 
 430
-00:22:15,720 --> 00:22:17,720
- Five minutes later.
+00:27:46,720 --> 00:28:04,720
+Let go of that witch.
 
 431
-00:22:17,720 --> 00:22:35,720
- What's wrong?
+00:28:04,720 --> 00:28:23,720
+Feel this.
 
 432
-00:22:35,720 --> 00:22:42,720
- I'm not afraid.
+00:28:30,720 --> 00:28:32,720
+My friends,
 
 433
-00:22:42,720 --> 00:22:44,720
- I'm not afraid.
+00:28:32,720 --> 00:28:34,720
+now you can go.
 
 434
-00:22:44,720 --> 00:22:46,720
- I won't let them destroy me.
+00:28:34,720 --> 00:28:38,720
+Let me see the magic of this witch.
 
 435
-00:22:46,720 --> 00:22:50,720
- Where are the kids?
+00:28:38,720 --> 00:28:43,720
+Thank you, good slayer.
 
 436
-00:22:50,720 --> 00:22:52,720
- Everyone.
+00:28:43,720 --> 00:28:46,720
+Let's go home.
 
 437
-00:22:52,720 --> 00:22:54,720
- I told you.
+00:28:46,720 --> 00:28:48,720
+Let's go.
 
 438
-00:22:54,720 --> 00:22:56,720
- They're the kids.
+00:28:48,720 --> 00:28:50,720
+"Police"
 
 439
-00:22:56,720 --> 00:22:58,720
- They're evil.
+00:28:50,720 --> 00:28:58,720
+Let go of that witch.
 
 440
-00:22:58,720 --> 00:23:00,720
- They made us stupid.
+00:28:58,720 --> 00:29:07,720
+"Police"
 
 441
-00:23:00,720 --> 00:23:02,720
- We shouldn't waste our time.
+00:29:34,720 --> 00:29:36,720
+And now, the second task.
 
 442
-00:23:02,720 --> 00:23:04,720
- Let's chase them.
+00:29:36,720 --> 00:29:39,720
+Which is to bring you, Alva.
 
 443
-00:23:04,720 --> 00:23:06,720
- Let's go.
+00:29:39,720 --> 00:29:43,720
+I will give you to the eighth witch.
 
 444
-00:23:06,720 --> 00:23:20,720
- I'm sure they're still here.
+00:29:43,720 --> 00:29:46,720
+So that you will be consumed by her.
 
 445
-00:23:20,720 --> 00:23:23,720
- Let's look for them somewhere else.
+00:29:46,720 --> 00:29:51,720
+Let us go.
 
 446
-00:23:23,720 --> 00:23:25,720
- Maybe they're not here.
+00:29:52,720 --> 00:30:19,720
+"Police"
 
 447
-00:23:25,720 --> 00:23:27,720
- Let's look for them.
+00:30:19,720 --> 00:30:29,720
+Attack the green man.
 
 448
-00:23:27,720 --> 00:23:50,720
- Luckily, we're not caught.
+00:30:29,720 --> 00:30:33,720
+Okay.
 
 449
-00:23:50,720 --> 00:23:54,720
- If they're far away, let's go here.
+00:30:33,720 --> 00:30:38,720
+Three.
 
 450
-00:23:54,720 --> 00:23:55,720
- Here.
+00:30:38,720 --> 00:30:44,720
+Attack him.
 
 451
-00:23:55,720 --> 00:23:59,720
- Shh.
+00:30:44,720 --> 00:30:46,720
+"Police"
 
 452
-00:23:59,720 --> 00:24:02,720
- Shh.
+00:30:46,720 --> 00:31:10,720
+The witch is holding on.
 
 453
-00:24:02,720 --> 00:24:10,720
- They can be gone.
+00:31:10,720 --> 00:31:15,720
+Where is she?
 
 454
-00:24:10,720 --> 00:24:13,720
- Is that a sound?
+00:31:15,720 --> 00:31:17,720
+I'll go there.
 
 455
-00:24:13,720 --> 00:24:14,720
- Yes.
+00:31:17,720 --> 00:31:19,720
+Pavanam.
 
 456
-00:24:14,720 --> 00:24:16,720
- I think the sound is coming from here.
+00:31:19,720 --> 00:31:31,720
+Let me try.
 
 457
-00:24:16,720 --> 00:24:17,720
- Where?
+00:31:31,720 --> 00:31:33,720
+Don't cut the water.
 
 458
-00:24:17,720 --> 00:24:19,720
- I think it's coming from there.
+00:31:33,720 --> 00:31:35,720
+"Police"
 
 459
-00:24:19,720 --> 00:24:21,720
- Let's go.
+00:31:35,720 --> 00:31:52,720
+Let me try.
 
 460
-00:24:21,720 --> 00:24:23,720
- One, two, three.
+00:31:52,720 --> 00:31:55,720
+"Police"
 
 461
-00:24:23,720 --> 00:24:29,720
- You're going to pay for this.
+00:31:55,720 --> 00:32:00,720
+Hey, you.
 
 462
-00:24:29,720 --> 00:24:38,720
- Wait.
+00:32:00,720 --> 00:32:02,720
+You're being funny.
 
 463
-00:24:38,720 --> 00:24:39,720
- Let me check.
+00:32:02,720 --> 00:32:04,720
+Stop fighting.
 
 464
-00:24:49,720 --> 00:24:51,720
- What's that?
+00:32:04,720 --> 00:32:12,720
+Fire!
 
 465
-00:24:51,720 --> 00:24:53,720
- "Police"
+00:32:12,720 --> 00:32:24,720
+We will win.
 
 466
-00:25:19,720 --> 00:25:21,720
- Let's go, Becky.
+00:32:24,720 --> 00:32:26,720
+Just like what the professor said.
 
 467
-00:25:21,720 --> 00:25:39,720
- You can't go anywhere.
+00:32:26,720 --> 00:32:28,720
+We will win.
 
 468
-00:25:47,720 --> 00:25:49,720
- Don't leave me, Becky.
+00:32:28,720 --> 00:32:30,720
+Baby, baby.
 
 469
-00:25:49,720 --> 00:25:51,720
- Let's go.
+00:32:31,720 --> 00:32:33,720
+We will burn it.
 
 470
-00:25:51,720 --> 00:26:08,720
- You can't escape this time.
+00:32:33,720 --> 00:32:35,720
+Help!
 
 471
-00:26:08,720 --> 00:26:10,720
- "Police"
+00:32:35,720 --> 00:32:40,720
+The fire is so strong.
 
 472
-00:26:10,720 --> 00:26:21,720
- People.
+00:32:40,720 --> 00:32:42,720
+This is eternal fire.
 
 473
-00:26:21,720 --> 00:26:23,720
- Listen to me.
+00:32:42,720 --> 00:32:44,720
+It will not be extinguished.
 
 474
-00:26:23,720 --> 00:26:25,720
- I'm Angkara.
+00:32:44,720 --> 00:32:47,720
+What should we do?
 
 475
-00:26:25,720 --> 00:26:28,720
- A good slayer.
+00:32:47,720 --> 00:32:49,720
+Baby, hold on.
 
 476
-00:26:28,720 --> 00:26:31,720
- And now...
+00:32:49,720 --> 00:32:59,720
+Now, go back to your place.
 
 477
-00:26:31,720 --> 00:26:34,720
- I'm going to burn this evil tribe...
+00:32:59,720 --> 00:33:01,720
+Make sure you're safe.
 
 478
-00:26:34,720 --> 00:26:36,720
- with eternal fire.
+00:33:01,720 --> 00:33:03,720
+And bring the body here.
 
 479
-00:26:37,720 --> 00:26:39,720
- And as you know,
+00:33:03,720 --> 00:33:17,720
+"We can do it"
 
 480
-00:26:39,720 --> 00:26:42,720
- this eternal fire...
+00:33:17,720 --> 00:33:20,720
+Yes.
 
 481
-00:26:42,720 --> 00:26:45,720
- can't be extinguished by the magic of people.
+00:33:20,720 --> 00:33:24,720
+He can use the flashlight.
 
 482
-00:26:45,720 --> 00:26:55,720
- Let me go.
+00:33:24,720 --> 00:33:26,720
+He can go from there.
 
 483
-00:26:55,720 --> 00:27:02,720
- Let go of that witch.
+00:33:27,720 --> 00:33:29,720
+No way.
 
 484
-00:27:02,720 --> 00:27:04,720
- Let go of that witch.
+00:33:29,720 --> 00:33:31,720
+He can't talk.
 
 485
-00:27:04,720 --> 00:27:07,720
- Let go of that witch.
+00:33:31,720 --> 00:33:34,720
+You're right.
 
 486
-00:27:07,720 --> 00:27:10,720
- Don't burn it again.
+00:33:34,720 --> 00:33:37,720
+He has to move.
 
 487
-00:27:10,720 --> 00:27:12,720
- Let go of that witch.
+00:33:37,720 --> 00:33:41,720
+So, we have to change him to be Mr. Panji.
 
 488
-00:27:12,720 --> 00:27:15,720
- And now,
+00:33:41,720 --> 00:33:43,720
+But, how?
 
 489
-00:27:15,720 --> 00:27:18,720
- it's time for me to burn her.
+00:33:43,720 --> 00:33:44,720
+Yes.
 
 490
-00:27:18,720 --> 00:27:20,720
- No.
+00:33:44,720 --> 00:33:46,720
+He can't talk.
 
 491
-00:27:20,720 --> 00:27:26,720
- Let go of that witch.
+00:33:46,720 --> 00:33:50,720
+If he's exposed to the sun, we have to make him talk.
 
 492
-00:27:26,720 --> 00:27:28,720
- Let go of that witch.
+00:33:50,720 --> 00:33:52,720
+Make him talk?
 
 493
-00:27:28,720 --> 00:27:30,720
- "Police"
+00:33:52,720 --> 00:33:54,720
+No way.
 
 494
-00:27:30,720 --> 00:27:36,720
- Let's go.
+00:33:54,720 --> 00:33:58,720
+How can we make him talk?
 
 495
-00:27:36,720 --> 00:27:43,720
- Let's go.
+00:33:58,720 --> 00:34:00,720
+Well...
 
 496
-00:27:43,720 --> 00:27:45,720
- Let's go.
+00:34:00,720 --> 00:34:04,720
+We have to try.
 
 497
-00:27:46,720 --> 00:27:48,720
- Let go of that witch.
+00:34:04,720 --> 00:34:06,720
+Let's try to find a book.
 
 498
-00:27:48,720 --> 00:27:58,720
- Let go of that witch.
+00:34:06,720 --> 00:34:08,720
+How can we do it?
 
 499
-00:27:58,720 --> 00:28:00,720
- Let go of that witch.
+00:34:08,720 --> 00:34:10,720
+It's too long.
 
 500
-00:28:00,720 --> 00:28:02,720
- Let go of that witch.
+00:34:10,720 --> 00:34:14,720
+I can't read.
 
 501
-00:28:02,720 --> 00:28:04,720
- Let go of that witch.
+00:34:14,720 --> 00:34:16,720
+I know.
 
 502
-00:28:04,720 --> 00:28:23,720
- Feel this.
+00:34:16,720 --> 00:34:18,720
+I love you, Blacky.
 
 503
-00:28:30,720 --> 00:28:32,720
- My friends,
+00:34:18,720 --> 00:34:22,720
+Oh, right.
 
 504
-00:28:32,720 --> 00:28:34,720
- now you can go.
+00:34:22,720 --> 00:34:24,720
+I know how.
 
 505
-00:28:34,720 --> 00:28:38,720
- Let me see the magic of this witch.
+00:34:24,720 --> 00:34:26,720
+Wait a minute.
 
 506
-00:28:38,720 --> 00:28:43,720
- Thank you, good slayer.
+00:34:26,720 --> 00:34:32,720
+Putri Bintang!
 
 507
-00:28:43,720 --> 00:28:46,720
- Let's go home.
+00:34:32,720 --> 00:34:35,720
+Help me!
 
 508
-00:28:46,720 --> 00:28:48,720
- Let's go.
+00:34:35,720 --> 00:34:38,720
+I'm lost! Putri Bintang!
 
 509
-00:28:48,720 --> 00:28:50,720
- "Police"
+00:34:38,720 --> 00:34:55,720
+Putri Bintang!
 
 510
-00:28:50,720 --> 00:28:56,720
- Let go of that witch.
+00:34:55,720 --> 00:35:01,720
+Alva?
 
 511
-00:28:56,720 --> 00:28:58,720
- Let go of that witch.
+00:35:01,720 --> 00:35:09,720
+Alva, Plita, everyone.
 
 512
-00:28:58,720 --> 00:29:00,720
- "Police"
+00:35:09,720 --> 00:35:11,720
+How are you?
 
 513
-00:29:01,720 --> 00:29:03,720
- "Police"
+00:35:11,720 --> 00:35:13,720
+Alva!
 
 514
-00:29:03,720 --> 00:29:05,720
- "Police"
+00:35:13,720 --> 00:35:21,720
+There's fire.
 
 515
-00:29:05,720 --> 00:29:07,720
- "Police"
+00:35:21,720 --> 00:35:23,720
+Are you having fun?
 
 516
-00:29:34,720 --> 00:29:36,720
- And now, the second task.
+00:35:23,720 --> 00:35:25,720
+It's so fun.
 
 517
-00:29:36,720 --> 00:29:39,720
- Which is to bring you, Alva.
+00:35:25,720 --> 00:35:27,720
+It's not a fire.
 
 518
-00:29:39,720 --> 00:29:43,720
- I will give you to the eighth witch.
+00:35:27,720 --> 00:35:28,720
+It's a serigala.
 
 519
-00:29:43,720 --> 00:29:46,720
- So that you will be consumed by her.
+00:35:28,720 --> 00:35:31,720
+Serigala is me, a human.
 
 520
-00:29:46,720 --> 00:29:51,720
- Let us go.
+00:35:31,720 --> 00:35:33,720
+Oh, my God.
 
 521
-00:29:52,720 --> 00:29:54,720
- "Police"
+00:35:33,720 --> 00:35:35,720
+He's about to be burned.
 
 522
-00:30:17,720 --> 00:30:19,720
- "Police"
+00:35:35,720 --> 00:35:37,720
+I want to ask you for a favor.
 
 523
-00:30:19,720 --> 00:30:29,720
- Attack the green man.
+00:35:37,720 --> 00:35:39,720
+Can you make the sun appear?
 
 524
-00:30:29,720 --> 00:30:33,720
- Okay.
+00:35:39,720 --> 00:35:42,720
+If there's a sun, it will turn into a human.
 
 525
-00:30:33,720 --> 00:30:38,720
- Three.
+00:35:42,720 --> 00:35:51,720
+I want to go up. Can you do it?
 
 526
-00:30:38,720 --> 00:30:44,720
- Attack him.
+00:35:51,720 --> 00:35:57,720
+But don't take too long.
 
 527
-00:30:44,720 --> 00:30:46,720
- "Police"
+00:35:57,720 --> 00:35:59,720
+I'm sorry, Blacky.
 
 528
-00:30:46,720 --> 00:31:10,720
- The witch is holding on.
+00:35:59,720 --> 00:36:03,720
+I'm so sorry, guys.
 
 529
-00:31:10,720 --> 00:31:13,720
- Where is she?
+00:36:03,720 --> 00:36:06,720
+I can't help you.
 
 530
-00:31:13,720 --> 00:31:15,720
- Where is she?
+00:36:06,720 --> 00:36:09,720
+Because I don't know the sun.
 
 531
-00:31:15,720 --> 00:31:17,720
- I'll go there.
+00:36:09,720 --> 00:36:11,720
+It appears in the morning.
 
 532
-00:31:17,720 --> 00:31:19,720
- Pavanam.
+00:36:11,720 --> 00:36:13,720
+If I'm here at night...
 
 533
-00:31:19,720 --> 00:31:31,720
- Let me try.
+00:36:13,720 --> 00:36:15,720
+Oh, no.
 
 534
-00:31:31,720 --> 00:31:33,720
- Don't cut the water.
+00:36:15,720 --> 00:36:16,720
+We can't.
 
 535
-00:31:33,720 --> 00:31:35,720
- "Police"
+00:36:16,720 --> 00:36:18,720
+Can you make it?
 
 536
-00:31:35,720 --> 00:31:50,720
- Let me try.
+00:36:18,720 --> 00:36:23,720
+How?
 
 537
-00:31:50,720 --> 00:31:52,720
- Let me try.
+00:36:23,720 --> 00:36:28,720
+Oh, I know.
 
 538
-00:31:52,720 --> 00:31:55,720
- "Police"
+00:36:28,720 --> 00:36:31,720
+I can call my friends, the moon and the stars,
 
 539
-00:31:55,720 --> 00:32:00,720
- Hey, you.
+00:36:31,720 --> 00:36:33,720
+to hide.
 
 540
-00:32:00,720 --> 00:32:02,720
- You're being funny.
+00:36:33,720 --> 00:36:36,720
+So, the sun can come earlier.
 
 541
-00:32:02,720 --> 00:32:04,720
- Stop fighting.
+00:36:36,720 --> 00:36:38,720
+Okay, let's do it.
 
 542
-00:32:04,720 --> 00:32:12,720
- Fire!
+00:36:38,720 --> 00:36:40,720
+Let's do it.
 
 543
-00:32:12,720 --> 00:32:24,720
- We will win.
+00:36:40,720 --> 00:36:42,720
+Okay.
 
 544
-00:32:24,720 --> 00:32:26,720
- Just like what the professor said.
+00:36:42,720 --> 00:36:49,720
+Friends, the moon and the stars,
 
 545
-00:32:26,720 --> 00:32:28,720
- We will win.
+00:36:49,720 --> 00:36:51,720
+let's hide.
 
 546
-00:32:28,720 --> 00:32:30,720
- Baby, baby.
+00:36:51,720 --> 00:36:53,720
+So, the sun can come earlier.
 
 547
-00:32:31,720 --> 00:32:33,720
- We will burn it.
+00:36:53,720 --> 00:36:55,720
+Okay.
 
 548
-00:32:33,720 --> 00:32:35,720
- Help!
+00:36:55,720 --> 00:37:21,720
+It's morning.
 
 549
-00:32:35,720 --> 00:32:40,720
- The fire is so strong.
+00:37:21,720 --> 00:37:27,720
+Mr. Baji, you have to go there.
 
 550
-00:32:40,720 --> 00:32:42,720
- This is eternal fire.
+00:37:27,720 --> 00:37:30,720
+You have to use the mantap to move.
 
 551
-00:32:42,720 --> 00:32:44,720
- It will not be extinguished.
+00:37:30,720 --> 00:37:33,720
+Move.
 
 552
-00:32:44,720 --> 00:32:47,720
- What should we do?
+00:37:33,720 --> 00:37:39,720
+How's the result, Angkar?
 
 553
-00:32:47,720 --> 00:32:49,720
- Baby, hold on.
+00:37:39,720 --> 00:37:47,720
+I'm afraid of being caught by the wrong friends.
 
 554
-00:32:49,720 --> 00:32:59,720
- Now, go back to your place.
+00:37:47,720 --> 00:37:49,720
+And they make me feel guilty.
 
 555
-00:32:59,720 --> 00:33:01,720
- Make sure you're safe.
+00:37:49,720 --> 00:37:51,720
+I'm so nervous.
 
 556
-00:33:01,720 --> 00:33:03,720
- And bring the body here.
+00:37:51,720 --> 00:37:53,720
+Angkar!
 
 557
-00:33:03,720 --> 00:33:07,720
- "We can do it"
+00:37:53,720 --> 00:37:55,720
+Why are you quiet?
 
 558
-00:33:07,720 --> 00:33:17,720
- "We can do it"
+00:37:55,720 --> 00:37:57,720
+Angkar!
 
 559
-00:33:17,720 --> 00:33:20,720
- Yes.
+00:37:57,720 --> 00:37:59,720
+Answer me!
 
 560
-00:33:20,720 --> 00:33:24,720
- He can use the flashlight.
+00:37:59,720 --> 00:38:01,720
+Sir.
 
 561
-00:33:24,720 --> 00:33:26,720
- He can go from there.
+00:38:01,720 --> 00:38:03,720
+This time,
 
 562
-00:33:27,720 --> 00:33:29,720
- No way.
+00:38:03,720 --> 00:38:05,720
+the Mahadasyat is successful.
 
 563
-00:33:29,720 --> 00:33:31,720
- He can't talk.
+00:38:05,720 --> 00:38:08,720
+I've managed to provoke all the villagers...
 
 564
-00:33:31,720 --> 00:33:34,720
- You're right.
+00:38:08,720 --> 00:38:10,720
+to burn all of those.
 
 565
-00:33:34,720 --> 00:33:37,720
- He has to move.
+00:38:10,720 --> 00:38:13,720
+And now, all of those...
 
 566
-00:33:37,720 --> 00:33:41,720
- So, we have to change him to be Mr. Panji.
+00:38:13,720 --> 00:38:16,720
+have become grilled meat, sir.
 
 567
-00:33:41,720 --> 00:33:43,720
- But, how?
+00:38:17,720 --> 00:38:19,720
+(The fire is burning)
 
 568
-00:33:43,720 --> 00:33:44,720
- Yes.
+00:38:19,720 --> 00:38:31,720
+Did you see it yourself when it died?
 
 569
-00:33:44,720 --> 00:33:46,720
- He can't talk.
+00:38:31,720 --> 00:38:35,720
+No, sir.
 
 570
-00:33:46,720 --> 00:33:50,720
- If he's exposed to the sun, we have to make him talk.
+00:38:35,720 --> 00:38:37,720
+But...
 
 571
-00:33:50,720 --> 00:33:52,720
- Make him talk?
+00:38:37,720 --> 00:38:39,720
+it can't be successful.
 
 572
-00:33:52,720 --> 00:33:54,720
- No way.
+00:38:39,720 --> 00:38:42,720
+Because I've burned it with eternal fire.
 
 573
-00:33:54,720 --> 00:33:58,720
- How can we make him talk?
+00:38:42,720 --> 00:38:45,720
+And eternal fire can't be extinguished, sir.
 
 574
-00:33:58,720 --> 00:34:00,720
- Well...
+00:38:45,720 --> 00:38:47,720
+Idiot!
 
 575
-00:34:00,720 --> 00:34:04,720
- We have to try.
+00:38:47,720 --> 00:38:51,720
+Now, go back to your place.
 
 576
-00:34:04,720 --> 00:34:06,720
- Let's try to find a book.
+00:38:51,720 --> 00:38:53,720
+Make sure you stay there.
 
 577
-00:34:06,720 --> 00:34:08,720
- How can we do it?
+00:38:53,720 --> 00:38:56,720
+And bring the body here.
 
 578
-00:34:08,720 --> 00:34:10,720
- It's too long.
+00:38:56,720 --> 00:39:00,720
+Yes, sir.
 
 579
-00:34:10,720 --> 00:34:12,720
- I can't read.
+00:39:00,720 --> 00:39:01,720
+Okay, sir.
 
 580
-00:34:12,720 --> 00:34:14,720
- I can't read.
+00:39:01,720 --> 00:39:03,720
+Wait, sir.
 
 581
-00:34:14,720 --> 00:34:16,720
- I know.
+00:39:04,720 --> 00:39:06,720
+(The fire is burning)
 
 582
-00:34:16,720 --> 00:34:18,720
- I love you, Blacky.
+00:39:06,720 --> 00:39:32,720
+Sir.
 
 583
-00:34:18,720 --> 00:34:22,720
- Oh, right.
+00:39:32,720 --> 00:39:34,720
+Mom.
 
 584
-00:34:22,720 --> 00:34:24,720
- I know how.
+00:39:34,720 --> 00:39:38,720
+Dad.
 
 585
-00:34:24,720 --> 00:34:26,720
- Wait a minute.
+00:39:38,720 --> 00:39:40,720
+Mom.
 
 586
-00:34:26,720 --> 00:34:32,720
- Putri Bintang!
+00:39:40,720 --> 00:39:45,720
+Sir.
 
 587
-00:34:32,720 --> 00:34:35,720
- Help me!
+00:39:45,720 --> 00:39:48,720
+Why are they here?
 
 588
-00:34:35,720 --> 00:34:38,720
- I'm lost! Putri Bintang!
+00:39:48,720 --> 00:39:50,720
+How is it?
 
 589
-00:34:38,720 --> 00:34:43,720
- Putri Bintang!
+00:39:50,720 --> 00:39:57,720
+The story...
 
 590
-00:34:44,720 --> 00:34:47,720
- Putri Bintang!
+00:39:57,720 --> 00:40:00,720
+is very sad.
 
 591
-00:34:47,720 --> 00:34:55,720
- Putri Bintang!
+00:40:01,720 --> 00:40:03,720
+(The story is sad)
 
 592
-00:34:55,720 --> 00:35:01,720
- Alva?
+00:40:03,720 --> 00:40:05,720
+In the past,
 
 593
-00:35:01,720 --> 00:35:09,720
- Alva, Plita, everyone.
+00:40:05,720 --> 00:40:08,720
+I was the son of the 8th Prince.
 
 594
-00:35:09,720 --> 00:35:11,720
- How are you?
+00:40:08,720 --> 00:40:11,720
+The 8th Prince...
 
 595
-00:35:11,720 --> 00:35:13,720
- Alva!
+00:40:11,720 --> 00:40:13,720
+taught me...
 
 596
-00:35:13,720 --> 00:35:21,720
- There's fire.
+00:40:13,720 --> 00:40:16,720
+to be a cruel and cruel ruler...
 
 597
-00:35:21,720 --> 00:35:23,720
- Are you having fun?
+00:40:16,720 --> 00:40:19,720
+who hurt anyone...
 
 598
-00:35:23,720 --> 00:35:25,720
- It's so fun.
+00:40:19,720 --> 00:40:21,720
+without looking back.
 
 599
-00:35:25,720 --> 00:35:27,720
- It's not a fire.
+00:40:22,720 --> 00:40:27,720
+(The 8th Prince)
 
 600
-00:35:27,720 --> 00:35:28,720
- It's a serigala.
+00:40:53,720 --> 00:40:55,720
+Spa.
 
 601
-00:35:28,720 --> 00:35:31,720
- Serigala is me, a human.
+00:40:55,720 --> 00:40:57,720
+Kill him.
 
 602
-00:35:31,720 --> 00:35:33,720
- Oh, my God.
+00:40:57,720 --> 00:40:59,720
+(The 8th Prince)
 
 603
-00:35:33,720 --> 00:35:35,720
- He's about to be burned.
+00:40:59,720 --> 00:41:26,720
+Good.
 
 604
-00:35:35,720 --> 00:35:37,720
- I want to ask you for a favor.
+00:41:27,720 --> 00:41:29,720
+(The 8th Prince)
 
 605
-00:35:37,720 --> 00:35:39,720
- Can you make the sun appear?
+00:41:29,720 --> 00:41:34,720
+But in the meantime,
 
 606
-00:35:39,720 --> 00:35:42,720
- If there's a sun, it will turn into a human.
+00:41:34,720 --> 00:41:37,720
+I have two friends.
 
 607
-00:35:42,720 --> 00:35:51,720
- I want to go up. Can you do it?
+00:41:37,720 --> 00:41:42,720
+Those two friends are your parents.
 
 608
-00:35:51,720 --> 00:35:57,720
- But don't take too long.
+00:41:42,720 --> 00:41:45,720
+Gama and Aquila.
 
 609
-00:35:57,720 --> 00:35:59,720
- I'm sorry, Blacky.
+00:41:45,720 --> 00:41:53,720
+Actually,
 
 610
-00:35:59,720 --> 00:36:03,720
- I'm so sorry, guys.
+00:41:54,720 --> 00:41:58,720
+they often advised me to leave the 8th Prince.
 
 611
-00:36:03,720 --> 00:36:06,720
- I can't help you.
+00:41:58,720 --> 00:42:03,720
+But I didn't want to.
 
 612
-00:36:06,720 --> 00:36:09,720
- Because I don't know the sun.
+00:42:03,720 --> 00:42:08,720
+Because I wanted to be strong.
 
 613
-00:36:09,720 --> 00:36:11,720
- It appears in the morning.
+00:42:08,720 --> 00:42:15,720
+One day,
 
 614
-00:36:11,720 --> 00:36:13,720
- If I'm here at night...
+00:42:15,720 --> 00:42:19,720
+I was given a task by the 8th Prince.
 
 615
-00:36:13,720 --> 00:36:15,720
- Oh, no.
+00:42:19,720 --> 00:42:21,720
+But I failed.
 
 616
-00:36:15,720 --> 00:36:16,720
- We can't.
+00:42:21,720 --> 00:42:23,720
+When he knew my failure,
 
 617
-00:36:16,720 --> 00:36:18,720
- Can you make it?
+00:42:24,720 --> 00:42:26,720
+he was furious.
 
 618
-00:36:18,720 --> 00:36:21,720
- How?
+00:42:26,720 --> 00:42:28,720
+He wanted to kill me.
 
 619
-00:36:21,720 --> 00:36:23,720
- How?
+00:42:28,720 --> 00:42:37,720
+But suddenly,
 
 620
-00:36:23,720 --> 00:36:28,720
- Oh, I know.
+00:42:37,720 --> 00:42:40,720
+someone threw a smoke bomb...
 
 621
-00:36:28,720 --> 00:36:31,720
- I can call my friends, the moon and the stars,
+00:42:40,720 --> 00:42:44,720
+and killed me.
 
 622
-00:36:31,720 --> 00:36:33,720
- to hide.
+00:42:44,720 --> 00:42:51,720
+That person is Gama.
 
 623
-00:36:33,720 --> 00:36:36,720
- So, the sun can come earlier.
+00:42:52,720 --> 00:42:54,720
+(The 8th Prince)
 
 624
-00:36:36,720 --> 00:36:38,720
- Okay, let's do it.
+00:42:54,720 --> 00:42:58,720
+In the end, I decided...
 
 625
-00:36:38,720 --> 00:36:40,720
- Let's do it.
+00:42:58,720 --> 00:43:01,720
+to leave the 8th Prince.
 
 626
-00:36:40,720 --> 00:36:42,720
- Okay.
+00:43:01,720 --> 00:43:05,720
+But the 8th Prince didn't listen.
 
 627
-00:36:42,720 --> 00:36:49,720
- Friends, the moon and the stars,
+00:43:05,720 --> 00:43:07,720
+He was very cruel.
 
 628
-00:36:49,720 --> 00:36:51,720
- let's hide.
+00:43:07,720 --> 00:43:10,720
+He was very angry with Gama.
 
 629
-00:36:51,720 --> 00:36:53,720
- So, the sun can come earlier.
+00:43:10,720 --> 00:43:12,720
+And he insisted...
 
 630
-00:36:53,720 --> 00:36:55,720
- Okay.
+00:43:12,720 --> 00:43:16,720
+that he must destroy Gama and Aquila.
 
 631
-00:36:55,720 --> 00:37:17,720
- It's morning.
+00:43:20,720 --> 00:44:25,720
+(The 8th Prince)
 
 632
-00:37:17,720 --> 00:37:19,720
- It's morning.
+00:44:25,720 --> 00:44:34,720
+So, the way I talk in my book...
 
 633
-00:37:19,720 --> 00:37:21,720
- It's morning.
+00:44:34,720 --> 00:44:37,720
+is just a dream?
 
 634
-00:37:21,720 --> 00:37:27,720
- Mr. Baji, you have to go there.
+00:44:38,720 --> 00:44:53,720
+We can do it.
 
 635
-00:37:27,720 --> 00:37:30,720
- You have to use the mantap to move.
+00:45:02,720 --> 00:45:04,720
+Why?
 
 636
-00:37:30,720 --> 00:37:33,720
- Move.
+00:45:04,720 --> 00:45:07,720
+Only my parents were killed.
 
 637
-00:37:33,720 --> 00:37:39,720
- How's the result, Angkar?
+00:45:07,720 --> 00:45:09,720
+Why didn't I?
 
 638
-00:37:39,720 --> 00:37:47,720
- I'm afraid of being caught by the wrong friends.
+00:45:09,720 --> 00:45:11,720
+You mean...
 
 639
-00:37:47,720 --> 00:37:49,720
- And they make me feel guilty.
+00:45:11,720 --> 00:45:15,720
+he didn't kill you and let you live?
 
 640
-00:37:49,720 --> 00:37:51,720
- I'm so nervous.
+00:45:15,720 --> 00:45:24,720
+No one knows about that.
 
 641
-00:37:51,720 --> 00:37:53,720
- Angkar!
+00:45:24,720 --> 00:45:28,720
+But one thing is clear.
 
 642
-00:37:53,720 --> 00:37:55,720
- Why are you quiet?
+00:45:28,720 --> 00:45:32,720
+When the 8th Prince attacked you...
 
 643
-00:37:55,720 --> 00:37:57,720
- Angkar!
+00:45:32,720 --> 00:45:35,720
+a power appeared in you...
 
 644
-00:37:57,720 --> 00:37:59,720
- Answer me!
+00:45:35,720 --> 00:45:39,720
+and made the 8th Prince go berserk.
 
 645
-00:37:59,720 --> 00:38:01,720
- Sir.
+00:45:39,720 --> 00:45:42,720
+When he tried to attack you again...
 
 646
-00:38:01,720 --> 00:38:03,720
- This time,
+00:45:42,720 --> 00:45:44,720
+he realized...
 
 647
-00:38:03,720 --> 00:38:05,720
- the Mahadasyat is successful.
+00:45:44,720 --> 00:45:48,720
+that he had lost all his power.
 
 648
-00:38:05,720 --> 00:38:08,720
- I've managed to provoke all the villagers...
+00:45:49,720 --> 00:46:15,720
+(The 8th Prince)
 
 649
-00:38:08,720 --> 00:38:10,720
- to burn all of those.
+00:46:41,720 --> 00:46:43,720
+My magic power is gone.
 
 650
-00:38:10,720 --> 00:38:13,720
- And now, all of those...
+00:46:43,720 --> 00:46:45,720
+This is impossible.
 
 651
-00:38:13,720 --> 00:38:16,720
- have become grilled meat, sir.
+00:46:45,720 --> 00:46:47,720
+It's impossible.
 
 652
-00:38:17,720 --> 00:38:19,720
- (The fire is burning)
+00:46:47,720 --> 00:46:49,720
+My magic power is gone.
 
 653
-00:38:19,720 --> 00:38:31,720
- Did you see it yourself when it died?
+00:46:49,720 --> 00:47:02,720
+Then, why did the 8th Prince go berserk...
 
 654
-00:38:31,720 --> 00:38:35,720
- No, sir.
+00:47:02,720 --> 00:47:04,720
+when he attacked me?
 
 655
-00:38:35,720 --> 00:38:37,720
- But...
+00:47:04,720 --> 00:47:08,720
+According to Aldebaran...
 
 656
-00:38:37,720 --> 00:38:39,720
- it can't be successful.
+00:47:10,720 --> 00:47:13,720
+that was a love spell.
 
 657
-00:38:39,720 --> 00:38:42,720
- Because I've burned it with eternal fire.
+00:47:13,720 --> 00:47:19,720
+Your parents created that spell.
 
 658
-00:38:42,720 --> 00:38:45,720
- And eternal fire can't be extinguished, sir.
+00:47:19,720 --> 00:47:27,720
+You know Aldebaran?
 
 659
-00:38:45,720 --> 00:38:47,720
- Idiot!
+00:47:27,720 --> 00:47:29,720
+Yes.
 
 660
-00:38:47,720 --> 00:38:51,720
- Now, go back to your place.
+00:47:29,720 --> 00:47:34,720
+He was the teacher of the 5 guardians of the magic.
 
 661
-00:38:51,720 --> 00:38:53,720
- Make sure you stay there.
+00:47:34,720 --> 00:47:38,720
+When I was still in school...
 
 662
-00:38:53,720 --> 00:38:56,720
- And bring the body here.
+00:47:38,720 --> 00:47:40,720
+he was a magician.
 
 663
-00:38:56,720 --> 00:39:00,720
- Yes, sir.
+00:47:40,720 --> 00:47:46,720
+Now he's a schoolmaster.
 
 664
-00:39:00,720 --> 00:39:01,720
- Okay, sir.
+00:47:46,720 --> 00:47:49,720
+Oh.
 
 665
-00:39:01,720 --> 00:39:03,720
- Wait, sir.
+00:47:49,720 --> 00:47:52,720
+So, he was a magician?
 
 666
-00:39:04,720 --> 00:39:06,720
- (The fire is burning)
+00:47:52,720 --> 00:47:59,720
+He was half my age.
 
 667
-00:39:06,720 --> 00:39:32,720
- Sir.
+00:47:59,720 --> 00:48:04,720
+So, that means...
 
 668
-00:39:32,720 --> 00:39:34,720
- Mom.
+00:48:04,720 --> 00:48:06,720
+you're really old.
 
 669
-00:39:34,720 --> 00:39:38,720
- Dad.
+00:48:06,720 --> 00:48:08,720
+(The 8th Prince)
 
 670
-00:39:38,720 --> 00:39:40,720
- Mom.
+00:48:08,720 --> 00:48:13,720
+You're so naughty.
 
 671
-00:39:40,720 --> 00:39:45,720
- Sir.
+00:48:13,720 --> 00:48:16,720
+Do you want to hear the rest?
 
 672
-00:39:45,720 --> 00:39:48,720
- Why are they here?
+00:48:16,720 --> 00:48:20,720
+Of course.
 
 673
-00:39:48,720 --> 00:39:50,720
- How is it?
+00:48:20,720 --> 00:48:22,720
+Don't worry.
 
 674
-00:39:50,720 --> 00:39:57,720
- The story...
+00:48:22,720 --> 00:48:28,720
+The 8th Prince who has lost all his power...
 
 675
-00:39:57,720 --> 00:40:00,720
- is very sad.
+00:48:28,720 --> 00:48:32,720
+is trying to find a way...
 
 676
-00:40:01,720 --> 00:40:03,720
- (The story is sad)
+00:48:32,720 --> 00:48:35,720
+to get back all his power.
 
 677
-00:40:03,720 --> 00:40:05,720
- In the past,
+00:48:36,720 --> 00:48:40,720
+He's looking for all kinds of sources.
 
 678
-00:40:05,720 --> 00:40:08,720
- I was the son of the 8th Prince.
+00:48:40,720 --> 00:48:43,720
+And finally he realizes...
 
 679
-00:40:08,720 --> 00:40:11,720
- The 8th Prince...
+00:48:43,720 --> 00:48:45,720
+that there's a way...
 
 680
-00:40:11,720 --> 00:40:13,720
- taught me...
+00:48:45,720 --> 00:48:49,720
+to get back all his power.
 
 681
-00:40:13,720 --> 00:40:16,720
- to be a cruel and cruel ruler...
+00:48:49,720 --> 00:48:52,720
+That is with blood...
 
 682
-00:40:16,720 --> 00:40:19,720
- who hurt anyone...
+00:48:52,720 --> 00:48:54,720
+tears...
 
 683
-00:40:19,720 --> 00:40:21,720
- without looking back.
+00:48:54,720 --> 00:48:57,720
+and Alva's sweat.
 
 684
-00:40:22,720 --> 00:40:24,720
- (The 8th Prince)
+00:49:02,720 --> 00:49:06,720
+Then, why are my parents here?
 
 685
-00:40:25,720 --> 00:40:27,720
- (The 8th Prince)
+00:49:06,720 --> 00:49:15,720
+Gamma, I'm lost.
 
 686
-00:40:53,720 --> 00:40:55,720
- Spa.
+00:49:15,720 --> 00:49:17,720
+I'm lost.
 
 687
-00:40:55,720 --> 00:40:57,720
- Kill him.
+00:49:17,720 --> 00:49:19,720
+Gamma.
 
 688
-00:40:57,720 --> 00:40:59,720
- (The 8th Prince)
+00:49:19,720 --> 00:49:21,720
+Gamma, I'm lost.
 
 689
-00:40:59,720 --> 00:41:26,720
- Good.
+00:49:21,720 --> 00:49:26,720
+I'm the chain of life.
 
 690
-00:41:27,720 --> 00:41:29,720
- (The 8th Prince)
+00:49:27,720 --> 00:49:33,720
+Put me in the chamber.
 
 691
-00:41:29,720 --> 00:41:34,720
- But in the meantime,
+00:49:34,720 --> 00:49:36,720
+(The 8th Prince)
 
 692
-00:41:34,720 --> 00:41:37,720
- I have two friends.
+00:50:02,720 --> 00:50:04,720
+I thought...
 
 693
-00:41:37,720 --> 00:41:42,720
- Those two friends are your parents.
+00:50:04,720 --> 00:50:08,720
+this chain of life could heal them.
 
 694
-00:41:42,720 --> 00:41:45,720
- Gama and Aquila.
+00:50:08,720 --> 00:50:12,720
+But because their wounds are too bad...
 
 695
-00:41:45,720 --> 00:41:53,720
- Actually,
+00:50:12,720 --> 00:50:15,720
+they can't be healed, Alva.
 
 696
-00:41:54,720 --> 00:41:58,720
- they often advised me to leave the 8th Prince.
+00:50:15,720 --> 00:50:19,720
+They can only sleep...
 
 697
-00:41:58,720 --> 00:42:03,720
- But I didn't want to.
+00:50:19,720 --> 00:50:22,720
+and can't wake up again.
 
 698
-00:42:03,720 --> 00:42:08,720
- Because I wanted to be strong.
+00:50:22,720 --> 00:50:25,720
+This chain of life...
 
 699
-00:42:08,720 --> 00:42:15,720
- One day,
+00:50:25,720 --> 00:50:28,720
+only supports their lives.
 
 700
-00:42:15,720 --> 00:42:19,720
- I was given a task by the 8th Prince.
+00:50:29,720 --> 00:50:32,720
+As far as I know, they can only get married.
 
 701
-00:42:19,720 --> 00:42:21,720
- But I failed.
+00:50:32,720 --> 00:50:35,720
+So, my parents...
 
 702
-00:42:21,720 --> 00:42:23,720
- When he knew my failure,
+00:50:35,720 --> 00:50:38,720
+only came through a dream?
 
 703
-00:42:24,720 --> 00:42:26,720
- he was furious.
+00:50:38,720 --> 00:50:50,720
+You said they appeared in your dream?
 
 704
-00:42:26,720 --> 00:42:28,720
- He wanted to kill me.
+00:50:50,720 --> 00:50:52,720
+Yes.
 
 705
-00:42:28,720 --> 00:42:37,720
- But suddenly,
+00:50:52,720 --> 00:50:54,720
+No wonder.
 
 706
-00:42:37,720 --> 00:42:40,720
- someone threw a smoke bomb...
+00:50:54,720 --> 00:50:57,720
+They told me to pray...
 
 707
-00:42:40,720 --> 00:42:44,720
- and killed me.
+00:50:57,720 --> 00:51:00,720
+and cheer me up.
 
 708
-00:42:44,720 --> 00:42:51,720
- That person is Gama.
+00:51:00,720 --> 00:51:02,720
+Alva.
 
 709
-00:42:52,720 --> 00:42:54,720
- (The 8th Prince)
+00:51:02,720 --> 00:51:05,720
+If Gamma and I appear in your dream...
 
 710
-00:42:54,720 --> 00:42:58,720
- In the end, I decided...
+00:51:05,720 --> 00:51:08,720
+please ask them...
 
 711
-00:42:58,720 --> 00:43:01,720
- to leave the 8th Prince.
+00:51:08,720 --> 00:51:11,720
+what I should do...
 
 712
-00:43:01,720 --> 00:43:05,720
- But the 8th Prince didn't listen.
+00:51:11,720 --> 00:51:14,720
+to wake them up.
 
 713
-00:43:05,720 --> 00:43:07,720
- He was very cruel.
+00:51:14,720 --> 00:51:17,720
+Okay.
 
 714
-00:43:07,720 --> 00:43:10,720
- He was very angry with Gama.
+00:51:17,720 --> 00:51:19,720
+I'll be there.
 
 715
-00:43:10,720 --> 00:43:12,720
- And he insisted...
+00:51:19,720 --> 00:51:24,720
+Okay.
 
 716
-00:43:12,720 --> 00:43:16,720
- that he must destroy Gama and Aquila.
+00:51:26,720 --> 00:51:28,720
+I'll be going now.
 
 717
-00:43:20,720 --> 00:43:22,720
- (The 8th Prince)
+00:51:28,720 --> 00:51:31,720
+I have unfinished business.
 
 718
-00:43:23,720 --> 00:43:25,720
- (The 8th Prince)
+00:51:31,720 --> 00:51:32,720
+Sir.
 
 719
-00:43:25,720 --> 00:43:34,720
- (The 8th Prince)
+00:51:32,720 --> 00:51:34,720
+Where are you going?
 
 720
-00:43:34,720 --> 00:43:40,720
- (The 8th Prince)
+00:51:34,720 --> 00:51:36,720
+I want to meet Ankara.
 
 721
-00:43:40,720 --> 00:43:45,720
- (The 8th Prince)
+00:51:36,720 --> 00:51:38,720
+I'm curious about him.
 
 722
-00:43:46,720 --> 00:43:48,720
- (The 8th Prince)
+00:51:38,720 --> 00:51:40,720
+Why is he attacking me?
 
 723
-00:43:48,720 --> 00:43:54,720
- (The 8th Prince)
+00:51:40,720 --> 00:51:42,720
+We used to be friends.
 
 724
-00:43:54,720 --> 00:44:03,720
- (The 8th Prince)
+00:51:42,720 --> 00:51:44,720
+Don't meet him.
 
 725
-00:44:03,720 --> 00:44:11,720
- (The 8th Prince)
+00:51:44,720 --> 00:51:48,720
+He's the 8th Prince's son.
 
 726
-00:44:14,720 --> 00:44:16,720
- (The 8th Prince)
+00:51:48,720 --> 00:51:51,720
+Ankara is the 8th Prince's son?
 
 727
-00:44:16,720 --> 00:44:21,720
- (The 8th Prince)
+00:51:51,720 --> 00:51:52,720
+Yes.
 
 728
-00:44:21,720 --> 00:44:25,720
- (The 8th Prince)
+00:51:52,720 --> 00:51:55,720
+They're getting stronger.
 
 729
-00:44:25,720 --> 00:44:34,720
- So, the way I talk in my book...
+00:51:55,720 --> 00:51:57,720
+Because they got...
 
 730
-00:44:34,720 --> 00:44:37,720
- is just a dream?
+00:51:57,720 --> 00:52:00,720
+my tears, sweat, and blood.
 
 731
-00:44:38,720 --> 00:44:43,720
- We can do it.
+00:52:00,720 --> 00:52:21,720
+All of them must have been burned to ashes.
 
 732
-00:44:43,720 --> 00:44:53,720
- We can do it.
+00:52:21,720 --> 00:52:22,720
+But...
 
 733
-00:45:02,720 --> 00:45:04,720
- Why?
+00:52:22,720 --> 00:52:25,720
+I have to go back to Ankara.
 
 734
-00:45:04,720 --> 00:45:07,720
- Only my parents were killed.
+00:52:25,720 --> 00:52:28,720
+(Gamma's dream)
 
 735
-00:45:07,720 --> 00:45:09,720
- Why didn't I?
+00:52:28,720 --> 00:52:54,720
+I'm going to war.
 
 736
-00:45:09,720 --> 00:45:11,720
- You mean...
+00:52:54,720 --> 00:52:57,720
+The 8th Prince won't be able to differentiate.
 
 737
-00:45:11,720 --> 00:45:15,720
- he didn't kill you and let you live?
+00:52:57,720 --> 00:53:10,720
+Look.
 
 738
-00:45:15,720 --> 00:45:24,720
- No one knows about that.
+00:53:10,720 --> 00:53:12,720
+This is his body.
 
 739
-00:45:24,720 --> 00:45:28,720
- But one thing is clear.
+00:53:12,720 --> 00:53:15,720
+He's already become a hero.
 
 740
-00:45:28,720 --> 00:45:32,720
- When the 8th Prince attacked you...
+00:53:23,720 --> 00:53:25,720
+I'm dead.
 
 741
-00:45:32,720 --> 00:45:35,720
- a power appeared in you...
+00:53:25,720 --> 00:53:28,720
+Maybe it's not my destiny.
 
 742
-00:45:35,720 --> 00:45:39,720
- and made the 8th Prince go berserk.
+00:53:28,720 --> 00:53:30,720
+I'm going there.
 
 743
-00:45:39,720 --> 00:45:42,720
- When he tried to attack you again...
+00:53:30,720 --> 00:53:32,720
+I won't let him get away with it.
 
 744
-00:45:42,720 --> 00:45:44,720
- he realized...
+00:53:32,720 --> 00:53:44,720
+I finally defeated him.
 
 745
-00:45:44,720 --> 00:45:48,720
- that he had lost all his power.
+00:53:51,720 --> 00:53:53,720
+What's wrong with you?
 
 746
-00:45:49,720 --> 00:45:51,720
- (The 8th Prince)
+00:53:53,720 --> 00:53:59,720
+Who ordered you to kill him?
 
 747
-00:45:51,720 --> 00:45:55,720
- (The 8th Prince)
+00:53:59,720 --> 00:54:01,720
+I'm sorry, sir.
 
 748
-00:45:55,720 --> 00:46:05,720
- (The 8th Prince)
+00:54:20,720 --> 00:54:22,720
+Guys, someone's coming.
 
 749
-00:46:05,720 --> 00:46:12,720
- (The 8th Prince)
+00:54:22,720 --> 00:54:24,720
+Don't tell me...
 
 750
-00:46:13,720 --> 00:46:15,720
- (The 8th Prince)
+00:54:24,720 --> 00:54:26,720
+it's Professor Ankara.
 
 751
-00:46:41,720 --> 00:46:43,720
- My magic power is gone.
+00:54:26,720 --> 00:54:30,720
+As soon as the door is opened,
 
 752
-00:46:43,720 --> 00:46:45,720
- This is impossible.
+00:54:30,720 --> 00:54:33,720
+we'll attack Professor Ankara with the TV.
 
 753
-00:46:45,720 --> 00:46:47,720
- It's impossible.
+00:54:33,720 --> 00:54:34,720
+Okay?
 
 754
-00:46:47,720 --> 00:46:49,720
- My magic power is gone.
+00:54:34,720 --> 00:54:35,720
+Okay.
 
 755
-00:46:49,720 --> 00:47:02,720
- Then, why did the 8th Prince go berserk...
+00:54:35,720 --> 00:54:36,720
+Let's go.
 
 756
-00:47:02,720 --> 00:47:04,720
- when he attacked me?
+00:54:36,720 --> 00:54:37,720
+Let's go in.
 
 757
-00:47:04,720 --> 00:47:08,720
- According to Aldebaran...
+00:54:37,720 --> 00:54:39,720
+Don't lock the door.
 
 758
-00:47:10,720 --> 00:47:13,720
- that was a love spell.
+00:54:39,720 --> 00:54:43,720
+TV!
 
 759
-00:47:13,720 --> 00:47:19,720
- Your parents created that spell.
+00:54:43,720 --> 00:54:47,720
+Professor Burua!
 
 760
-00:47:19,720 --> 00:47:27,720
- You know Aldebaran?
+00:54:49,720 --> 00:54:51,720
+Professor Burua?
 
 761
-00:47:27,720 --> 00:47:29,720
- Yes.
+00:54:51,720 --> 00:54:54,720
+What's going on?
 
 762
-00:47:29,720 --> 00:47:34,720
- He was the teacher of the 5 guardians of the magic.
+00:54:54,720 --> 00:54:56,720
+I'm sorry, Professor.
 
 763
-00:47:34,720 --> 00:47:38,720
- When I was still in school...
+00:54:56,720 --> 00:54:59,720
+Shut up, Professor!
 
 764
-00:47:38,720 --> 00:47:40,720
- he was a magician.
+00:54:59,720 --> 00:55:03,720
+Shut up, all of you!
 
 765
-00:47:40,720 --> 00:47:46,720
- Now he's a schoolmaster.
+00:55:03,720 --> 00:55:08,720
+Let's go back to the room.
 
 766
-00:47:46,720 --> 00:47:49,720
- Oh.
+00:55:08,720 --> 00:55:10,720
+No one can go back.
 
 767
-00:47:49,720 --> 00:47:52,720
- So, he was a magician?
+00:55:10,720 --> 00:55:11,720
+Shut up!
 
 768
-00:47:52,720 --> 00:47:59,720
- He was half my age.
+00:55:18,720 --> 00:55:21,720
+Professor Burua,
 
 769
-00:47:59,720 --> 00:48:04,720
- So, that means...
+00:55:21,720 --> 00:55:23,720
+why are you here?
 
 770
-00:48:04,720 --> 00:48:06,720
- you're really old.
+00:55:23,720 --> 00:55:24,720
+Shut up!
 
 771
-00:48:06,720 --> 00:48:08,720
- (The 8th Prince)
+00:55:24,720 --> 00:55:36,720
+What's going on?
 
 772
-00:48:08,720 --> 00:48:13,720
- You're so naughty.
+00:55:36,720 --> 00:55:37,720
+Panji.
 
 773
-00:48:13,720 --> 00:48:16,720
- Do you want to hear the rest?
+00:55:37,720 --> 00:55:40,720
+This must be your doing.
 
 774
-00:48:16,720 --> 00:48:18,720
- Of course.
+00:55:40,720 --> 00:55:43,720
+You must have ordered the kids to attack me.
 
 775
-00:48:18,720 --> 00:48:20,720
- Of course.
+00:55:43,720 --> 00:55:44,720
+Right?
 
 776
-00:48:20,720 --> 00:48:22,720
- Don't worry.
+00:55:46,720 --> 00:55:49,720
+Don't you dare accuse me.
 
 777
-00:48:22,720 --> 00:48:28,720
- The 8th Prince who has lost all his power...
+00:55:49,720 --> 00:55:56,720
+Professor Burua,
 
 778
-00:48:28,720 --> 00:48:32,720
- is trying to find a way...
+00:55:56,720 --> 00:55:57,720
+I'm sorry.
 
 779
-00:48:32,720 --> 00:48:35,720
- to get back all his power.
+00:55:57,720 --> 00:55:59,720
+We didn't mean to.
 
 780
-00:48:36,720 --> 00:48:40,720
- He's looking for all kinds of sources.
+00:55:59,720 --> 00:56:00,720
+We thought...
 
 781
-00:48:40,720 --> 00:48:43,720
- And finally he realizes...
+00:56:00,720 --> 00:56:03,720
+the professor was Professor Ankara.
 
 782
-00:48:43,720 --> 00:48:45,720
- that there's a way...
+00:56:03,720 --> 00:56:06,720
+Yes, sir.
 
 783
-00:48:45,720 --> 00:48:49,720
- to get back all his power.
+00:56:06,720 --> 00:56:08,720
+We thought he was Professor Ankara.
 
 784
-00:48:49,720 --> 00:48:52,720
- That is with blood...
+00:56:08,720 --> 00:56:10,720
+So, we avoided it.
 
 785
-00:48:52,720 --> 00:48:54,720
- tears...
+00:56:10,720 --> 00:56:12,720
+Yes, sir.
 
 786
-00:48:54,720 --> 00:48:57,720
- and Alva's sweat.
+00:56:12,720 --> 00:56:14,720
+We avoided it.
 
 787
-00:49:02,720 --> 00:49:06,720
- Then, why are my parents here?
+00:56:15,720 --> 00:56:17,720
+(Professor Burua, what are you doing here?)
 
 788
-00:49:06,720 --> 00:49:15,720
- Gamma, I'm lost.
+00:56:17,720 --> 00:56:21,720
+I was ordered by Professor Aldebaran...
 
 789
-00:49:15,720 --> 00:49:17,720
- I'm lost.
+00:56:21,720 --> 00:56:23,720
+to come here...
 
 790
-00:49:17,720 --> 00:49:19,720
- Gamma.
+00:56:23,720 --> 00:56:26,720
+and pick all of you up...
 
 791
-00:49:19,720 --> 00:49:21,720
- Gamma, I'm lost.
+00:56:26,720 --> 00:56:28,720
+to go back to school.
 
 792
-00:49:21,720 --> 00:49:26,720
- I'm the chain of life.
+00:56:28,720 --> 00:56:29,720
+What?
 
 793
-00:49:27,720 --> 00:49:33,720
- Put me in the chamber.
+00:56:29,720 --> 00:56:33,720
+So, Professor Burua came here to pick us up?
 
 794
-00:49:34,720 --> 00:49:36,720
- (The 8th Prince)
+00:56:33,720 --> 00:56:34,720
+Yes.
 
 795
-00:50:02,720 --> 00:50:04,720
- I thought...
+00:56:35,720 --> 00:56:38,720
+(Professor Burua, what are you doing here?)
 
 796
-00:50:04,720 --> 00:50:08,720
- this chain of life could heal them.
+00:56:38,720 --> 00:56:41,720
+(I'm still here to protect you.)
 
 797
-00:50:08,720 --> 00:50:12,720
- But because their wounds are too bad...
+00:56:41,720 --> 00:56:44,720
+(Or am I going to Professor Burua?)
 
 798
-00:50:12,720 --> 00:50:15,720
- they can't be healed, Alva.
+00:56:44,720 --> 00:57:05,720
+We will eliminate Aldebaran.
 
 799
-00:50:15,720 --> 00:50:19,720
- They can only sleep...
+00:57:05,720 --> 00:57:09,720
+And I will promote you as the head of the magic school.
 
 800
-00:50:19,720 --> 00:50:22,720
- and can't wake up again.
+00:57:09,720 --> 00:57:26,720
+I order you...
 
 801
-00:50:22,720 --> 00:50:25,720
- This chain of life...
+00:57:26,720 --> 00:57:29,720
+to pack your things...
 
 802
-00:50:25,720 --> 00:50:28,720
- only supports their lives.
+00:57:29,720 --> 00:57:31,720
+and come with me to the magic school.
 
 803
-00:50:29,720 --> 00:50:32,720
- As far as I know, they can only get married.
+00:57:32,720 --> 00:57:34,720
+I'm sorry, Professor.
 
 804
-00:50:32,720 --> 00:50:35,720
- So, my parents...
+00:57:34,720 --> 00:57:36,720
+I don't want to.
 
 805
-00:50:35,720 --> 00:50:38,720
- only came through a dream?
+00:57:36,720 --> 00:57:38,720
+I don't want to go home.
 
 806
-00:50:38,720 --> 00:50:50,720
- You said they appeared in your dream?
+00:57:38,720 --> 00:57:40,720
+Alva, I remind you.
 
 807
-00:50:50,720 --> 00:50:52,720
- Yes.
+00:57:40,720 --> 00:57:42,720
+You are still a student.
 
 808
-00:50:52,720 --> 00:50:54,720
- No wonder.
+00:57:42,720 --> 00:57:44,720
+I am your teacher.
 
 809
-00:50:54,720 --> 00:50:57,720
- They told me to pray...
+00:57:44,720 --> 00:57:46,720
+And I am responsible for your safety.
 
 810
-00:50:57,720 --> 00:51:00,720
- and cheer me up.
+00:57:46,720 --> 00:57:48,720
+So, you have to come with me.
 
 811
-00:51:00,720 --> 00:51:02,720
- Alva.
+00:57:48,720 --> 00:57:51,720
+Tole, Vega, Pelita, Ray.
 
 812
-00:51:02,720 --> 00:51:05,720
- If Gamma and I appear in your dream...
+00:57:51,720 --> 00:57:52,720
+Let's go.
 
 813
-00:51:05,720 --> 00:51:08,720
- please ask them...
+00:57:52,720 --> 00:57:54,720
+We don't want to.
 
 814
-00:51:08,720 --> 00:51:11,720
- what I should do...
+00:57:54,720 --> 00:57:56,720
+I don't want to go home either.
 
 815
-00:51:11,720 --> 00:51:14,720
- to wake them up.
+00:57:56,720 --> 00:57:58,720
+I want to stay here.
 
 816
-00:51:14,720 --> 00:51:17,720
- Okay.
+00:57:58,720 --> 00:57:59,720
+We don't want to.
 
 817
-00:51:17,720 --> 00:51:19,720
- I'll be there.
+00:57:59,720 --> 00:58:01,720
+I don't want to either.
 
 818
-00:51:19,720 --> 00:51:21,720
- Okay.
+00:58:01,720 --> 00:58:02,720
+Yes, Professor.
 
 819
-00:51:21,720 --> 00:51:24,720
- Okay.
+00:58:02,720 --> 00:58:04,720
+We are being forced to eat.
 
 820
-00:51:26,720 --> 00:51:28,720
- I'll be going now.
+00:58:04,720 --> 00:58:05,720
+We only have three meals.
 
 821
-00:51:28,720 --> 00:51:31,720
- I have unfinished business.
+00:58:05,720 --> 00:58:07,720
+We are not full, Professor.
 
 822
-00:51:31,720 --> 00:51:32,720
- Sir.
+00:58:07,720 --> 00:58:10,720
+Professor, we have an important mission here.
 
 823
-00:51:32,720 --> 00:51:34,720
- Where are you going?
+00:58:10,720 --> 00:58:15,720
+To all good people.
 
 824
-00:51:34,720 --> 00:51:36,720
- I want to meet Ankara.
+00:58:15,720 --> 00:58:18,720
+Panji.
 
 825
-00:51:36,720 --> 00:51:38,720
- I'm curious about him.
+00:58:18,720 --> 00:58:20,720
+I know.
 
 826
-00:51:38,720 --> 00:51:40,720
- Why is he attacking me?
+00:58:20,720 --> 00:58:22,720
+This must be your doing.
 
 827
-00:51:40,720 --> 00:51:42,720
- We used to be friends.
+00:58:22,720 --> 00:58:24,720
+You told the kids to stay here.
 
 828
-00:51:42,720 --> 00:51:44,720
- Don't meet him.
+00:58:24,720 --> 00:58:26,720
+You brainwashed them, right?
 
 829
-00:51:44,720 --> 00:51:48,720
- He's the 8th Prince's son.
+00:58:26,720 --> 00:58:28,720
+No, no, no, Sir.
 
 830
-00:51:48,720 --> 00:51:51,720
- Ankara is the 8th Prince's son?
+00:58:28,720 --> 00:58:30,720
+I am the one who is wrong.
 
 831
-00:51:51,720 --> 00:51:52,720
- Yes.
+00:58:30,720 --> 00:58:32,720
+I told you.
 
 832
-00:51:52,720 --> 00:51:55,720
- They're getting stronger.
+00:58:32,720 --> 00:58:35,720
+Don't just accuse me.
 
 833
-00:51:55,720 --> 00:51:57,720
- Because they got...
+00:58:35,720 --> 00:58:39,720
+Now, it's clear.
 
 834
-00:51:57,720 --> 00:52:00,720
- my tears, sweat, and blood.
+00:58:39,720 --> 00:58:41,720
+They all prefer to be with me...
 
 835
-00:52:00,720 --> 00:52:21,720
- All of them must have been burned to ashes.
+00:58:41,720 --> 00:58:43,720
+than with you.
 
 836
-00:52:21,720 --> 00:52:22,720
- But...
+00:58:43,720 --> 00:58:47,720
+We still have unfinished business.
 
 837
-00:52:22,720 --> 00:52:25,720
- I have to go back to Ankara.
+00:58:47,720 --> 00:58:49,720
+You'll see.
 
 838
-00:52:25,720 --> 00:52:28,720
- (Gamma's dream)
+00:58:49,720 --> 00:58:51,720
+Alva, let's go home.
 
 839
-00:52:28,720 --> 00:52:54,720
- I'm going to war.
+00:58:51,720 --> 00:58:52,720
+No. / Come on.
 
 840
-00:52:54,720 --> 00:52:57,720
- The 8th Prince won't be able to differentiate.
+00:58:52,720 --> 00:58:53,720
+No, Sir.
 
 841
-00:52:57,720 --> 00:53:10,720
- Look.
+00:58:53,720 --> 00:58:54,720
+I don't want to go home.
 
 842
-00:53:10,720 --> 00:53:12,720
- This is his body.
+00:58:54,720 --> 00:58:56,720
+Shut up. You have to come with me.
 
 843
-00:53:12,720 --> 00:53:15,720
- He's already become a hero.
+00:58:56,720 --> 00:58:58,720
+No, Sir. I don't want to go home.
 
 844
-00:53:23,720 --> 00:53:25,720
- I'm dead.
+00:58:58,720 --> 00:59:00,720
+Enough, you two.
 
 845
-00:53:25,720 --> 00:53:28,720
- Maybe it's not my destiny.
+00:59:00,720 --> 00:59:07,720
+Let Alva go.
 
 846
-00:53:28,720 --> 00:53:30,720
- I'm going there.
+00:59:07,720 --> 00:59:09,720
+Let them go. Go home by yourselves.
 
 847
-00:53:30,720 --> 00:53:32,720
- I won't let him get away with it.
+00:59:09,720 --> 00:59:10,720
+I'm warning you.
 
 848
-00:53:32,720 --> 00:53:44,720
- I finally defeated him.
+00:59:10,720 --> 00:59:12,720
+Don't get involved in my business.
 
 849
-00:53:51,720 --> 00:53:53,720
- What's wrong with you?
+00:59:12,720 --> 00:59:15,720
+Alva, let's go home.
 
 850
-00:53:53,720 --> 00:53:59,720
- Who ordered you to kill him?
+00:59:15,720 --> 00:59:17,720
+The other kids, let's go home.
 
 851
-00:53:59,720 --> 00:54:01,720
- I'm sorry, sir.
+00:59:17,720 --> 00:59:19,720
+Professor, don't go there.
 
 852
-00:54:20,720 --> 00:54:22,720
- Guys, someone's coming.
+00:59:19,720 --> 00:59:21,720
+Yes, Sir. Don't go there.
 
 853
-00:54:22,720 --> 00:54:24,720
- Don't tell me...
+00:59:21,720 --> 00:59:24,720
+I don't want to go home with you.
 
 854
-00:54:24,720 --> 00:54:26,720
- it's Professor Ankara.
+00:59:24,720 --> 00:59:27,720
+I want to stay here with Mr. Banci.
 
 855
-00:54:26,720 --> 00:54:30,720
- As soon as the door is opened,
+00:59:27,720 --> 00:59:31,720
+I'm sorry, Sir.
 
 856
-00:54:30,720 --> 00:54:33,720
- we'll attack Professor Ankara with the TV.
+00:59:31,720 --> 00:59:33,720
+I still have unfinished business here.
 
 857
-00:54:33,720 --> 00:54:34,720
- Okay?
+00:59:33,720 --> 00:59:42,720
+Alright.
 
 858
-00:54:34,720 --> 00:54:35,720
- Okay.
+00:59:42,720 --> 00:59:46,720
+If you want it this way,
 
 859
-00:54:35,720 --> 00:54:36,720
- Let's go.
+00:59:46,720 --> 00:59:49,720
+Alva,
 
 860
-00:54:36,720 --> 00:54:37,720
- Let's go in.
+00:59:49,720 --> 00:59:53,720
+I'll let you stay here.
 
 861
-00:54:37,720 --> 00:54:39,720
- Don't lock the door.
+00:59:54,720 --> 00:59:57,720
+But on one condition.
 
 862
-00:54:39,720 --> 00:54:43,720
- TV!
+00:59:57,720 --> 00:59:59,720
+What is it, Sir?
 
 863
-00:54:43,720 --> 00:54:47,720
- Professor Burua!
+00:59:59,720 --> 01:00:03,720
+You have to compete against me.
 
 864
-00:54:49,720 --> 00:54:51,720
- Professor Burua?
+01:00:03,720 --> 01:00:16,720
+If you lose,
 
 865
-00:54:51,720 --> 00:54:54,720
- What's going on?
+01:00:16,720 --> 01:00:22,720
+you and the others have to take me back to the magic school.
 
 866
-00:54:54,720 --> 00:54:56,720
- I'm sorry, Professor.
+01:00:22,720 --> 01:00:24,720
+But if you win,
 
 867
-00:54:56,720 --> 00:54:59,720
- Shut up, Professor!
+01:00:24,720 --> 01:00:30,720
+I'll let you stay here with Mr. Banci.
 
 868
-00:54:59,720 --> 00:55:03,720
- Shut up, all of you!
+01:00:30,720 --> 01:00:41,720
+What do you say?
 
 869
-00:55:03,720 --> 00:55:08,720
- Let's go back to the room.
+01:00:41,720 --> 01:00:42,720
+I'm in.
 
 870
-00:55:08,720 --> 00:55:10,720
- No one can go back.
+01:00:42,720 --> 01:00:48,720
+If you don't want to compete against me,
 
 871
-00:55:10,720 --> 00:55:11,720
- Shut up!
+01:00:48,720 --> 01:00:51,720
+I'll consider you surrender.
 
 872
-00:55:18,720 --> 00:55:21,720
- Professor Burua,
+01:00:51,720 --> 01:00:53,720
+And that means you failed.
 
 873
-00:55:21,720 --> 00:55:23,720
- why are you here?
+01:00:53,720 --> 01:00:55,720
+And because of that,
 
 874
-00:55:23,720 --> 00:55:24,720
- Shut up!
+01:00:55,720 --> 01:00:58,720
+you and the others have to go to the magic school.
 
 875
-00:55:24,720 --> 00:55:36,720
- What's going on?
+01:00:58,720 --> 01:00:59,720
+Come on, kids. Let's go home.
 
 876
-00:55:36,720 --> 00:55:37,720
- Panji.
+01:00:59,720 --> 01:01:01,720
+I want to compete.
 
 877
-00:55:37,720 --> 00:55:40,720
- This must be your doing.
+01:01:01,720 --> 01:01:11,720
+Alva wants to compete?
 
 878
-00:55:40,720 --> 00:55:43,720
- You must have ordered the kids to attack me.
+01:01:11,720 --> 01:01:14,720
+Oh, God.
 
 879
-00:55:43,720 --> 00:55:44,720
- Right?
+01:01:14,720 --> 01:01:19,720
+You're just looking for trouble.
 
 880
-00:55:46,720 --> 00:55:49,720
- Don't you dare accuse me.
+01:01:20,720 --> 01:01:22,720
+Mr. Banci is dead, Sir.
 
 881
-00:55:49,720 --> 00:55:56,720
- Professor Burua,
+01:01:22,720 --> 01:01:24,720
+So, what's our next plan?
 
 882
-00:55:56,720 --> 00:55:57,720
- I'm sorry.
+01:01:24,720 --> 01:01:26,720
+I'll move on to the second round.
 
 883
-00:55:57,720 --> 00:55:59,720
- We didn't mean to.
+01:01:26,720 --> 01:01:28,720
+But before that,
 
 884
-00:55:59,720 --> 00:56:00,720
- We thought...
+01:01:28,720 --> 01:01:31,720
+I'll give you a present, Angkara.
 
 885
-00:56:00,720 --> 00:56:03,720
- the professor was Professor Ankara.
+01:01:31,720 --> 01:01:35,720
+Because you've done a great job on your mission.
 
 886
-00:56:03,720 --> 00:56:06,720
- Yes, sir.
+01:01:35,720 --> 01:01:38,720
+What do you want, Angkara?
 
 887
-00:56:06,720 --> 00:56:08,720
- We thought he was Professor Ankara.
+01:01:38,720 --> 01:01:40,720
+I'll give you a present.
 
 888
-00:56:08,720 --> 00:56:10,720
- So, we avoided it.
+01:01:40,720 --> 01:01:46,720
+I want you to be a good boy.
 
 889
-00:56:10,720 --> 00:56:12,720
- Yes, sir.
+01:01:46,720 --> 01:01:48,720
+What do you want, Angkara?
 
 890
-00:56:12,720 --> 00:56:14,720
- We avoided it.
+01:01:48,720 --> 01:01:50,720
+I'll grant your wish.
 
 891
-00:56:15,720 --> 00:56:17,720
- (Professor Burua, what are you doing here?)
+01:01:50,720 --> 01:01:53,720
+I want to be the head of the magic school, Sir.
 
 892
-00:56:17,720 --> 00:56:21,720
- I was ordered by Professor Aldebaran...
+01:01:53,720 --> 01:01:58,720
+What a coincidence, Angkara.
 
 893
-00:56:21,720 --> 00:56:23,720
- to come here...
+01:01:58,720 --> 01:02:01,720
+That's what I've been thinking about.
 
 894
-00:56:23,720 --> 00:56:26,720
- and pick all of you up...
+01:02:01,720 --> 01:02:05,720
+Then,
 
 895
-00:56:26,720 --> 00:56:28,720
- to go back to school.
+01:02:05,720 --> 01:02:08,720
+we'll send Aldebaran to the fire prison.
 
 896
-00:56:28,720 --> 00:56:29,720
- What?
+01:02:08,720 --> 01:02:14,720
+And I'll make you the head of the magic school, Angkara.
 
 897
-00:56:29,720 --> 00:56:33,720
- So, Professor Burua came here to pick us up?
+01:02:14,720 --> 01:02:16,720
+Thank you, Sir.
 
 898
-00:56:33,720 --> 00:56:34,720
- Yes.
+01:02:16,720 --> 01:02:21,720
+Finally,
 
 899
-00:56:35,720 --> 00:56:38,720
- (Professor Burua, what are you doing here?)
+01:02:21,720 --> 01:02:26,720
+my chance to destroy Aldebaran as the head of the magic school has come.
 
 900
-00:56:38,720 --> 00:56:41,720
- (I'm still here to protect you.)
+01:02:26,720 --> 01:02:33,720
+As the head of the magic school of Mendiamkage Sayang,
 
 901
-00:56:41,720 --> 00:56:44,720
- (Or am I going to Professor Burua?)
+01:02:33,720 --> 01:02:36,720
+I want to make the final vote
 
 902
-00:56:44,720 --> 00:56:49,720
- We will eliminate Aldebaran.
+01:02:36,720 --> 01:02:40,720
+to decide who deserves to be the head of the magic school.
 
 903
-00:56:49,720 --> 00:56:51,720
- We will eliminate Aldebaran.
+01:02:40,720 --> 01:02:42,720
+(VOTE)
 
 904
-00:56:51,720 --> 00:56:53,720
- We will eliminate Aldebaran.
+01:02:42,720 --> 01:02:47,720
+Please.
 
 905
-00:56:53,720 --> 00:56:55,720
- We will eliminate Aldebaran.
+01:02:48,720 --> 01:03:41,720
+(VOTE)
 
 906
-00:56:55,720 --> 00:56:57,720
- We will eliminate Aldebaran.
+01:03:41,720 --> 01:03:45,720
+The current position
 
 907
-00:56:57,720 --> 00:56:59,720
- We will eliminate Aldebaran.
+01:03:45,720 --> 01:03:49,720
+for Professor Aldebaran and Professor Angkara
 
 908
-00:56:59,720 --> 00:57:01,720
- We will eliminate Aldebaran.
+01:03:49,720 --> 01:03:51,720
+is the same.
 
 909
-00:57:01,720 --> 00:57:03,720
- We will eliminate Aldebaran.
+01:03:51,720 --> 01:03:54,720
+There is only one vote left.
 
 910
-00:57:03,720 --> 00:57:05,720
- We will eliminate Aldebaran.
+01:03:54,720 --> 01:03:59,720
+Please, Professor Agni.
 
 911
-00:57:05,720 --> 00:57:09,720
- And I will promote you as the head of the magic school.
+01:03:59,720 --> 01:04:05,720
+I will win, because Agni will choose me.
 
 912
-00:57:09,720 --> 00:57:26,720
- I order you...
+01:04:05,720 --> 01:04:28,720
+(VOTE)
 
 913
-00:57:26,720 --> 00:57:29,720
- to pack your things...
+01:04:28,720 --> 01:04:33,720
+Professor Agni chooses Professor Aldebaran.
 
 914
-00:57:29,720 --> 00:57:31,720
- and come with me to the magic school.
+01:04:33,720 --> 01:04:56,720
+(VOTE)
 
 915
-00:57:32,720 --> 00:57:34,720
- I'm sorry, Professor.
+01:04:56,720 --> 01:04:59,720
+Long live, Professor Aldebaran!
 
 916
-00:57:34,720 --> 00:57:36,720
- I don't want to.
+01:04:59,720 --> 01:05:02,720
+Why did you choose Aldebaran?
 
 917
-00:57:36,720 --> 00:57:38,720
- I don't want to go home.
+01:05:02,720 --> 01:05:04,720
+Because you are my future wife's candidate.
 
 918
-00:57:38,720 --> 00:57:40,720
- Alva, I remind you.
+01:05:04,720 --> 01:05:05,720
+Angkara,
 
 919
-00:57:40,720 --> 00:57:42,720
- You are still a student.
+01:05:05,720 --> 01:05:08,720
+we do have a close relationship.
 
 920
-00:57:42,720 --> 00:57:44,720
- I am your teacher.
+01:05:08,720 --> 01:05:12,720
+And the school's head's choice
 
 921
-00:57:44,720 --> 00:57:46,720
- And I am responsible for your safety.
+01:05:12,720 --> 01:05:15,720
+has nothing to do with our relationship.
 
 922
-00:57:46,720 --> 00:57:48,720
- So, you have to come with me.
+01:05:15,720 --> 01:05:17,720
+I'm sure,
 
 923
-00:57:48,720 --> 00:57:51,720
- Tole, Vega, Pelita, Ray.
+01:05:17,720 --> 01:05:21,720
+that Aldebaran can be a good school's head.
 
 924
-00:57:51,720 --> 00:57:52,720
- Let's go.
+01:05:21,720 --> 01:05:24,720
+So, you mean
 
 925
-00:57:52,720 --> 00:57:54,720
- We don't want to.
+01:05:24,720 --> 01:05:26,720
+I'm not good?
 
 926
-00:57:54,720 --> 00:57:56,720
- I don't want to go home either.
+01:05:26,720 --> 01:05:27,720
+No.
 
 927
-00:57:56,720 --> 00:57:58,720
- I want to stay here.
+01:05:27,720 --> 01:05:30,720
+That's not what I mean.
 
 928
-00:57:58,720 --> 00:57:59,720
- We don't want to.
+01:05:31,720 --> 01:05:33,720
+I'm disappointed in you.
 
 929
-00:57:59,720 --> 00:58:01,720
- I don't want to either.
+01:05:33,720 --> 01:05:44,720
+Take this!
 
 930
-00:58:01,720 --> 00:58:02,720
- Yes, Professor.
+01:05:44,720 --> 01:05:47,720
+Sir!
 
 931
-00:58:02,720 --> 00:58:04,720
- We are being forced to eat.
+01:05:48,720 --> 01:06:03,720
+We can do it!
 
 932
-00:58:04,720 --> 00:58:05,720
- We only have three meals.
+01:06:03,720 --> 01:06:05,720
+Now, attention!
 
 933
-00:58:05,720 --> 00:58:07,720
- We are not full, Professor.
+01:06:05,720 --> 01:06:10,720
+Step back.
 
 934
-00:58:07,720 --> 00:58:10,720
- Professor, we have an important mission here.
+01:06:13,720 --> 01:06:15,720
+The third round.
 
 935
-00:58:10,720 --> 00:58:15,720
- To all good people.
+01:06:15,720 --> 01:06:17,720
+The match starts now.
 
 936
-00:58:15,720 --> 00:58:18,720
- Panji.
+01:06:17,720 --> 01:06:18,720
+Round one.
 
 937
-00:58:18,720 --> 00:58:20,720
- I know.
+01:06:18,720 --> 01:06:28,720
+One.
 
 938
-00:58:20,720 --> 00:58:22,720
- This must be your doing.
+01:06:28,720 --> 01:06:31,720
+Two.
 
 939
-00:58:22,720 --> 00:58:24,720
- You told the kids to stay here.
+01:06:31,720 --> 01:06:32,720
+Three.
 
 940
-00:58:24,720 --> 00:58:26,720
- You brainwashed them, right?
+01:06:32,720 --> 01:06:40,720
+Finish him!
 
 941
-00:58:26,720 --> 00:58:28,720
- No, no, no, Sir.
+01:06:42,720 --> 01:06:43,720
+Sir!
 
 942
-00:58:28,720 --> 00:58:30,720
- I am the one who is wrong.
+01:06:43,720 --> 01:06:56,720
+It's just a small match.
 
 943
-00:58:30,720 --> 00:58:32,720
- I told you.
+01:06:56,720 --> 01:06:59,720
+It seems,
 
 944
-00:58:32,720 --> 00:58:35,720
- Don't just accuse me.
+01:06:59,720 --> 01:07:02,720
+no one supports me.
 
 945
-00:58:35,720 --> 00:58:39,720
- Now, it's clear.
+01:07:02,720 --> 01:07:06,720
+Can I have a round of applause for my first round?
 
 946
-00:58:39,720 --> 00:58:41,720
- They all prefer to be with me...
+01:07:06,720 --> 01:07:08,720
+We are a strong team.
 
 947
-00:58:41,720 --> 00:58:43,720
- than with you.
+01:07:08,720 --> 01:07:09,720
+We don't want to be a burden.
 
 948
-00:58:43,720 --> 00:58:47,720
- We still have unfinished business.
+01:07:09,720 --> 01:07:10,720
+Yes.
 
 949
-00:58:47,720 --> 00:58:49,720
- You'll see.
+01:07:10,720 --> 01:07:12,720
+We are a strong team.
 
 950
-00:58:49,720 --> 00:58:51,720
- Alva, let's go home.
+01:07:12,720 --> 01:07:16,720
+I don't want to be a traitor.
 
 951
-00:58:51,720 --> 00:58:52,720
- No. / Come on.
+01:07:16,720 --> 01:07:23,720
+What's that?
 
 952
-00:58:52,720 --> 00:58:53,720
- No, Sir.
+01:07:23,720 --> 01:07:25,720
+Yes.
 
 953
-00:58:53,720 --> 00:58:54,720
- I don't want to go home.
+01:07:25,720 --> 01:07:26,720
+Let's just give it a try.
 
 954
-00:58:54,720 --> 00:58:56,720
- Shut up. You have to come with me.
+01:07:26,720 --> 01:07:28,720
+We are at risk.
 
 955
-00:58:56,720 --> 00:58:58,720
- No, Sir. I don't want to go home.
+01:07:28,720 --> 01:07:29,720
+Yes.
 
 956
-00:58:58,720 --> 00:59:00,720
- Enough, you two.
+01:07:29,720 --> 01:07:35,720
+Good morning, kids.
 
 957
-00:59:00,720 --> 00:59:07,720
- Let Alva go.
+01:07:35,720 --> 01:07:37,720
+Good morning, sir.
 
 958
-00:59:07,720 --> 00:59:09,720
- Let them go. Go home by yourselves.
+01:07:38,720 --> 01:07:43,720
+You might be wondering about the writing in front of you.
 
 959
-00:59:09,720 --> 00:59:10,720
- I'm warning you.
+01:07:43,720 --> 01:07:45,720
+Here's the thing.
 
 960
-00:59:10,720 --> 00:59:12,720
- Don't get involved in my business.
+01:07:45,720 --> 01:07:48,720
+Our school will have a selection.
 
 961
-00:59:12,720 --> 00:59:15,720
- Alva, let's go home.
+01:07:48,720 --> 01:07:55,720
+Who among you has the ability and is ready to fight?
 
 962
-00:59:15,720 --> 00:59:17,720
- The other kids, let's go home.
+01:07:55,720 --> 01:08:02,720
+The chosen one will be part of the Al-Nibbar squad.
 
 963
-00:59:17,720 --> 00:59:19,720
- Professor, don't go there.
+01:08:03,720 --> 01:08:08,720
+The mission of the Al-Nibbar squad is...
 
 964
-00:59:19,720 --> 00:59:21,720
- Yes, Sir. Don't go there.
+01:08:08,720 --> 01:08:12,720
+First, you must be ready to attack the magic school.
 
 965
-00:59:21,720 --> 00:59:24,720
- I don't want to go home with you.
+01:08:12,720 --> 01:08:20,720
+Second, you must be ready to destroy the Dark Lord.
 
 966
-00:59:24,720 --> 00:59:27,720
- I want to stay here with Mr. Banci.
+01:08:20,720 --> 01:08:22,720
+The Dark Lord?
 
 967
-00:59:27,720 --> 00:59:31,720
- I'm sorry, Sir.
+01:08:22,720 --> 01:08:25,720
+Yes.
 
 968
-00:59:31,720 --> 00:59:33,720
- I still have unfinished business here.
+01:08:25,720 --> 01:08:26,720
+That's right.
 
 969
-00:59:33,720 --> 00:59:42,720
- Alright.
+01:08:26,720 --> 01:08:28,720
+So, from now on,
 
 970
-00:59:42,720 --> 00:59:46,720
- If you want it this way,
+01:08:28,720 --> 01:08:32,720
+we can't just randomly choose a kid to be a part of the squad.
 
 971
-00:59:46,720 --> 00:59:49,720
- Alva,
+01:08:32,720 --> 01:08:34,720
+We must select him correctly.
 
 972
-00:59:49,720 --> 00:59:53,720
- I'll let you stay here.
+01:08:34,720 --> 01:08:35,720
+That's right, kids.
 
 973
-00:59:54,720 --> 00:59:57,720
- But on one condition.
+01:08:35,720 --> 01:08:37,720
+What Professor Agni said is true.
 
 974
-00:59:57,720 --> 00:59:59,720
- What is it, Sir?
+01:08:37,720 --> 01:08:39,720
+That's right.
 
 975
-00:59:59,720 --> 01:00:03,720
- You have to compete against me.
+01:08:39,720 --> 01:08:42,720
+This is my chance to be a champion.
 
 976
-01:00:03,720 --> 01:00:16,720
- If you lose,
+01:08:42,720 --> 01:08:44,720
+While Alpha is gone.
 
 977
-01:00:16,720 --> 01:00:22,720
- you and the others have to take me back to the magic school.
+01:08:44,720 --> 01:08:46,720
+I'm in!
 
 978
-01:00:22,720 --> 01:00:24,720
- But if you win,
+01:08:46,720 --> 01:08:47,720
+Me too!
 
 979
-01:00:24,720 --> 01:00:30,720
- I'll let you stay here with Mr. Banci.
+01:08:47,720 --> 01:08:53,720
+Mommy, are you sure you want to join?
 
 980
-01:00:30,720 --> 01:00:41,720
- What do you say?
+01:08:53,720 --> 01:08:56,720
+You said you wanted to join the Al-Nibbar squad.
 
 981
-01:00:41,720 --> 01:00:42,720
- I'm in.
+01:08:56,720 --> 01:08:58,720
+Are you sure you want to join?
 
 982
-01:00:42,720 --> 01:00:48,720
- If you don't want to compete against me,
+01:08:58,720 --> 01:09:01,720
+You ran away when we fought the raptor.
 
 983
-01:00:48,720 --> 01:00:51,720
- I'll consider you surrender.
+01:09:01,720 --> 01:09:03,720
+Just you wait.
 
 984
-01:00:51,720 --> 01:00:53,720
- And that means you failed.
+01:09:03,720 --> 01:09:08,720
+I'll fight the Dark Lord with all I've got.
 
 985
-01:00:53,720 --> 01:00:55,720
- And because of that,
+01:09:08,720 --> 01:09:20,720
+We've arrived at the magic school, sir.
 
 986
-01:00:55,720 --> 01:00:58,720
- you and the others have to go to the magic school.
+01:09:20,720 --> 01:09:24,720
+Okay, kids.
 
 987
-01:00:58,720 --> 01:00:59,720
- Come on, kids. Let's go home.
+01:09:24,720 --> 01:09:26,720
+Before we start,
 
 988
-01:00:59,720 --> 01:01:01,720
- I want to compete.
+01:09:26,720 --> 01:09:29,720
+let's sing the song,
 
 989
-01:01:01,720 --> 01:01:11,720
- Alva wants to compete?
+01:09:29,720 --> 01:09:31,720
+"Mars, the Magic School".
 
 990
-01:01:11,720 --> 01:01:14,720
- Oh, God.
+01:09:31,720 --> 01:09:33,720
+Oh, my children.
 
 991
-01:01:14,720 --> 01:01:19,720
- You're just looking for trouble.
+01:09:33,720 --> 01:09:37,720
+Don't forget the style I taught you.
 
 992
-01:01:20,720 --> 01:01:22,720
- Mr. Banci is dead, Sir.
+01:09:37,720 --> 01:09:39,720
+Yes, sir.
 
 993
-01:01:22,720 --> 01:01:24,720
- So, what's our next plan?
+01:09:39,720 --> 01:09:41,720
+Kids,
 
 994
-01:01:24,720 --> 01:01:26,720
- I'll move on to the second round.
+01:09:41,720 --> 01:09:43,720
+since this is the song, "Mars",
 
 995
-01:01:26,720 --> 01:01:28,720
- But before that,
+01:09:43,720 --> 01:09:45,720
+you must be excited to sing it.
 
 996
-01:01:28,720 --> 01:01:31,720
- I'll give you a present, Angkara.
+01:09:45,720 --> 01:09:46,720
+Yes, sir.
 
 997
-01:01:31,720 --> 01:01:35,720
- Because you've done a great job on your mission.
+01:09:46,720 --> 01:09:47,720
+Good.
 
 998
-01:01:35,720 --> 01:01:38,720
- What do you want, Angkara?
+01:09:47,720 --> 01:09:49,720
+Let's start on three.
 
 999
-01:01:38,720 --> 01:01:40,720
- I'll give you a present.
+01:09:49,720 --> 01:09:53,720
+One, two, three.
 
 1000
-01:01:40,720 --> 01:01:42,720
- I want you to be a good boy.
+01:09:54,720 --> 01:09:56,720
+Show your spirit,
 
 1001
-01:01:42,720 --> 01:01:44,720
- I want you to be a good boy.
+01:09:56,720 --> 01:09:59,720
+get your friends ready.
 
 1002
-01:01:44,720 --> 01:01:46,720
- I want you to be a good boy.
+01:09:59,720 --> 01:10:06,720
+Run, jump, and get on the stars.
 
 1003
-01:01:46,720 --> 01:01:48,720
- What do you want, Angkara?
+01:10:06,720 --> 01:10:10,720
+Be brave,
 
 1004
-01:01:48,720 --> 01:01:50,720
- I'll grant your wish.
+01:10:10,720 --> 01:10:14,720
+don't give up.
 
 1005
-01:01:50,720 --> 01:01:53,720
- I want to be the head of the magic school, Sir.
+01:10:14,720 --> 01:10:18,720
+Chase your dreams.
 
 1006
-01:01:53,720 --> 01:01:58,720
- What a coincidence, Angkara.
+01:10:18,720 --> 01:10:19,720
+You,
 
 1007
-01:01:58,720 --> 01:02:01,720
- That's what I've been thinking about.
+01:10:19,720 --> 01:10:22,720
+if you become the head of the school here,
 
 1008
-01:02:01,720 --> 01:02:05,720
- Then,
+01:10:22,720 --> 01:10:24,720
+you change the song.
 
 1009
-01:02:05,720 --> 01:02:08,720
- we'll send Aldebaran to the fire prison.
+01:10:24,720 --> 01:10:27,720
+They all must be my followers.
 
 1010
-01:02:08,720 --> 01:02:14,720
- And I'll make you the head of the magic school, Angkara.
+01:10:27,720 --> 01:10:31,720
+Yes, sir.
 
 1011
-01:02:14,720 --> 01:02:16,720
- Thank you, Sir.
+01:10:31,720 --> 01:10:35,720
+I'll make this school the second headquarter.
 
 1012
-01:02:16,720 --> 01:02:21,720
- Finally,
+01:10:35,720 --> 01:10:40,720
+Just watch me.
 
 1013
-01:02:21,720 --> 01:02:26,720
- my chance to destroy Aldebaran as the head of the magic school has come.
+01:10:40,720 --> 01:10:46,720
+You'll know that I'm better at making a school than a war.
 
 1014
-01:02:26,720 --> 01:02:33,720
- As the head of the magic school of Mendiamkage Sayang,
+01:10:47,720 --> 01:10:51,720
+[Mars, the Magic School]
 
 1015
-01:02:33,720 --> 01:02:36,720
- I want to make the final vote
+01:10:51,720 --> 01:10:53,720
+My children,
 
 1016
-01:02:36,720 --> 01:02:40,720
- to decide who deserves to be the head of the magic school.
+01:10:53,720 --> 01:10:55,720
+try to imitate me.
 
 1017
-01:02:40,720 --> 01:02:42,720
- (VOTE)
+01:10:55,720 --> 01:10:56,720
+Ahai.
 
 1018
-01:02:42,720 --> 01:02:47,720
- Please.
+01:10:56,720 --> 01:10:58,720
+Give me a smile.
 
 1019
-01:02:48,720 --> 01:02:50,720
- (VOTE)
+01:10:58,720 --> 01:10:59,720
+How is this,
 
 1020
-01:02:51,720 --> 01:02:53,720
- (VOTE)
+01:10:59,720 --> 01:11:00,720
+the students of the same grade?
 
 1021
-01:02:54,720 --> 01:02:56,720
- (VOTE)
+01:11:00,720 --> 01:11:03,720
+How can you beat the 8th grade?
 
 1022
-01:02:57,720 --> 01:02:59,720
- (VOTE)
+01:11:03,720 --> 01:11:06,720
+You've already lost against the 7th grade.
 
 1023
-01:02:59,720 --> 01:03:02,720
- (VOTE)
+01:11:06,720 --> 01:11:09,720
+Whose voice is that?
 
 1024
-01:03:02,720 --> 01:03:05,720
- (VOTE)
+01:11:09,720 --> 01:11:11,720
+That's the voice.
 
 1025
-01:03:05,720 --> 01:03:08,720
- (VOTE)
+01:11:11,720 --> 01:11:13,720
+That's not the voice.
 
 1026
-01:03:08,720 --> 01:03:11,720
- (VOTE)
+01:11:14,720 --> 01:11:16,720
+[The Magic School]
 
 1027
-01:03:11,720 --> 01:03:14,720
- (VOTE)
+01:11:16,720 --> 01:11:20,720
+Your task now is to find the right person.
 
 1028
-01:03:14,720 --> 01:03:17,720
- (VOTE)
+01:11:20,720 --> 01:11:22,720
+Okay, sir.
 
 1029
-01:03:17,720 --> 01:03:20,720
- (VOTE)
+01:11:22,720 --> 01:11:28,720
+Show your spirit,
 
 1030
-01:03:20,720 --> 01:03:23,720
- (VOTE)
+01:11:28,720 --> 01:11:31,720
+get your friends ready.
 
 1031
-01:03:24,720 --> 01:03:26,720
- (VOTE)
+01:11:31,720 --> 01:11:38,720
+Run, jump, and get on the stars.
 
 1032
-01:03:26,720 --> 01:03:29,720
- (VOTE)
+01:11:38,720 --> 01:11:42,720
+Be brave,
 
 1033
-01:03:29,720 --> 01:03:32,720
- (VOTE)
+01:11:42,720 --> 01:11:46,720
+don't give up.
 
 1034
-01:03:32,720 --> 01:03:35,720
- (VOTE)
+01:11:46,720 --> 01:11:53,720
+Chase your dreams.
 
 1035
-01:03:35,720 --> 01:03:38,720
- (VOTE)
+01:11:53,720 --> 01:11:56,720
+Go, go, go,
 
 1036
-01:03:38,720 --> 01:03:41,720
- (VOTE)
+01:11:56,720 --> 01:11:57,720
+reach all your dreams.
 
 1037
-01:03:41,720 --> 01:03:45,720
- The current position
+01:11:57,720 --> 01:11:59,720
+Go, go, go,
 
 1038
-01:03:45,720 --> 01:03:49,720
- for Professor Aldebaran and Professor Angkara
+01:11:59,720 --> 01:12:01,720
+never stop.
 
 1039
-01:03:49,720 --> 01:03:51,720
- is the same.
+01:12:01,720 --> 01:12:03,720
+Go, go, go,
 
 1040
-01:03:51,720 --> 01:03:54,720
- There is only one vote left.
+01:12:03,720 --> 01:12:07,720
+fight with your heart.
 
 1041
-01:03:54,720 --> 01:03:59,720
- Please, Professor Agni.
+01:12:07,720 --> 01:12:10,720
+Go, go, go,
 
 1042
-01:03:59,720 --> 01:04:05,720
- I will win, because Agni will choose me.
+01:12:10,720 --> 01:12:11,720
+make yourself proud.
 
 1043
-01:04:05,720 --> 01:04:07,720
- (VOTE)
+01:12:11,720 --> 01:12:13,720
+Go, go, go,
 
 1044
-01:04:07,720 --> 01:04:10,720
- (VOTE)
+01:12:13,720 --> 01:12:14,720
+let's dream.
 
 1045
-01:04:10,720 --> 01:04:13,720
- (VOTE)
+01:12:14,720 --> 01:12:16,720
+Go, go, go,
 
 1046
-01:04:13,720 --> 01:04:16,720
- (VOTE)
-
-1047
-01:04:16,720 --> 01:04:19,720
- (VOTE)
-
-1048
-01:04:19,720 --> 01:04:22,720
- (VOTE)
-
-1049
-01:04:22,720 --> 01:04:25,720
- (VOTE)
-
-1050
-01:04:25,720 --> 01:04:28,720
- (VOTE)
-
-1051
-01:04:28,720 --> 01:04:33,720
- Professor Agni chooses Professor Aldebaran.
-
-1052
-01:04:33,720 --> 01:04:35,720
- (VOTE)
-
-1053
-01:04:35,720 --> 01:04:38,720
- (VOTE)
-
-1054
-01:04:38,720 --> 01:04:41,720
- (VOTE)
-
-1055
-01:04:41,720 --> 01:04:44,720
- (VOTE)
-
-1056
-01:04:44,720 --> 01:04:47,720
- (VOTE)
-
-1057
-01:04:47,720 --> 01:04:50,720
- (VOTE)
-
-1058
-01:04:50,720 --> 01:04:53,720
- (VOTE)
-
-1059
-01:04:53,720 --> 01:04:56,720
- (VOTE)
-
-1060
-01:04:56,720 --> 01:04:59,720
- Long live, Professor Aldebaran!
-
-1061
-01:04:59,720 --> 01:05:02,720
- Why did you choose Aldebaran?
-
-1062
-01:05:02,720 --> 01:05:04,720
- Because you are my future wife's candidate.
-
-1063
-01:05:04,720 --> 01:05:05,720
- Angkara,
-
-1064
-01:05:05,720 --> 01:05:08,720
- we do have a close relationship.
-
-1065
-01:05:08,720 --> 01:05:12,720
- And the school's head's choice
-
-1066
-01:05:12,720 --> 01:05:15,720
- has nothing to do with our relationship.
-
-1067
-01:05:15,720 --> 01:05:17,720
- I'm sure,
-
-1068
-01:05:17,720 --> 01:05:21,720
- that Aldebaran can be a good school's head.
-
-1069
-01:05:21,720 --> 01:05:24,720
- So, you mean
-
-1070
-01:05:24,720 --> 01:05:26,720
- I'm not good?
-
-1071
-01:05:26,720 --> 01:05:27,720
- No.
-
-1072
-01:05:27,720 --> 01:05:30,720
- That's not what I mean.
-
-1073
-01:05:31,720 --> 01:05:33,720
- I'm disappointed in you.
-
-1074
-01:05:33,720 --> 01:05:44,720
- Take this!
-
-1075
-01:05:44,720 --> 01:05:47,720
- Sir!
-
-1076
-01:05:48,720 --> 01:05:53,720
- We can do it!
-
-1077
-01:05:53,720 --> 01:06:03,720
- We can do it!
-
-1078
-01:06:03,720 --> 01:06:05,720
- Now, attention!
-
-1079
-01:06:05,720 --> 01:06:10,720
- Step back.
-
-1080
-01:06:13,720 --> 01:06:15,720
- The third round.
-
-1081
-01:06:15,720 --> 01:06:17,720
- The match starts now.
-
-1082
-01:06:17,720 --> 01:06:18,720
- Round one.
-
-1083
-01:06:18,720 --> 01:06:28,720
- One.
-
-1084
-01:06:28,720 --> 01:06:31,720
- Two.
-
-1085
-01:06:31,720 --> 01:06:32,720
- Three.
-
-1086
-01:06:32,720 --> 01:06:40,720
- Finish him!
-
-1087
-01:06:42,720 --> 01:06:43,720
- Sir!
-
-1088
-01:06:43,720 --> 01:06:56,720
- It's just a small match.
-
-1089
-01:06:56,720 --> 01:06:59,720
- It seems,
-
-1090
-01:06:59,720 --> 01:07:02,720
- no one supports me.
-
-1091
-01:07:02,720 --> 01:07:06,720
- Can I have a round of applause for my first round?
-
-1092
-01:07:06,720 --> 01:07:08,720
- We are a strong team.
-
-1093
-01:07:08,720 --> 01:07:09,720
- We don't want to be a burden.
-
-1094
-01:07:09,720 --> 01:07:10,720
- Yes.
-
-1095
-01:07:10,720 --> 01:07:12,720
- We are a strong team.
-
-1096
-01:07:12,720 --> 01:07:16,720
- I don't want to be a traitor.
-
-1097
-01:07:16,720 --> 01:07:23,720
- What's that?
-
-1098
-01:07:23,720 --> 01:07:25,720
- Yes.
-
-1099
-01:07:25,720 --> 01:07:26,720
- Let's just give it a try.
-
-1100
-01:07:26,720 --> 01:07:28,720
- We are at risk.
-
-1101
-01:07:28,720 --> 01:07:29,720
- Yes.
-
-1102
-01:07:29,720 --> 01:07:35,720
- Good morning, kids.
-
-1103
-01:07:35,720 --> 01:07:37,720
- Good morning, sir.
-
-1104
-01:07:38,720 --> 01:07:43,720
- You might be wondering about the writing in front of you.
-
-1105
-01:07:43,720 --> 01:07:45,720
- Here's the thing.
-
-1106
-01:07:45,720 --> 01:07:48,720
- Our school will have a selection.
-
-1107
-01:07:48,720 --> 01:07:55,720
- Who among you has the ability and is ready to fight?
-
-1108
-01:07:55,720 --> 01:08:02,720
- The chosen one will be part of the Al-Nibbar squad.
-
-1109
-01:08:03,720 --> 01:08:08,720
- The mission of the Al-Nibbar squad is...
-
-1110
-01:08:08,720 --> 01:08:12,720
- First, you must be ready to attack the magic school.
-
-1111
-01:08:12,720 --> 01:08:20,720
- Second, you must be ready to destroy the Dark Lord.
-
-1112
-01:08:20,720 --> 01:08:22,720
- The Dark Lord?
-
-1113
-01:08:22,720 --> 01:08:25,720
- Yes.
-
-1114
-01:08:25,720 --> 01:08:26,720
- That's right.
-
-1115
-01:08:26,720 --> 01:08:28,720
- So, from now on,
-
-1116
-01:08:28,720 --> 01:08:32,720
- we can't just randomly choose a kid to be a part of the squad.
-
-1117
-01:08:32,720 --> 01:08:34,720
- We must select him correctly.
-
-1118
-01:08:34,720 --> 01:08:35,720
- That's right, kids.
-
-1119
-01:08:35,720 --> 01:08:37,720
- What Professor Agni said is true.
-
-1120
-01:08:37,720 --> 01:08:39,720
- That's right.
-
-1121
-01:08:39,720 --> 01:08:42,720
- This is my chance to be a champion.
-
-1122
-01:08:42,720 --> 01:08:44,720
- While Alpha is gone.
-
-1123
-01:08:44,720 --> 01:08:46,720
- I'm in!
-
-1124
-01:08:46,720 --> 01:08:47,720
- Me too!
-
-1125
-01:08:47,720 --> 01:08:53,720
- Mommy, are you sure you want to join?
-
-1126
-01:08:53,720 --> 01:08:56,720
- You said you wanted to join the Al-Nibbar squad.
-
-1127
-01:08:56,720 --> 01:08:58,720
- Are you sure you want to join?
-
-1128
-01:08:58,720 --> 01:09:01,720
- You ran away when we fought the raptor.
-
-1129
-01:09:01,720 --> 01:09:03,720
- Just you wait.
-
-1130
-01:09:03,720 --> 01:09:08,720
- I'll fight the Dark Lord with all I've got.
-
-1131
-01:09:08,720 --> 01:09:20,720
- We've arrived at the magic school, sir.
-
-1132
-01:09:20,720 --> 01:09:24,720
- Okay, kids.
-
-1133
-01:09:24,720 --> 01:09:26,720
- Before we start,
-
-1134
-01:09:26,720 --> 01:09:29,720
- let's sing the song,
-
-1135
-01:09:29,720 --> 01:09:31,720
- "Mars, the Magic School".
-
-1136
-01:09:31,720 --> 01:09:33,720
- Oh, my children.
-
-1137
-01:09:33,720 --> 01:09:37,720
- Don't forget the style I taught you.
-
-1138
-01:09:37,720 --> 01:09:39,720
- Yes, sir.
-
-1139
-01:09:39,720 --> 01:09:41,720
- Kids,
-
-1140
-01:09:41,720 --> 01:09:43,720
- since this is the song, "Mars",
-
-1141
-01:09:43,720 --> 01:09:45,720
- you must be excited to sing it.
-
-1142
-01:09:45,720 --> 01:09:46,720
- Yes, sir.
-
-1143
-01:09:46,720 --> 01:09:47,720
- Good.
-
-1144
-01:09:47,720 --> 01:09:49,720
- Let's start on three.
-
-1145
-01:09:49,720 --> 01:09:53,720
- One, two, three.
-
-1146
-01:09:54,720 --> 01:09:56,720
- Show your spirit,
-
-1147
-01:09:56,720 --> 01:09:59,720
- get your friends ready.
-
-1148
-01:09:59,720 --> 01:10:06,720
- Run, jump, and get on the stars.
-
-1149
-01:10:06,720 --> 01:10:10,720
- Be brave,
-
-1150
-01:10:10,720 --> 01:10:14,720
- don't give up.
-
-1151
-01:10:14,720 --> 01:10:18,720
- Chase your dreams.
-
-1152
-01:10:18,720 --> 01:10:19,720
- You,
-
-1153
-01:10:19,720 --> 01:10:22,720
- if you become the head of the school here,
-
-1154
-01:10:22,720 --> 01:10:24,720
- you change the song.
-
-1155
-01:10:24,720 --> 01:10:27,720
- They all must be my followers.
-
-1156
-01:10:27,720 --> 01:10:31,720
- Yes, sir.
-
-1157
-01:10:31,720 --> 01:10:35,720
- I'll make this school the second headquarter.
-
-1158
-01:10:35,720 --> 01:10:40,720
- Just watch me.
-
-1159
-01:10:40,720 --> 01:10:46,720
- You'll know that I'm better at making a school than a war.
-
-1160
-01:10:47,720 --> 01:10:51,720
- [Mars, the Magic School]
-
-1161
-01:10:51,720 --> 01:10:53,720
- My children,
-
-1162
-01:10:53,720 --> 01:10:55,720
- try to imitate me.
-
-1163
-01:10:55,720 --> 01:10:56,720
- Ahai.
-
-1164
-01:10:56,720 --> 01:10:58,720
- Give me a smile.
-
-1165
-01:10:58,720 --> 01:10:59,720
- How is this,
-
-1166
-01:10:59,720 --> 01:11:00,720
- the students of the same grade?
-
-1167
-01:11:00,720 --> 01:11:03,720
- How can you beat the 8th grade?
-
-1168
-01:11:03,720 --> 01:11:06,720
- You've already lost against the 7th grade.
-
-1169
-01:11:06,720 --> 01:11:09,720
- Whose voice is that?
-
-1170
-01:11:09,720 --> 01:11:11,720
- That's the voice.
-
-1171
-01:11:11,720 --> 01:11:13,720
- That's not the voice.
-
-1172
-01:11:14,720 --> 01:11:16,720
- [The Magic School]
-
-1173
-01:11:16,720 --> 01:11:20,720
- Your task now is to find the right person.
-
-1174
-01:11:20,720 --> 01:11:22,720
- Okay, sir.
-
-1175
-01:11:22,720 --> 01:11:28,720
- Show your spirit,
-
-1176
-01:11:28,720 --> 01:11:31,720
- get your friends ready.
-
-1177
-01:11:31,720 --> 01:11:38,720
- Run, jump, and get on the stars.
-
-1178
-01:11:38,720 --> 01:11:42,720
- Be brave,
-
-1179
-01:11:42,720 --> 01:11:46,720
- don't give up.
-
-1180
-01:11:46,720 --> 01:11:53,720
- Chase your dreams.
-
-1181
-01:11:53,720 --> 01:11:56,720
- Go, go, go,
-
-1182
-01:11:56,720 --> 01:11:57,720
- reach all your dreams.
-
-1183
-01:11:57,720 --> 01:11:59,720
- Go, go, go,
-
-1184
-01:11:59,720 --> 01:12:01,720
- never stop.
-
-1185
-01:12:01,720 --> 01:12:03,720
- Go, go, go,
-
-1186
-01:12:03,720 --> 01:12:07,720
- fight with your heart.
-
-1187
-01:12:07,720 --> 01:12:10,720
- Go, go, go,
-
-1188
-01:12:10,720 --> 01:12:11,720
- make yourself proud.
-
-1189
-01:12:11,720 --> 01:12:13,720
- Go, go, go,
-
-1190
-01:12:13,720 --> 01:12:14,720
- let's dream.
-
-1191
-01:12:14,720 --> 01:12:16,720
- Go, go, go,
-
-1192
 01:12:16,720 --> 01:12:19,720
- we will.
+we will.
 

@@ -1,3228 +1,2696 @@
 1
-00:00:00,000 --> 00:00:02,000
- To be continued...
+00:00:00,000 --> 00:00:22,000
+To be continued...
 
 2
-00:00:03,000 --> 00:00:07,000
- To be continued...
+00:00:22,000 --> 00:00:28,000
+Show your spirit, get your friends ready
 
 3
-00:00:07,000 --> 00:00:13,000
- To be continued...
+00:00:28,000 --> 00:00:35,000
+Run, jump, jump, conquer the stars
 
 4
-00:00:14,000 --> 00:00:19,000
- To be continued...
+00:00:35,000 --> 00:00:42,000
+Be brave, don't give up
 
 5
-00:00:19,000 --> 00:00:22,000
- To be continued...
+00:00:42,000 --> 00:00:49,000
+Chase your hopes and dreams
 
 6
-00:00:22,000 --> 00:00:28,000
- Show your spirit, get your friends ready
+00:00:50,000 --> 00:00:53,000
+Go, go, go, achieve all your dreams
 
 7
-00:00:28,000 --> 00:00:35,000
- Run, jump, jump, conquer the stars
+00:00:53,000 --> 00:00:57,000
+Go, go, go, never stop
 
 8
-00:00:35,000 --> 00:00:42,000
- Be brave, don't give up
+00:00:57,000 --> 00:01:03,000
+Go, go, go, fight with all your heart
 
 9
-00:00:42,000 --> 00:00:49,000
- Chase your hopes and dreams
+00:01:03,000 --> 00:01:07,000
+Go, go, go, make yourself proud
 
 10
-00:00:50,000 --> 00:00:53,000
- Go, go, go, achieve all your dreams
+00:01:07,000 --> 00:01:10,000
+Go, go, go, let's dream
 
 11
-00:00:53,000 --> 00:00:57,000
- Go, go, go, never stop
+00:01:10,000 --> 00:01:18,000
+Go, go, go, we can do it
 
 12
-00:00:57,000 --> 00:01:03,000
- Go, go, go, fight with all your heart
+00:01:19,000 --> 00:01:21,000
+Stop, stop
 
 13
-00:01:03,000 --> 00:01:07,000
- Go, go, go, make yourself proud
+00:01:21,000 --> 00:01:32,000
+I'm sure the dwarfs are still at war
 
 14
-00:01:07,000 --> 00:01:10,000
- Go, go, go, let's dream
+00:01:32,000 --> 00:01:37,000
+It seems there is a greater power controlling them
 
 15
-00:01:10,000 --> 00:01:18,000
- Go, go, go, we can do it
+00:01:42,000 --> 00:01:48,000
+Terror will continue to spread until I get that chosen one
 
 16
-00:01:19,000 --> 00:01:21,000
- Stop, stop
+00:01:48,000 --> 00:01:51,000
+Do you see where the dwarfs are?
 
 17
-00:01:21,000 --> 00:01:32,000
- I'm sure the dwarfs are still at war
+00:01:51,000 --> 00:01:56,000
+They are under the lake, everyone wants to attack the lake
 
 18
-00:01:32,000 --> 00:01:37,000
- It seems there is a greater power controlling them
+00:01:56,000 --> 00:02:00,000
+Why aren't they showing up?
 
 19
-00:01:42,000 --> 00:01:48,000
- Terror will continue to spread until I get that chosen one
+00:02:00,000 --> 00:02:04,000
+Be patient, we'll wait a little longer
 
 20
-00:01:48,000 --> 00:01:51,000
- Do you see where the dwarfs are?
+00:02:04,000 --> 00:02:08,000
+They will definitely show up to attack him
 
 21
-00:01:51,000 --> 00:01:56,000
- They are under the lake, everyone wants to attack the lake
+00:02:10,000 --> 00:02:12,000
+Be patient, everyone
 
 22
-00:01:56,000 --> 00:02:00,000
- Why aren't they showing up?
+00:02:39,000 --> 00:02:40,000
+Watch out!
 
 23
-00:02:00,000 --> 00:02:04,000
- Be patient, we'll wait a little longer
+00:02:40,000 --> 00:02:47,000
+They are very agile
 
 24
-00:02:04,000 --> 00:02:08,000
- They will definitely show up to attack him
+00:02:47,000 --> 00:02:51,000
+Let's hide first, we'll attack once they show up
 
 25
-00:02:10,000 --> 00:02:12,000
- Be patient, everyone
+00:02:51,000 --> 00:02:53,000
+Agreed
 
 26
-00:02:39,000 --> 00:02:40,000
- Watch out!
+00:02:53,000 --> 00:02:54,000
+Let's go
 
 27
-00:02:40,000 --> 00:02:47,000
- They are very agile
+00:02:54,000 --> 00:03:21,000
+Attack!
 
 28
-00:02:47,000 --> 00:02:51,000
- Let's hide first, we'll attack once they show up
+00:03:21,000 --> 00:03:37,000
+Now answer my question, where did you hide the dwarfs?
 
 29
-00:02:51,000 --> 00:02:53,000
- Agreed
+00:03:37,000 --> 00:03:45,000
+Don't play around, answer my question
 
 30
-00:02:53,000 --> 00:02:54,000
- Let's go
+00:03:45,000 --> 00:03:47,000
+Answer my question
 
 31
-00:02:54,000 --> 00:03:19,000
- Attack!
+00:03:47,000 --> 00:03:57,000
+Do you think you can play?
 
 32
-00:03:20,000 --> 00:03:21,000
- Attack!
+00:03:57,000 --> 00:04:00,000
+I will show you
 
 33
-00:03:21,000 --> 00:03:37,000
- Now answer my question, where did you hide the dwarfs?
+00:04:00,000 --> 00:04:05,000
+Attack!
 
 34
-00:03:37,000 --> 00:03:45,000
- Don't play around, answer my question
+00:04:05,000 --> 00:04:24,000
+Don't hurt them, they are innocent
 
 35
-00:03:45,000 --> 00:03:47,000
- Answer my question
+00:04:24,000 --> 00:04:27,000
+Dwarf!
 
 36
-00:03:47,000 --> 00:03:57,000
- Do you think you can play?
+00:04:27,000 --> 00:04:30,000
+Dwarf, are you okay?
 
 37
-00:03:57,000 --> 00:04:00,000
- I will show you
+00:04:30,000 --> 00:04:33,000
+Thank you for saving me with your tears
 
 38
-00:04:00,000 --> 00:04:04,000
- Attack!
+00:04:33,000 --> 00:04:37,000
+I promise I will free you from your friends
 
 39
-00:04:04,000 --> 00:04:05,000
- Attack!
+00:04:37,000 --> 00:04:41,000
+Vega, attack
 
 40
-00:04:05,000 --> 00:04:24,000
- Don't hurt them, they are innocent
+00:04:41,000 --> 00:04:43,000
+Hurry
 
 41
-00:04:24,000 --> 00:04:26,000
- Dwarf!
+00:04:43,000 --> 00:04:46,000
+We are here to save our friends
 
 42
-00:04:26,000 --> 00:04:27,000
- Dwarf!
+00:04:46,000 --> 00:04:49,000
+Good, if so, attack
 
 43
-00:04:27,000 --> 00:04:30,000
- Dwarf, are you okay?
+00:04:49,000 --> 00:04:52,000
+These dwarfs deserve to be taught
 
 44
-00:04:30,000 --> 00:04:33,000
- Thank you for saving me with your tears
+00:04:52,000 --> 00:04:57,000
+We can't hurt the dwarfs, we have to work with them
 
 45
-00:04:33,000 --> 00:04:37,000
- I promise I will free you from your friends
+00:04:57,000 --> 00:05:01,000
+You don't know how to teach me
 
 46
-00:04:37,000 --> 00:04:41,000
- Vega, attack
+00:05:02,000 --> 00:05:05,000
+Professor Purwa, it's not our fault, we should try first
 
 47
-00:04:41,000 --> 00:04:43,000
- Hurry
+00:05:05,000 --> 00:05:07,000
+We don't have much time
 
 48
-00:04:43,000 --> 00:04:46,000
- We are here to save our friends
+00:05:07,000 --> 00:05:15,000
+You are lying, you have to endure it
 
 49
-00:04:46,000 --> 00:04:49,000
- Good, if so, attack
+00:05:15,000 --> 00:05:25,000
+Attack!
 
 50
-00:04:49,000 --> 00:04:52,000
- These dwarfs deserve to be taught
+00:05:25,000 --> 00:05:45,000
+It's clear that they are weak
 
 51
-00:04:52,000 --> 00:04:57,000
- We can't hurt the dwarfs, we have to work with them
+00:05:45,000 --> 00:05:49,000
+If so, why do we waste our energy just to fight?
 
 52
-00:04:57,000 --> 00:05:01,000
- You don't know how to teach me
+00:05:49,000 --> 00:05:54,000
+That's why we have to listen to their opinions
 
 53
-00:05:02,000 --> 00:05:05,000
- Professor Purwa, it's not our fault, we should try first
+00:05:54,000 --> 00:06:00,000
+They are still young, but sometimes they are smarter than adults
 
 54
-00:05:05,000 --> 00:05:07,000
- We don't have much time
+00:06:00,000 --> 00:06:04,000
+Alpha, ask them
 
 55
-00:05:07,000 --> 00:05:15,000
- You are lying, you have to endure it
+00:06:04,000 --> 00:06:07,000
+Where are your friends?
 
 56
-00:05:15,000 --> 00:05:24,000
- Attack!
+00:06:15,000 --> 00:06:20,000
+Please tell me where are our friends that you kidnapped?
 
 57
-00:05:24,000 --> 00:05:25,000
- Attack!
+00:06:20,000 --> 00:06:27,000
+What are you doing? Are you playing?
 
 58
-00:05:25,000 --> 00:05:45,000
- It's clear that they are weak
+00:06:27,000 --> 00:06:29,000
+Calm down, professor
 
 59
-00:05:45,000 --> 00:05:49,000
- If so, why do we waste our energy just to fight?
+00:06:29,000 --> 00:06:31,000
+The Dwarf Fairy can't talk
 
 60
-00:05:49,000 --> 00:05:54,000
- That's why we have to listen to their opinions
+00:06:31,000 --> 00:06:44,000
+Lightning!
 
 61
-00:05:54,000 --> 00:06:00,000
- They are still young, but sometimes they are smarter than adults
+00:06:44,000 --> 00:06:55,000
+It seems like Alpha is right
 
 62
-00:06:00,000 --> 00:06:04,000
- Alpha, ask them
+00:06:55,000 --> 00:06:57,000
+They are not fake
 
 63
-00:06:04,000 --> 00:06:07,000
- Where are your friends?
+00:06:57,000 --> 00:07:01,000
+But they can't talk because of one thing
 
 64
-00:06:15,000 --> 00:06:20,000
- Please tell me where are our friends that you kidnapped?
+00:07:01,000 --> 00:07:06,000
+But how can they be so loud?
 
 65
-00:06:20,000 --> 00:06:27,000
- What are you doing? Are you playing?
+00:07:09,000 --> 00:07:13,000
+Why can't you talk?
 
 66
-00:06:27,000 --> 00:06:29,000
- Calm down, professor
+00:07:13,000 --> 00:07:27,000
+Who is he?
 
 67
-00:06:29,000 --> 00:06:31,000
- The Dwarf Fairy can't talk
+00:07:27,000 --> 00:07:30,000
+You were ordered to do this?
 
 68
-00:06:31,000 --> 00:06:43,000
- Lightning!
+00:07:30,000 --> 00:07:37,000
+I read your mind
 
 69
-00:06:43,000 --> 00:06:44,000
- Lightning!
+00:07:37,000 --> 00:07:47,000
+I'm not a fool
 
 70
-00:06:44,000 --> 00:06:55,000
- It seems like Alpha is right
+00:07:47,000 --> 00:07:49,000
+Absolutely man?
 
 71
-00:06:55,000 --> 00:06:57,000
- They are not fake
+00:07:49,000 --> 00:07:50,980
+There is no way.
 
 72
-00:06:57,000 --> 00:07:01,000
- But they can't talk because of one thing
+00:07:50,980 --> 00:07:54,020
+With those two little fangs,
 
 73
-00:07:01,000 --> 00:07:06,000
- But how can they be so loud?
+00:07:54,020 --> 00:07:56,000
+you are definitely not a successor to the Black Kite.
 
 74
-00:07:09,000 --> 00:07:13,000
- Why can't you talk?
+00:07:56,000 --> 00:08:00,000
+You are just a mere agent.
 
 75
-00:07:13,000 --> 00:07:27,000
- Who is he?
+00:08:00,000 --> 00:08:07,000
+He's no other than the Alexander Kvass,
 
 76
-00:07:27,000 --> 00:07:30,000
- You were ordered to do this?
+00:08:07,000 --> 00:08:09,000
+the world's greatest detective.
 
 77
-00:07:30,000 --> 00:07:37,000
- I read your mind
+00:08:09,000 --> 00:08:14,000
+So, what are you doing here?
 
 78
-00:07:37,000 --> 00:07:39,000
- I'm not a fool
+00:08:14,000 --> 00:08:16,000
+It is a mission from all of you.
 
 79
-00:07:39,000 --> 00:07:41,000
- I'm not a fool
+00:08:17,000 --> 00:08:19,000
+[Music]
 
 80
-00:07:42,000 --> 00:07:43,000
- I'm not a fool
+00:08:19,000 --> 00:08:22,000
+Help!
 
 81
-00:07:44,000 --> 00:07:45,000
- I'm not a fool
+00:08:22,000 --> 00:08:23,000
+A tiger is coming!
 
 82
-00:07:45,000 --> 00:07:46,000
- I'm not a fool
+00:08:23,000 --> 00:08:43,000
+[Music]
 
 83
-00:07:46,000 --> 00:07:47,000
- I'm not a fool
+00:08:43,000 --> 00:08:46,000
+So, because of that attack,
 
 84
-00:07:47,000 --> 00:07:49,000
- Absolutely man?
+00:08:46,000 --> 00:08:48,000
+you can't talk?
 
 85
-00:07:49,000 --> 00:07:50,980
- There is no way.
+00:08:48,000 --> 00:09:13,000
+[Music]
 
 86
-00:07:50,980 --> 00:07:54,020
- With those two little fangs,
+00:09:13,000 --> 00:09:15,000
+I am...
 
 87
-00:07:54,020 --> 00:07:56,000
- you are definitely not a successor to the Black Kite.
+00:09:15,000 --> 00:09:17,000
+the decision of the 8th Prince.
 
 88
-00:07:56,000 --> 00:08:00,000
- You are just a mere agent.
+00:09:17,000 --> 00:09:21,000
+I have stolen your voice.
 
 89
-00:08:00,000 --> 00:08:07,000
- He's no other than the Alexander Kvass,
+00:09:22,000 --> 00:09:25,000
+And if you want your voice back,
 
 90
-00:08:07,000 --> 00:08:09,000
- the world's greatest detective.
+00:09:25,000 --> 00:09:27,000
+then...
 
 91
-00:08:09,000 --> 00:08:14,000
- So, what are you doing here?
+00:09:27,000 --> 00:09:30,000
+you have to kidnap 8 children from a magic school.
 
 92
-00:08:14,000 --> 00:08:16,000
- It is a mission from all of you.
+00:09:30,000 --> 00:09:36,000
+And one of those children...
 
 93
-00:08:17,000 --> 00:08:19,000
- [Music]
+00:09:36,000 --> 00:09:40,000
+must be a boy named Alva.
 
 94
-00:08:19,000 --> 00:08:21,000
- Help!
+00:09:40,000 --> 00:09:46,000
+Those children...
 
 95
-00:08:21,000 --> 00:08:22,000
- Help!
+00:09:46,000 --> 00:09:50,000
+must be taken to the headquarters of the 8th Prince...
 
 96
-00:08:22,000 --> 00:08:23,000
- A tiger is coming!
+00:09:51,000 --> 00:09:53,000
+which is located here.
 
 97
-00:08:23,000 --> 00:08:43,000
- [Music]
+00:09:53,000 --> 00:09:58,000
+The headquarters is a secret.
 
 98
-00:08:43,000 --> 00:08:46,000
- So, because of that attack,
+00:09:58,000 --> 00:10:00,000
+So...
 
 99
-00:08:46,000 --> 00:08:48,000
- you can't talk?
+00:10:00,000 --> 00:10:04,000
+you can't tell anyone about it.
 
 100
-00:08:48,000 --> 00:08:54,000
- [Music]
+00:10:04,000 --> 00:10:07,000
+And if one of you...
 
 101
-00:08:54,000 --> 00:09:13,000
- [Music]
+00:10:07,000 --> 00:10:09,000
+leak it,
 
 102
-00:09:13,000 --> 00:09:15,000
- I am...
+00:10:09,000 --> 00:10:11,000
+then...
 
 103
-00:09:15,000 --> 00:09:17,000
- the decision of the 8th Prince.
+00:10:11,000 --> 00:10:15,000
+you will all be cursed to be a bully!
 
 104
-00:09:17,000 --> 00:09:21,000
- I have stolen your voice.
+00:10:15,000 --> 00:10:32,000
+[Music]
 
 105
-00:09:22,000 --> 00:09:25,000
- And if you want your voice back,
+00:10:32,000 --> 00:10:35,000
+The 8th Prince said that you have to kidnap 8 children.
 
 106
-00:09:25,000 --> 00:09:27,000
- then...
+00:10:35,000 --> 00:10:36,000
+How many?
 
 107
-00:09:27,000 --> 00:09:30,000
- you have to kidnap 8 children from a magic school.
+00:10:36,000 --> 00:10:40,000
+[Music]
 
 108
-00:09:30,000 --> 00:09:36,000
- And one of those children...
+00:10:40,000 --> 00:10:41,000
+So...
 
 109
-00:09:36,000 --> 00:09:40,000
- must be a boy named Alva.
+00:10:41,000 --> 00:10:43,000
+two more children are missing.
 
 110
-00:09:40,000 --> 00:09:46,000
- Those children...
+00:10:43,000 --> 00:10:46,000
+And one of them must be me.
 
 111
-00:09:46,000 --> 00:09:50,000
- must be taken to the headquarters of the 8th Prince...
+00:10:46,000 --> 00:10:51,000
+[Music]
 
 112
-00:09:51,000 --> 00:09:53,000
- which is located here.
+00:10:51,000 --> 00:10:53,000
+Mom!
 
 113
-00:09:53,000 --> 00:09:58,000
- The headquarters is a secret.
+00:10:53,000 --> 00:10:54,000
+Dad!
 
 114
-00:09:58,000 --> 00:10:00,000
- So...
+00:10:54,000 --> 00:10:55,000
+Mom!
 
 115
-00:10:00,000 --> 00:10:04,000
- you can't tell anyone about it.
+00:10:55,000 --> 00:10:57,000
+Dad!
 
 116
-00:10:04,000 --> 00:10:07,000
- And if one of you...
+00:10:57,000 --> 00:10:58,000
+Mom!
 
 117
-00:10:07,000 --> 00:10:09,000
- leak it,
+00:10:58,000 --> 00:10:59,000
+Karim!
 
 118
-00:10:09,000 --> 00:10:11,000
- then...
+00:10:59,000 --> 00:11:02,000
+What is it, Ren?
 
 119
-00:10:11,000 --> 00:10:15,000
- you will all be cursed to be a bully!
+00:11:02,000 --> 00:11:18,000
+[Music]
 
 120
-00:10:15,000 --> 00:10:32,000
- [Music]
+00:11:18,000 --> 00:11:19,000
+Food! Food!
 
 121
-00:10:32,000 --> 00:10:35,000
- The 8th Prince said that you have to kidnap 8 children.
+00:11:19,000 --> 00:11:21,000
+Food, Karim!
 
 122
-00:10:35,000 --> 00:10:36,000
- How many?
+00:11:21,000 --> 00:11:29,000
+[Music]
 
 123
-00:10:36,000 --> 00:10:40,000
- [Music]
+00:11:29,000 --> 00:11:31,860
+Haste makes waste.
 
 124
-00:10:40,000 --> 00:10:41,000
- So...
+00:11:31,860 --> 00:11:34,140
+Do you have more?
 
 125
-00:10:41,000 --> 00:10:43,000
- two more children are missing.
+00:11:34,140 --> 00:11:35,620
+Why do we teach you kids?
 
 126
-00:10:43,000 --> 00:10:46,000
- And one of them must be me.
+00:11:35,620 --> 00:11:37,540
+We will be bored, sir.
 
 127
-00:10:46,000 --> 00:10:51,000
- [Music]
+00:11:37,540 --> 00:11:40,620
+We don't get bored anymore!
 
 128
-00:10:51,000 --> 00:10:53,000
- Mom!
+00:11:40,620 --> 00:11:42,620
+I am ready, mom.
 
 129
-00:10:53,000 --> 00:10:54,000
- Dad!
+00:11:42,620 --> 00:11:46,380
+I am learning the magic of magic.
 
 130
-00:10:54,000 --> 00:10:55,000
- Mom!
+00:11:46,380 --> 00:11:50,860
+So I am sure I can protect myself.
 
 131
-00:10:55,000 --> 00:10:57,000
- Dad!
+00:11:50,860 --> 00:11:53,560
+But Alva is not alone.
 
 132
-00:10:57,000 --> 00:10:58,000
- Mom!
+00:11:53,560 --> 00:11:55,400
+I will protect her.
 
 133
-00:10:58,000 --> 00:10:59,000
- Karim!
+00:11:55,400 --> 00:11:59,800
+The fruit of the dragon, the fruit of the dragon fruit.
 
 134
-00:10:59,000 --> 00:11:02,000
- What is it, Ren?
+00:11:59,800 --> 00:12:01,800
+It is dangerous!
 
 135
-00:11:02,000 --> 00:11:06,000
- [Music]
+00:12:01,800 --> 00:12:03,560
+Don't worry, Tentarang.
 
 136
-00:11:06,000 --> 00:11:18,000
- [Music]
+00:12:03,560 --> 00:12:06,600
+We have already fought the three-headed dragon.
 
 137
-00:11:18,000 --> 00:11:19,000
- Food! Food!
+00:12:06,600 --> 00:12:08,600
+So we are sure.
 
 138
-00:11:19,000 --> 00:11:21,000
- Food, Karim!
+00:12:08,600 --> 00:12:13,080
+I think there is no other choice.
 
 139
-00:11:21,000 --> 00:11:25,000
- [Music]
+00:12:13,080 --> 00:12:15,080
+I will count to three.
 
 140
-00:11:25,000 --> 00:11:26,000
- [Music]
+00:12:15,080 --> 00:12:18,280
+If there is no better idea, we will use Alva's idea.
 
 141
-00:11:26,000 --> 00:11:27,000
- [Music]
+00:12:18,280 --> 00:12:20,000
+Professor Purwa!
 
 142
-00:11:27,000 --> 00:11:28,000
- [Music]
+00:12:20,000 --> 00:12:21,720
+One.
 
 143
-00:11:28,000 --> 00:11:29,000
- [Music]
+00:12:21,720 --> 00:12:23,520
+Two.
 
 144
-00:11:29,000 --> 00:11:31,860
- Haste makes waste.
+00:12:23,520 --> 00:12:25,080
+Three.
 
 145
-00:11:31,860 --> 00:11:34,140
- Do you have more?
+00:12:25,080 --> 00:12:27,080
+We will use Alva's idea.
 
 146
-00:11:34,140 --> 00:11:35,620
- Why do we teach you kids?
+00:12:27,080 --> 00:12:31,920
+Dapatang Koveris!
 
 147
-00:11:35,620 --> 00:11:37,540
- We will be bored, sir.
+00:12:31,920 --> 00:12:42,880
+I have installed the protection device and the tracking device on the back.
 
 148
-00:11:37,540 --> 00:11:40,620
- We don't get bored anymore!
+00:12:42,880 --> 00:12:50,800
+Alva, Vega, wait.
 
 149
-00:11:40,620 --> 00:11:42,620
- I am ready, mom.
+00:12:54,920 --> 00:13:00,920
+Alva, Vega, you have to be careful.
 
 150
-00:11:42,620 --> 00:11:46,380
- I am learning the magic of magic.
+00:13:00,920 --> 00:13:07,800
+I promise, I will save you.
 
 151
-00:11:46,380 --> 00:11:50,860
- So I am sure I can protect myself.
+00:13:21,520 --> 00:13:25,000
+Putri Ruyung, let's get through this disaster.
 
 152
-00:11:50,860 --> 00:11:53,560
- But Alva is not alone.
+00:13:25,000 --> 00:13:29,000
+You take us to the eighth dimension.
 
 153
-00:11:53,560 --> 00:11:55,400
- I will protect her.
+00:13:29,000 --> 00:13:35,000
+What should I do? I don't want Alva to get hurt.
 
 154
-00:11:55,400 --> 00:11:59,800
- The fruit of the dragon, the fruit of the dragon fruit.
+00:13:35,000 --> 00:13:38,720
+But I can't tell her where it is.
 
 155
-00:11:59,800 --> 00:12:01,800
- It is dangerous!
+00:13:38,720 --> 00:13:41,520
+Hurry, Putri Ruyung. We don't have much time.
 
 156
-00:12:01,800 --> 00:12:03,560
- Don't worry, Tentarang.
+00:13:41,520 --> 00:13:43,520
+We have to save my friend.
 
 157
-00:12:03,560 --> 00:12:06,600
- We have already fought the three-headed dragon.
+00:13:44,520 --> 00:14:07,520
+[The End]
 
 158
-00:12:06,600 --> 00:12:08,600
- So we are sure.
+00:14:33,520 --> 00:14:35,520
+Good, very good.
 
 159
-00:12:08,600 --> 00:12:13,080
- I think there is no other choice.
+00:14:35,520 --> 00:14:38,520
+Finally, I have succeeded in my dream.
 
 160
-00:12:13,080 --> 00:12:15,080
- I will count to three.
+00:14:38,520 --> 00:14:41,520
+Give them to me.
 
 161
-00:12:15,080 --> 00:12:18,280
- If there is no better idea, we will use Alva's idea.
+00:15:00,520 --> 00:15:03,520
+Karim, wait for me.
 
 162
-00:12:18,280 --> 00:12:20,000
- Professor Purwa!
+00:15:03,520 --> 00:15:06,520
+I'm scared, we're all scared.
 
 163
-00:12:20,000 --> 00:12:21,720
- One.
+00:15:06,520 --> 00:15:08,520
+And hungry.
 
 164
-00:12:21,720 --> 00:12:23,520
- Two.
+00:15:08,520 --> 00:15:10,520
+Karim, please.
 
 165
-00:12:23,520 --> 00:12:25,080
- Three.
+00:15:10,520 --> 00:15:12,520
+I know, I heard your voice.
 
 166
-00:12:25,080 --> 00:12:27,080
- We will use Alva's idea.
+00:15:12,520 --> 00:15:15,520
+I was thinking how to get out of here.
 
 167
-00:12:27,080 --> 00:12:31,920
- Dapatang Koveris!
+00:15:15,520 --> 00:15:17,520
+I cried.
 
 168
-00:12:31,920 --> 00:12:42,880
- I have installed the protection device and the tracking device on the back.
+00:15:17,520 --> 00:15:20,520
+I'm so sad.
 
 169
-00:12:42,880 --> 00:12:50,800
- Alva, Vega, wait.
+00:15:21,520 --> 00:16:46,520
+[To be continued]
 
 170
-00:12:54,920 --> 00:13:00,920
- Alva, Vega, you have to be careful.
+00:16:46,520 --> 00:16:51,520
+What happened?
 
 171
-00:13:00,920 --> 00:13:07,800
- I promise, I will save you.
+00:16:51,520 --> 00:16:53,520
+They must know about the trap.
 
 172
-00:13:21,520 --> 00:13:25,000
- Putri Ruyung, let's get through this disaster.
+00:16:53,520 --> 00:16:55,520
+And they deliberately destroyed it.
 
 173
-00:13:25,000 --> 00:13:29,000
- You take us to the eighth dimension.
+00:16:55,520 --> 00:16:59,520
+If it's not a trap, how can we stop them?
 
 174
-00:13:29,000 --> 00:13:35,000
- What should I do? I don't want Alva to get hurt.
+00:16:59,520 --> 00:17:03,520
+This is all because of Professor Purwa.
 
 175
-00:13:35,000 --> 00:13:38,720
- But I can't tell her where it is.
+00:17:03,520 --> 00:17:05,520
+Because of you, Purwa.
 
 176
-00:13:38,720 --> 00:13:41,520
- Hurry, Putri Ruyung. We don't have much time.
+00:17:05,520 --> 00:17:08,520
+Now, Ava's life is in danger.
 
 177
-00:13:41,520 --> 00:13:43,520
- We have to save my friend.
+00:17:08,520 --> 00:17:11,520
+Megantara, what do you mean?
 
 178
-00:13:44,520 --> 00:13:46,520
- [The End]
+00:17:11,520 --> 00:17:13,520
+This is not my fault.
 
 179
-00:13:47,520 --> 00:13:49,520
- [The End]
+00:17:13,520 --> 00:17:15,520
+But it's true.
 
 180
-00:13:49,520 --> 00:13:51,520
- [The End]
+00:17:15,520 --> 00:17:16,520
+You threatened me.
 
 181
-00:13:51,520 --> 00:13:53,520
- [The End]
+00:17:16,520 --> 00:17:19,520
+I was trying to save the children.
 
 182
-00:13:54,520 --> 00:13:56,520
- [The End]
+00:17:19,520 --> 00:17:21,520
+What?
 
 183
-00:13:57,520 --> 00:13:59,520
- [The End]
+00:17:21,520 --> 00:17:23,520
+Megantara!
 
 184
-00:14:00,520 --> 00:14:02,520
- [The End]
+00:17:23,520 --> 00:17:33,520
+Enough.
 
 185
-00:14:03,520 --> 00:14:05,520
- [The End]
+00:17:33,520 --> 00:17:35,520
+It's no use.
 
 186
-00:14:05,520 --> 00:14:07,520
- [The End]
+00:17:36,520 --> 00:18:58,520
+[To be continued]
 
 187
-00:14:33,520 --> 00:14:35,520
- Good, very good.
+00:18:58,520 --> 00:19:10,520
+Remember.
 
 188
-00:14:35,520 --> 00:14:38,520
- Finally, I have succeeded in my dream.
+00:19:10,520 --> 00:19:12,520
+No one can dare to escape.
 
 189
-00:14:38,520 --> 00:14:41,520
- Give them to me.
+00:19:12,520 --> 00:19:15,520
+If you dare to do anything,
 
 190
-00:15:00,520 --> 00:15:03,520
- Karim, wait for me.
+00:19:15,520 --> 00:19:17,520
+I'll turn you into fish.
 
 191
-00:15:03,520 --> 00:15:06,520
- I'm scared, we're all scared.
+00:19:17,520 --> 00:19:19,520
+Don't.
 
 192
-00:15:06,520 --> 00:15:08,520
- And hungry.
+00:19:19,520 --> 00:19:35,520
+I'm hungry.
 
 193
-00:15:08,520 --> 00:15:10,520
- Karim, please.
+00:19:35,520 --> 00:19:39,520
+What?
 
 194
-00:15:10,520 --> 00:15:12,520
- I know, I heard your voice.
+00:19:39,520 --> 00:19:43,520
+We're caught.
 
 195
-00:15:12,520 --> 00:15:15,520
- I was thinking how to get out of here.
+00:19:43,520 --> 00:19:47,520
+It hurts.
 
 196
-00:15:15,520 --> 00:15:17,520
- I cried.
+00:19:47,520 --> 00:19:52,520
+Where are we?
 
 197
-00:15:17,520 --> 00:15:20,520
- I'm so sad.
+00:19:52,520 --> 00:19:54,520
+We're caught.
 
 198
-00:15:21,520 --> 00:15:25,520
- [To be continued]
+00:19:54,520 --> 00:19:56,520
+Where's our cage?
 
 199
-00:15:25,520 --> 00:15:28,520
- [To be continued]
+00:19:56,520 --> 00:19:59,520
+Oh, right.
 
 200
-00:15:29,520 --> 00:15:32,520
- [To be continued]
+00:19:59,520 --> 00:20:01,520
+Where's my cage?
 
 201
-00:15:33,520 --> 00:15:36,520
- [To be continued]
+00:20:01,520 --> 00:20:03,520
+Maybe, they found it.
 
 202
-00:15:37,520 --> 00:15:40,520
- [To be continued]
+00:20:03,520 --> 00:20:06,520
+If we lose our cage,
 
 203
-00:15:41,520 --> 00:15:44,520
- [To be continued]
+00:20:06,520 --> 00:20:08,520
+the teachers won't know where we are.
 
 204
-00:15:45,520 --> 00:15:48,520
- [To be continued]
+00:20:08,520 --> 00:20:10,520
+We'll be in trouble.
 
 205
-00:15:49,520 --> 00:15:52,520
- [To be continued]
+00:20:10,520 --> 00:20:12,520
+I don't know.
 
 206
-00:15:52,520 --> 00:16:03,520
- [To be continued]
+00:20:12,520 --> 00:20:31,520
+We're trapped.
 
 207
-00:16:03,520 --> 00:16:06,520
- [To be continued]
+00:20:31,520 --> 00:20:34,520
+[To be continued]
 
 208
-00:16:07,520 --> 00:16:10,520
- [To be continued]
+00:20:34,520 --> 00:20:40,520
+I'll open it.
 
 209
-00:16:11,520 --> 00:16:14,520
- [To be continued]
+00:20:40,520 --> 00:20:48,520
+Quiet.
 
 210
-00:16:15,520 --> 00:16:18,520
- [To be continued]
+00:20:48,520 --> 00:20:50,520
+Remember.
 
 211
-00:16:43,520 --> 00:16:46,520
- [To be continued]
+00:20:50,520 --> 00:20:53,520
+If you dare to do anything,
 
 212
-00:16:46,520 --> 00:16:51,520
- What happened?
+00:20:53,520 --> 00:20:56,520
+I'll turn you into fish.
 
 213
-00:16:51,520 --> 00:16:53,520
- They must know about the trap.
+00:20:57,520 --> 00:21:00,520
+[To be continued]
 
 214
-00:16:53,520 --> 00:16:55,520
- And they deliberately destroyed it.
+00:21:00,520 --> 00:21:10,520
+Rangga, put down your weapon.
 
 215
-00:16:55,520 --> 00:16:59,520
- If it's not a trap, how can we stop them?
+00:21:10,520 --> 00:21:20,520
+Now, you can't turn us into fish.
 
 216
-00:16:59,520 --> 00:17:03,520
- This is all because of Professor Purwa.
+00:21:20,520 --> 00:21:23,520
+Guys, let's get out of here.
 
 217
-00:17:03,520 --> 00:17:05,520
- Because of you, Purwa.
+00:21:23,520 --> 00:21:25,520
+Wait.
 
 218
-00:17:05,520 --> 00:17:08,520
- Now, Ava's life is in danger.
+00:21:25,520 --> 00:21:32,520
+[To be continued]
 
 219
-00:17:08,520 --> 00:17:11,520
- Megantara, what do you mean?
+00:21:32,520 --> 00:21:37,520
+It's not that easy.
 
 220
-00:17:11,520 --> 00:17:13,520
- This is not my fault.
+00:21:38,520 --> 00:21:53,520
+[To be continued]
 
 221
-00:17:13,520 --> 00:17:15,520
- But it's true.
+00:22:18,520 --> 00:22:20,520
+Professor Ranggara.
 
 222
-00:17:15,520 --> 00:17:16,520
- You threatened me.
+00:22:20,520 --> 00:22:31,520
+I'm sorry.
 
 223
-00:17:16,520 --> 00:17:19,520
- I was trying to save the children.
+00:22:31,520 --> 00:22:34,520
+Thank you for still recognizing me.
 
 224
-00:17:19,520 --> 00:17:21,520
- What?
+00:22:34,520 --> 00:22:38,520
+Professor.
 
 225
-00:17:21,520 --> 00:17:23,520
- Megantara!
+00:22:38,520 --> 00:22:40,520
+Why are you here?
 
 226
-00:17:23,520 --> 00:17:33,520
- Enough.
+00:22:40,520 --> 00:22:42,520
+You should be in jail.
 
 227
-00:17:33,520 --> 00:17:35,520
- It's no use.
+00:22:42,520 --> 00:22:45,520
+You underestimated me.
 
 228
-00:17:36,520 --> 00:17:39,520
- [To be continued]
+00:22:46,520 --> 00:22:48,520
+A prison like that...
 
 229
-00:17:40,520 --> 00:17:43,520
- [To be continued]
+00:22:48,520 --> 00:22:52,520
+is nothing to me.
 
 230
-00:17:44,520 --> 00:17:47,520
- [To be continued]
+00:22:52,520 --> 00:22:58,520
+And you, Alva.
 
 231
-00:17:48,520 --> 00:17:51,520
- [To be continued]
+00:22:58,520 --> 00:23:01,520
+Don't be happy...
 
 232
-00:17:52,520 --> 00:17:55,520
- [To be continued]
+00:23:01,520 --> 00:23:03,520
+because you took my tongsis.
 
 233
-00:17:56,520 --> 00:17:59,520
- [To be continued]
+00:23:03,520 --> 00:23:05,520
+Because without tongsis,
 
 234
-00:17:59,520 --> 00:18:02,520
- [To be continued]
+00:23:05,520 --> 00:23:08,520
+I can still use my magic.
 
 235
-00:18:02,520 --> 00:18:05,520
- [To be continued]
+00:23:09,520 --> 00:23:12,520
+[To be continued]
 
 236
-00:18:06,520 --> 00:18:09,520
- [To be continued]
+00:23:12,520 --> 00:23:21,520
+You're all dead.
 
 237
-00:18:10,520 --> 00:18:13,520
- [To be continued]
+00:23:22,520 --> 00:23:36,520
+[To be continued]
 
 238
-00:18:14,520 --> 00:18:17,520
- [To be continued]
+00:24:01,520 --> 00:24:03,520
+What should I do?
 
 239
-00:18:18,520 --> 00:18:21,520
- [To be continued]
+00:24:03,520 --> 00:24:06,520
+I feel sorry for Alva and Vega.
 
 240
-00:18:21,520 --> 00:18:25,520
- [To be continued]
+00:24:06,520 --> 00:24:08,520
+They're my friends.
 
 241
-00:18:25,520 --> 00:18:29,520
- [To be continued]
+00:24:08,520 --> 00:24:12,520
+But if I tell them without them knowing...
 
 242
-00:18:29,520 --> 00:18:34,520
- [To be continued]
+00:24:12,520 --> 00:24:15,520
+I...
 
 243
-00:18:34,520 --> 00:18:39,520
- [To be continued]
+00:24:15,520 --> 00:24:17,520
+Shut up, you all!
 
 244
-00:18:39,520 --> 00:18:44,520
- [To be continued]
+00:24:17,520 --> 00:24:19,520
+Shut up!
 
 245
-00:18:45,520 --> 00:18:48,520
- [To be continued]
+00:24:19,520 --> 00:24:23,520
+Vega!
 
 246
-00:18:48,520 --> 00:18:58,520
- [To be continued]
+00:24:24,520 --> 00:24:41,520
+[To be continued]
 
 247
-00:18:58,520 --> 00:19:10,520
- Remember.
+00:24:41,520 --> 00:24:51,520
+Rafa, wait!
 
 248
-00:19:10,520 --> 00:19:12,520
- No one can dare to escape.
+00:24:51,520 --> 00:24:54,520
+[To be continued]
 
 249
-00:19:12,520 --> 00:19:15,520
- If you dare to do anything,
+00:24:54,520 --> 00:24:59,520
+What's wrong, Professor Ragli?
 
 250
-00:19:15,520 --> 00:19:17,520
- I'll turn you into fish.
+00:24:59,520 --> 00:25:01,520
+It's no use fighting.
 
 251
-00:19:17,520 --> 00:19:19,520
- Don't.
+00:25:01,520 --> 00:25:05,520
+It's better if we find the children.
 
 252
-00:19:19,520 --> 00:19:35,520
- I'm hungry.
+00:25:05,520 --> 00:25:07,520
+But what do we do?
 
 253
-00:19:35,520 --> 00:19:39,520
- What?
+00:25:07,520 --> 00:25:09,520
+We don't have any other way.
 
 254
-00:19:39,520 --> 00:19:41,520
- We're caught.
+00:25:09,520 --> 00:25:17,520
+[To be continued]
 
 255
-00:19:41,520 --> 00:19:43,520
- We're caught.
+00:25:17,520 --> 00:25:24,520
+He told us to follow him.
 
 256
-00:19:43,520 --> 00:19:47,520
- It hurts.
+00:25:24,520 --> 00:25:26,520
+He knows where the children are.
 
 257
-00:19:47,520 --> 00:19:52,520
- Where are we?
+00:25:26,520 --> 00:25:28,520
+Let's go!
 
 258
-00:19:52,520 --> 00:19:54,520
- We're caught.
+00:25:28,520 --> 00:25:30,520
+Wait!
 
 259
-00:19:54,520 --> 00:19:56,520
- Where's our cage?
+00:25:30,520 --> 00:25:32,520
+What if we're trapped?
 
 260
-00:19:56,520 --> 00:19:59,520
- Oh, right.
+00:25:32,520 --> 00:25:35,520
+Do you have a better idea?
 
 261
-00:19:59,520 --> 00:20:01,520
- Where's my cage?
+00:25:35,520 --> 00:25:40,520
+Hurry!
 
 262
-00:20:01,520 --> 00:20:03,520
- Maybe, they found it.
+00:25:41,520 --> 00:25:47,520
+[To be continued]
 
 263
-00:20:03,520 --> 00:20:06,520
- If we lose our cage,
+00:25:47,520 --> 00:26:13,520
+What is this place?
 
 264
-00:20:06,520 --> 00:20:08,520
- the teachers won't know where we are.
+00:26:13,520 --> 00:26:15,520
+This must be a trap.
 
 265
-00:20:08,520 --> 00:20:10,520
- We'll be in trouble.
+00:26:15,520 --> 00:26:22,520
+He told us to press it.
 
 266
-00:20:10,520 --> 00:20:12,520
- I don't know.
+00:26:22,520 --> 00:26:39,520
+He told you to press the stone.
 
 267
-00:20:12,520 --> 00:20:31,520
- We're trapped.
+00:26:42,520 --> 00:26:44,520
+You lied to us.
 
 268
-00:20:31,520 --> 00:20:34,520
- [To be continued]
+00:26:44,520 --> 00:26:47,520
+You will get your revenge.
 
 269
-00:20:34,520 --> 00:20:40,520
- I'll open it.
+00:27:09,520 --> 00:27:13,520
+To save your friends, you must be ready.
 
 270
-00:20:40,520 --> 00:20:48,520
- Quiet.
+00:27:13,520 --> 00:27:15,520
+I've destroyed the company.
 
 271
-00:20:48,520 --> 00:20:50,520
- Remember.
+00:27:15,520 --> 00:27:17,520
+How do you know?
 
 272
-00:20:50,520 --> 00:20:53,520
- If you dare to do anything,
+00:27:17,520 --> 00:27:26,520
+Let's go.
 
 273
-00:20:53,520 --> 00:20:56,520
- I'll turn you into fish.
+00:27:38,520 --> 00:27:40,520
+Let's go in.
 
 274
-00:20:57,520 --> 00:21:00,520
- [To be continued]
+00:27:40,520 --> 00:27:53,520
+Get out of here!
 
 275
-00:21:00,520 --> 00:21:10,520
- Rangga, put down your weapon.
+00:27:53,520 --> 00:27:57,520
+How do we get out?
 
 276
-00:21:10,520 --> 00:21:20,520
- Now, you can't turn us into fish.
+00:27:57,520 --> 00:28:00,520
+We have to break the stone.
 
 277
-00:21:20,520 --> 00:21:23,520
- Guys, let's get out of here.
+00:28:00,520 --> 00:28:02,520
+Let's go.
 
 278
-00:21:23,520 --> 00:21:25,520
- Wait.
+00:28:02,520 --> 00:28:07,520
+Let me break it.
 
 279
-00:21:25,520 --> 00:21:28,520
- [To be continued]
+00:28:08,520 --> 00:28:23,520
+[To be continued]
 
 280
-00:21:29,520 --> 00:21:32,520
- [To be continued]
+00:28:46,520 --> 00:28:49,520
+It's getting darker.
 
 281
-00:21:32,520 --> 00:21:37,520
- It's not that easy.
+00:28:49,520 --> 00:28:52,520
+We're going to be separated.
 
 282
-00:21:38,520 --> 00:21:41,520
- [To be continued]
+00:28:52,520 --> 00:29:03,520
+Catch that pig!
 
 283
-00:21:42,520 --> 00:21:45,520
- [To be continued]
+00:29:04,520 --> 00:29:11,520
+[To be continued]
 
 284
-00:21:46,520 --> 00:21:49,520
- [To be continued]
+00:29:11,520 --> 00:29:24,520
+Anggara?
 
 285
-00:21:50,520 --> 00:21:53,520
- [To be continued]
+00:29:24,520 --> 00:29:27,520
+[To be continued]
 
 286
-00:22:18,520 --> 00:22:20,520
- Professor Ranggara.
+00:29:27,520 --> 00:29:47,520
+There are two ways.
 
 287
-00:22:20,520 --> 00:22:31,520
- I'm sorry.
+00:29:47,520 --> 00:29:50,520
+Which one should we take?
 
 288
-00:22:31,520 --> 00:22:34,520
- Thank you for still recognizing me.
+00:29:50,520 --> 00:29:53,520
+We should split up.
 
 289
-00:22:34,520 --> 00:22:38,520
- Professor.
+00:29:54,520 --> 00:29:56,520
+Wait.
 
 290
-00:22:38,520 --> 00:22:40,520
- Why are you here?
+00:29:56,520 --> 00:29:58,520
+I think that's smoke.
 
 291
-00:22:40,520 --> 00:22:42,520
- You should be in jail.
+00:29:58,520 --> 00:30:00,520
+It's a message from the children.
 
 292
-00:22:42,520 --> 00:22:45,520
- You underestimated me.
+00:30:00,520 --> 00:30:03,520
+Let's just follow the smoke.
 
 293
-00:22:46,520 --> 00:22:48,520
- A prison like that...
+00:30:03,520 --> 00:30:06,520
+So, we don't have to split up.
 
 294
-00:22:48,520 --> 00:22:52,520
- is nothing to me.
+00:30:06,520 --> 00:30:08,520
+Let's go.
 
 295
-00:22:52,520 --> 00:22:58,520
- And you, Alva.
+00:30:08,520 --> 00:30:14,520
+So, Professor Anggara...
 
 296
-00:22:58,520 --> 00:23:01,520
- Don't be happy...
+00:30:14,520 --> 00:30:16,520
+ran away from the prison?
 
 297
-00:23:01,520 --> 00:23:03,520
- because you took my tongsis.
+00:30:16,520 --> 00:30:19,520
+Don't you dare.
 
 298
-00:23:03,520 --> 00:23:05,520
- Because without tongsis,
+00:30:19,520 --> 00:30:22,520
+The dark will not be able to hide.
 
 299
-00:23:05,520 --> 00:23:08,520
- I can still use my magic.
+00:30:22,520 --> 00:30:24,520
+The dark will not rise again.
 
 300
-00:23:09,520 --> 00:23:12,520
- [To be continued]
+00:30:24,520 --> 00:30:25,520
+You have captured me.
 
 301
-00:23:12,520 --> 00:23:19,520
- You're all dead.
+00:30:25,520 --> 00:30:28,520
+The terror will not end here.
 
 302
-00:23:19,520 --> 00:23:21,520
- You're all dead.
+00:30:28,520 --> 00:30:31,520
+In the end,
 
 303
-00:23:22,520 --> 00:23:25,520
- [To be continued]
+00:30:31,520 --> 00:30:33,520
+you will lose.
 
 304
-00:23:26,520 --> 00:23:29,520
- [To be continued]
+00:30:33,520 --> 00:30:38,520
+The kidnappers...
 
 305
-00:23:30,520 --> 00:23:33,520
- [To be continued]
+00:30:38,520 --> 00:30:40,520
+must be Anggara.
 
 306
-00:23:33,520 --> 00:23:36,520
- [To be continued]
+00:30:50,520 --> 00:30:52,520
+Don't be afraid.
 
 307
-00:24:01,520 --> 00:24:03,520
- What should I do?
+00:30:52,520 --> 00:30:55,520
+Let me face this.
 
 308
-00:24:03,520 --> 00:24:06,520
- I feel sorry for Alva and Vega.
+00:30:55,520 --> 00:31:16,520
+Everything is ready.
 
 309
-00:24:06,520 --> 00:24:08,520
- They're my friends.
+00:31:16,520 --> 00:31:19,520
+Let's continue our journey.
 
 310
-00:24:08,520 --> 00:24:12,520
- But if I tell them without them knowing...
+00:31:19,520 --> 00:31:21,520
+Let's go.
 
 311
-00:24:12,520 --> 00:24:15,520
- I...
+00:31:21,520 --> 00:31:38,520
+Don't be afraid.
 
 312
-00:24:15,520 --> 00:24:17,520
- Shut up, you all!
+00:31:39,520 --> 00:31:42,520
+[To be continued]
 
 313
-00:24:17,520 --> 00:24:19,520
- Shut up!
+00:31:42,520 --> 00:32:05,520
+We have to use the water.
 
 314
-00:24:19,520 --> 00:24:23,520
- Vega!
+00:32:05,520 --> 00:32:07,520
+Let's go.
 
 315
-00:24:24,520 --> 00:24:27,520
- [To be continued]
+00:32:07,520 --> 00:32:09,520
+Help!
 
 316
-00:24:27,520 --> 00:24:35,520
- [To be continued]
+00:32:10,520 --> 00:33:13,520
+[To be continued]
 
 317
-00:24:35,520 --> 00:24:41,520
- [To be continued]
+00:33:13,520 --> 00:33:23,520
+Thank you.
 
 318
-00:24:41,520 --> 00:24:51,520
- Rafa, wait!
+00:33:23,520 --> 00:33:28,520
+Let's go.
 
 319
-00:24:51,520 --> 00:24:54,520
- [To be continued]
+00:33:28,520 --> 00:33:40,520
+[To be continued]
 
 320
-00:24:54,520 --> 00:24:59,520
- What's wrong, Professor Ragli?
+00:33:40,520 --> 00:33:47,520
+Anggara?
 
 321
-00:24:59,520 --> 00:25:01,520
- It's no use fighting.
+00:33:47,520 --> 00:33:50,520
+So, you are the one who set the trap.
 
 322
-00:25:01,520 --> 00:25:05,520
- It's better if we find the children.
+00:33:50,520 --> 00:33:52,520
+Anggara.
 
 323
-00:25:05,520 --> 00:25:07,520
- But what do we do?
+00:33:52,520 --> 00:33:55,520
+You managed to escape from the dungeon.
 
 324
-00:25:07,520 --> 00:25:09,520
- We don't have any other way.
+00:33:55,520 --> 00:34:05,520
+You underestimate my magic power.
 
 325
-00:25:09,520 --> 00:25:13,520
- [To be continued]
+00:34:05,520 --> 00:34:07,520
+You think...
 
 326
-00:25:14,520 --> 00:25:17,520
- [To be continued]
+00:34:07,520 --> 00:34:12,520
+...I can't escape from a cheap dungeon like that?
 
 327
-00:25:17,520 --> 00:25:24,520
- He told us to follow him.
+00:34:12,520 --> 00:34:17,520
+Anggara, let me face this.
 
 328
-00:25:24,520 --> 00:25:26,520
- He knows where the children are.
+00:34:17,520 --> 00:34:19,520
+You guys, get to the water.
 
 329
-00:25:26,520 --> 00:25:28,520
- Let's go!
+00:34:19,520 --> 00:34:21,520
+Hurry up.
 
 330
-00:25:28,520 --> 00:25:30,520
- Wait!
+00:34:21,520 --> 00:34:25,520
+You guys, go.
 
 331
-00:25:30,520 --> 00:25:32,520
- What if we're trapped?
+00:34:25,520 --> 00:34:27,520
+Hurry up.
 
 332
-00:25:32,520 --> 00:25:35,520
- Do you have a better idea?
+00:34:27,520 --> 00:34:30,520
+[To be continued]
 
 333
-00:25:35,520 --> 00:25:40,520
- Hurry!
+00:34:30,520 --> 00:34:40,520
+The coconut fruit is eaten by the tiger.
 
 334
-00:25:41,520 --> 00:25:44,520
- [To be continued]
+00:34:40,520 --> 00:34:42,520
+Where do you want to go, Anggara?
 
 335
-00:25:44,520 --> 00:25:47,520
- [To be continued]
+00:34:42,520 --> 00:34:52,520
+The door is broken.
 
 336
-00:25:47,520 --> 00:26:13,520
- What is this place?
+00:34:56,520 --> 00:34:58,520
+Let's go.
 
 337
-00:26:13,520 --> 00:26:15,520
- This must be a trap.
+00:34:58,520 --> 00:35:04,520
+Wait.
 
 338
-00:26:15,520 --> 00:26:22,520
- He told us to press it.
+00:35:04,520 --> 00:35:07,520
+Isn't this the energy transfer crystal?
 
 339
-00:26:22,520 --> 00:26:39,520
- He told you to press the stone.
+00:35:07,520 --> 00:35:10,520
+This weapon is very dangerous.
 
 340
-00:26:42,520 --> 00:26:44,520
- You lied to us.
+00:35:10,520 --> 00:35:15,520
+This crystal can collect the energy of the people who want it.
 
 341
-00:26:44,520 --> 00:26:47,520
- You will get your revenge.
+00:35:15,520 --> 00:35:19,520
+And it can absorb the energy until it's exhausted.
 
 342
-00:27:09,520 --> 00:27:13,520
- To save your friends, you must be ready.
+00:35:19,520 --> 00:35:21,520
+We don't have much time.
 
 343
-00:27:13,520 --> 00:27:15,520
- I've destroyed the company.
+00:35:21,520 --> 00:35:24,520
+We have to destroy this crystal ball.
 
 344
-00:27:15,520 --> 00:27:17,520
- How do you know?
+00:35:24,520 --> 00:35:30,520
+If the crystal ball is full, it means the children's energy is absorbed.
 
 345
-00:27:17,520 --> 00:27:26,520
- Let's go.
+00:35:30,520 --> 00:35:32,520
+The children can die.
 
 346
-00:27:38,520 --> 00:27:40,520
- Let's go in.
+00:35:32,520 --> 00:35:34,520
+I will destroy it.
 
 347
-00:27:40,520 --> 00:27:53,520
- Get out of here!
+00:35:34,520 --> 00:35:38,520
+Avancur!
 
 348
-00:27:53,520 --> 00:27:57,520
- How do we get out?
+00:35:38,520 --> 00:35:45,520
+Let's attack.
 
 349
-00:27:57,520 --> 00:28:00,520
- We have to break the stone.
+00:35:45,520 --> 00:35:48,520
+Avancur!
 
 350
-00:28:00,520 --> 00:28:02,520
- Let's go.
+00:35:48,520 --> 00:35:54,520
+[To be continued]
 
 351
-00:28:02,520 --> 00:28:07,520
- Let me break it.
+00:35:54,520 --> 00:36:08,520
+Avancur!
 
 352
-00:28:08,520 --> 00:28:11,520
- [To be continued]
+00:36:09,520 --> 00:36:24,520
+[To be continued]
 
 353
-00:28:12,520 --> 00:28:15,520
- [To be continued]
+00:36:47,520 --> 00:36:50,520
+Good bye, Professor Megantara.
 
 354
-00:28:16,520 --> 00:28:19,520
- [To be continued]
+00:36:50,520 --> 00:37:01,520
+Go to Japan through the north.
 
 355
-00:28:20,520 --> 00:28:23,520
- [To be continued]
+00:37:01,520 --> 00:37:05,520
+It's easy to defeat Megantara.
 
 356
-00:28:46,520 --> 00:28:49,520
- It's getting darker.
+00:37:06,520 --> 00:37:09,520
+[To be continued]
 
 357
-00:28:49,520 --> 00:28:52,520
- We're going to be separated.
+00:37:34,520 --> 00:37:37,520
+Let's destroy it together.
 
 358
-00:28:52,520 --> 00:29:03,520
- Catch that pig!
+00:37:37,520 --> 00:37:39,520
+Yes, sir.
 
 359
-00:29:04,520 --> 00:29:07,520
- [To be continued]
+00:37:39,520 --> 00:37:45,520
+Avancur!
 
 360
-00:29:08,520 --> 00:29:11,520
- [To be continued]
+00:37:46,520 --> 00:37:56,520
+[To be continued]
 
 361
-00:29:11,520 --> 00:29:24,520
- Anggara?
+00:38:21,520 --> 00:38:23,520
+Let's go together.
 
 362
-00:29:24,520 --> 00:29:27,520
- [To be continued]
+00:38:23,520 --> 00:38:27,520
+Tommy.
 
 363
-00:29:27,520 --> 00:29:47,520
- There are two ways.
+00:38:27,520 --> 00:38:32,520
+Are you okay?
 
 364
-00:29:47,520 --> 00:29:50,520
- Which one should we take?
+00:38:32,520 --> 00:38:47,520
+It seems that the destruction of the crystal ball destroyed this place.
 
 365
-00:29:50,520 --> 00:29:53,520
- We should split up.
+00:38:47,520 --> 00:38:49,520
+We have to get out of here.
 
 366
-00:29:54,520 --> 00:29:56,520
- Wait.
+00:38:49,520 --> 00:38:51,520
+Come on, hurry up.
 
 367
-00:29:56,520 --> 00:29:58,520
- I think that's smoke.
+00:38:51,520 --> 00:38:57,520
+Hurry up.
 
 368
-00:29:58,520 --> 00:30:00,520
- It's a message from the children.
+00:38:57,520 --> 00:38:59,520
+Okay.
 
 369
-00:30:00,520 --> 00:30:03,520
- Let's just follow the smoke.
+00:39:00,520 --> 00:39:44,520
+[To be continued]
 
 370
-00:30:03,520 --> 00:30:06,520
- So, we don't have to split up.
+00:39:45,520 --> 00:39:49,520
+Vega.
 
 371
-00:30:06,520 --> 00:30:08,520
- Let's go.
+00:39:49,520 --> 00:39:52,520
+Professor!
 
 372
-00:30:08,520 --> 00:30:14,520
- So, Professor Anggara...
+00:39:52,520 --> 00:40:06,520
+Megantara is still inside.
 
 373
-00:30:14,520 --> 00:30:16,520
- ran away from the prison?
+00:40:06,520 --> 00:40:08,520
+Is Centara also with them?
 
 374
-00:30:16,520 --> 00:30:19,520
- Don't you dare.
+00:40:08,520 --> 00:40:10,520
+Yes, she's fighting against Ankara.
 
 375
-00:30:19,520 --> 00:30:22,520
- The dark will not be able to hide.
+00:40:10,520 --> 00:40:12,520
+What about Centara?
 
 376
-00:30:22,520 --> 00:30:24,520
- The dark will not rise again.
+00:40:12,520 --> 00:40:14,520
+Alpha, wait!
 
 377
-00:30:24,520 --> 00:30:25,520
- You have captured me.
+00:40:14,520 --> 00:40:16,520
+Alpha!
 
 378
-00:30:25,520 --> 00:30:28,520
- The terror will not end here.
+00:40:16,520 --> 00:40:33,520
+Centara!
 
 379
-00:30:28,520 --> 00:30:31,520
- In the end,
+00:40:33,520 --> 00:40:37,520
+Megantara, where are you?
 
 380
-00:30:31,520 --> 00:30:33,520
- you will lose.
+00:40:37,520 --> 00:40:39,520
+Centara!
 
 381
-00:30:33,520 --> 00:30:38,520
- The kidnappers...
+00:40:39,520 --> 00:40:41,520
+Alpha.
 
 382
-00:30:38,520 --> 00:30:40,520
- must be Anggara.
+00:40:41,520 --> 00:40:44,520
+I'm here!
 
 383
-00:30:50,520 --> 00:30:52,520
- Don't be afraid.
+00:40:44,520 --> 00:40:46,520
+I'm here, Megantara.
 
 384
-00:30:52,520 --> 00:30:55,520
- Let me face this.
+00:40:46,520 --> 00:40:48,520
+Megantara!
 
 385
-00:30:55,520 --> 00:31:16,520
- Everything is ready.
+00:40:48,520 --> 00:40:52,520
+Megantara.
 
 386
-00:31:16,520 --> 00:31:19,520
- Let's continue our journey.
+00:40:52,520 --> 00:40:54,520
+Alpha.
 
 387
-00:31:19,520 --> 00:31:21,520
- Let's go.
+00:40:54,520 --> 00:40:59,520
+Professor, I'm here.
 
 388
-00:31:21,520 --> 00:31:38,520
- Don't be afraid.
+00:40:59,520 --> 00:41:07,520
+Thank you, Professor.
 
 389
-00:31:39,520 --> 00:31:42,520
- [To be continued]
+00:41:08,520 --> 00:41:10,520
+Let's go.
 
 390
-00:31:42,520 --> 00:32:05,520
- We have to use the water.
+00:41:10,520 --> 00:41:14,520
+This is Centara.
 
 391
-00:32:05,520 --> 00:32:07,520
- Let's go.
+00:41:14,520 --> 00:41:29,520
+It's dangerous. All the roads are closed.
 
 392
-00:32:07,520 --> 00:32:09,520
- Help!
+00:41:29,520 --> 00:41:31,520
+What should we do, Professor?
 
 393
-00:32:10,520 --> 00:32:13,520
- [To be continued]
+00:41:31,520 --> 00:41:33,520
+Alpha, Professor.
 
 394
-00:32:14,520 --> 00:32:17,520
- [To be continued]
+00:41:33,520 --> 00:41:35,520
+Look, there's a hole.
 
 395
-00:32:17,520 --> 00:32:20,520
- [To be continued]
+00:41:35,520 --> 00:41:37,520
+It's enough for two people.
 
 396
-00:32:21,520 --> 00:32:24,520
- [To be continued]
+00:41:37,520 --> 00:41:39,520
+Alpha, come on.
 
 397
-00:32:24,520 --> 00:32:35,520
- [To be continued]
+00:41:39,520 --> 00:41:41,520
+Go inside that hole.
 
 398
-00:32:36,520 --> 00:32:39,520
- [To be continued]
+00:41:41,520 --> 00:41:43,520
+Hurry!
 
 399
-00:32:40,520 --> 00:32:43,520
- [To be continued]
+00:41:43,520 --> 00:41:48,520
+Come on, Professor.
 
 400
-00:32:43,520 --> 00:32:46,520
- [To be continued]
+00:41:48,520 --> 00:41:50,520
+Go inside. Follow Alpha.
 
 401
-00:32:46,520 --> 00:32:54,520
- [To be continued]
+00:41:50,520 --> 00:41:52,520
+No, Megantara. You go inside.
 
 402
-00:32:54,520 --> 00:33:07,520
- [To be continued]
+00:41:52,520 --> 00:41:54,520
+You can take care of it later.
 
 403
-00:33:10,520 --> 00:33:13,520
- [To be continued]
+00:41:54,520 --> 00:41:56,520
+Professor, go inside.
 
 404
-00:33:13,520 --> 00:33:23,520
- Thank you.
+00:41:56,520 --> 00:41:58,520
+Stay in the middle.
 
 405
-00:33:23,520 --> 00:33:28,520
- Let's go.
+00:41:58,520 --> 00:42:04,520
+Where's Megantara?
 
 406
-00:33:28,520 --> 00:33:37,520
- [To be continued]
+00:42:04,520 --> 00:42:06,520
+What's wrong?
 
 407
-00:33:37,520 --> 00:33:40,520
- [To be continued]
+00:42:06,520 --> 00:42:27,520
+Don't leave me again!
 
 408
-00:33:40,520 --> 00:33:47,520
- Anggara?
+00:42:27,520 --> 00:42:42,520
+We can do this!
 
 409
-00:33:47,520 --> 00:33:50,520
- So, you are the one who set the trap.
+00:42:42,520 --> 00:42:44,520
+Centara, please.
 
 410
-00:33:50,520 --> 00:33:52,520
- Anggara.
+00:42:44,520 --> 00:42:46,520
+Centara.
 
 411
-00:33:52,520 --> 00:33:55,520
- You managed to escape from the dungeon.
+00:42:46,520 --> 00:42:48,520
+Don't leave me.
 
 412
-00:33:55,520 --> 00:34:05,520
- You underestimate my magic power.
+00:42:48,520 --> 00:42:51,520
+Centara, wake up.
 
 413
-00:34:05,520 --> 00:34:07,520
- You think...
+00:42:51,520 --> 00:42:54,520
+You promised me.
 
 414
-00:34:07,520 --> 00:34:12,520
- ...I can't escape from a cheap dungeon like that?
+00:42:55,520 --> 00:42:59,520
+Don't leave me, Centara.
 
 415
-00:34:12,520 --> 00:34:17,520
- Anggara, let me face this.
+00:42:59,520 --> 00:43:02,520
+Wake up, Centara.
 
 416
-00:34:17,520 --> 00:34:19,520
- You guys, get to the water.
+00:43:02,520 --> 00:43:06,520
+Centara!
 
 417
-00:34:19,520 --> 00:34:21,520
- Hurry up.
+00:43:06,520 --> 00:43:09,520
+Wake up, Centara!
 
 418
-00:34:21,520 --> 00:34:25,520
- You guys, go.
+00:43:09,520 --> 00:43:12,520
+Centara! Wake up!
 
 419
-00:34:25,520 --> 00:34:27,520
- Hurry up.
+00:43:12,520 --> 00:43:16,520
+Wake up, Centara!
 
 420
-00:34:27,520 --> 00:34:30,520
- [To be continued]
+00:43:16,520 --> 00:43:18,520
+Centara!
 
 421
-00:34:30,520 --> 00:34:40,520
- The coconut fruit is eaten by the tiger.
+00:43:18,520 --> 00:43:33,520
+Centara, wake up!
 
 422
-00:34:40,520 --> 00:34:42,520
- Where do you want to go, Anggara?
+00:43:33,520 --> 00:43:39,520
+Centara, wake up.
 
 423
-00:34:42,520 --> 00:34:52,520
- The door is broken.
+00:43:43,520 --> 00:43:47,520
+Centara.
 
 424
-00:34:56,520 --> 00:34:58,520
- Let's go.
+00:43:47,520 --> 00:43:53,520
+Alpha, Megantara, hold on.
 
 425
-00:34:58,520 --> 00:35:04,520
- Wait.
+00:43:53,520 --> 00:43:56,520
+Centara.
 
 426
-00:35:04,520 --> 00:35:07,520
- Isn't this the energy transfer crystal?
+00:44:10,520 --> 00:44:13,520
+Be careful. Don't push me.
 
 427
-00:35:07,520 --> 00:35:10,520
- This weapon is very dangerous.
+00:44:13,520 --> 00:44:15,520
+I'll smash your head.
 
 428
-00:35:10,520 --> 00:35:15,520
- This crystal can collect the energy of the people who want it.
+00:44:15,520 --> 00:44:31,520
+Coconut fruit.
 
 429
-00:35:15,520 --> 00:35:19,520
- And it can absorb the energy until it's exhausted.
+00:44:31,520 --> 00:44:34,520
+Alpha.
 
 430
-00:35:19,520 --> 00:35:21,520
- We don't have much time.
+00:44:34,520 --> 00:44:37,520
+Don't cry.
 
 431
-00:35:21,520 --> 00:35:24,520
- We have to destroy this crystal ball.
+00:44:39,520 --> 00:44:41,520
+Smile.
 
 432
-00:35:24,520 --> 00:35:30,520
- If the crystal ball is full, it means the children's energy is absorbed.
+00:44:41,520 --> 00:44:44,520
+I promised you...
 
 433
-00:35:30,520 --> 00:35:32,520
- The children can die.
+00:44:44,520 --> 00:44:47,520
+...that I'll save you all.
 
 434
-00:35:32,520 --> 00:35:34,520
- I will destroy it.
+00:44:47,520 --> 00:44:52,520
+Captain Megantara...
 
 435
-00:35:34,520 --> 00:35:38,520
- Avancur!
+00:44:52,520 --> 00:44:55,520
+...never breaks his promise.
 
 436
-00:35:38,520 --> 00:35:45,520
- Let's attack.
+00:44:55,520 --> 00:44:57,520
+Okay.
 
 437
-00:35:45,520 --> 00:35:48,520
- Avancur!
+00:44:57,520 --> 00:45:01,520
+Where's your tuxedo?
 
 438
-00:35:48,520 --> 00:35:51,520
- [To be continued]
+00:45:02,520 --> 00:45:04,520
+(Megantara's tuxedo)
 
 439
-00:35:51,520 --> 00:35:54,520
- [To be continued]
+00:45:04,520 --> 00:45:17,520
+It's okay.
 
 440
-00:35:54,520 --> 00:36:08,520
- Avancur!
+00:45:17,520 --> 00:45:20,520
+Didiung, you can talk now?
 
 441
-00:36:09,520 --> 00:36:12,520
- [To be continued]
+00:45:20,520 --> 00:45:21,520
+Yes.
 
 442
-00:36:13,520 --> 00:36:16,520
- [To be continued]
+00:45:21,520 --> 00:45:24,520
+It's because the magic has gone.
 
 443
-00:36:17,520 --> 00:36:20,520
- [To be continued]
+00:45:24,520 --> 00:45:26,520
+The place is ruined.
 
 444
-00:36:21,520 --> 00:36:24,520
- [To be continued]
+00:45:27,520 --> 00:45:29,520
+(Megantara's tuxedo)
 
 445
-00:36:47,520 --> 00:36:50,520
- Good bye, Professor Megantara.
+00:45:29,520 --> 00:45:37,520
+Thank you, Putih Diung.
 
 446
-00:36:50,520 --> 00:37:01,520
- Go to Japan through the north.
+00:45:37,520 --> 00:45:40,520
+I'm so happy that you've saved us.
 
 447
-00:37:01,520 --> 00:37:05,520
- It's easy to defeat Megantara.
+00:45:40,520 --> 00:45:42,520
+My name is Tiara.
 
 448
-00:37:06,520 --> 00:37:09,520
- [To be continued]
+00:45:42,520 --> 00:45:44,520
+I'm so happy to meet you.
 
 449
-00:37:34,520 --> 00:37:37,520
- Let's destroy it together.
+00:45:44,520 --> 00:45:46,520
+We'll come back here again.
 
 450
-00:37:37,520 --> 00:37:39,520
- Yes, sir.
+00:45:46,520 --> 00:45:47,520
+Right, Alpha?
 
 451
-00:37:39,520 --> 00:37:45,520
- Avancur!
+00:45:47,520 --> 00:45:50,520
+Yes, I'm happy to meet you too.
 
 452
-00:37:46,520 --> 00:37:49,520
- [To be continued]
+00:45:50,520 --> 00:45:52,520
+You're good kids.
 
 453
-00:37:50,520 --> 00:37:53,520
- [To be continued]
+00:45:52,520 --> 00:45:55,520
+I'm thankful that you saved me.
 
 454
-00:37:53,520 --> 00:37:56,520
- [To be continued]
+00:45:55,520 --> 00:45:57,520
+(Megantara's tuxedo)
 
 455
-00:38:21,520 --> 00:38:23,520
- Let's go together.
+00:45:57,520 --> 00:46:05,520
+Putih Tiara, what's wrong?
 
 456
-00:38:23,520 --> 00:38:25,520
- Tommy.
+00:46:05,520 --> 00:46:07,520
+Are you sick?
 
 457
-00:38:25,520 --> 00:38:27,520
- Tommy.
+00:46:07,520 --> 00:46:16,520
+Putih Tiara!
 
 458
-00:38:27,520 --> 00:38:30,520
- Are you okay?
+00:46:16,520 --> 00:46:18,520
+Where are you?
 
 459
-00:38:30,520 --> 00:38:32,520
- Are you okay?
+00:46:24,520 --> 00:46:27,520
+This is all because of the Dark Lord's curse.
 
 460
-00:38:32,520 --> 00:38:47,520
- It seems that the destruction of the crystal ball destroyed this place.
+00:46:27,520 --> 00:46:33,520
+Putih Tiara has leaked the kids' whereabouts.
 
 461
-00:38:47,520 --> 00:38:49,520
- We have to get out of here.
+00:46:33,520 --> 00:46:37,520
+And now, she's being possessed by the magic.
 
 462
-00:38:49,520 --> 00:38:51,520
- Come on, hurry up.
+00:46:37,520 --> 00:46:41,520
+Tiara...
 
 463
-00:38:51,520 --> 00:38:53,520
- Hurry up.
+00:46:42,520 --> 00:46:44,520
+(The Dark Lord's curse)
 
 464
-00:38:53,520 --> 00:38:55,520
- Hurry up.
+00:46:44,520 --> 00:46:57,520
+It's more dangerous than the dark lord.
 
 465
-00:38:55,520 --> 00:38:57,520
- Hurry up.
+00:46:57,520 --> 00:47:00,520
+Let's just play.
 
 466
-00:38:57,520 --> 00:38:59,520
- Okay.
+00:47:00,520 --> 00:47:03,520
+How about we go to the lake?
 
 467
-00:39:00,520 --> 00:39:03,520
- [To be continued]
+00:47:03,520 --> 00:47:08,520
+I don't want to go to the lake.
 
 468
-00:39:04,520 --> 00:39:07,520
- [To be continued]
+00:47:08,520 --> 00:47:12,520
+I don't want to go to the lake. I'll remember you.
 
 469
-00:39:08,520 --> 00:39:11,520
- [To be continued]
+00:47:12,520 --> 00:47:14,520
+I don't want to.
 
 470
-00:39:12,520 --> 00:39:15,520
- [To be continued]
+00:47:14,520 --> 00:47:23,520
+He left me.
 
 471
-00:39:15,520 --> 00:39:18,520
- [To be continued]
+00:47:23,520 --> 00:47:27,520
+Fine. If you don't want to play, I'll play.
 
 472
-00:39:18,520 --> 00:39:38,520
- [To be continued]
+00:47:28,520 --> 00:47:30,520
+(The Dark Lord's curse)
 
 473
-00:39:38,520 --> 00:39:41,520
- [To be continued]
+00:47:30,520 --> 00:47:42,520
+No, don't.
 
 474
-00:39:41,520 --> 00:39:44,520
- [To be continued]
+00:47:42,520 --> 00:47:44,520
+It's going to be dark again.
 
 475
-00:39:45,520 --> 00:39:47,520
- Vega.
+00:47:44,520 --> 00:47:50,520
+No, don't!
 
 476
-00:39:47,520 --> 00:39:49,520
- Vega.
+00:47:50,520 --> 00:47:52,520
+Don't hurt me again.
 
 477
-00:39:49,520 --> 00:39:52,520
- Professor!
+00:47:52,520 --> 00:47:54,520
+Don't be afraid.
 
 478
-00:39:52,520 --> 00:40:06,520
- Megantara is still inside.
+00:47:54,520 --> 00:47:56,520
+We're not going to harm humans anymore.
 
 479
-00:40:06,520 --> 00:40:08,520
- Is Centara also with them?
+00:47:57,520 --> 00:47:59,520
+Are you serious?
 
 480
-00:40:08,520 --> 00:40:10,520
- Yes, she's fighting against Ankara.
+00:47:59,520 --> 00:48:00,520
+Yes.
 
 481
-00:40:10,520 --> 00:40:12,520
- What about Centara?
+00:48:00,520 --> 00:48:03,520
+Why are you alone?
 
 482
-00:40:12,520 --> 00:40:14,520
- Alpha, wait!
+00:48:03,520 --> 00:48:05,520
+What else can I do?
 
 483
-00:40:14,520 --> 00:40:16,520
- Alpha!
+00:48:05,520 --> 00:48:08,520
+Because Alva and Vega are still sad.
 
 484
-00:40:16,520 --> 00:40:33,520
- Centara!
+00:48:08,520 --> 00:48:10,520
+Because Putih Tiara is possessed.
 
 485
-00:40:33,520 --> 00:40:37,520
- Megantara, where are you?
+00:48:10,520 --> 00:48:13,520
+Don't be like that.
 
 486
-00:40:37,520 --> 00:40:39,520
- Centara!
+00:48:13,520 --> 00:48:14,520
+Come here.
 
 487
-00:40:39,520 --> 00:40:41,520
- Alpha.
+00:48:14,520 --> 00:48:16,520
+I want to talk to you.
 
 488
-00:40:41,520 --> 00:40:44,520
- I'm here!
+00:48:16,520 --> 00:48:17,520
+What?
 
 489
-00:40:44,520 --> 00:40:46,520
- I'm here, Megantara.
+00:48:18,520 --> 00:48:20,520
+(The Dark Lord's curse)
 
 490
-00:40:46,520 --> 00:40:48,520
- Megantara!
+00:48:20,520 --> 00:48:41,520
+I'm going to be Alva, Vega.
 
 491
-00:40:48,520 --> 00:40:52,520
- Megantara.
+00:48:41,520 --> 00:48:44,520
+I'm going to be a witch.
 
 492
-00:40:52,520 --> 00:40:54,520
- Alpha.
+00:48:45,520 --> 00:48:48,520
+Please, don't go.
 
 493
-00:40:54,520 --> 00:40:59,520
- Professor, I'm here.
+00:48:48,520 --> 00:48:51,520
+Please, Putih Tiara. Don't go.
 
 494
-00:40:59,520 --> 00:41:07,520
- Thank you, Professor.
+00:48:51,520 --> 00:48:56,520
+Putih Tiara, I'm sad.
 
 495
-00:41:08,520 --> 00:41:10,520
- Let's go.
+00:48:56,520 --> 00:49:06,520
+Go away.
 
 496
-00:41:10,520 --> 00:41:14,520
- This is Centara.
+00:49:06,520 --> 00:49:08,520
+I'm not fit.
 
 497
-00:41:14,520 --> 00:41:29,520
- It's dangerous. All the roads are closed.
+00:49:08,520 --> 00:49:12,520
+Vega.
 
 498
-00:41:29,520 --> 00:41:31,520
- What should we do, Professor?
+00:49:12,520 --> 00:49:14,520
+You're so weird.
 
 499
-00:41:31,520 --> 00:41:33,520
- Alpha, Professor.
+00:49:14,520 --> 00:49:16,520
+I have a new surprise for you.
 
 500
-00:41:33,520 --> 00:41:35,520
- Look, there's a hole.
+00:49:16,520 --> 00:49:18,520
+I'm Jamon.
 
 501
-00:41:35,520 --> 00:41:37,520
- It's enough for two people.
+00:49:18,520 --> 00:49:20,520
+I'm sure you won't be sad.
 
 502
-00:41:37,520 --> 00:41:39,520
- Alpha, come on.
+00:49:20,520 --> 00:49:23,520
+No, we're going to the orphanage.
 
 503
-00:41:39,520 --> 00:41:41,520
- Go inside that hole.
+00:49:23,520 --> 00:49:24,520
+Me too.
 
 504
-00:41:41,520 --> 00:41:43,520
- Hurry!
+00:49:24,520 --> 00:49:26,520
+It's true.
 
 505
-00:41:43,520 --> 00:41:48,520
- Come on, Professor.
+00:49:26,520 --> 00:49:28,520
+You don't want to meet Putih Tiara.
 
 506
-00:41:48,520 --> 00:41:50,520
- Go inside. Follow Alpha.
+00:49:28,520 --> 00:49:31,520
+Don't lie.
 
 507
-00:41:50,520 --> 00:41:52,520
- No, Megantara. You go inside.
+00:49:31,520 --> 00:49:33,520
+It's true. I'm not lying.
 
 508
-00:41:52,520 --> 00:41:54,520
- You can take care of it later.
+00:49:33,520 --> 00:49:35,520
+Be careful if you lie.
 
 509
-00:41:54,520 --> 00:41:56,520
- Professor, go inside.
+00:49:35,520 --> 00:49:37,520
+But on one condition.
 
 510
-00:41:56,520 --> 00:41:58,520
- Stay in the middle.
+00:49:37,520 --> 00:49:40,520
+Alva, you have to be a girl.
 
 511
-00:41:58,520 --> 00:42:04,520
- Where's Megantara?
+00:49:41,520 --> 00:49:44,520
+It's not funny.
 
 512
-00:42:04,520 --> 00:42:06,520
- What's wrong?
+00:49:44,520 --> 00:49:45,520
+It's true.
 
 513
-00:42:06,520 --> 00:42:27,520
- Don't leave me again!
+00:49:45,520 --> 00:49:47,520
+Just follow me.
 
 514
-00:42:27,520 --> 00:42:32,520
- We can do this!
+00:49:47,520 --> 00:49:54,520
+Is she a girl?
 
 515
-00:42:32,520 --> 00:42:42,520
- We can do this!
+00:49:54,520 --> 00:49:56,520
+I don't know.
 
 516
-00:42:42,520 --> 00:42:44,520
- Centara, please.
+00:49:56,520 --> 00:50:05,520
+I'm not comfortable.
 
 517
-00:42:44,520 --> 00:42:46,520
- Centara.
+00:50:05,520 --> 00:50:08,520
+Where is Putih Tiara?
 
 518
-00:42:46,520 --> 00:42:48,520
- Don't leave me.
+00:50:08,520 --> 00:50:12,520
+If you're lying, I'll tie you up.
 
 519
-00:42:48,520 --> 00:42:51,520
- Centara, wake up.
+00:50:12,520 --> 00:50:14,520
+Just wait.
 
 520
-00:42:51,520 --> 00:42:54,520
- You promised me.
+00:50:14,520 --> 00:50:16,520
+They'll come.
 
 521
-00:42:55,520 --> 00:42:59,520
- Don't leave me, Centara.
+00:50:16,520 --> 00:50:17,520
+What?
 
 522
-00:42:59,520 --> 00:43:02,520
- Wake up, Centara.
+00:50:17,520 --> 00:50:20,520
+They.
 
 523
-00:43:02,520 --> 00:43:06,520
- Centara!
+00:50:20,520 --> 00:50:22,520
+Let's go.
 
 524
-00:43:06,520 --> 00:43:09,520
- Wake up, Centara!
+00:50:22,520 --> 00:50:39,520
+Girls.
 
 525
-00:43:09,520 --> 00:43:12,520
- Centara! Wake up!
+00:50:39,520 --> 00:50:51,520
+That's Putih Tiara.
 
 526
-00:43:12,520 --> 00:43:16,520
- Wake up, Centara!
+00:50:51,520 --> 00:50:58,520
+Remember what I said?
 
 527
-00:43:16,520 --> 00:43:18,520
- Centara!
+00:50:58,520 --> 00:51:01,520
+I met Putih Duyung.
 
 528
-00:43:18,520 --> 00:43:33,520
- Centara, wake up!
+00:51:01,520 --> 00:51:04,520
+He told me...
 
 529
-00:43:33,520 --> 00:43:39,520
- Centara, wake up.
+00:51:04,520 --> 00:51:07,520
+...that if you're a girl, you have to take Putih Tiara's mother.
 
 530
-00:43:43,520 --> 00:43:45,520
- Centara.
+00:51:07,520 --> 00:51:09,520
+So, she can live.
 
 531
-00:43:45,520 --> 00:43:47,520
- Centara.
+00:51:09,520 --> 00:51:13,520
+And then, she'll be a girl.
 
 532
-00:43:47,520 --> 00:43:53,520
- Alpha, Megantara, hold on.
+00:51:13,520 --> 00:51:15,520
+Hurry up.
 
 533
-00:43:53,520 --> 00:43:56,520
- Centara.
+00:51:15,520 --> 00:51:18,520
+Wait for me.
 
 534
-00:44:10,520 --> 00:44:13,520
- Be careful. Don't push me.
+00:51:18,520 --> 00:51:21,520
+They don't like men.
 
 535
-00:44:13,520 --> 00:44:15,520
- I'll smash your head.
+00:51:21,520 --> 00:51:23,520
+Hurry up.
 
 536
-00:44:15,520 --> 00:44:29,520
- Coconut fruit.
+00:51:23,520 --> 00:51:41,520
+To be continued...
 
 537
-00:44:29,520 --> 00:44:31,520
- Coconut fruit.
+00:51:42,520 --> 00:51:44,520
+Putih Tiara.
 
 538
-00:44:31,520 --> 00:44:34,520
- Alpha.
+00:51:44,520 --> 00:51:55,520
+I'm happy to see you again.
 
 539
-00:44:34,520 --> 00:44:37,520
- Don't cry.
+00:51:55,520 --> 00:52:12,520
+Girls.
 
 540
-00:44:39,520 --> 00:44:41,520
- Smile.
+00:52:12,520 --> 00:52:37,520
+It's so fun.
 
 541
-00:44:41,520 --> 00:44:44,520
- I promised you...
+00:52:38,520 --> 00:52:41,520
+There's another man.
 
 542
-00:44:44,520 --> 00:44:47,520
- ...that I'll save you all.
+00:52:41,520 --> 00:52:56,520
+Where are you going?
 
 543
-00:44:47,520 --> 00:44:52,520
- Captain Megantara...
+00:52:56,520 --> 00:53:00,520
+Thank you, Rek.
 
 544
-00:44:52,520 --> 00:44:55,520
- ...never breaks his promise.
+00:53:00,520 --> 00:53:03,520
+I'm so happy to meet you, Tiara.
 
 545
-00:44:55,520 --> 00:44:57,520
- Okay.
+00:53:03,520 --> 00:53:04,520
+Me too.
 
 546
-00:44:57,520 --> 00:45:01,520
- Where's your tuxedo?
+00:53:04,520 --> 00:53:07,520
+It's just for a while.
 
 547
-00:45:02,520 --> 00:45:04,520
- (Megantara's tuxedo)
+00:53:07,520 --> 00:53:10,520
+But I'm happy because he's a good boy.
 
 548
-00:45:04,520 --> 00:45:17,520
- It's okay.
+00:53:10,520 --> 00:53:11,520
+I know.
 
 549
-00:45:17,520 --> 00:45:20,520
- Didiung, you can talk now?
+00:53:11,520 --> 00:53:14,520
+But I'm so weak.
 
 550
-00:45:20,520 --> 00:45:21,520
- Yes.
+00:53:14,520 --> 00:53:23,520
+Attention, girls.
 
 551
-00:45:21,520 --> 00:45:24,520
- It's because the magic has gone.
+00:53:23,520 --> 00:53:27,520
+Starting tomorrow, you'll have a mid-semester vacation.
 
 552
-00:45:24,520 --> 00:45:26,520
- The place is ruined.
+00:53:27,520 --> 00:53:30,520
+And you'll do a field trip to a magic village...
 
 553
-00:45:27,520 --> 00:45:29,520
- (Megantara's tuxedo)
+00:53:30,520 --> 00:53:32,520
+...not far from the school.
 
 554
-00:45:29,520 --> 00:45:37,520
- Thank you, Putih Diung.
+00:53:32,520 --> 00:53:35,520
+Yes!
 
 555
-00:45:37,520 --> 00:45:40,520
- I'm so happy that you've saved us.
+00:53:35,520 --> 00:53:41,520
+There, you'll stay at a guest house...
 
 556
-00:45:40,520 --> 00:45:42,520
- My name is Tiara.
+00:53:41,520 --> 00:53:44,520
+...and have a chat with the magic people.
 
 557
-00:45:42,520 --> 00:45:44,520
- I'm so happy to meet you.
+00:53:44,520 --> 00:53:48,520
+Professor Agni, Purwa, and Megantara...
 
 558
-00:45:44,520 --> 00:45:46,520
- We'll come back here again.
+00:53:48,520 --> 00:53:50,520
+...will accompany you...
 
 559
-00:45:46,520 --> 00:45:47,520
- Right, Alpha?
+00:53:50,520 --> 00:53:52,520
+...to watch you...
 
 560
-00:45:47,520 --> 00:45:50,520
- Yes, I'm happy to meet you too.
+00:53:52,520 --> 00:53:54,520
+...so you don't do anything stupid.
 
 561
-00:45:50,520 --> 00:45:52,520
- You're good kids.
+00:53:54,520 --> 00:53:55,520
+Do you understand?
 
 562
-00:45:52,520 --> 00:45:55,520
- I'm thankful that you saved me.
+00:53:55,520 --> 00:53:57,520
+Yes, sir.
 
 563
-00:45:55,520 --> 00:45:57,520
- (Megantara's tuxedo)
+00:53:58,520 --> 00:54:00,520
+(The Magic Village)
 
 564
-00:45:57,520 --> 00:46:05,520
- Putih Tiara, what's wrong?
+00:54:00,520 --> 00:54:13,520
+There will be a sports competition in the village.
 
 565
-00:46:05,520 --> 00:46:07,520
- Are you sick?
+00:54:13,520 --> 00:54:15,520
+It will be fun.
 
 566
-00:46:07,520 --> 00:46:13,520
- Putih Tiara!
+00:54:15,520 --> 00:54:17,520
+There are a lot of food.
 
 567
-00:46:13,520 --> 00:46:16,520
- Putih Tiara!
+00:54:17,520 --> 00:54:19,520
+We'll eat a lot.
 
 568
-00:46:16,520 --> 00:46:18,520
- Where are you?
+00:54:19,520 --> 00:54:21,520
+It must be fun.
 
 569
-00:46:24,520 --> 00:46:27,520
- This is all because of the Dark Lord's curse.
+00:54:21,520 --> 00:54:23,520
+Yes, I can't wait to go there.
 
 570
-00:46:27,520 --> 00:46:33,520
- Putih Tiara has leaked the kids' whereabouts.
+00:54:25,520 --> 00:54:27,520
+Yes!
 
 571
-00:46:33,520 --> 00:46:37,520
- And now, she's being possessed by the magic.
+00:54:27,520 --> 00:54:50,520
+We have a result.
 
 572
-00:46:37,520 --> 00:46:41,520
- Tiara...
+00:54:50,520 --> 00:54:52,520
+I just heard...
 
 573
-00:46:42,520 --> 00:46:44,520
- (The Dark Lord's curse)
+00:54:52,520 --> 00:54:56,520
+...that the kids from the magic school will host a field trip to the magic village.
 
 574
-00:46:44,520 --> 00:46:57,520
- It's more dangerous than the dark lord.
+00:54:56,520 --> 00:54:58,520
+And I think...
 
 575
-00:46:57,520 --> 00:47:00,520
- Let's just play.
+00:54:58,520 --> 00:55:01,520
+...we can attack Alva there.
 
 576
-00:47:00,520 --> 00:47:03,520
- How about we go to the lake?
+00:55:01,520 --> 00:55:04,520
+I won't fail this time.
 
 577
-00:47:03,520 --> 00:47:08,520
- I don't want to go to the lake.
+00:55:04,520 --> 00:55:08,520
+So I can regain my strength.
 
 578
-00:47:08,520 --> 00:47:12,520
- I don't want to go to the lake. I'll remember you.
+00:55:08,520 --> 00:55:11,520
+I must get that kid.
 
 579
-00:47:12,520 --> 00:47:14,520
- I don't want to.
+00:55:11,520 --> 00:55:13,520
+Don't worry, sir.
 
 580
-00:47:14,520 --> 00:47:23,520
- He left me.
+00:55:13,520 --> 00:55:16,520
+I'll give you whatever you want.
 
 581
-00:47:23,520 --> 00:47:27,520
- Fine. If you don't want to play, I'll play.
+00:55:16,520 --> 00:55:18,520
+(The Magic Village)
 
 582
-00:47:28,520 --> 00:47:30,520
- (The Dark Lord's curse)
+00:55:44,520 --> 00:55:46,520
+Alva!
 
 583
-00:47:30,520 --> 00:47:42,520
- No, don't.
+00:55:46,520 --> 00:56:04,520
+How did you get in here?
 
 584
-00:47:42,520 --> 00:47:44,520
- It's going to be dark again.
+00:56:04,520 --> 00:56:07,520
+Don't be a spy, Alva.
 
 585
-00:47:44,520 --> 00:47:50,520
- No, don't!
+00:56:07,520 --> 00:56:09,520
+Why?
 
 586
-00:47:50,520 --> 00:47:52,520
- Don't hurt me again.
+00:56:09,520 --> 00:56:11,520
+It's dangerous, Alva.
 
 587
-00:47:52,520 --> 00:47:54,520
- Don't be afraid.
+00:56:11,520 --> 00:56:13,520
+Please, don't go.
 
 588
-00:47:54,520 --> 00:47:56,520
- We're not going to harm humans anymore.
+00:56:13,520 --> 00:56:15,520
+But why?
 
 589
-00:47:57,520 --> 00:47:59,520
- Are you serious?
+00:56:15,520 --> 00:56:18,520
+You said you wanted to join the field trip.
 
 590
-00:47:59,520 --> 00:48:00,520
- Yes.
+00:56:18,520 --> 00:56:19,520
+I said no.
 
 591
-00:48:00,520 --> 00:48:03,520
- Why are you alone?
+00:56:19,520 --> 00:56:21,520
+The event must be fun.
 
 592
-00:48:03,520 --> 00:48:05,520
- What else can I do?
+00:56:21,520 --> 00:56:27,520
+Okay.
 
 593
-00:48:05,520 --> 00:48:08,520
- Because Alva and Vega are still sad.
+00:56:27,520 --> 00:56:30,520
+We'll always be there.
 
 594
-00:48:08,520 --> 00:48:10,520
- Because Putih Tiara is possessed.
+00:56:30,520 --> 00:56:35,520
+Where is he?
 
 595
-00:48:10,520 --> 00:48:13,520
- Don't be like that.
+00:56:42,520 --> 00:56:44,520
+It was just a dream.
 
 596
-00:48:13,520 --> 00:48:14,520
- Come here.
+00:56:44,520 --> 00:56:45,520
+But...
 
 597
-00:48:14,520 --> 00:48:16,520
- I want to talk to you.
+00:56:45,520 --> 00:56:47,520
+What does it mean?
 
 598
-00:48:16,520 --> 00:48:17,520
- What?
+00:56:47,520 --> 00:56:49,520
+Why was I forbidden to join the field trip?
 
 599
-00:48:18,520 --> 00:48:20,520
- (The Dark Lord's curse)
+00:56:49,520 --> 00:56:51,520
+Why?
 
 600
-00:48:20,520 --> 00:48:41,520
- I'm going to be Alva, Vega.
+00:56:51,520 --> 00:56:53,520
+Those two...
 
 601
-00:48:41,520 --> 00:48:44,520
- I'm going to be a witch.
+00:56:53,520 --> 00:56:55,520
+...always appear in my dreams.
 
 602
-00:48:45,520 --> 00:48:48,520
- Please, don't go.
+00:56:55,520 --> 00:56:57,520
+And they give me a headache.
 
 603
-00:48:48,520 --> 00:48:51,520
- Please, Putih Tiara. Don't go.
+00:56:57,520 --> 00:57:00,520
+Kids.
 
 604
-00:48:51,520 --> 00:48:56,520
- Putih Tiara, I'm sad.
+00:57:00,520 --> 00:57:02,520
+We'll leave soon.
 
 605
-00:48:56,520 --> 00:49:06,520
- Go away.
+00:57:02,520 --> 00:57:04,520
+On the count of three,
 
 606
-00:49:06,520 --> 00:49:08,520
- I'm not fit.
+00:57:04,520 --> 00:57:07,520
+we'll say the spell together.
 
 607
-00:49:08,520 --> 00:49:12,520
- Vega.
+00:57:07,520 --> 00:57:09,520
+One.
 
 608
-00:49:12,520 --> 00:49:14,520
- You're so weird.
+00:57:09,520 --> 00:57:10,520
+Two.
 
 609
-00:49:14,520 --> 00:49:16,520
- I have a new surprise for you.
+00:57:10,520 --> 00:57:11,520
+Three.
 
 610
-00:49:16,520 --> 00:49:18,520
- I'm Jamon.
+00:57:11,520 --> 00:57:12,520
+Four.
 
 611
-00:49:18,520 --> 00:49:20,520
- I'm sure you won't be sad.
+00:57:12,520 --> 00:57:13,520
+Five.
 
 612
-00:49:20,520 --> 00:49:23,520
- No, we're going to the orphanage.
+00:57:13,520 --> 00:57:47,520
+(The Magic Village)
 
 613
-00:49:23,520 --> 00:49:24,520
- Me too.
+00:57:47,520 --> 00:57:57,520
+They're here.
 
 614
-00:49:24,520 --> 00:49:26,520
- It's true.
+00:57:57,520 --> 00:57:59,520
+Oh, yes.
 
 615
-00:49:26,520 --> 00:49:28,520
- You don't want to meet Putih Tiara.
+00:57:59,520 --> 00:58:02,520
+As we've predicted,
 
 616
-00:49:28,520 --> 00:49:31,520
- Don't lie.
+00:58:02,520 --> 00:58:06,520
+one of them...
 
 617
-00:49:31,520 --> 00:49:33,520
- It's true. I'm not lying.
+00:58:06,520 --> 00:58:08,520
+will open the door...
 
 618
-00:49:33,520 --> 00:49:35,520
- Be careful if you lie.
+00:58:08,520 --> 00:58:12,520
+and make chaos in this village.
 
 619
-00:49:35,520 --> 00:49:37,520
- But on one condition.
+00:58:12,520 --> 00:58:13,520
+Nik.
 
 620
-00:49:37,520 --> 00:49:40,520
- Alva, you have to be a girl.
+00:58:13,520 --> 00:58:17,520
+Now, you'll meet the village head, Mr. Galaksi.
 
 621
-00:49:41,520 --> 00:49:44,520
- It's not funny.
+00:58:17,520 --> 00:58:20,520
+Tell him that we're here.
 
 622
-00:49:44,520 --> 00:49:45,520
- It's true.
+00:58:20,520 --> 00:58:21,520
+And then,
 
 623
-00:49:45,520 --> 00:49:47,520
- Just follow me.
+00:58:21,520 --> 00:58:23,520
+you'll come back here.
 
 624
-00:49:47,520 --> 00:49:54,520
- Is she a girl?
+00:58:23,520 --> 00:58:24,520
+Yes, ma'am.
 
 625
-00:49:54,520 --> 00:49:56,520
- I don't know.
+00:58:24,520 --> 00:58:31,520
+Come on, kids.
 
 626
-00:49:56,520 --> 00:50:05,520
- I'm not comfortable.
+00:58:31,520 --> 00:58:32,520
+Let's see.
 
 627
-00:50:05,520 --> 00:50:08,520
- Where is Putih Tiara?
+00:58:32,520 --> 00:58:54,520
+(The Magic Village)
 
 628
-00:50:08,520 --> 00:50:12,520
- If you're lying, I'll tie you up.
+00:58:54,520 --> 00:59:00,520
+Where did you go?
 
 629
-00:50:12,520 --> 00:50:14,520
- Just wait.
+00:59:01,520 --> 00:59:03,520
+It's here.
 
 630
-00:50:14,520 --> 00:50:16,520
- They'll come.
+00:59:03,520 --> 00:59:04,520
+Nik.
 
 631
-00:50:16,520 --> 00:50:17,520
- What?
+00:59:04,520 --> 00:59:07,520
+Faiqa.
 
 632
-00:50:17,520 --> 00:50:18,520
- They.
+00:59:07,520 --> 00:59:08,520
+Where are you?
 
 633
-00:50:18,520 --> 00:50:20,520
- They.
+00:59:08,520 --> 00:59:10,520
+We can't be separated.
 
 634
-00:50:20,520 --> 00:50:22,520
- Let's go.
+00:59:10,520 --> 00:59:11,520
+We have to be together.
 
 635
-00:50:22,520 --> 00:50:33,520
- Girls.
+00:59:11,520 --> 00:59:12,520
+Come on, kids.
 
 636
-00:50:37,520 --> 00:50:39,520
- Girls.
+00:59:12,520 --> 00:59:13,520
+Come on, everyone.
 
 637
-00:50:39,520 --> 00:50:51,520
- That's Putih Tiara.
+00:59:13,520 --> 00:59:19,520
+Faiqa.
 
 638
-00:50:51,520 --> 00:50:58,520
- Remember what I said?
+00:59:19,520 --> 00:59:25,520
+That's the test, Nik.
 
 639
-00:50:58,520 --> 00:51:01,520
- I met Putih Duyung.
+00:59:25,520 --> 00:59:26,520
+Yes, it is.
 
 640
-00:51:01,520 --> 00:51:04,520
- He told me...
+00:59:26,520 --> 00:59:30,520
+(The Magic Village)
 
 641
-00:51:04,520 --> 00:51:07,520
- ...that if you're a girl, you have to take Putih Tiara's mother.
+00:59:30,520 --> 00:59:48,520
+Karnik.
 
 642
-00:51:07,520 --> 00:51:09,520
- So, she can live.
+00:59:48,520 --> 00:59:51,520
+Why did Karnik turn into a rock?
 
 643
-00:51:09,520 --> 00:51:13,520
- And then, she'll be a girl.
+00:59:51,520 --> 00:59:53,520
+Maybe he's possessed?
 
 644
-00:51:13,520 --> 00:51:15,520
- Hurry up.
+00:59:53,520 --> 00:59:55,520
+Oh, no.
 
 645
-00:51:15,520 --> 00:51:18,520
- Wait for me.
+00:59:56,520 --> 00:59:58,520
+(The Magic Village)
 
 646
-00:51:18,520 --> 00:51:21,520
- They don't like men.
+00:59:58,520 --> 01:00:20,520
+It turns out that the prophecy is true.
 
 647
-00:51:21,520 --> 00:51:23,520
- Hurry up.
+01:00:20,520 --> 01:00:22,520
+The disaster is here.
 
 648
-00:51:23,520 --> 00:51:28,520
- To be continued...
+01:00:22,520 --> 01:00:25,520
+We will all be possessed by the legendary monster.
 
 649
-00:51:29,520 --> 00:51:33,520
- To be continued...
+01:00:25,520 --> 01:00:26,520
+Yes, it is.
 
 650
-00:51:33,520 --> 00:51:37,520
- To be continued...
+01:00:26,520 --> 01:00:35,520
+The legendary monster?
 
 651
-00:51:37,520 --> 00:51:41,520
- To be continued...
+01:00:35,520 --> 01:00:37,520
+What did that man mean?
 
 652
-00:51:42,520 --> 00:51:44,520
- Putih Tiara.
+01:00:37,520 --> 01:00:40,520
+What is the legendary monster?
 
 653
-00:51:44,520 --> 00:51:55,520
- I'm happy to see you again.
+01:00:40,520 --> 01:00:51,520
+What really happened here?
 
 654
-00:51:55,520 --> 00:52:00,520
- Girls.
+01:00:51,520 --> 01:00:52,520
+I don't know.
 
 655
-00:52:10,520 --> 00:52:12,520
- Girls.
+01:00:52,520 --> 01:00:56,520
+Don't worry.
 
 656
-00:52:12,520 --> 00:52:37,520
- It's so fun.
+01:00:56,520 --> 01:00:59,520
+Megantara will be back.
 
 657
-00:52:38,520 --> 00:52:41,520
- There's another man.
+01:00:59,520 --> 01:01:04,520
+Who are you?
 
 658
-00:52:41,520 --> 00:52:56,520
- Where are you going?
+01:01:04,520 --> 01:01:07,520
+I'm a monster.
 
 659
-00:52:56,520 --> 00:53:00,520
- Thank you, Rek.
+01:01:07,520 --> 01:01:14,520
+I'm a powerful monster.
 
 660
-00:53:00,520 --> 00:53:03,520
- I'm so happy to meet you, Tiara.
+01:01:14,520 --> 01:01:17,520
+What's going on, Nik and Karnik?
 
 661
-00:53:03,520 --> 00:53:04,520
- Me too.
+01:01:17,520 --> 01:01:20,520
+Why are you here?
 
 662
-00:53:04,520 --> 00:53:07,520
- It's just for a while.
+01:01:20,520 --> 01:01:22,520
+I have a clue about what happened here.
 
 663
-00:53:07,520 --> 00:53:10,520
- But I'm happy because he's a good boy.
+01:01:22,520 --> 01:01:23,520
+Come here.
 
 664
-00:53:10,520 --> 00:53:11,520
- I know.
+01:01:23,520 --> 01:01:34,520
+♪ Show your spirit, get ready, my friend ♪
 
 665
-00:53:11,520 --> 00:53:14,520
- But I'm so weak.
+01:01:34,520 --> 01:01:42,520
+♪ Run, jump, and climb the stars ♪
 
 666
-00:53:14,520 --> 00:53:23,520
- Attention, girls.
+01:01:42,520 --> 01:01:49,520
+♪ Be brave, don't give up ♪
 
 667
-00:53:23,520 --> 00:53:27,520
- Starting tomorrow, you'll have a mid-semester vacation.
+01:01:50,520 --> 01:01:56,520
+♪ Chase your dreams and hope ♪
 
 668
-00:53:27,520 --> 00:53:30,520
- And you'll do a field trip to a magic village...
+01:01:56,520 --> 01:02:00,520
+♪ Go, go, go, achieve all your dreams ♪
 
 669
-00:53:30,520 --> 00:53:32,520
- ...not far from the school.
+01:02:00,520 --> 01:02:04,520
+♪ Go, go, go, never stop ♪
 
 670
-00:53:32,520 --> 00:53:35,520
- Yes!
+01:02:04,520 --> 01:02:10,520
+♪ Go, go, go, fight with all your might ♪
 
 671
-00:53:35,520 --> 00:53:41,520
- There, you'll stay at a guest house...
+01:02:10,520 --> 01:02:14,520
+♪ Go, go, go, make yourself proud ♪
 
 672
-00:53:41,520 --> 00:53:44,520
- ...and have a chat with the magic people.
+01:02:14,520 --> 01:02:17,520
+♪ Go, go, go, let's dream ♪
 
 673
-00:53:44,520 --> 00:53:48,520
- Professor Agni, Purwa, and Megantara...
+01:02:18,520 --> 01:02:20,520
+Go! Go! Go!
 
 674
-00:53:48,520 --> 00:53:50,520
- ...will accompany you...
-
-675
-00:53:50,520 --> 00:53:52,520
- ...to watch you...
-
-676
-00:53:52,520 --> 00:53:54,520
- ...so you don't do anything stupid.
-
-677
-00:53:54,520 --> 00:53:55,520
- Do you understand?
-
-678
-00:53:55,520 --> 00:53:57,520
- Yes, sir.
-
-679
-00:53:58,520 --> 00:54:00,520
- (The Magic Village)
-
-680
-00:54:00,520 --> 00:54:13,520
- There will be a sports competition in the village.
-
-681
-00:54:13,520 --> 00:54:15,520
- It will be fun.
-
-682
-00:54:15,520 --> 00:54:17,520
- There are a lot of food.
-
-683
-00:54:17,520 --> 00:54:19,520
- We'll eat a lot.
-
-684
-00:54:19,520 --> 00:54:21,520
- It must be fun.
-
-685
-00:54:21,520 --> 00:54:23,520
- Yes, I can't wait to go there.
-
-686
-00:54:25,520 --> 00:54:27,520
- Yes!
-
-687
-00:54:27,520 --> 00:54:50,520
- We have a result.
-
-688
-00:54:50,520 --> 00:54:52,520
- I just heard...
-
-689
-00:54:52,520 --> 00:54:56,520
- ...that the kids from the magic school will host a field trip to the magic village.
-
-690
-00:54:56,520 --> 00:54:58,520
- And I think...
-
-691
-00:54:58,520 --> 00:55:01,520
- ...we can attack Alva there.
-
-692
-00:55:01,520 --> 00:55:04,520
- I won't fail this time.
-
-693
-00:55:04,520 --> 00:55:08,520
- So I can regain my strength.
-
-694
-00:55:08,520 --> 00:55:11,520
- I must get that kid.
-
-695
-00:55:11,520 --> 00:55:13,520
- Don't worry, sir.
-
-696
-00:55:13,520 --> 00:55:16,520
- I'll give you whatever you want.
-
-697
-00:55:16,520 --> 00:55:18,520
- (The Magic Village)
-
-698
-00:55:44,520 --> 00:55:46,520
- Alva!
-
-699
-00:55:46,520 --> 00:56:04,520
- How did you get in here?
-
-700
-00:56:04,520 --> 00:56:07,520
- Don't be a spy, Alva.
-
-701
-00:56:07,520 --> 00:56:09,520
- Why?
-
-702
-00:56:09,520 --> 00:56:11,520
- It's dangerous, Alva.
-
-703
-00:56:11,520 --> 00:56:13,520
- Please, don't go.
-
-704
-00:56:13,520 --> 00:56:15,520
- But why?
-
-705
-00:56:15,520 --> 00:56:18,520
- You said you wanted to join the field trip.
-
-706
-00:56:18,520 --> 00:56:19,520
- I said no.
-
-707
-00:56:19,520 --> 00:56:21,520
- The event must be fun.
-
-708
-00:56:21,520 --> 00:56:27,520
- Okay.
-
-709
-00:56:27,520 --> 00:56:30,520
- We'll always be there.
-
-710
-00:56:30,520 --> 00:56:35,520
- Where is he?
-
-711
-00:56:42,520 --> 00:56:44,520
- It was just a dream.
-
-712
-00:56:44,520 --> 00:56:45,520
- But...
-
-713
-00:56:45,520 --> 00:56:47,520
- What does it mean?
-
-714
-00:56:47,520 --> 00:56:49,520
- Why was I forbidden to join the field trip?
-
-715
-00:56:49,520 --> 00:56:51,520
- Why?
-
-716
-00:56:51,520 --> 00:56:53,520
- Those two...
-
-717
-00:56:53,520 --> 00:56:55,520
- ...always appear in my dreams.
-
-718
-00:56:55,520 --> 00:56:57,520
- And they give me a headache.
-
-719
-00:56:57,520 --> 00:57:00,520
- Kids.
-
-720
-00:57:00,520 --> 00:57:02,520
- We'll leave soon.
-
-721
-00:57:02,520 --> 00:57:04,520
- On the count of three,
-
-722
-00:57:04,520 --> 00:57:07,520
- we'll say the spell together.
-
-723
-00:57:07,520 --> 00:57:09,520
- One.
-
-724
-00:57:09,520 --> 00:57:10,520
- Two.
-
-725
-00:57:10,520 --> 00:57:11,520
- Three.
-
-726
-00:57:11,520 --> 00:57:12,520
- Four.
-
-727
-00:57:12,520 --> 00:57:13,520
- Five.
-
-728
-00:57:13,520 --> 00:57:15,520
- (The Magic Village)
-
-729
-00:57:16,520 --> 00:57:18,520
- (The Magic Village)
-
-730
-00:57:19,520 --> 00:57:21,520
- (The Magic Village)
-
-731
-00:57:22,520 --> 00:57:24,520
- (The Magic Village)
-
-732
-00:57:24,520 --> 00:57:26,520
- (The Magic Village)
-
-733
-00:57:26,520 --> 00:57:33,520
- (The Magic Village)
-
-734
-00:57:33,520 --> 00:57:45,520
- (The Magic Village)
-
-735
-00:57:45,520 --> 00:57:47,520
- (The Magic Village)
-
-736
-00:57:47,520 --> 00:57:57,520
- They're here.
-
-737
-00:57:57,520 --> 00:57:59,520
- Oh, yes.
-
-738
-00:57:59,520 --> 00:58:02,520
- As we've predicted,
-
-739
-00:58:02,520 --> 00:58:06,520
- one of them...
-
-740
-00:58:06,520 --> 00:58:08,520
- will open the door...
-
-741
-00:58:08,520 --> 00:58:12,520
- and make chaos in this village.
-
-742
-00:58:12,520 --> 00:58:13,520
- Nik.
-
-743
-00:58:13,520 --> 00:58:17,520
- Now, you'll meet the village head, Mr. Galaksi.
-
-744
-00:58:17,520 --> 00:58:20,520
- Tell him that we're here.
-
-745
-00:58:20,520 --> 00:58:21,520
- And then,
-
-746
-00:58:21,520 --> 00:58:23,520
- you'll come back here.
-
-747
-00:58:23,520 --> 00:58:24,520
- Yes, ma'am.
-
-748
-00:58:24,520 --> 00:58:31,520
- Come on, kids.
-
-749
-00:58:31,520 --> 00:58:32,520
- Let's see.
-
-750
-00:58:32,520 --> 00:58:34,520
- (The Magic Village)
-
-751
-00:58:34,520 --> 00:58:54,520
- (The Magic Village)
-
-752
-00:58:54,520 --> 00:59:00,520
- Where did you go?
-
-753
-00:59:01,520 --> 00:59:03,520
- It's here.
-
-754
-00:59:03,520 --> 00:59:04,520
- Nik.
-
-755
-00:59:04,520 --> 00:59:05,520
- Faiqa.
-
-756
-00:59:05,520 --> 00:59:06,520
- Faiqa.
-
-757
-00:59:06,520 --> 00:59:07,520
- Faiqa.
-
-758
-00:59:07,520 --> 00:59:08,520
- Where are you?
-
-759
-00:59:08,520 --> 00:59:10,520
- We can't be separated.
-
-760
-00:59:10,520 --> 00:59:11,520
- We have to be together.
-
-761
-00:59:11,520 --> 00:59:12,520
- Come on, kids.
-
-762
-00:59:12,520 --> 00:59:13,520
- Come on, everyone.
-
-763
-00:59:13,520 --> 00:59:14,520
- Faiqa.
-
-764
-00:59:14,520 --> 00:59:15,520
- Faiqa.
-
-765
-00:59:15,520 --> 00:59:16,520
- Faiqa.
-
-766
-00:59:16,520 --> 00:59:18,520
- Faiqa.
-
-767
-00:59:18,520 --> 00:59:19,520
- Faiqa.
-
-768
-00:59:19,520 --> 00:59:25,520
- That's the test, Nik.
-
-769
-00:59:25,520 --> 00:59:26,520
- Yes, it is.
-
-770
-00:59:26,520 --> 00:59:28,520
- (The Magic Village)
-
-771
-00:59:28,520 --> 00:59:30,520
- (The Magic Village)
-
-772
-00:59:30,520 --> 00:59:46,520
- Karnik.
-
-773
-00:59:46,520 --> 00:59:47,520
- Karnik.
-
-774
-00:59:47,520 --> 00:59:48,520
- Karnik.
-
-775
-00:59:48,520 --> 00:59:51,520
- Why did Karnik turn into a rock?
-
-776
-00:59:51,520 --> 00:59:53,520
- Maybe he's possessed?
-
-777
-00:59:53,520 --> 00:59:55,520
- Oh, no.
-
-778
-00:59:56,520 --> 00:59:58,520
- (The Magic Village)
-
-779
-00:59:58,520 --> 01:00:20,520
- It turns out that the prophecy is true.
-
-780
-01:00:20,520 --> 01:00:22,520
- The disaster is here.
-
-781
-01:00:22,520 --> 01:00:25,520
- We will all be possessed by the legendary monster.
-
-782
-01:00:25,520 --> 01:00:26,520
- Yes, it is.
-
-783
-01:00:26,520 --> 01:00:35,520
- The legendary monster?
-
-784
-01:00:35,520 --> 01:00:37,520
- What did that man mean?
-
-785
-01:00:37,520 --> 01:00:40,520
- What is the legendary monster?
-
-786
-01:00:40,520 --> 01:00:51,520
- What really happened here?
-
-787
-01:00:51,520 --> 01:00:52,520
- I don't know.
-
-788
-01:00:52,520 --> 01:00:56,520
- Don't worry.
-
-789
-01:00:56,520 --> 01:00:59,520
- Megantara will be back.
-
-790
-01:00:59,520 --> 01:01:04,520
- Who are you?
-
-791
-01:01:04,520 --> 01:01:07,520
- I'm a monster.
-
-792
-01:01:07,520 --> 01:01:14,520
- I'm a powerful monster.
-
-793
-01:01:14,520 --> 01:01:17,520
- What's going on, Nik and Karnik?
-
-794
-01:01:17,520 --> 01:01:20,520
- Why are you here?
-
-795
-01:01:20,520 --> 01:01:22,520
- I have a clue about what happened here.
-
-796
-01:01:22,520 --> 01:01:23,520
- Come here.
-
-797
-01:01:23,520 --> 01:01:34,520
- ♪ Show your spirit, get ready, my friend ♪
-
-798
-01:01:34,520 --> 01:01:42,520
- ♪ Run, jump, and climb the stars ♪
-
-799
-01:01:42,520 --> 01:01:49,520
- ♪ Be brave, don't give up ♪
-
-800
-01:01:50,520 --> 01:01:56,520
- ♪ Chase your dreams and hope ♪
-
-801
-01:01:56,520 --> 01:02:00,520
- ♪ Go, go, go, achieve all your dreams ♪
-
-802
-01:02:00,520 --> 01:02:04,520
- ♪ Go, go, go, never stop ♪
-
-803
-01:02:04,520 --> 01:02:10,520
- ♪ Go, go, go, fight with all your might ♪
-
-804
-01:02:10,520 --> 01:02:14,520
- ♪ Go, go, go, make yourself proud ♪
-
-805
-01:02:14,520 --> 01:02:17,520
- ♪ Go, go, go, let's dream ♪
-
-806
-01:02:18,520 --> 01:02:20,520
- Go! Go! Go!
-
-807
 01:02:20,520 --> 01:02:23,520
- To be continued...
+To be continued...
 

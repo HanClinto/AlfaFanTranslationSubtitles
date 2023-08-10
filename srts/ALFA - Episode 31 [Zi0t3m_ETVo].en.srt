@@ -1,5324 +1,4612 @@
 1
-00:00:00,000 --> 00:00:02,000
- To be continued...
+00:00:00,000 --> 00:00:20,000
+To be continued...
 
 2
-00:00:03,000 --> 00:00:07,000
- To be continued...
+00:00:20,000 --> 00:00:24,000
+Show your spirit, get ready to find friends
 
 3
-00:00:07,000 --> 00:00:11,000
- To be continued...
+00:00:24,000 --> 00:00:31,000
+Run, run, jump, climb the stairs
 
 4
-00:00:11,000 --> 00:00:14,000
- To be continued...
+00:00:31,000 --> 00:00:39,000
+Be brave, don't give up
 
 5
-00:00:14,000 --> 00:00:17,000
- To be continued...
+00:00:39,000 --> 00:00:46,000
+Chase your dreams and hopes
 
 6
-00:00:17,000 --> 00:00:20,000
- To be continued...
+00:00:48,000 --> 00:00:51,000
+Go, go, go, reach all your dreams
 
 7
-00:00:20,000 --> 00:00:24,000
- Show your spirit, get ready to find friends
+00:00:51,000 --> 00:00:54,000
+Go, go, go, never stop
 
 8
-00:00:24,000 --> 00:00:31,000
- Run, run, jump, climb the stairs
+00:00:54,000 --> 00:01:00,000
+Go, go, go, run with courage
 
 9
-00:00:31,000 --> 00:00:39,000
- Be brave, don't give up
+00:01:00,000 --> 00:01:05,000
+Go, go, go, make yourself proud
 
 10
-00:00:39,000 --> 00:00:46,000
- Chase your dreams and hopes
+00:01:05,000 --> 00:01:08,000
+Go, go, go, let's dream
 
 11
-00:00:48,000 --> 00:00:51,000
- Go, go, go, reach all your dreams
+00:01:08,000 --> 00:01:18,000
+Go, go, go, we can do it
 
 12
-00:00:51,000 --> 00:00:54,000
- Go, go, go, never stop
+00:01:18,000 --> 00:01:20,000
+Mission accomplished, sir
 
 13
-00:00:54,000 --> 00:01:00,000
- Go, go, go, run with courage
+00:01:20,000 --> 00:01:23,000
+Aldebaran finally believes in Leon
 
 14
-00:01:00,000 --> 00:01:05,000
- Go, go, go, make yourself proud
+00:01:23,000 --> 00:01:26,000
+I mean, your brionel, sir
 
 15
-00:01:05,000 --> 00:01:08,000
- Go, go, go, let's dream
+00:01:26,000 --> 00:01:27,000
+Good
 
 16
-00:01:08,000 --> 00:01:15,000
- Go, go, go, we can do it
+00:01:27,000 --> 00:01:32,000
+Now, your task is to fight that protective spirit
 
 17
-00:01:15,000 --> 00:01:18,000
- Go, go, go, we can do it
+00:01:32,000 --> 00:01:35,000
+With a spell of torture
 
 18
-00:01:18,000 --> 00:01:20,000
- Mission accomplished, sir
+00:01:35,000 --> 00:01:37,000
+Yes, a spell of torture
 
 19
-00:01:20,000 --> 00:01:23,000
- Aldebaran finally believes in Leon
+00:01:37,000 --> 00:01:40,000
+You beat the bad guys with a spell of torture, right?
 
 20
-00:01:23,000 --> 00:01:26,000
- I mean, your brionel, sir
+00:01:40,000 --> 00:01:42,000
+That's black magic, you know?
 
 21
-00:01:26,000 --> 00:01:27,000
- Good
+00:01:42,000 --> 00:01:46,000
+Vega, usually you can make a spell
 
 22
-00:01:27,000 --> 00:01:32,000
- Now, your task is to fight that protective spirit
+00:01:46,000 --> 00:01:49,000
+Why are you a failure now?
 
 23
-00:01:32,000 --> 00:01:35,000
- With a spell of torture
+00:01:49,000 --> 00:02:26,000
+A battle of courage and bravery
 
 24
-00:01:35,000 --> 00:01:37,000
- Yes, a spell of torture
+00:02:26,000 --> 00:02:30,000
+Test, one, two, three, sir
 
 25
-00:01:37,000 --> 00:01:40,000
- You beat the bad guys with a spell of torture, right?
+00:02:30,000 --> 00:02:33,000
+Test, Roger, Roger, sir
 
 26
-00:01:40,000 --> 00:01:42,000
- That's black magic, you know?
+00:02:33,000 --> 00:02:35,000
+The result is here, sir
 
 27
-00:01:42,000 --> 00:01:46,000
- Vega, usually you can make a spell
+00:02:35,000 --> 00:02:37,000
+How's Leon's development there?
 
 28
-00:01:46,000 --> 00:01:49,000
- Why are you a failure now?
+00:02:37,000 --> 00:02:40,000
+Wow, it's amazing, sir
 
 29
-00:01:49,000 --> 00:01:53,000
- A battle of courage and bravery
+00:02:40,000 --> 00:02:44,000
+Leon is now the smartest kid in the school
 
 30
-00:01:53,000 --> 00:01:57,000
- A battle of courage and bravery
+00:02:44,000 --> 00:02:46,000
+He even beat Vega, sir
 
 31
-00:01:57,000 --> 00:02:01,000
- A battle of courage and bravery
+00:02:47,000 --> 00:02:49,000
+Hahaha
 
 32
-00:02:01,000 --> 00:02:05,000
- A battle of courage and bravery
+00:02:49,000 --> 00:02:51,000
+Good job, sir
 
 33
-00:02:05,000 --> 00:02:09,000
- A battle of courage and bravery
+00:02:51,000 --> 00:02:55,000
+But there's only one problem, sir
 
 34
-00:02:09,000 --> 00:02:14,000
- A battle of courage and bravery
+00:02:55,000 --> 00:02:58,000
+Alva stole Leon, sir
 
 35
-00:02:14,000 --> 00:02:18,000
- A battle of courage and bravery
+00:02:58,000 --> 00:03:05,000
+I'm worried that Alva can disrupt our plan, sir
 
 36
-00:02:19,000 --> 00:02:22,000
- A battle of courage and bravery
+00:03:06,000 --> 00:03:20,000
+Alva
 
 37
-00:02:22,000 --> 00:02:26,000
- A battle of courage and bravery
+00:03:20,000 --> 00:03:21,000
+What's this, sir?
 
 38
-00:02:26,000 --> 00:02:30,000
- Test, one, two, three, sir
+00:03:21,000 --> 00:03:23,000
+Hahaha
 
 39
-00:02:30,000 --> 00:02:33,000
- Test, Roger, Roger, sir
+00:03:23,000 --> 00:03:26,000
+That's my love potion, sir
 
 40
-00:02:33,000 --> 00:02:35,000
- The result is here, sir
+00:03:26,000 --> 00:03:31,000
+Whoever drinks this potion, he will be loyal and be with Leon
 
 41
-00:02:35,000 --> 00:02:37,000
- How's Leon's development there?
+00:03:31,000 --> 00:03:33,000
+Including Alva
 
 42
-00:02:37,000 --> 00:02:40,000
- Wow, it's amazing, sir
+00:03:34,000 --> 00:03:37,000
+Wow, that's amazing, sir
 
 43
-00:02:40,000 --> 00:02:44,000
- Leon is now the smartest kid in the school
+00:03:37,000 --> 00:03:39,000
+Hahaha
 
 44
-00:02:44,000 --> 00:02:46,000
- He even beat Vega, sir
+00:03:40,000 --> 00:04:44,000
+To be continued...
 
 45
-00:02:47,000 --> 00:02:49,000
- Hahaha
+00:04:44,000 --> 00:04:45,000
+Vega
 
 46
-00:02:49,000 --> 00:02:51,000
- Good job, sir
+00:04:45,000 --> 00:04:48,000
+Leon
 
 47
-00:02:51,000 --> 00:02:55,000
- But there's only one problem, sir
+00:04:49,000 --> 00:04:51,000
+What's wrong with you?
 
 48
-00:02:55,000 --> 00:02:58,000
- Alva stole Leon, sir
+00:04:51,000 --> 00:04:55,000
+You're still a kid and you're sending letters?
 
 49
-00:02:58,000 --> 00:03:05,000
- I'm worried that Alva can disrupt our plan, sir
+00:04:55,000 --> 00:05:00,000
+You're so stupid
 
 50
-00:03:06,000 --> 00:03:07,000
- Alva
+00:05:00,000 --> 00:05:05,000
+Shut up
 
 51
-00:03:07,000 --> 00:03:08,000
- Alva
+00:05:05,000 --> 00:05:11,000
+Learn from me, kid
 
 52
-00:03:08,000 --> 00:03:09,000
- Alva
+00:05:12,000 --> 00:05:24,000
+I'll give you a present
 
 53
-00:03:09,000 --> 00:03:10,000
- Alva
+00:05:24,000 --> 00:05:54,000
+I'm not a kid anymore
 
 54
-00:03:10,000 --> 00:03:11,000
- Alva
+00:05:54,000 --> 00:05:58,000
+Hey, there's a Lion
 
 55
-00:03:11,000 --> 00:03:12,000
- Alva
+00:05:58,000 --> 00:06:00,000
+What's up?
 
 56
-00:03:12,000 --> 00:03:13,000
- Alva
+00:06:00,000 --> 00:06:02,000
+Do you miss us?
 
 57
-00:03:13,000 --> 00:03:14,000
- Alva
+00:06:02,000 --> 00:06:03,000
+Yes, we miss you
 
 58
-00:03:14,000 --> 00:03:15,000
- Alva
+00:06:03,000 --> 00:06:05,000
+Can I get closer to you?
 
 59
-00:03:15,000 --> 00:03:16,000
- Alva
+00:06:05,000 --> 00:06:08,000
+Yes, you can
 
 60
-00:03:16,000 --> 00:03:17,000
- Alva
+00:06:08,000 --> 00:06:13,000
+We're going to have a party tonight
 
 61
-00:03:17,000 --> 00:03:18,000
- Alva
+00:06:13,000 --> 00:06:14,000
+Do you want to come?
 
 62
-00:03:18,000 --> 00:03:19,000
- Alva
+00:06:14,000 --> 00:06:17,000
+Yes, we do
 
 63
-00:03:19,000 --> 00:03:20,000
- Alva
+00:06:17,000 --> 00:06:21,000
+Okay, then you can tell the others
 
 64
-00:03:20,000 --> 00:03:21,000
- What's this, sir?
+00:06:21,000 --> 00:06:23,000
+Okay, kid
 
 65
-00:03:21,000 --> 00:03:23,000
- Hahaha
+00:06:23,000 --> 00:06:25,000
+One more thing
 
 66
-00:03:23,000 --> 00:03:26,000
- That's my love potion, sir
+00:06:25,000 --> 00:06:27,000
+Don't tell the teacher
 
 67
-00:03:26,000 --> 00:03:31,000
- Whoever drinks this potion, he will be loyal and be with Leon
+00:06:27,000 --> 00:06:29,000
+Just a little
 
 68
-00:03:31,000 --> 00:03:33,000
- Including Alva
+00:06:29,000 --> 00:06:32,000
+If the teacher knows, we'll be scolded
 
 69
-00:03:34,000 --> 00:03:37,000
- Wow, that's amazing, sir
+00:06:32,000 --> 00:06:34,000
+Yes, of course
 
 70
-00:03:37,000 --> 00:03:38,000
- Hahaha
+00:06:34,000 --> 00:06:37,000
+Okay, just trust us
 
 71
-00:03:38,000 --> 00:03:39,000
- Hahaha
+00:06:37,000 --> 00:06:40,000
+Okay, thank you
 
 72
-00:03:40,000 --> 00:03:43,000
- To be continued...
+00:06:40,000 --> 00:06:53,000
+Hello, come here
 
 73
-00:03:43,000 --> 00:03:49,000
- To be continued...
+00:06:53,000 --> 00:06:57,000
+Come here
 
 74
-00:03:49,000 --> 00:03:55,000
- To be continued...
+00:07:00,000 --> 00:07:01,000
+Okay, everyone
 
 75
-00:03:55,000 --> 00:04:01,000
- To be continued...
+00:07:01,000 --> 00:07:05,000
+We're going to have a Valentine's Day party
 
 76
-00:04:01,000 --> 00:04:07,000
- To be continued...
+00:07:05,000 --> 00:07:06,000
+That's right
 
 77
-00:04:07,000 --> 00:04:13,000
- To be continued...
+00:07:06,000 --> 00:07:08,000
+But there's one condition
 
 78
-00:04:13,000 --> 00:04:19,000
- To be continued...
+00:07:08,000 --> 00:07:11,000
+Don't tell the teacher
 
 79
-00:04:19,000 --> 00:04:27,000
- To be continued...
+00:07:11,000 --> 00:07:12,000
+Okay
 
 80
-00:04:27,000 --> 00:04:35,000
- To be continued...
+00:07:12,000 --> 00:07:16,000
+Now, we're going to prepare
 
 81
-00:04:35,000 --> 00:04:44,000
- To be continued...
+00:07:16,000 --> 00:07:20,000
+The Valentine's Day party
 
 82
-00:04:44,000 --> 00:04:45,000
- Vega
+00:07:20,000 --> 00:07:24,000
+But don't tell anyone
 
 83
-00:04:45,000 --> 00:04:48,000
- Leon
+00:07:24,000 --> 00:07:28,000
+Okay
 
 84
-00:04:49,000 --> 00:04:51,000
- What's wrong with you?
+00:07:28,000 --> 00:07:30,000
+Just trust us
 
 85
-00:04:51,000 --> 00:04:55,000
- You're still a kid and you're sending letters?
+00:07:30,000 --> 00:07:31,000
+Okay
 
 86
-00:04:55,000 --> 00:04:57,000
- You're so stupid
+00:07:31,000 --> 00:07:38,000
+[Valentine's Day]
 
 87
-00:04:57,000 --> 00:05:00,000
- You're so stupid
+00:08:02,000 --> 00:08:05,000
+Did you buy the flowers?
 
 88
-00:05:00,000 --> 00:05:05,000
- Shut up
+00:08:05,000 --> 00:08:07,000
+No, I was given them
 
 89
-00:05:05,000 --> 00:05:11,000
- Learn from me, kid
+00:08:07,000 --> 00:08:10,000
+Who did you give them to?
 
 90
-00:05:12,000 --> 00:05:14,000
- I'll give you a present
+00:08:10,000 --> 00:08:12,000
+Maria
 
 91
-00:05:14,000 --> 00:05:17,000
- I'll give you a present
+00:08:12,000 --> 00:08:16,000
+She said she's sorry
 
 92
-00:05:17,000 --> 00:05:19,000
- I'll give you a present
+00:08:16,000 --> 00:08:18,000
+Because she cheated on me
 
 93
-00:05:19,000 --> 00:05:24,000
- I'll give you a present
+00:08:18,000 --> 00:08:21,000
+Oh, Maria
 
 94
-00:05:24,000 --> 00:05:30,000
- I'm not a kid anymore
+00:08:21,000 --> 00:08:23,000
+That's so sweet
 
 95
-00:05:30,000 --> 00:05:34,000
- I'm not a kid anymore
+00:08:23,000 --> 00:08:31,000
+Maria, come to the party
 
 96
-00:05:34,000 --> 00:05:38,000
- I'm not a kid anymore
+00:08:32,000 --> 00:08:34,000
+Come here
 
 97
-00:05:38,000 --> 00:05:40,000
- I'm not a kid anymore
+00:08:34,000 --> 00:08:36,000
+Did you know?
 
 98
-00:05:40,000 --> 00:05:42,000
- I'm not a kid anymore
+00:08:36,000 --> 00:08:39,000
+She's going to have a midnight class
 
 99
-00:05:42,000 --> 00:05:44,000
- I'm not a kid anymore
+00:08:39,000 --> 00:08:40,000
+Today?
 
 100
-00:05:44,000 --> 00:05:46,000
- I'm not a kid anymore
+00:08:40,000 --> 00:08:42,000
+It must be fun
 
 101
-00:05:46,000 --> 00:05:48,000
- I'm not a kid anymore
+00:08:42,000 --> 00:08:44,000
+Can we join?
 
 102
-00:05:48,000 --> 00:05:50,000
- I'm not a kid anymore
+00:08:44,000 --> 00:08:46,000
+Of course
 
 103
-00:05:50,000 --> 00:05:52,000
- I'm not a kid anymore
+00:08:46,000 --> 00:08:51,000
+Because she's going to invite all the students
 
 104
-00:05:52,000 --> 00:05:54,000
- I'm not a kid anymore
+00:08:51,000 --> 00:08:55,000
+Don't tell the teacher
 
 105
-00:05:54,000 --> 00:05:58,000
- Hey, there's a Lion
+00:08:55,000 --> 00:08:56,000
+She might scold us
 
 106
-00:05:58,000 --> 00:06:00,000
- What's up?
+00:08:56,000 --> 00:08:58,000
+Okay
 
 107
-00:06:00,000 --> 00:06:02,000
- Do you miss us?
+00:08:59,000 --> 00:09:01,000
+[Valentine's Day]
 
 108
-00:06:02,000 --> 00:06:03,000
- Yes, we miss you
+00:09:01,000 --> 00:09:09,000
+Are you going to the midnight class?
 
 109
-00:06:03,000 --> 00:06:05,000
- Can I get closer to you?
+00:09:09,000 --> 00:09:11,000
+With Rio?
 
 110
-00:06:05,000 --> 00:06:08,000
- Yes, you can
+00:09:11,000 --> 00:09:13,000
+I don't know
 
 111
-00:06:08,000 --> 00:06:13,000
- We're going to have a party tonight
+00:09:13,000 --> 00:09:15,000
+I don't feel good with her
 
 112
-00:06:13,000 --> 00:06:14,000
- Do you want to come?
+00:09:15,000 --> 00:09:16,000
+Why?
 
 113
-00:06:14,000 --> 00:06:17,000
- Yes, we do
+00:09:16,000 --> 00:09:18,000
+You don't like her?
 
 114
-00:06:17,000 --> 00:06:21,000
- Okay, then you can tell the others
+00:09:18,000 --> 00:09:20,000
+She's a good girl
 
 115
-00:06:21,000 --> 00:06:23,000
- Okay, kid
+00:09:20,000 --> 00:09:21,000
+Right, Rita?
 
 116
-00:06:23,000 --> 00:06:25,000
- One more thing
+00:09:21,000 --> 00:09:23,000
+Yes, she's a good girl
 
 117
-00:06:25,000 --> 00:06:27,000
- Don't tell the teacher
+00:09:23,000 --> 00:09:25,000
+Let's go together
 
 118
-00:06:27,000 --> 00:06:29,000
- Just a little
+00:09:25,000 --> 00:09:29,000
+So you can get closer to her
 
 119
-00:06:29,000 --> 00:06:32,000
- If the teacher knows, we'll be scolded
+00:09:29,000 --> 00:09:40,000
+Good afternoon, Your Highness
 
 120
-00:06:32,000 --> 00:06:34,000
- Yes, of course
+00:09:40,000 --> 00:09:43,000
+How is it?
 
 121
-00:06:34,000 --> 00:06:37,000
- Okay, just trust us
+00:09:43,000 --> 00:09:46,000
+Have you managed to get them?
 
 122
-00:06:37,000 --> 00:06:40,000
- Okay, thank you
+00:09:46,000 --> 00:09:48,000
+Of course, Your Highness
 
 123
-00:06:40,000 --> 00:06:53,000
- Hello, come here
+00:09:49,000 --> 00:09:51,000
+[The most beautiful moment]
 
 124
-00:06:53,000 --> 00:06:55,000
- Come here
+00:09:51,000 --> 00:10:12,000
+This is it
 
 125
-00:06:55,000 --> 00:06:57,000
- Come here
+00:10:12,000 --> 00:10:17,000
+This is impossible
 
 126
-00:07:00,000 --> 00:07:01,000
- Okay, everyone
+00:10:17,000 --> 00:10:19,000
+How is it impossible?
 
 127
-00:07:01,000 --> 00:07:05,000
- We're going to have a Valentine's Day party
+00:10:19,000 --> 00:10:21,000
+It's possible
 
 128
-00:07:05,000 --> 00:07:06,000
- That's right
+00:10:21,000 --> 00:10:25,000
+The fabric is already touched by the queen
 
 129
-00:07:06,000 --> 00:07:08,000
- But there's one condition
+00:10:25,000 --> 00:10:28,000
+No one has ever dyed my fabric with blood
 
 130
-00:07:08,000 --> 00:07:11,000
- Don't tell the teacher
+00:10:28,000 --> 00:10:30,000
+And yet
 
 131
-00:07:11,000 --> 00:07:12,000
- Okay
+00:10:30,000 --> 00:10:33,000
+You're still cheating
 
 132
-00:07:12,000 --> 00:07:16,000
- Now, we're going to prepare
+00:10:33,000 --> 00:10:36,000
+Wait
 
 133
-00:07:16,000 --> 00:07:20,000
- The Valentine's Day party
+00:10:36,000 --> 00:10:39,000
+Queen
 
 134
-00:07:20,000 --> 00:07:24,000
- But don't tell anyone
+00:10:39,000 --> 00:10:41,000
+So
 
 135
-00:07:24,000 --> 00:07:26,000
- Okay
+00:10:41,000 --> 00:10:46,000
+The queen wants us to die by dyeing this fabric?
 
 136
-00:07:26,000 --> 00:07:28,000
- Okay
+00:10:46,000 --> 00:10:47,000
+Of course
 
 137
-00:07:28,000 --> 00:07:30,000
- Just trust us
+00:10:47,000 --> 00:10:49,000
+You all deserve to die
 
 138
-00:07:30,000 --> 00:07:31,000
- Okay
+00:10:49,000 --> 00:10:52,000
+Because you want to get the most valuable treasure in this world
 
 139
-00:07:31,000 --> 00:07:34,000
- [Valentine's Day]
+00:10:52,000 --> 00:11:12,000
+Guys, I can't wait for the midnight class
 
 140
-00:07:35,000 --> 00:07:38,000
- [Valentine's Day]
+00:11:12,000 --> 00:11:16,000
+Me too, Sis
 
 141
-00:08:02,000 --> 00:08:05,000
- Did you buy the flowers?
+00:11:16,000 --> 00:11:17,000
+Shh
 
 142
-00:08:05,000 --> 00:08:07,000
- No, I was given them
+00:11:17,000 --> 00:11:20,000
+Don't make a noise, or the teacher will laugh at us
 
 143
-00:08:07,000 --> 00:08:10,000
- Who did you give them to?
+00:11:20,000 --> 00:11:22,000
+You're my sister
 
 144
-00:08:10,000 --> 00:08:12,000
- Maria
+00:11:22,000 --> 00:11:24,000
+You're so annoying
 
 145
-00:08:12,000 --> 00:08:16,000
- She said she's sorry
+00:11:24,000 --> 00:11:27,000
+Now, let's divide the tasks
 
 146
-00:08:16,000 --> 00:08:18,000
- Because she cheated on me
+00:11:27,000 --> 00:11:29,000
+Rita, Pega
 
 147
-00:08:18,000 --> 00:08:21,000
- Oh, Maria
+00:11:29,000 --> 00:11:31,000
+Prepare the food
 
 148
-00:08:21,000 --> 00:08:23,000
- That's so sweet
+00:11:31,000 --> 00:11:33,000
+Yes
 
 149
-00:08:23,000 --> 00:08:31,000
- Maria, come to the party
+00:11:33,000 --> 00:11:35,000
+We're the sexy decoration
 
 150
-00:08:32,000 --> 00:08:34,000
- Come here
+00:11:35,000 --> 00:11:37,000
+Because we're sexy
 
 151
-00:08:34,000 --> 00:08:36,000
- Did you know?
+00:11:37,000 --> 00:11:39,000
+Smart, my sister
 
 152
-00:08:36,000 --> 00:08:39,000
- She's going to have a midnight class
+00:11:39,000 --> 00:11:41,000
+Okay
 
 153
-00:08:39,000 --> 00:08:40,000
- Today?
+00:11:41,000 --> 00:11:44,000
+Okay, you're the sexy decoration
 
 154
-00:08:40,000 --> 00:08:42,000
- It must be fun
+00:11:44,000 --> 00:11:46,000
+Ray and I will prepare the drinks
 
 155
-00:08:42,000 --> 00:08:44,000
- Can we join?
+00:11:46,000 --> 00:11:48,000
+Okay
 
 156
-00:08:44,000 --> 00:08:46,000
- Of course
+00:11:48,000 --> 00:11:50,000
+What are we doing?
 
 157
-00:08:46,000 --> 00:08:51,000
- Because she's going to invite all the students
+00:11:50,000 --> 00:11:52,000
+You're the satbang
 
 158
-00:08:51,000 --> 00:08:55,000
- Don't tell the teacher
+00:11:52,000 --> 00:11:57,000
+Alpah, your task is to wake up the other students
 
 159
-00:08:55,000 --> 00:08:56,000
- She might scold us
+00:11:57,000 --> 00:12:00,000
+It's 11 PM
 
 160
-00:08:56,000 --> 00:08:58,000
- Okay
+00:12:00,000 --> 00:12:02,000
+What do you think?
 
 161
-00:08:59,000 --> 00:09:01,000
- [Valentine's Day]
+00:12:02,000 --> 00:12:08,000
+Are you sure that there will be a party at 11 PM?
 
 162
-00:09:01,000 --> 00:09:09,000
- Are you going to the midnight class?
+00:12:08,000 --> 00:12:10,000
+Of course, Alpah
 
 163
-00:09:09,000 --> 00:09:11,000
- With Rio?
+00:12:10,000 --> 00:12:15,000
+But Ray, our school was just attacked by the labah-labah
 
 164
-00:09:11,000 --> 00:09:13,000
- I don't know
+00:12:15,000 --> 00:12:17,000
+Without the teacher's knowledge
 
 165
-00:09:13,000 --> 00:09:15,000
- I don't feel good with her
+00:12:17,000 --> 00:12:19,000
+It's very dangerous
 
 166
-00:09:15,000 --> 00:09:16,000
- Why?
+00:12:19,000 --> 00:12:21,000
+What if something happens?
 
 167
-00:09:16,000 --> 00:09:18,000
- You don't like her?
+00:12:21,000 --> 00:12:23,000
+You're paranoid, Alpah
 
 168
-00:09:18,000 --> 00:09:20,000
- She's a good girl
+00:12:23,000 --> 00:12:26,000
+The monster is dead
 
 169
-00:09:20,000 --> 00:09:21,000
- Right, Rita?
+00:12:26,000 --> 00:12:30,000
+If it's still there, it's still on the beach
 
 170
-00:09:21,000 --> 00:09:23,000
- Yes, she's a good girl
+00:12:30,000 --> 00:12:36,000
+If the monster is still there, it will be still there
 
 171
-00:09:23,000 --> 00:09:25,000
- Let's go together
+00:12:36,000 --> 00:12:38,000
+That's right
 
 172
-00:09:25,000 --> 00:09:29,000
- So you can get closer to her
+00:12:38,000 --> 00:12:40,000
+We're still here
 
 173
-00:09:29,000 --> 00:09:40,000
- Good afternoon, Your Highness
+00:12:40,000 --> 00:12:43,000
+Hero is Rio
 
 174
-00:09:40,000 --> 00:09:43,000
- How is it?
+00:12:43,000 --> 00:12:45,000
+Rio is my hero
 
 175
-00:09:43,000 --> 00:09:46,000
- Have you managed to get them?
+00:12:45,000 --> 00:12:47,000
+Rio Nelo Hero
 
 176
-00:09:46,000 --> 00:09:48,000
- Of course, Your Highness
+00:12:47,000 --> 00:12:59,000
+What are you doing?
 
 177
-00:09:49,000 --> 00:09:51,000
- [The most beautiful moment]
+00:12:59,000 --> 00:13:01,000
+You're a scum
 
 178
-00:09:51,000 --> 00:10:07,000
- This is it
+00:13:01,000 --> 00:13:09,000
+You're a monster
 
 179
-00:10:07,000 --> 00:10:12,000
- This is it
+00:13:09,000 --> 00:13:20,000
+The two of you
 
 180
-00:10:12,000 --> 00:10:15,000
- This is impossible
+00:13:20,000 --> 00:13:23,000
+You're wearing a skirt
 
 181
-00:10:15,000 --> 00:10:17,000
- This is impossible
+00:13:23,000 --> 00:13:25,000
+The respected queen
 
 182
-00:10:17,000 --> 00:10:19,000
- How is it impossible?
+00:13:25,000 --> 00:13:27,000
+The guardian has left
 
 183
-00:10:19,000 --> 00:10:21,000
- It's possible
+00:13:27,000 --> 00:13:35,000
+Watch out
 
 184
-00:10:21,000 --> 00:10:25,000
- The fabric is already touched by the queen
+00:13:36,000 --> 00:13:58,000
+The teacher is here
 
 185
-00:10:25,000 --> 00:10:28,000
- No one has ever dyed my fabric with blood
+00:13:58,000 --> 00:14:02,000
+You missed
 
 186
-00:10:28,000 --> 00:10:30,000
- And yet
+00:14:02,000 --> 00:14:06,000
+The teacher is here
 
 187
-00:10:30,000 --> 00:10:33,000
- You're still cheating
+00:14:06,000 --> 00:14:08,000
+There's a stone in the grave
 
 188
-00:10:33,000 --> 00:10:36,000
- Wait
+00:14:08,000 --> 00:14:10,000
+The queen has escaped
 
 189
-00:10:36,000 --> 00:10:39,000
- Queen
+00:14:10,000 --> 00:14:14,000
+Let's go
 
 190
-00:10:39,000 --> 00:10:41,000
- So
+00:14:14,000 --> 00:14:16,000
+Wait
 
 191
-00:10:41,000 --> 00:10:46,000
- The queen wants us to die by dyeing this fabric?
+00:14:16,000 --> 00:14:25,000
+It's okay
 
 192
-00:10:46,000 --> 00:10:47,000
- Of course
+00:14:25,000 --> 00:14:31,000
+Mik, the army
 
 193
-00:10:47,000 --> 00:10:49,000
- You all deserve to die
+00:14:31,000 --> 00:14:33,000
+We must hold on
 
 194
-00:10:49,000 --> 00:10:52,000
- Because you want to get the most valuable treasure in this world
+00:14:33,000 --> 00:14:35,000
+Hang in there
 
 195
-00:10:52,000 --> 00:11:12,000
- Guys, I can't wait for the midnight class
+00:14:35,000 --> 00:14:47,000
+Why is the lollipop here?
 
 196
-00:11:12,000 --> 00:11:14,000
- Me too, Sis
+00:14:47,000 --> 00:14:49,000
+It's just there
 
 197
-00:11:14,000 --> 00:11:16,000
- Me too, Sis
+00:14:49,000 --> 00:14:51,000
+I forgot
 
 198
-00:11:16,000 --> 00:11:17,000
- Shh
+00:14:51,000 --> 00:14:54,000
+This lollipop is broken because I used a magic to open it
 
 199
-00:11:17,000 --> 00:11:20,000
- Don't make a noise, or the teacher will laugh at us
+00:14:54,000 --> 00:14:58,000
+I must throw it
 
 200
-00:11:20,000 --> 00:11:22,000
- You're my sister
+00:15:00,000 --> 00:15:02,000
+The lollipop fell
 
 201
-00:11:22,000 --> 00:11:24,000
- You're so annoying
+00:15:02,000 --> 00:15:04,000
+I'll throw it
 
 202
-00:11:24,000 --> 00:11:27,000
- Now, let's divide the tasks
+00:15:04,000 --> 00:15:15,000
+The lollipop is holding the queen's lollipop
 
 203
-00:11:27,000 --> 00:11:29,000
- Rita, Pega
+00:15:15,000 --> 00:15:17,000
+Good, the lollipop is smart
 
 204
-00:11:29,000 --> 00:11:31,000
- Prepare the food
+00:15:17,000 --> 00:15:19,000
+It can save itself
 
 205
-00:11:31,000 --> 00:11:33,000
- Yes
+00:15:19,000 --> 00:15:21,000
+What are they doing?
 
 206
-00:11:33,000 --> 00:11:35,000
- We're the sexy decoration
+00:15:21,000 --> 00:15:23,000
+I won't let you go
 
 207
-00:11:35,000 --> 00:11:37,000
- Because we're sexy
+00:15:23,000 --> 00:15:25,000
+Let me go
 
 208
-00:11:37,000 --> 00:11:39,000
- Smart, my sister
+00:15:27,000 --> 00:15:30,000
+If you don't let me go, I'll force you
 
 209
-00:11:39,000 --> 00:11:41,000
- Okay
+00:15:30,000 --> 00:15:32,000
+Try it if you can
 
 210
-00:11:41,000 --> 00:11:44,000
- Okay, you're the sexy decoration
+00:15:32,000 --> 00:15:48,000
+All creatures have weak spots
 
 211
-00:11:44,000 --> 00:11:46,000
- Ray and I will prepare the drinks
+00:15:48,000 --> 00:15:56,000
+They are in the neck, waist, and feet
 
 212
-00:11:46,000 --> 00:11:48,000
- Okay
+00:15:57,000 --> 00:15:59,000
+The queen is in the neck
 
 213
-00:11:48,000 --> 00:11:50,000
- What are we doing?
+00:15:59,000 --> 00:16:01,000
+The queen is in the head
 
 214
-00:11:50,000 --> 00:11:52,000
- You're the satbang
+00:16:01,000 --> 00:16:11,000
+What are you doing?
 
 215
-00:11:52,000 --> 00:11:57,000
- Alpah, your task is to wake up the other students
+00:16:11,000 --> 00:16:13,000
+Why can't you move?
 
 216
-00:11:57,000 --> 00:12:00,000
- It's 11 PM
+00:16:13,000 --> 00:16:15,000
+I'm the queen's guardian
 
 217
-00:12:00,000 --> 00:12:02,000
- What do you think?
+00:16:15,000 --> 00:16:17,000
+So, I can't move
 
 218
-00:12:02,000 --> 00:12:08,000
- Are you sure that there will be a party at 11 PM?
+00:16:17,000 --> 00:16:19,000
+Why can't the queen's guardian move?
 
 219
-00:12:08,000 --> 00:12:10,000
- Of course, Alpah
+00:16:19,000 --> 00:16:21,000
+What are you doing here?
 
 220
-00:12:10,000 --> 00:12:15,000
- But Ray, our school was just attacked by the labah-labah
+00:16:22,000 --> 00:16:32,000
+The queen is in the neck
 
 221
-00:12:15,000 --> 00:12:17,000
- Without the teacher's knowledge
+00:16:32,000 --> 00:16:34,000
+What should we do?
 
 222
-00:12:17,000 --> 00:12:19,000
- It's very dangerous
+00:16:34,000 --> 00:16:36,000
+Wait
 
 223
-00:12:19,000 --> 00:12:21,000
- What if something happens?
+00:16:36,000 --> 00:16:42,000
+Check, test 1, 2, 3
 
 224
-00:12:21,000 --> 00:12:23,000
- You're paranoid, Alpah
+00:16:42,000 --> 00:16:44,000
+Hotel?
 
 225
-00:12:23,000 --> 00:12:26,000
- The monster is dead
+00:16:44,000 --> 00:16:46,000
+My dear hotel
 
 226
-00:12:26,000 --> 00:12:30,000
- If it's still there, it's still on the beach
+00:16:46,000 --> 00:16:48,000
+The hotel is broken
 
 227
-00:12:30,000 --> 00:12:36,000
- If the monster is still there, it will be still there
+00:16:48,000 --> 00:16:51,000
+Hotel, come here right now
 
 228
-00:12:36,000 --> 00:12:38,000
- That's right
+00:16:51,000 --> 00:16:53,000
+Help Nick, don't let him fall
 
 229
-00:12:38,000 --> 00:12:40,000
- We're still here
+00:16:53,000 --> 00:16:55,000
+Hurry, help him
 
 230
-00:12:40,000 --> 00:12:43,000
- Hero is Rio
+00:16:55,000 --> 00:17:03,000
+Come on, Nick
 
 231
-00:12:43,000 --> 00:12:45,000
- Rio is my hero
+00:17:03,000 --> 00:17:05,000
+Don't give up, Nick
 
 232
-00:12:45,000 --> 00:12:47,000
- Rio Nelo Hero
+00:17:17,000 --> 00:17:19,000
+My dear hotel
 
 233
-00:12:47,000 --> 00:12:59,000
- What are you doing?
+00:17:19,000 --> 00:17:21,000
+You're safe, Nick
 
 234
-00:12:59,000 --> 00:13:01,000
- You're a scum
+00:17:21,000 --> 00:17:23,000
+What's going on?
 
 235
-00:13:01,000 --> 00:13:03,000
- You're a monster
+00:17:23,000 --> 00:17:25,000
+Why can't I move?
 
 236
-00:13:03,000 --> 00:13:05,000
- You're a monster
+00:17:25,000 --> 00:17:39,000
+Help
 
 237
-00:13:07,000 --> 00:13:09,000
- You're a monster
+00:17:39,000 --> 00:17:46,000
+Please, don't let me go
 
 238
-00:13:09,000 --> 00:13:20,000
- The two of you
+00:17:46,000 --> 00:17:49,000
+If you want to give me the necklace
 
 239
-00:13:20,000 --> 00:13:23,000
- You're wearing a skirt
+00:17:49,000 --> 00:17:51,000
+I'll lock the queen again
 
 240
-00:13:23,000 --> 00:13:25,000
- The respected queen
+00:17:51,000 --> 00:17:53,000
+I don't want to be taught
 
 241
-00:13:25,000 --> 00:13:27,000
- The guardian has left
+00:17:53,000 --> 00:17:55,000
+What are you doing?
 
 242
-00:13:27,000 --> 00:13:35,000
- Watch out
+00:17:55,000 --> 00:17:57,000
+I'll lock the queen so she can't fly
 
 243
-00:13:36,000 --> 00:13:38,000
- The teacher is here
+00:17:57,000 --> 00:17:59,000
+Then, she'll fall down
 
 244
-00:13:38,000 --> 00:13:40,000
- The teacher is here
+00:17:59,000 --> 00:18:03,000
+And her beautiful face will be sucked by the rock
 
 245
-00:13:40,000 --> 00:13:42,000
- The teacher is here
+00:18:03,000 --> 00:18:05,000
+Do you want to be ugly?
 
 246
-00:13:42,000 --> 00:13:44,000
- The teacher is here
+00:18:05,000 --> 00:18:07,000
+No, I don't want to be ugly
 
 247
-00:13:44,000 --> 00:13:46,000
- The teacher is here
+00:18:07,000 --> 00:18:10,000
+Give me the necklace now
 
 248
-00:13:46,000 --> 00:13:48,000
- The teacher is here
+00:18:10,000 --> 00:18:12,000
+Okay
 
 249
-00:13:48,000 --> 00:13:50,000
- The teacher is here
+00:18:12,000 --> 00:18:14,000
+You're so annoying
 
 250
-00:13:50,000 --> 00:13:52,000
- The teacher is here
+00:18:14,000 --> 00:18:16,000
+I'll lock the queen
 
 251
-00:13:52,000 --> 00:13:54,000
- The teacher is here
+00:18:16,000 --> 00:18:18,000
+Please, Nick
 
 252
-00:13:54,000 --> 00:13:56,000
- The teacher is here
+00:18:18,000 --> 00:18:20,000
+I don't want to be taught
 
 253
-00:13:56,000 --> 00:13:58,000
- The teacher is here
+00:18:20,000 --> 00:18:22,000
+I'll lock the queen
 
 254
-00:13:58,000 --> 00:14:00,000
- You missed
+00:18:22,000 --> 00:18:24,000
+I don't want to be taught
 
 255
-00:14:00,000 --> 00:14:02,000
- You missed
+00:18:24,000 --> 00:18:26,000
+I'll lock the queen
 
 256
-00:14:02,000 --> 00:14:04,000
- The teacher is here
+00:18:26,000 --> 00:18:28,000
+I don't want to be taught
 
 257
-00:14:04,000 --> 00:14:06,000
- The teacher is here
+00:18:28,000 --> 00:18:30,000
+I'll lock the queen
 
 258
-00:14:06,000 --> 00:14:08,000
- There's a stone in the grave
+00:18:30,000 --> 00:18:32,000
+I don't want to be taught
 
 259
-00:14:08,000 --> 00:14:10,000
- The queen has escaped
+00:18:32,000 --> 00:18:34,000
+I'll lock the queen
 
 260
-00:14:10,000 --> 00:14:14,000
- Let's go
+00:18:34,000 --> 00:18:36,000
+I don't want to be taught
 
 261
-00:14:14,000 --> 00:14:16,000
- Wait
+00:18:36,000 --> 00:18:38,000
+I'll lock the queen
 
 262
-00:14:16,000 --> 00:14:25,000
- It's okay
+00:18:38,000 --> 00:18:40,000
+I don't want to be taught
 
 263
-00:14:25,000 --> 00:14:31,000
- Mik, the army
+00:18:41,000 --> 00:18:43,000
+That's weird
 
 264
-00:14:31,000 --> 00:14:33,000
- We must hold on
+00:18:43,000 --> 00:18:47,000
+Why is everyone suspicious of me?
 
 265
-00:14:33,000 --> 00:14:35,000
- Hang in there
+00:18:47,000 --> 00:18:50,000
+I thought I was the one who's suspicious
 
 266
-00:14:35,000 --> 00:14:47,000
- Why is the lollipop here?
+00:18:50,000 --> 00:18:55,000
+I should ask Panji
 
 267
-00:14:47,000 --> 00:14:49,000
- It's just there
+00:18:55,000 --> 00:18:57,000
+I'll be in trouble if I tell them
 
 268
-00:14:49,000 --> 00:14:51,000
- I forgot
+00:18:57,000 --> 00:19:05,000
+I've been given a present by Panji
 
 269
-00:14:51,000 --> 00:14:54,000
- This lollipop is broken because I used a magic to open it
+00:19:05,000 --> 00:19:07,000
+Peta, yes
 
 270
-00:14:54,000 --> 00:14:58,000
- I must throw it
+00:19:07,000 --> 00:19:09,000
+He said it's a gift from God
 
 271
-00:15:00,000 --> 00:15:02,000
- The lollipop fell
+00:19:09,000 --> 00:19:11,000
+Let's go
 
 272
-00:15:02,000 --> 00:15:04,000
- I'll throw it
+00:19:36,000 --> 00:19:38,000
+Why is there a school?
 
 273
-00:15:04,000 --> 00:15:15,000
- The lollipop is holding the queen's lollipop
+00:19:38,000 --> 00:19:42,000
+It's so crowded
 
 274
-00:15:15,000 --> 00:15:17,000
- Good, the lollipop is smart
+00:19:42,000 --> 00:19:45,000
+There are so many people walking around the school
 
 275
-00:15:17,000 --> 00:15:19,000
- It can save itself
+00:19:45,000 --> 00:19:50,000
+I'm so proud
 
 276
-00:15:19,000 --> 00:15:21,000
- What are they doing?
+00:19:50,000 --> 00:19:52,000
+I'm going to the hospital
 
 277
-00:15:21,000 --> 00:15:23,000
- I won't let you go
+00:19:52,000 --> 00:20:05,000
+Why is there a sign saying "Prosangkara"?
 
 278
-00:15:23,000 --> 00:15:25,000
- Let me go
+00:20:06,000 --> 00:20:08,000
+Ryo is following me
 
 279
-00:15:27,000 --> 00:15:30,000
- If you don't let me go, I'll force you
+00:20:08,000 --> 00:20:12,000
+I don't know where he is
 
 280
-00:15:30,000 --> 00:15:32,000
- Try it if you can
+00:20:12,000 --> 00:20:16,000
+Ryo is following me in the dark
 
 281
-00:15:32,000 --> 00:15:48,000
- All creatures have weak spots
+00:20:16,000 --> 00:20:18,000
+Where is he going?
 
 282
-00:15:48,000 --> 00:15:56,000
- They are in the neck, waist, and feet
+00:20:18,000 --> 00:20:26,000
+I have to go there
 
 283
-00:15:57,000 --> 00:15:59,000
- The queen is in the neck
+00:20:26,000 --> 00:20:28,000
+What are you doing?
 
 284
-00:15:59,000 --> 00:16:01,000
- The queen is in the head
+00:20:28,000 --> 00:20:46,000
+This is a gift from God
 
 285
-00:16:01,000 --> 00:16:11,000
- What are you doing?
+00:20:47,000 --> 00:20:49,000
+Ryo, I'm sorry
 
 286
-00:16:11,000 --> 00:16:13,000
- Why can't you move?
+00:20:49,000 --> 00:21:01,000
+What's wrong?
 
 287
-00:16:13,000 --> 00:16:15,000
- I'm the queen's guardian
+00:21:01,000 --> 00:21:03,000
+Who were you with?
 
 288
-00:16:15,000 --> 00:16:17,000
- So, I can't move
+00:21:03,000 --> 00:21:05,000
+I was with a stranger
 
 289
-00:16:17,000 --> 00:16:19,000
- Why can't the queen's guardian move?
+00:21:05,000 --> 00:21:07,000
+I'm alone here
 
 290
-00:16:19,000 --> 00:16:21,000
- What are you doing here?
+00:21:07,000 --> 00:21:13,000
+What do you want?
 
 291
-00:16:22,000 --> 00:16:24,000
- The queen is in the neck
+00:21:13,000 --> 00:21:15,000
+Nothing
 
 292
-00:16:24,000 --> 00:16:32,000
- The queen is in the neck
+00:21:15,000 --> 00:21:17,000
+I don't need anything
 
 293
-00:16:32,000 --> 00:16:34,000
- What should we do?
+00:21:17,000 --> 00:21:19,000
+I'm going
 
 294
-00:16:34,000 --> 00:16:36,000
- Wait
+00:21:19,000 --> 00:21:36,000
+I don't feel good
 
 295
-00:16:36,000 --> 00:16:42,000
- Check, test 1, 2, 3
+00:21:36,000 --> 00:21:41,000
+Maybe
 
 296
-00:16:42,000 --> 00:16:44,000
- Hotel?
+00:21:41,000 --> 00:21:44,000
+Professor Angkari is going to be a good person
 
 297
-00:16:44,000 --> 00:16:46,000
- My dear hotel
+00:21:44,000 --> 00:21:46,000
+Maybe
 
 298
-00:16:46,000 --> 00:16:48,000
- The hotel is broken
+00:21:46,000 --> 00:21:49,000
+Prosangkara is going to be Ryo
 
 299
-00:16:48,000 --> 00:16:51,000
- Hotel, come here right now
+00:21:49,000 --> 00:21:51,000
+I don't think so
 
 300
-00:16:51,000 --> 00:16:53,000
- Help Nick, don't let him fall
+00:21:51,000 --> 00:21:55,000
+I have to give him the top vega and other things
 
 301
-00:16:53,000 --> 00:16:55,000
- Hurry, help him
+00:21:55,000 --> 00:21:57,000
+So, they'll be aware
 
 302
-00:16:55,000 --> 00:17:03,000
- Come on, Nick
+00:21:57,000 --> 00:22:10,000
+I think Alva is going to be suspicious
 
 303
-00:17:03,000 --> 00:17:05,000
- Don't give up, Nick
+00:22:11,000 --> 00:22:13,000
+Calm down, Leon
 
 304
-00:17:17,000 --> 00:17:19,000
- My dear hotel
+00:22:13,000 --> 00:22:20,000
+He's going to be the guard of the 8th prince
 
 305
-00:17:19,000 --> 00:17:21,000
- You're safe, Nick
+00:22:20,000 --> 00:22:54,000
+I'm going to be the guard of the 8th prince
 
 306
-00:17:21,000 --> 00:17:23,000
- What's going on?
+00:23:19,000 --> 00:23:22,000
+He's going to be the guard of the 8th prince
 
 307
-00:17:23,000 --> 00:17:25,000
- Why can't I move?
+00:23:22,000 --> 00:23:47,000
+It's good
 
 308
-00:17:25,000 --> 00:17:39,000
- Help
+00:23:47,000 --> 00:23:49,000
+I'm going to make a cake
 
 309
-00:17:39,000 --> 00:17:46,000
- Please, don't let me go
+00:23:49,000 --> 00:23:51,000
+Our cake
 
 310
-00:17:46,000 --> 00:17:49,000
- If you want to give me the necklace
+00:23:51,000 --> 00:23:53,000
+You can make it
 
 311
-00:17:49,000 --> 00:17:51,000
- I'll lock the queen again
+00:23:53,000 --> 00:23:55,000
+You can choose
 
 312
-00:17:51,000 --> 00:17:53,000
- I don't want to be taught
+00:23:55,000 --> 00:24:01,000
+Why are you making a surprise?
 
 313
-00:17:53,000 --> 00:17:55,000
- What are you doing?
+00:24:01,000 --> 00:24:05,000
+You must be waiting for someone else
 
 314
-00:17:55,000 --> 00:17:57,000
- I'll lock the queen so she can't fly
+00:24:05,000 --> 00:24:08,000
+You want to taste our cake
 
 315
-00:17:57,000 --> 00:17:59,000
- Then, she'll fall down
+00:24:08,000 --> 00:24:09,000
+Yes
 
 316
-00:17:59,000 --> 00:18:03,000
- And her beautiful face will be sucked by the rock
+00:24:09,000 --> 00:24:11,000
+I have an important news for you
 
 317
-00:18:03,000 --> 00:18:05,000
- Do you want to be ugly?
+00:24:11,000 --> 00:24:14,000
+What news?
 
 318
-00:18:05,000 --> 00:18:07,000
- No, I don't want to be ugly
+00:24:14,000 --> 00:24:16,000
+This news
 
 319
-00:18:07,000 --> 00:18:10,000
- Give me the necklace now
+00:24:16,000 --> 00:24:18,000
+The guard is coming
 
 320
-00:18:10,000 --> 00:18:12,000
- Okay
+00:24:18,000 --> 00:24:20,000
+We can't tell anyone
 
 321
-00:18:12,000 --> 00:18:14,000
- You're so annoying
+00:24:20,000 --> 00:24:22,000
+There will be a problem
 
 322
-00:18:14,000 --> 00:18:16,000
- I'll lock the queen
+00:24:22,000 --> 00:24:24,000
+Let's hide
 
 323
-00:18:16,000 --> 00:18:18,000
- Please, Nick
+00:24:24,000 --> 00:24:26,000
+Come here
 
 324
-00:18:18,000 --> 00:18:20,000
- I don't want to be taught
+00:24:26,000 --> 00:24:28,000
+Hide me first
 
 325
-00:18:20,000 --> 00:18:22,000
- I'll lock the queen
+00:24:28,000 --> 00:24:36,000
+He's running away
 
 326
-00:18:22,000 --> 00:18:24,000
- I don't want to be taught
+00:24:37,000 --> 00:24:39,000
+I'm going to be the guard of the 8th prince
 
 327
-00:18:24,000 --> 00:18:26,000
- I'll lock the queen
+00:24:39,000 --> 00:24:49,000
+It's safe
 
 328
-00:18:26,000 --> 00:18:28,000
- I don't want to be taught
+00:24:49,000 --> 00:24:54,000
+But I'm curious
 
 329
-00:18:28,000 --> 00:18:30,000
- I'll lock the queen
+00:24:54,000 --> 00:24:58,000
+Who dares to come in here
 
 330
-00:18:30,000 --> 00:18:32,000
- I don't want to be taught
+00:24:58,000 --> 00:25:00,000
+And do all of this
 
 331
-00:18:32,000 --> 00:18:34,000
- I'll lock the queen
+00:25:00,000 --> 00:25:05,000
+Whoever it is
 
 332
-00:18:34,000 --> 00:18:36,000
- I don't want to be taught
+00:25:05,000 --> 00:25:09,000
+This person is too much
 
 333
-00:18:36,000 --> 00:18:38,000
- I'll lock the queen
+00:25:09,000 --> 00:25:11,000
+Lack of work
 
 334
-00:18:38,000 --> 00:18:40,000
- I don't want to be taught
+00:25:11,000 --> 00:25:13,000
+Annoying and useless
 
 335
-00:18:41,000 --> 00:18:43,000
- That's weird
+00:25:14,000 --> 00:25:16,000
+He's here
 
 336
-00:18:43,000 --> 00:18:47,000
- Why is everyone suspicious of me?
+00:25:16,000 --> 00:25:37,000
+You're under arrest
 
 337
-00:18:47,000 --> 00:18:50,000
- I thought I was the one who's suspicious
+00:25:40,000 --> 00:25:42,000
+I'm not
 
 338
-00:18:50,000 --> 00:18:55,000
- I should ask Panji
+00:25:42,000 --> 00:25:48,000
+I heard that noise
 
 339
-00:18:55,000 --> 00:18:57,000
- I'll be in trouble if I tell them
+00:25:48,000 --> 00:25:50,000
+From here
 
 340
-00:18:57,000 --> 00:19:05,000
- I've been given a present by Panji
+00:25:50,000 --> 00:25:53,000
+But it's weird
 
 341
-00:19:05,000 --> 00:19:07,000
- Peta, yes
+00:25:53,000 --> 00:25:55,000
+There's no one here
 
 342
-00:19:07,000 --> 00:19:09,000
- He said it's a gift from God
+00:25:55,000 --> 00:26:15,000
+My food is running out
 
 343
-00:19:09,000 --> 00:19:11,000
- Let's go
+00:26:15,000 --> 00:26:20,000
+It's running out
 
 344
-00:19:36,000 --> 00:19:38,000
- Why is there a school?
+00:26:21,000 --> 00:26:23,000
+The 8th prince
 
 345
-00:19:38,000 --> 00:19:42,000
- It's so crowded
+00:26:23,000 --> 00:26:29,000
+Or maybe
 
 346
-00:19:42,000 --> 00:19:45,000
- There are so many people walking around the school
+00:26:29,000 --> 00:26:33,000
+This is Angkara's doing
 
 347
-00:19:45,000 --> 00:19:50,000
- I'm so proud
+00:26:33,000 --> 00:26:37,000
+He's doing all of this to take revenge on me
 
 348
-00:19:50,000 --> 00:19:52,000
- I'm going to the hospital
+00:26:37,000 --> 00:26:49,000
+I'm going to look for the key
 
 349
-00:19:52,000 --> 00:20:05,000
- Why is there a sign saying "Prosangkara"?
+00:26:49,000 --> 00:26:51,000
+I'm going to the kitchen
 
 350
-00:20:06,000 --> 00:20:08,000
- Ryo is following me
+00:26:51,000 --> 00:26:53,000
+This way
 
 351
-00:20:08,000 --> 00:20:12,000
- I don't know where he is
+00:26:53,000 --> 00:26:59,000
+Let's go
 
 352
-00:20:12,000 --> 00:20:16,000
- Ryo is following me in the dark
+00:26:59,000 --> 00:27:01,000
+From here to Angkara
 
 353
-00:20:16,000 --> 00:20:18,000
- Where is he going?
+00:27:01,000 --> 00:27:03,000
+Let's go to the kitchen
 
 354
-00:20:18,000 --> 00:20:26,000
- I have to go there
+00:27:04,000 --> 00:27:06,000
+Let's go to Angkara
 
 355
-00:20:26,000 --> 00:20:28,000
- What are you doing?
+00:27:06,000 --> 00:27:08,000
+Let's go to the kitchen
 
 356
-00:20:28,000 --> 00:20:46,000
- This is a gift from God
+00:27:08,000 --> 00:27:26,000
+There he is
 
 357
-00:20:47,000 --> 00:20:49,000
- Ryo, I'm sorry
+00:27:26,000 --> 00:27:34,000
+Weird
 
 358
-00:20:49,000 --> 00:21:01,000
- What's wrong?
+00:27:34,000 --> 00:27:36,000
+But there's a writing in the wall
 
 359
-00:21:01,000 --> 00:21:03,000
- Who were you with?
+00:27:36,000 --> 00:27:40,000
+But he's just acting
 
 360
-00:21:03,000 --> 00:21:05,000
- I was with a stranger
+00:27:40,000 --> 00:27:44,000
+So suspicious
 
 361
-00:21:05,000 --> 00:21:07,000
- I'm alone here
+00:27:45,000 --> 00:27:50,000
+He's coming
 
 362
-00:21:07,000 --> 00:21:13,000
- What do you want?
+00:28:14,000 --> 00:28:18,000
+Wait here
 
 363
-00:21:13,000 --> 00:21:15,000
- Nothing
+00:28:18,000 --> 00:28:20,000
+I'll go in
 
 364
-00:21:15,000 --> 00:21:17,000
- I don't need anything
+00:28:20,000 --> 00:28:23,000
+So you can be safe
 
 365
-00:21:17,000 --> 00:21:19,000
- I'm going
+00:28:23,000 --> 00:28:25,000
+If I pass by
 
 366
-00:21:19,000 --> 00:21:36,000
- I don't feel good
+00:28:25,000 --> 00:28:27,000
+You tell me
 
 367
-00:21:36,000 --> 00:21:41,000
- Maybe
+00:28:27,000 --> 00:28:43,000
+So suspicious
 
 368
-00:21:41,000 --> 00:21:44,000
- Professor Angkari is going to be a good person
+00:28:43,000 --> 00:28:47,000
+Why did he tell me to watch over there?
 
 369
-00:21:44,000 --> 00:21:46,000
- Maybe
+00:28:47,000 --> 00:28:50,000
+What is he doing in there?
 
 370
-00:21:46,000 --> 00:21:49,000
- Prosangkara is going to be Ryo
+00:28:50,000 --> 00:28:56,000
+Bofo
 
 371
-00:21:49,000 --> 00:21:51,000
- I don't think so
+00:28:56,000 --> 00:29:01,000
+What's that?
 
 372
-00:21:51,000 --> 00:21:55,000
- I have to give him the top vega and other things
+00:29:11,000 --> 00:29:13,000
+It's safe
 
 373
-00:21:55,000 --> 00:21:57,000
- So, they'll be aware
+00:29:13,000 --> 00:29:34,000
+It's time for me to wait
 
 374
-00:21:57,000 --> 00:22:10,000
- I think Alva is going to be suspicious
+00:29:35,000 --> 00:29:37,000
+What are you doing in there?
 
 375
-00:22:11,000 --> 00:22:13,000
- Calm down, Leon
+00:29:37,000 --> 00:29:39,000
+Why are you here?
 
 376
-00:22:13,000 --> 00:22:17,000
- He's going to be the guard of the 8th prince
+00:29:39,000 --> 00:29:42,000
+I've been following you
 
 377
-00:22:17,000 --> 00:22:20,000
- He's going to be the guard of the 8th prince
+00:29:42,000 --> 00:29:44,000
+And now I want to know
 
 378
-00:22:20,000 --> 00:22:23,000
- I'm going to be the guard of the 8th prince
+00:29:44,000 --> 00:29:46,000
+What are you hiding in there?
 
 379
-00:22:23,000 --> 00:22:43,000
- I'm going to be the guard of the 8th prince
+00:29:46,000 --> 00:29:48,000
+I'm not hiding anything
 
 380
-00:22:43,000 --> 00:22:47,000
- I'm going to be the guard of the 8th prince
+00:29:48,000 --> 00:29:50,000
+Don't lie
 
 381
-00:22:47,000 --> 00:22:51,000
- I'm going to be the guard of the 8th prince
+00:29:50,000 --> 00:29:52,000
+I saw something
 
 382
-00:22:51,000 --> 00:22:54,000
- I'm going to be the guard of the 8th prince
+00:29:52,000 --> 00:29:54,000
+And you
 
 383
-00:23:19,000 --> 00:23:22,000
- He's going to be the guard of the 8th prince
+00:29:54,000 --> 00:29:56,000
+You're not hiding anything
 
 384
-00:23:22,000 --> 00:23:47,000
- It's good
+00:29:56,000 --> 00:30:02,000
+I'm not hiding anything
 
 385
-00:23:47,000 --> 00:23:49,000
- I'm going to make a cake
+00:30:02,000 --> 00:30:04,000
+And you
 
 386
-00:23:49,000 --> 00:23:51,000
- Our cake
+00:30:04,000 --> 00:30:06,000
+You're hiding something
 
 387
-00:23:51,000 --> 00:23:53,000
- You can make it
+00:30:06,000 --> 00:30:08,000
+What is it?
 
 388
-00:23:53,000 --> 00:23:55,000
- You can choose
+00:30:08,000 --> 00:30:10,000
+Answer me
 
 389
-00:23:55,000 --> 00:24:01,000
- Why are you making a surprise?
+00:30:10,000 --> 00:30:12,000
+I don't understand
 
 390
-00:24:01,000 --> 00:24:05,000
- You must be waiting for someone else
+00:30:12,000 --> 00:30:14,000
+What do you mean?
 
 391
-00:24:05,000 --> 00:24:08,000
- You want to taste our cake
+00:30:14,000 --> 00:30:16,000
+I'll check it myself
 
 392
-00:24:08,000 --> 00:24:09,000
- Yes
+00:30:16,000 --> 00:30:18,000
+Don't
 
 393
-00:24:09,000 --> 00:24:11,000
- I have an important news for you
+00:30:18,000 --> 00:30:20,000
+Why not?
 
 394
-00:24:11,000 --> 00:24:14,000
- What news?
+00:30:20,000 --> 00:30:22,000
+Because I didn't put anything in there
 
 395
-00:24:14,000 --> 00:24:16,000
- This news
+00:30:22,000 --> 00:30:24,000
+I don't believe you
 
 396
-00:24:16,000 --> 00:24:18,000
- The guard is coming
+00:30:24,000 --> 00:30:26,000
+I'll check it myself
 
 397
-00:24:18,000 --> 00:24:20,000
- We can't tell anyone
+00:30:26,000 --> 00:30:28,000
+Don't
 
 398
-00:24:20,000 --> 00:24:22,000
- There will be a problem
+00:30:28,000 --> 00:30:30,000
+What are you?
 
 399
-00:24:22,000 --> 00:24:24,000
- Let's hide
+00:30:30,000 --> 00:30:32,000
+What are you doing in there?
 
 400
-00:24:24,000 --> 00:24:26,000
- Come here
+00:30:32,000 --> 00:30:34,000
+Why are you stopping me?
 
 401
-00:24:26,000 --> 00:24:28,000
- Hide me first
+00:30:34,000 --> 00:30:40,000
+I'm stopping you
 
 402
-00:24:28,000 --> 00:24:36,000
- He's running away
+00:30:40,000 --> 00:30:44,000
+Because I'm afraid you'll ruin this drink
 
 403
-00:24:37,000 --> 00:24:39,000
- I'm going to be the guard of the 8th prince
+00:30:44,000 --> 00:30:48,000
+Now you better get out
 
 404
-00:24:39,000 --> 00:24:49,000
- It's safe
+00:30:48,000 --> 00:30:52,000
+If not, what are you going to do?
 
 405
-00:24:49,000 --> 00:24:54,000
- But I'm curious
+00:30:52,000 --> 00:30:54,000
+What are you going to do?
 
 406
-00:24:54,000 --> 00:24:58,000
- Who dares to come in here
+00:30:54,000 --> 00:31:14,000
+I'll kill you
 
 407
-00:24:58,000 --> 00:25:00,000
- And do all of this
+00:31:14,000 --> 00:31:28,000
+Don't drink it
 
 408
-00:25:00,000 --> 00:25:05,000
- Whoever it is
+00:31:28,000 --> 00:31:30,000
+Don't
 
 409
-00:25:05,000 --> 00:25:09,000
- This person is too much
+00:31:30,000 --> 00:31:48,000
+Rey
 
 410
-00:25:09,000 --> 00:25:11,000
- Lack of work
+00:31:48,000 --> 00:31:58,000
+Okay
 
 411
-00:25:11,000 --> 00:25:13,000
- Annoying and useless
+00:31:58,000 --> 00:32:00,000
+Starting tonight
 
 412
-00:25:14,000 --> 00:25:16,000
- He's here
+00:32:02,000 --> 00:32:04,000
+I'll stay here
 
 413
-00:25:16,000 --> 00:25:37,000
- You're under arrest
+00:32:04,000 --> 00:32:08,000
+I won't sleep
 
 414
-00:25:40,000 --> 00:25:42,000
- I'm not
+00:32:08,000 --> 00:32:12,000
+I'll investigate
 
 415
-00:25:42,000 --> 00:25:48,000
- I heard that noise
+00:32:12,000 --> 00:32:14,000
+Who is this person
 
 416
-00:25:48,000 --> 00:25:50,000
- From here
+00:32:14,000 --> 00:32:20,000
+If that person is you
 
 417
-00:25:50,000 --> 00:25:53,000
- But it's weird
+00:32:20,000 --> 00:32:28,000
+I'll kill him
 
 418
-00:25:53,000 --> 00:25:55,000
- There's no one here
+00:32:28,000 --> 00:32:38,000
+Alpha
 
 419
-00:25:55,000 --> 00:26:15,000
- My food is running out
+00:32:38,000 --> 00:32:40,000
+What are you doing here?
 
 420
-00:26:15,000 --> 00:26:20,000
- It's running out
+00:32:40,000 --> 00:32:42,000
+Rey
 
 421
-00:26:21,000 --> 00:26:23,000
- The 8th prince
+00:32:42,000 --> 00:32:48,000
+But Rey
 
 422
-00:26:23,000 --> 00:26:29,000
- Or maybe
+00:32:48,000 --> 00:32:52,000
+I just want to protect you all
 
 423
-00:26:29,000 --> 00:26:33,000
- This is Angkara's doing
+00:32:54,000 --> 00:32:58,000
+He's evil
 
 424
-00:26:33,000 --> 00:26:37,000
- He's doing all of this to take revenge on me
+00:32:58,000 --> 00:33:00,000
+He's the one who put the poison in the drink
 
 425
-00:26:37,000 --> 00:26:49,000
- I'm going to look for the key
+00:33:00,000 --> 00:33:02,000
+It's a lie
 
 426
-00:26:49,000 --> 00:26:51,000
- I'm going to the kitchen
+00:33:02,000 --> 00:33:04,000
+He's lying
 
 427
-00:26:51,000 --> 00:26:53,000
- This way
+00:33:04,000 --> 00:33:06,000
+It's true
 
 428
-00:26:53,000 --> 00:26:59,000
- Let's go
+00:33:06,000 --> 00:33:08,000
+I'm confused
 
 429
-00:26:59,000 --> 00:27:01,000
- From here to Angkara
+00:33:08,000 --> 00:33:12,000
+I just want to protect you all
 
 430
-00:27:01,000 --> 00:27:03,000
- Let's go to the kitchen
+00:33:12,000 --> 00:33:14,000
+Because
 
 431
-00:27:04,000 --> 00:27:06,000
- Let's go to Angkara
+00:33:14,000 --> 00:33:16,000
+Rion put the poison in the drink
 
 432
-00:27:06,000 --> 00:27:08,000
- Let's go to the kitchen
+00:33:16,000 --> 00:33:18,000
+It's a lie
 
 433
-00:27:08,000 --> 00:27:23,000
- There he is
+00:33:18,000 --> 00:33:22,000
+It's true
 
 434
-00:27:24,000 --> 00:27:26,000
- There he is
+00:33:22,000 --> 00:33:24,000
+If you want to know if it's true or a lie
 
 435
-00:27:26,000 --> 00:27:34,000
- Weird
+00:33:24,000 --> 00:33:26,000
+Try this drink
 
 436
-00:27:34,000 --> 00:27:36,000
- But there's a writing in the wall
+00:33:26,000 --> 00:33:28,000
+No Rey
 
 437
-00:27:36,000 --> 00:27:40,000
- But he's just acting
+00:33:28,000 --> 00:33:30,000
+It's a poison
 
 438
-00:27:40,000 --> 00:27:42,000
- So suspicious
+00:33:30,000 --> 00:33:32,000
+You'll die
 
 439
-00:27:42,000 --> 00:27:44,000
- So suspicious
+00:33:32,000 --> 00:33:44,000
+Come on Rey
 
 440
-00:27:45,000 --> 00:27:47,000
- He's coming
+00:33:44,000 --> 00:33:46,000
+You'll know who's right or wrong
 
 441
-00:27:48,000 --> 00:27:50,000
- He's coming
+00:33:46,000 --> 00:33:48,000
+Don't Rey
 
 442
-00:28:14,000 --> 00:28:18,000
- Wait here
+00:33:48,000 --> 00:33:50,000
+Don't drink it
 
 443
-00:28:18,000 --> 00:28:20,000
- I'll go in
+00:33:50,000 --> 00:33:52,000
+Don't Rey
 
 444
-00:28:20,000 --> 00:28:23,000
- So you can be safe
+00:33:52,000 --> 00:34:18,000
+Rey
 
 445
-00:28:23,000 --> 00:28:25,000
- If I pass by
+00:34:18,000 --> 00:34:20,000
+Don't drink it
 
 446
-00:28:25,000 --> 00:28:27,000
- You tell me
+00:34:20,000 --> 00:34:26,000
+Let me go
 
 447
-00:28:27,000 --> 00:28:43,000
- So suspicious
+00:34:26,000 --> 00:34:30,000
+What are you doing?
 
 448
-00:28:43,000 --> 00:28:47,000
- Why did he tell me to watch over there?
+00:34:30,000 --> 00:34:32,000
+The drink doesn't have poison
 
 449
-00:28:47,000 --> 00:28:50,000
- What is he doing in there?
+00:34:32,000 --> 00:34:34,000
+I'm fine
 
 450
-00:28:50,000 --> 00:28:56,000
- Bofo
+00:34:34,000 --> 00:34:38,000
+You're the one who's evil
 
 451
-00:28:56,000 --> 00:29:01,000
- What's that?
+00:34:38,000 --> 00:34:40,000
+You've been eating this
 
 452
-00:29:11,000 --> 00:29:13,000
- It's safe
+00:34:40,000 --> 00:34:42,000
+And you
 
 453
-00:29:13,000 --> 00:29:34,000
- It's time for me to wait
+00:34:42,000 --> 00:34:44,000
+You hurt my friend
 
 454
-00:29:35,000 --> 00:29:37,000
- What are you doing in there?
+00:34:44,000 --> 00:34:46,000
+My best friend
 
 455
-00:29:37,000 --> 00:29:39,000
- Why are you here?
+00:34:46,000 --> 00:34:52,000
+Rey
 
 456
-00:29:39,000 --> 00:29:42,000
- I've been following you
+00:34:52,000 --> 00:34:54,000
+Hi everyone
 
 457
-00:29:42,000 --> 00:29:44,000
- And now I want to know
+00:34:54,000 --> 00:34:56,000
+I'm sorry
 
 458
-00:29:44,000 --> 00:29:46,000
- What are you hiding in there?
+00:34:56,000 --> 00:34:58,000
+I think
 
 459
-00:29:46,000 --> 00:29:48,000
- I'm not hiding anything
+00:34:58,000 --> 00:35:00,000
+The party tonight was a failure
 
 460
-00:29:48,000 --> 00:29:50,000
- Don't lie
+00:35:00,000 --> 00:35:06,000
+Why?
 
 461
-00:29:50,000 --> 00:29:52,000
- I saw something
+00:35:06,000 --> 00:35:08,000
+Because
 
 462
-00:29:52,000 --> 00:29:54,000
- And you
+00:35:08,000 --> 00:35:10,000
+The cake and the drink
 
 463
-00:29:54,000 --> 00:29:56,000
- You're not hiding anything
+00:35:10,000 --> 00:35:12,000
+Are ruined
 
 464
-00:29:56,000 --> 00:29:58,000
- I'm not hiding anything
+00:35:12,000 --> 00:35:14,000
+Ruined
 
 465
-00:29:58,000 --> 00:30:00,000
- I'm not hiding anything
+00:35:14,000 --> 00:35:16,000
+The party is ruined because of Alva
 
 466
-00:30:00,000 --> 00:30:02,000
- I'm not hiding anything
+00:35:16,000 --> 00:35:18,000
+She ruined our party
 
 467
-00:30:02,000 --> 00:30:04,000
- And you
+00:35:18,000 --> 00:35:20,000
+Who's Alva?
 
 468
-00:30:04,000 --> 00:30:06,000
- You're hiding something
+00:35:20,000 --> 00:35:22,000
+She's a jerk
 
 469
-00:30:06,000 --> 00:30:08,000
- What is it?
+00:35:22,000 --> 00:35:24,000
+She'll beat up the kids
 
 470
-00:30:08,000 --> 00:30:10,000
- Answer me
+00:35:24,000 --> 00:35:26,000
+Beat up the kids?
 
 471
-00:30:10,000 --> 00:30:12,000
- I don't understand
+00:35:26,000 --> 00:35:30,000
+Let's make a gang
 
 472
-00:30:12,000 --> 00:30:14,000
- What do you mean?
+00:35:30,000 --> 00:35:38,000
+Rey, do you feel weird?
 
 473
-00:30:14,000 --> 00:30:16,000
- I'll check it myself
+00:35:38,000 --> 00:35:40,000
+With Sira
 
 474
-00:30:16,000 --> 00:30:18,000
- Don't
+00:35:40,000 --> 00:35:42,000
+Why?
 
 475
-00:30:18,000 --> 00:30:20,000
- Why not?
+00:35:42,000 --> 00:35:44,000
+You don't see it
 
 476
-00:30:20,000 --> 00:30:22,000
- Because I didn't put anything in there
+00:35:44,000 --> 00:35:46,000
+Usually she's not that angry
 
 477
-00:30:22,000 --> 00:30:24,000
- I don't believe you
+00:35:46,000 --> 00:35:48,000
+With Alva
 
 478
-00:30:24,000 --> 00:30:26,000
- I'll check it myself
+00:35:48,000 --> 00:35:54,000
+I don't know
 
 479
-00:30:26,000 --> 00:30:28,000
- Don't
+00:35:54,000 --> 00:35:56,000
+What's wrong with her?
 
 480
-00:30:28,000 --> 00:30:30,000
- What are you?
+00:35:56,000 --> 00:36:00,000
+Why is Rey like that?
 
 481
-00:30:30,000 --> 00:30:32,000
- What are you doing in there?
+00:36:00,000 --> 00:36:02,000
+It's weird that she's mad at me
 
 482
-00:30:32,000 --> 00:30:34,000
- Why are you stopping me?
+00:36:02,000 --> 00:36:06,000
+It must be because of Sirio
 
 483
-00:30:34,000 --> 00:30:40,000
- I'm stopping you
+00:36:06,000 --> 00:36:08,000
+I'll show her
 
 484
-00:30:40,000 --> 00:30:44,000
- Because I'm afraid you'll ruin this drink
+00:36:08,000 --> 00:36:10,000
+I'll reveal her secret
 
 485
-00:30:44,000 --> 00:30:48,000
- Now you better get out
+00:36:10,000 --> 00:36:12,000
+I'll show her
 
 486
-00:30:48,000 --> 00:30:52,000
- If not, what are you going to do?
+00:36:12,000 --> 00:36:20,000
+What's wrong?
 
 487
-00:30:52,000 --> 00:30:54,000
- What are you going to do?
+00:36:20,000 --> 00:36:22,000
+Weird
 
 488
-00:30:54,000 --> 00:30:56,000
- I'll kill you
+00:36:22,000 --> 00:36:28,000
+What's wrong?
 
 489
-00:30:56,000 --> 00:30:58,000
- I'll kill you
+00:36:28,000 --> 00:36:30,000
+That's a punishment for you Alva
 
 490
-00:30:58,000 --> 00:31:10,000
- I'll kill you
+00:36:30,000 --> 00:36:32,000
+Because you made a mess
 
 491
-00:31:10,000 --> 00:31:12,000
- I'll kill you
+00:36:32,000 --> 00:36:34,000
+What's going on?
 
 492
-00:31:12,000 --> 00:31:14,000
- I'll kill you
+00:36:34,000 --> 00:36:42,000
+Is this a prank?
 
 493
-00:31:14,000 --> 00:31:28,000
- Don't drink it
+00:36:42,000 --> 00:36:54,000
+We've decided
 
 494
-00:31:28,000 --> 00:31:30,000
- Don't
+00:36:54,000 --> 00:36:56,000
+For a month
 
 495
-00:31:30,000 --> 00:31:32,000
- Rey
+00:36:56,000 --> 00:36:58,000
+We'll be your friends
 
 496
-00:31:32,000 --> 00:31:34,000
- Rey
+00:36:58,000 --> 00:37:00,000
+Why me?
 
 497
-00:31:34,000 --> 00:31:36,000
- Rey
+00:37:00,000 --> 00:37:02,000
+Because you ruined our party
 
 498
-00:31:36,000 --> 00:31:38,000
- Rey
+00:37:02,000 --> 00:37:04,000
+Let's go
 
 499
-00:31:38,000 --> 00:31:40,000
- Rey
+00:37:04,000 --> 00:37:10,000
+Poor Alva
 
 500
-00:31:40,000 --> 00:31:42,000
- Rey
+00:37:10,000 --> 00:37:14,000
+Actually we don't know
 
 501
-00:31:42,000 --> 00:31:44,000
- Rey
+00:37:14,000 --> 00:37:16,000
+What's wrong
 
 502
-00:31:44,000 --> 00:31:46,000
- Rey
+00:37:16,000 --> 00:37:18,000
+With Alva or Sirio
 
 503
-00:31:46,000 --> 00:31:48,000
- Rey
+00:37:18,000 --> 00:37:20,000
+Me too
 
 504
-00:31:48,000 --> 00:31:58,000
- Okay
+00:37:20,000 --> 00:37:22,000
+This must be Ryo's doing
 
 505
-00:31:58,000 --> 00:32:00,000
- Starting tonight
+00:37:22,000 --> 00:37:24,000
+Ryo must be
 
 506
-00:32:02,000 --> 00:32:04,000
- I'll stay here
+00:37:24,000 --> 00:37:26,000
+Making them to blame me
 
 507
-00:32:04,000 --> 00:32:06,000
- I won't sleep
+00:37:26,000 --> 00:37:28,000
+Ryo is evil
 
 508
-00:32:06,000 --> 00:32:08,000
- I won't sleep
+00:37:28,000 --> 00:37:30,000
+Evil?
 
 509
-00:32:08,000 --> 00:32:12,000
- I'll investigate
+00:37:30,000 --> 00:37:40,000
+It's hot
 
 510
-00:32:12,000 --> 00:32:14,000
- Who is this person
+00:37:40,000 --> 00:37:42,000
+Riding a pony and a giraffe
 
 511
-00:32:14,000 --> 00:32:20,000
- If that person is you
+00:37:42,000 --> 00:37:44,000
+It's obvious
 
 512
-00:32:20,000 --> 00:32:26,000
- I'll kill him
+00:37:44,000 --> 00:37:46,000
+I think
 
 513
-00:32:26,000 --> 00:32:28,000
- I'll kill him
+00:37:46,000 --> 00:37:48,000
+We're going to lose
 
 514
-00:32:28,000 --> 00:32:38,000
- Alpha
+00:37:48,000 --> 00:37:50,000
+Don't underestimate us
 
 515
-00:32:38,000 --> 00:32:40,000
- What are you doing here?
+00:37:50,000 --> 00:37:52,000
+It's obvious
 
 516
-00:32:40,000 --> 00:32:42,000
- Rey
+00:37:52,000 --> 00:37:58,000
+We're going to lose
 
 517
-00:32:42,000 --> 00:32:48,000
- But Rey
+00:37:58,000 --> 00:38:00,000
+You're the one who's been coming
 
 518
-00:32:48,000 --> 00:32:52,000
- I just want to protect you all
+00:38:00,000 --> 00:38:02,000
+Oh my god
 
 519
-00:32:54,000 --> 00:32:56,000
- He's evil
+00:38:02,000 --> 00:38:04,000
+What should we do?
 
 520
-00:32:56,000 --> 00:32:58,000
- He's evil
+00:38:04,000 --> 00:38:06,000
+It doesn't mean we're going to lose
 
 521
-00:32:58,000 --> 00:33:00,000
- He's the one who put the poison in the drink
+00:38:06,000 --> 00:38:12,000
+Nik
 
 522
-00:33:00,000 --> 00:33:02,000
- It's a lie
+00:38:12,000 --> 00:38:16,000
+What should we do?
 
 523
-00:33:02,000 --> 00:33:04,000
- He's lying
+00:38:16,000 --> 00:38:18,000
+Sorry guys
 
 524
-00:33:04,000 --> 00:33:06,000
- It's true
+00:38:18,000 --> 00:38:20,000
+I failed
 
 525
-00:33:06,000 --> 00:33:08,000
- I'm confused
+00:38:20,000 --> 00:38:22,000
+All the efforts we've done
 
 526
-00:33:08,000 --> 00:33:12,000
- I just want to protect you all
+00:38:22,000 --> 00:38:24,000
+It's a waste
 
 527
-00:33:12,000 --> 00:33:14,000
- Because
+00:38:24,000 --> 00:38:26,000
+I'm sorry
 
 528
-00:33:14,000 --> 00:33:16,000
- Rion put the poison in the drink
+00:38:26,000 --> 00:38:30,000
+You're being cheated on
 
 529
-00:33:16,000 --> 00:33:18,000
- It's a lie
+00:38:30,000 --> 00:38:32,000
+Stay calm
 
 530
-00:33:18,000 --> 00:33:20,000
- It's true
+00:38:32,000 --> 00:38:34,000
+I lied
 
 531
-00:33:20,000 --> 00:33:22,000
- It's true
+00:38:34,000 --> 00:38:38,000
+I won
 
 532
-00:33:22,000 --> 00:33:24,000
- If you want to know if it's true or a lie
+00:38:38,000 --> 00:38:42,000
+Don't be so arrogant
 
 533
-00:33:24,000 --> 00:33:26,000
- Try this drink
+00:38:42,000 --> 00:38:44,000
+You're going to ruin the equipment
 
 534
-00:33:26,000 --> 00:33:28,000
- No Rey
+00:38:44,000 --> 00:38:46,000
+Don't you believe I won?
 
 535
-00:33:28,000 --> 00:33:30,000
- It's a poison
+00:38:46,000 --> 00:38:48,000
+You won, Nik
 
 536
-00:33:30,000 --> 00:33:32,000
- You'll die
+00:38:48,000 --> 00:38:50,000
+You got a prize
 
 537
-00:33:32,000 --> 00:33:44,000
- Come on Rey
+00:38:50,000 --> 00:38:52,000
+You got it
 
 538
-00:33:44,000 --> 00:33:46,000
- You'll know who's right or wrong
+00:38:52,000 --> 00:38:54,000
+Yeah
 
 539
-00:33:46,000 --> 00:33:48,000
- Don't Rey
+00:38:54,000 --> 00:39:02,000
+Last star
 
 540
-00:33:48,000 --> 00:33:50,000
- Don't drink it
+00:39:02,000 --> 00:39:04,000
+Alif Ba
 
 541
-00:33:50,000 --> 00:33:52,000
- Don't Rey
+00:39:04,000 --> 00:39:12,000
+Nik, come here
 
 542
-00:33:52,000 --> 00:33:54,000
- Rey
+00:39:12,000 --> 00:39:14,000
+Let me use this
 
 543
-00:33:54,000 --> 00:33:56,000
- Rey
+00:39:14,000 --> 00:39:16,000
+Don't touch it
 
 544
-00:33:56,000 --> 00:34:08,000
- Rey
+00:39:16,000 --> 00:39:18,000
+If it falls
 
 545
-00:34:08,000 --> 00:34:10,000
- Rey
+00:39:18,000 --> 00:39:20,000
+Into the hands of evil people
 
 546
-00:34:10,000 --> 00:34:12,000
- Rey
+00:39:20,000 --> 00:39:22,000
+It can be dangerous
 
 547
-00:34:12,000 --> 00:34:14,000
- Rey
+00:39:22,000 --> 00:39:24,000
+I'd better use it
 
 548
-00:34:14,000 --> 00:34:16,000
- Rey
+00:39:24,000 --> 00:39:26,000
+Sorry, soldier
 
 549
-00:34:16,000 --> 00:34:18,000
- Rey
+00:39:26,000 --> 00:39:28,000
+With all my heart
 
 550
-00:34:18,000 --> 00:34:20,000
- Don't drink it
+00:39:28,000 --> 00:39:30,000
+It's not suitable for a soldier
 
 551
-00:34:20,000 --> 00:34:26,000
- Let me go
+00:39:30,000 --> 00:39:32,000
+Right, friend?
 
 552
-00:34:26,000 --> 00:34:30,000
- What are you doing?
+00:39:32,000 --> 00:39:34,000
+It's a girl's dress
 
 553
-00:34:30,000 --> 00:34:32,000
- The drink doesn't have poison
+00:39:34,000 --> 00:39:36,000
+But look
 
 554
-00:34:32,000 --> 00:34:34,000
- I'm fine
+00:39:36,000 --> 00:39:40,000
+It's suitable
 
 555
-00:34:34,000 --> 00:34:38,000
- You're the one who's evil
+00:39:40,000 --> 00:39:46,000
+Here
 
 556
-00:34:38,000 --> 00:34:40,000
- You've been eating this
+00:39:46,000 --> 00:39:48,000
+I'd better use it
 
 557
-00:34:40,000 --> 00:34:42,000
- And you
+00:39:48,000 --> 00:39:50,000
+Rather than
 
 558
-00:34:42,000 --> 00:34:44,000
- You hurt my friend
+00:39:50,000 --> 00:39:52,000
+Being stolen
 
 559
-00:34:44,000 --> 00:34:46,000
- My best friend
+00:39:52,000 --> 00:39:54,000
+It's more dangerous
 
 560
-00:34:46,000 --> 00:34:48,000
- Rey
+00:39:54,000 --> 00:39:56,000
+Than being stolen
 
 561
-00:34:48,000 --> 00:34:52,000
- Rey
+00:39:56,000 --> 00:40:00,000
+Do you understand?
 
 562
-00:34:52,000 --> 00:34:54,000
- Hi everyone
+00:40:00,000 --> 00:40:02,000
+We have to save this
 
 563
-00:34:54,000 --> 00:34:56,000
- I'm sorry
+00:40:02,000 --> 00:40:04,000
+It's hard to get
 
 564
-00:34:56,000 --> 00:34:58,000
- I think
+00:40:04,000 --> 00:40:14,000
+Finally
 
 565
-00:34:58,000 --> 00:35:00,000
- The party tonight was a failure
+00:40:14,000 --> 00:40:16,000
+We got the soul stone
 
 566
-00:35:00,000 --> 00:35:02,000
- Why?
+00:40:16,000 --> 00:40:18,000
+We got it
 
 567
-00:35:02,000 --> 00:35:04,000
- Why?
+00:40:18,000 --> 00:40:34,000
+You're being cheated on
 
 568
-00:35:04,000 --> 00:35:06,000
- Why?
+00:40:34,000 --> 00:40:36,000
+A lot
 
 569
-00:35:06,000 --> 00:35:08,000
- Because
+00:40:36,000 --> 00:40:38,000
+Kids
 
 570
-00:35:08,000 --> 00:35:10,000
- The cake and the drink
+00:40:38,000 --> 00:40:42,000
+It's time to go home
 
 571
-00:35:10,000 --> 00:35:12,000
- Are ruined
+00:40:42,000 --> 00:40:44,000
+Okay, soldier
 
 572
-00:35:12,000 --> 00:35:14,000
- Ruined
+00:40:44,000 --> 00:40:46,000
+Do you know
 
 573
-00:35:14,000 --> 00:35:16,000
- The party is ruined because of Alva
+00:40:46,000 --> 00:40:48,000
+You're all
 
 574
-00:35:16,000 --> 00:35:18,000
- She ruined our party
+00:40:48,000 --> 00:40:50,000
+Super stupid
 
 575
-00:35:18,000 --> 00:35:20,000
- Who's Alva?
+00:40:50,000 --> 00:40:52,000
+You got
 
 576
-00:35:20,000 --> 00:35:22,000
- She's a jerk
+00:40:52,000 --> 00:40:54,000
+One of these
 
 577
-00:35:22,000 --> 00:35:24,000
- She'll beat up the kids
+00:40:54,000 --> 00:40:56,000
+It's hard to ask for forgiveness
 
 578
-00:35:24,000 --> 00:35:26,000
- Beat up the kids?
+00:40:56,000 --> 00:40:58,000
+They say, last star is a boy
 
 579
-00:35:26,000 --> 00:35:28,000
- Let's make a gang
+00:40:58,000 --> 00:41:00,000
+A magic school kid
 
 580
-00:35:28,000 --> 00:35:30,000
- Let's make a gang
+00:41:00,000 --> 00:41:02,000
+Where is it?
 
 581
-00:35:30,000 --> 00:35:38,000
- Rey, do you feel weird?
+00:41:02,000 --> 00:41:04,000
+Come on
 
 582
-00:35:38,000 --> 00:35:40,000
- With Sira
+00:41:04,000 --> 00:41:06,000
+Let's go home
 
 583
-00:35:40,000 --> 00:35:42,000
- Why?
+00:41:06,000 --> 00:41:08,000
+It's getting late
 
 584
-00:35:42,000 --> 00:35:44,000
- You don't see it
+00:41:08,000 --> 00:41:10,000
+Let's go
 
 585
-00:35:44,000 --> 00:35:46,000
- Usually she's not that angry
+00:41:10,000 --> 00:41:22,000
+Alva
 
 586
-00:35:46,000 --> 00:35:48,000
- With Alva
+00:41:22,000 --> 00:41:24,000
+What?
 
 587
-00:35:48,000 --> 00:35:54,000
- I don't know
+00:41:24,000 --> 00:41:26,000
+You want to scold me?
 
 588
-00:35:54,000 --> 00:35:56,000
- What's wrong with her?
+00:41:26,000 --> 00:41:28,000
+No, we don't
 
 589
-00:35:56,000 --> 00:36:00,000
- Why is Rey like that?
+00:41:28,000 --> 00:41:32,000
+Whatever
 
 590
-00:36:00,000 --> 00:36:02,000
- It's weird that she's mad at me
+00:41:32,000 --> 00:41:34,000
+We're still friends
 
 591
-00:36:02,000 --> 00:36:06,000
- It must be because of Sirio
+00:41:34,000 --> 00:41:36,000
+But you have to believe
 
 592
-00:36:06,000 --> 00:36:08,000
- I'll show her
+00:41:36,000 --> 00:41:38,000
+I'm not wrong
 
 593
-00:36:08,000 --> 00:36:10,000
- I'll reveal her secret
+00:41:38,000 --> 00:41:44,000
+Do you believe me?
 
 594
-00:36:10,000 --> 00:36:12,000
- I'll show her
+00:41:44,000 --> 00:41:46,000
+If you don't, it's okay
 
 595
-00:36:12,000 --> 00:36:20,000
- What's wrong?
+00:41:46,000 --> 00:41:48,000
+Okay
 
 596
-00:36:20,000 --> 00:36:22,000
- Weird
+00:41:48,000 --> 00:41:50,000
+It's okay
 
 597
-00:36:22,000 --> 00:36:28,000
- What's wrong?
+00:41:50,000 --> 00:41:52,000
+I have proof
 
 598
-00:36:28,000 --> 00:36:30,000
- That's a punishment for you Alva
+00:41:52,000 --> 00:41:54,000
+Riaw is evil
 
 599
-00:36:30,000 --> 00:36:32,000
- Because you made a mess
+00:41:54,000 --> 00:41:56,000
+She's in a group with Professor Angkara
 
 600
-00:36:32,000 --> 00:36:34,000
- What's going on?
+00:41:56,000 --> 00:42:06,000
+The school
 
 601
-00:36:34,000 --> 00:36:42,000
- Is this a prank?
+00:42:06,000 --> 00:42:08,000
+What's that?
 
 602
-00:36:42,000 --> 00:36:54,000
- We've decided
+00:42:08,000 --> 00:42:10,000
+This is the school map
 
 603
-00:36:54,000 --> 00:36:56,000
- For a month
+00:42:10,000 --> 00:42:12,000
+I gave it to Mr. Panji
 
 604
-00:36:56,000 --> 00:36:58,000
- We'll be your friends
+00:42:12,000 --> 00:42:14,000
+That time
 
 605
-00:36:58,000 --> 00:37:00,000
- Why me?
+00:42:14,000 --> 00:42:16,000
+Everyone here
 
 606
-00:37:00,000 --> 00:37:02,000
- Because you ruined our party
+00:42:16,000 --> 00:42:18,000
+Will see it
 
 607
-00:37:02,000 --> 00:37:04,000
- Let's go
+00:42:18,000 --> 00:42:20,000
+Let's open it
 
 608
-00:37:04,000 --> 00:37:10,000
- Poor Alva
+00:42:24,000 --> 00:42:26,000
+The map is cool
 
 609
-00:37:10,000 --> 00:37:14,000
- Actually we don't know
+00:42:26,000 --> 00:42:28,000
+Cool, right?
 
 610
-00:37:14,000 --> 00:37:16,000
- What's wrong
+00:42:28,000 --> 00:42:30,000
+Here
 
 611
-00:37:16,000 --> 00:37:18,000
- With Alva or Sirio
+00:42:30,000 --> 00:42:32,000
+I'll tell you where Riaw is
 
 612
-00:37:18,000 --> 00:37:20,000
- Me too
+00:42:32,000 --> 00:42:36,000
+You'll see
 
 613
-00:37:20,000 --> 00:37:22,000
- This must be Ryo's doing
+00:42:36,000 --> 00:42:38,000
+She's always with Professor Angkara
 
 614
-00:37:22,000 --> 00:37:24,000
- Ryo must be
+00:42:38,000 --> 00:42:42,000
+Where is it?
 
 615
-00:37:24,000 --> 00:37:26,000
- Making them to blame me
+00:42:42,000 --> 00:42:44,000
+Here it is
 
 616
-00:37:26,000 --> 00:37:28,000
- Ryo is evil
+00:42:52,000 --> 00:42:54,000
+Where is Professor Angkara?
 
 617
-00:37:28,000 --> 00:37:30,000
- Evil?
+00:42:54,000 --> 00:42:56,000
+That's Riaw, Karen, and the others
 
 618
-00:37:30,000 --> 00:37:40,000
- It's hot
+00:42:56,000 --> 00:43:06,000
+She's always with Professor Angkara
 
 619
-00:37:40,000 --> 00:37:42,000
- Riding a pony and a giraffe
+00:43:06,000 --> 00:43:08,000
+But she's not here
 
 620
-00:37:42,000 --> 00:37:44,000
- It's obvious
+00:43:08,000 --> 00:43:10,000
+That's weird
 
 621
-00:37:44,000 --> 00:37:46,000
- I think
+00:43:10,000 --> 00:43:12,000
+Why is she alone?
 
 622
-00:37:46,000 --> 00:37:48,000
- We're going to lose
+00:43:12,000 --> 00:43:14,000
+Where is Professor Angkara?
 
 623
-00:37:48,000 --> 00:37:50,000
- Don't underestimate us
+00:43:14,000 --> 00:43:16,000
+Maybe she's tired
 
 624
-00:37:50,000 --> 00:37:52,000
- It's obvious
+00:43:16,000 --> 00:43:18,000
+She should rest
 
 625
-00:37:52,000 --> 00:37:54,000
- We're going to lose
+00:43:18,000 --> 00:43:20,000
+Maybe she's missing her parents
 
 626
-00:37:54,000 --> 00:37:56,000
- We're going to lose
+00:43:20,000 --> 00:43:22,000
+That's why she's in a bad mood
 
 627
-00:37:56,000 --> 00:37:58,000
- We're going to lose
+00:43:22,000 --> 00:43:24,000
+Maybe she's tired
 
 628
-00:37:58,000 --> 00:38:00,000
- You're the one who's been coming
+00:43:24,000 --> 00:43:26,000
+She should rest
 
 629
-00:38:00,000 --> 00:38:02,000
- Oh my god
+00:43:26,000 --> 00:43:28,000
+Maybe she's missing her parents
 
 630
-00:38:02,000 --> 00:38:04,000
- What should we do?
+00:43:28,000 --> 00:43:30,000
+That's why she's in a bad mood
 
 631
-00:38:04,000 --> 00:38:06,000
- It doesn't mean we're going to lose
+00:43:30,000 --> 00:43:32,000
+Maybe she's tired
 
 632
-00:38:06,000 --> 00:38:12,000
- Nik
+00:43:32,000 --> 00:43:34,000
+Maybe she's missing her parents
 
 633
-00:38:12,000 --> 00:38:16,000
- What should we do?
+00:43:34,000 --> 00:43:36,000
+That's why she's in a bad mood
 
 634
-00:38:16,000 --> 00:38:18,000
- Sorry guys
+00:43:36,000 --> 00:44:00,000
+We can do it
 
 635
-00:38:18,000 --> 00:38:20,000
- I failed
+00:44:00,000 --> 00:44:02,000
+To the city of Malang
 
 636
-00:38:20,000 --> 00:38:22,000
- All the efforts we've done
+00:44:02,000 --> 00:44:04,000
+And then to the city of Perapan
 
 637
-00:38:22,000 --> 00:38:24,000
- It's a waste
+00:44:04,000 --> 00:44:06,000
+Let's go home
 
 638
-00:38:24,000 --> 00:38:26,000
- I'm sorry
+00:44:06,000 --> 00:44:08,000
+Let's go
 
 639
-00:38:26,000 --> 00:38:30,000
- You're being cheated on
+00:44:08,000 --> 00:44:10,000
+You'll get mad
 
 640
-00:38:30,000 --> 00:38:32,000
- Stay calm
+00:44:10,000 --> 00:44:12,000
+One
 
 641
-00:38:32,000 --> 00:38:34,000
- I lied
+00:44:12,000 --> 00:44:14,000
+Two
 
 642
-00:38:34,000 --> 00:38:36,000
- I won
+00:44:14,000 --> 00:44:16,000
+Three
 
 643
-00:38:36,000 --> 00:38:38,000
- I won
+00:44:16,000 --> 00:44:18,000
+This is our last chance
 
 644
-00:38:38,000 --> 00:38:42,000
- Don't be so arrogant
+00:44:18,000 --> 00:44:20,000
+We have to protect her
 
 645
-00:38:42,000 --> 00:38:44,000
- You're going to ruin the equipment
+00:44:20,000 --> 00:44:22,000
+Don't let her get hurt
 
 646
-00:38:44,000 --> 00:38:46,000
- Don't you believe I won?
+00:44:22,000 --> 00:44:24,000
+We hope we can get to school
 
 647
-00:38:46,000 --> 00:38:48,000
- You won, Nik
+00:44:24,000 --> 00:44:26,000
+So she can go home safely
 
 648
-00:38:48,000 --> 00:38:50,000
- You got a prize
+00:44:26,000 --> 00:44:28,000
+Amen
 
 649
-00:38:50,000 --> 00:38:52,000
- You got it
+00:44:28,000 --> 00:44:32,000
+You're such a jerk
 
 650
-00:38:52,000 --> 00:38:54,000
- Yeah
+00:44:32,000 --> 00:44:34,000
+Let's go home
 
 651
-00:38:54,000 --> 00:39:02,000
- Last star
+00:44:34,000 --> 00:44:36,000
+Let's go
 
 652
-00:39:02,000 --> 00:39:04,000
- Alif Ba
+00:44:36,000 --> 00:44:38,000
+What should we do?
 
 653
-00:39:04,000 --> 00:39:12,000
- Nik, come here
+00:44:38,000 --> 00:44:42,000
+One, two, three, go
 
 654
-00:39:12,000 --> 00:39:14,000
- Let me use this
+00:44:42,000 --> 00:44:44,000
+To the city of Perapan
 
 655
-00:39:14,000 --> 00:39:16,000
- Don't touch it
+00:44:44,000 --> 00:44:54,000
+Alright
 
 656
-00:39:16,000 --> 00:39:18,000
- If it falls
+00:44:54,000 --> 00:44:56,000
+With this coffee
 
 657
-00:39:18,000 --> 00:39:20,000
- Into the hands of evil people
+00:44:56,000 --> 00:44:58,000
+I'll be safe
 
 658
-00:39:20,000 --> 00:39:22,000
- It can be dangerous
+00:44:58,000 --> 00:45:00,000
+Until the next three days
 
 659
-00:39:22,000 --> 00:39:24,000
- I'd better use it
+00:45:00,000 --> 00:45:02,000
+So I won't be in Malang
 
 660
-00:39:24,000 --> 00:39:26,000
- Sorry, soldier
+00:45:02,000 --> 00:45:26,000
+There's no one here
 
 661
-00:39:26,000 --> 00:39:28,000
- With all my heart
+00:45:28,000 --> 00:45:30,000
+This must be the same person
 
 662
-00:39:28,000 --> 00:39:30,000
- It's not suitable for a soldier
+00:45:30,000 --> 00:45:34,000
+This is the same person
 
 663
-00:39:30,000 --> 00:39:32,000
- Right, friend?
+00:45:34,000 --> 00:45:36,000
+He's playing with me
 
 664
-00:39:32,000 --> 00:39:34,000
- It's a girl's dress
+00:45:36,000 --> 00:45:44,000
+Continue drinking your coffee
 
 665
-00:39:34,000 --> 00:39:36,000
- But look
+00:45:44,000 --> 00:45:50,000
+It's so enjoyable at night
 
 666
-00:39:36,000 --> 00:39:40,000
- It's suitable
+00:45:50,000 --> 00:45:52,000
+So enjoyable
 
 667
-00:39:40,000 --> 00:39:46,000
- Here
+00:45:52,000 --> 00:45:54,000
+(Sleeping)
 
 668
-00:39:46,000 --> 00:39:48,000
- I'd better use it
+00:45:54,000 --> 00:46:20,000
+I'm sleepy
 
 669
-00:39:48,000 --> 00:39:50,000
- Rather than
+00:46:20,000 --> 00:46:22,000
+Are you sleepy?
 
 670
-00:39:50,000 --> 00:39:52,000
- Being stolen
+00:46:22,000 --> 00:46:26,000
+No, I'm not
 
 671
-00:39:52,000 --> 00:39:54,000
- It's more dangerous
+00:46:26,000 --> 00:46:30,000
+You can't be sleepy
 
 672
-00:39:54,000 --> 00:39:56,000
- Than being stolen
+00:46:30,000 --> 00:46:32,000
+Open your eyes
 
 673
-00:39:56,000 --> 00:40:00,000
- Do you understand?
+00:46:32,000 --> 00:46:44,000
+You can't sleep
 
 674
-00:40:00,000 --> 00:40:02,000
- We have to save this
+00:46:44,000 --> 00:46:48,000
+Can't sleep
 
 675
-00:40:02,000 --> 00:40:04,000
- It's hard to get
+00:46:48,000 --> 00:46:50,000
+(The next day)
 
 676
-00:40:04,000 --> 00:40:14,000
- Finally
+00:46:50,000 --> 00:46:54,000
+Come on, kids
 
 677
-00:40:14,000 --> 00:40:16,000
- We got the soul stone
+00:46:54,000 --> 00:46:56,000
+Let's make the school beautiful
 
 678
-00:40:16,000 --> 00:40:18,000
- We got it
+00:46:56,000 --> 00:47:00,000
+Put the flowers there
 
 679
-00:40:18,000 --> 00:40:34,000
- You're being cheated on
+00:47:00,000 --> 00:47:04,000
+How beautiful it is
 
 680
-00:40:34,000 --> 00:40:36,000
- A lot
+00:47:04,000 --> 00:47:06,000
+When the world is full of love
 
 681
-00:40:36,000 --> 00:40:38,000
- Kids
+00:47:06,000 --> 00:47:08,000
+Wow
 
 682
-00:40:38,000 --> 00:40:42,000
- It's time to go home
+00:47:08,000 --> 00:47:10,000
+Love with a smile
 
 683
-00:40:42,000 --> 00:40:44,000
- Okay, soldier
+00:47:10,000 --> 00:47:14,000
+My kids
 
 684
-00:40:44,000 --> 00:40:46,000
- Do you know
+00:47:14,000 --> 00:47:16,000
+Who likes brown?
 
 685
-00:40:46,000 --> 00:40:48,000
- You're all
+00:47:16,000 --> 00:47:18,000
+Yes
 
 686
-00:40:48,000 --> 00:40:50,000
- Super stupid
+00:47:18,000 --> 00:47:20,000
+Come on, come here
 
 687
-00:40:50,000 --> 00:40:52,000
- You got
+00:47:20,000 --> 00:47:22,000
+This is the brown
 
 688
-00:40:52,000 --> 00:40:54,000
- One of these
+00:47:22,000 --> 00:47:26,000
+We'll divide it one by one
 
 689
-00:40:54,000 --> 00:40:56,000
- It's hard to ask for forgiveness
+00:47:26,000 --> 00:47:28,000
+The contents
 
 690
-00:40:56,000 --> 00:40:58,000
- They say, last star is a boy
+00:47:28,000 --> 00:47:32,000
+We won't divide it, we'll open it
 
 691
-00:40:58,000 --> 00:41:00,000
- A magic school kid
+00:47:32,000 --> 00:47:34,000
+But we'll give it to the friends
 
 692
-00:41:00,000 --> 00:41:02,000
- Where is it?
+00:47:34,000 --> 00:47:38,000
+Happy Valentine's Day
 
 693
-00:41:02,000 --> 00:41:04,000
- Come on
+00:47:38,000 --> 00:47:40,000
+I hope our day is filled with love
 
 694
-00:41:04,000 --> 00:41:06,000
- Let's go home
+00:47:44,000 --> 00:47:46,000
+Open it
 
 695
-00:41:06,000 --> 00:41:08,000
- It's getting late
+00:47:46,000 --> 00:47:52,000
+Thank you, professor
 
 696
-00:41:08,000 --> 00:41:10,000
- Let's go
+00:47:52,000 --> 00:47:54,000
+The brown
 
 697
-00:41:10,000 --> 00:41:22,000
- Alva
+00:47:54,000 --> 00:47:56,000
+Makes us love each other more
 
 698
-00:41:22,000 --> 00:41:24,000
- What?
+00:47:56,000 --> 00:47:58,000
+Love with a smile
 
 699
-00:41:24,000 --> 00:41:26,000
- You want to scold me?
+00:47:58,000 --> 00:48:00,000
+My kids
 
 700
-00:41:26,000 --> 00:41:28,000
- No, we don't
+00:48:00,000 --> 00:48:04,000
+Thank you, kids
 
 701
-00:41:28,000 --> 00:41:32,000
- Whatever
+00:48:04,000 --> 00:48:06,000
+Thank you, professor
 
 702
-00:41:32,000 --> 00:41:34,000
- We're still friends
+00:48:06,000 --> 00:48:08,000
+Happy Valentine's Day
 
 703
-00:41:34,000 --> 00:41:36,000
- But you have to believe
+00:48:08,000 --> 00:48:12,000
+Sorry
 
 704
-00:41:36,000 --> 00:41:38,000
- I'm not wrong
+00:48:12,000 --> 00:48:14,000
+I don't celebrate Valentine's Day
 
 705
-00:41:38,000 --> 00:41:44,000
- Do you believe me?
+00:48:14,000 --> 00:48:18,000
+So you just keep your advice
 
 706
-00:41:44,000 --> 00:41:46,000
- If you don't, it's okay
+00:48:18,000 --> 00:48:20,000
+Because it won't be useful for me
 
 707
-00:41:46,000 --> 00:41:48,000
- Okay
+00:48:20,000 --> 00:48:22,000
+Do you understand?
 
 708
-00:41:48,000 --> 00:41:50,000
- It's okay
+00:48:22,000 --> 00:48:24,000
+Why don't you celebrate it?
 
 709
-00:41:50,000 --> 00:41:52,000
- I have proof
+00:48:24,000 --> 00:48:28,000
+Because professor Purwa is single
 
 710
-00:41:52,000 --> 00:41:54,000
- Riaw is evil
+00:48:28,000 --> 00:48:36,000
+Shut up
 
 711
-00:41:54,000 --> 00:41:56,000
- She's in a group with Professor Angkara
+00:48:36,000 --> 00:48:38,000
+Where's Alfa?
 
 712
-00:41:56,000 --> 00:41:58,000
- The school
+00:48:38,000 --> 00:48:40,000
+I don't know, professor
 
 713
-00:41:58,000 --> 00:42:00,000
- The school
+00:48:40,000 --> 00:48:44,000
+I don't know where Alfa is
 
 714
-00:42:00,000 --> 00:42:02,000
- The school
+00:48:44,000 --> 00:48:48,000
+Maybe Alfa is single
 
 715
-00:42:02,000 --> 00:42:04,000
- The school
+00:48:48,000 --> 00:48:50,000
+Because he lost to Ria
 
 716
-00:42:04,000 --> 00:42:06,000
- The school
+00:48:50,000 --> 00:48:54,000
+Yes, professor
 
 717
-00:42:06,000 --> 00:42:08,000
- What's that?
+00:48:54,000 --> 00:48:56,000
+Alfa is just a story
 
 718
-00:42:08,000 --> 00:42:10,000
- This is the school map
+00:48:56,000 --> 00:48:58,000
+He likes to be single
 
 719
-00:42:10,000 --> 00:42:12,000
- I gave it to Mr. Panji
+00:48:58,000 --> 00:49:00,000
+And he's single
 
 720
-00:42:12,000 --> 00:42:14,000
- That time
+00:49:00,000 --> 00:49:06,000
+He's single
 
 721
-00:42:14,000 --> 00:42:16,000
- Everyone here
+00:49:06,000 --> 00:49:08,000
+Is that true?
 
 722
-00:42:16,000 --> 00:42:18,000
- Will see it
+00:49:08,000 --> 00:49:12,000
+Yes, it's true
 
 723
-00:42:18,000 --> 00:42:20,000
- Let's open it
+00:49:12,000 --> 00:49:14,000
+I must have lost to them
 
 724
-00:42:24,000 --> 00:42:26,000
- The map is cool
+00:49:14,000 --> 00:49:18,000
+That's why I like to think weird
 
 725
-00:42:26,000 --> 00:42:28,000
- Cool, right?
+00:49:18,000 --> 00:49:20,000
+If I meet them
 
 726
-00:42:28,000 --> 00:42:30,000
- Here
+00:49:20,000 --> 00:49:22,000
+I'll be happy
 
 727
-00:42:30,000 --> 00:42:32,000
- I'll tell you where Riaw is
+00:49:22,000 --> 00:49:26,000
+I need to think about Ria
 
 728
-00:42:32,000 --> 00:42:36,000
- You'll see
+00:49:26,000 --> 00:49:28,000
+And my parents
 
 729
-00:42:36,000 --> 00:42:38,000
- She's always with Professor Angkara
+00:49:28,000 --> 00:49:30,000
+Alright
 
 730
-00:42:38,000 --> 00:42:42,000
- Where is it?
+00:49:30,000 --> 00:49:32,000
+Now we'll learn Mantra
 
 731
-00:42:42,000 --> 00:42:44,000
- Here it is
+00:49:32,000 --> 00:49:36,000
+Mantra
 
 732
-00:42:52,000 --> 00:42:54,000
- Where is Professor Angkara?
+00:49:36,000 --> 00:49:38,000
+I'll introduce
 
 733
-00:42:54,000 --> 00:42:56,000
- That's Riaw, Karen, and the others
+00:49:38,000 --> 00:49:40,000
+Mantra Sevenka
 
 734
-00:42:56,000 --> 00:43:06,000
- She's always with Professor Angkara
+00:49:40,000 --> 00:49:42,000
+Who can answer?
 
 735
-00:43:06,000 --> 00:43:08,000
- But she's not here
+00:49:42,000 --> 00:49:46,000
+What's the Mantra?
 
 736
-00:43:08,000 --> 00:43:10,000
- That's weird
+00:49:46,000 --> 00:49:50,000
+Rio
 
 737
-00:43:10,000 --> 00:43:12,000
- Why is she alone?
+00:49:50,000 --> 00:49:52,000
+If you use this Mantra
 
 738
-00:43:12,000 --> 00:43:14,000
- Where is Professor Angkara?
+00:49:52,000 --> 00:49:54,000
+An enemy will appear
 
 739
-00:43:14,000 --> 00:43:16,000
- Maybe she's tired
+00:49:54,000 --> 00:49:56,000
+And the enemy will fall
 
 740
-00:43:16,000 --> 00:43:18,000
- She should rest
+00:50:00,000 --> 00:50:02,000
+If you don't understand the Mantra
 
 741
-00:43:18,000 --> 00:43:20,000
- Maybe she's missing her parents
+00:50:02,000 --> 00:50:04,000
+But the answer is easy
 
 742
-00:43:20,000 --> 00:43:22,000
- That's why she's in a bad mood
+00:50:04,000 --> 00:50:08,000
+Good
 
 743
-00:43:22,000 --> 00:43:24,000
- Maybe she's tired
+00:50:08,000 --> 00:50:10,000
+Now
 
 744
-00:43:24,000 --> 00:43:26,000
- She should rest
+00:50:10,000 --> 00:50:14,000
+We'll try this Mantra together
 
 745
-00:43:26,000 --> 00:43:28,000
- Maybe she's missing her parents
+00:50:14,000 --> 00:50:20,000
+I must fail to other students
 
 746
-00:43:28,000 --> 00:43:30,000
- That's why she's in a bad mood
+00:50:20,000 --> 00:50:22,000
+So that Rio will be number one
 
 747
-00:43:30,000 --> 00:43:32,000
- Maybe she's tired
+00:50:22,000 --> 00:50:26,000
+Lita, Rika
 
 748
-00:43:32,000 --> 00:43:34,000
- Maybe she's missing her parents
+00:50:26,000 --> 00:50:28,000
+You go first
 
 749
-00:43:34,000 --> 00:43:36,000
- That's why she's in a bad mood
+00:50:28,000 --> 00:50:30,000
+[Mantra Sevenka]
 
 750
-00:43:36,000 --> 00:43:38,000
- We can do it
+00:50:30,000 --> 00:50:42,000
+Please go ahead
 
 751
-00:43:38,000 --> 00:43:46,000
- We can do it
+00:50:42,000 --> 00:50:44,000
+I can
 
 752
-00:43:46,000 --> 00:43:48,000
- We can do it
+00:50:44,000 --> 00:50:48,000
+I can!
 
 753
-00:43:48,000 --> 00:43:50,000
- We can do it
+00:50:48,000 --> 00:50:50,000
+What are you doing to my hair?
 
 754
-00:43:50,000 --> 00:43:52,000
- We can do it
+00:50:50,000 --> 00:50:54,000
+Lita
 
 755
-00:43:52,000 --> 00:43:54,000
- We can do it
+00:50:54,000 --> 00:50:56,000
+The Mantra is Sevenka
 
 756
-00:43:54,000 --> 00:43:56,000
- We can do it
+00:50:56,000 --> 00:50:58,000
+Not Sevenka
 
 757
-00:43:56,000 --> 00:43:58,000
- We can do it
+00:50:58,000 --> 00:51:00,000
+Do you understand?
 
 758
-00:43:58,000 --> 00:44:00,000
- We can do it
+00:51:00,000 --> 00:51:02,000
+Jack
 
 759
-00:44:00,000 --> 00:44:02,000
- To the city of Malang
+00:51:02,000 --> 00:51:04,000
+Ray
 
 760
-00:44:02,000 --> 00:44:04,000
- And then to the city of Perapan
+00:51:04,000 --> 00:51:06,000
+Go ahead
 
 761
-00:44:04,000 --> 00:44:06,000
- Let's go home
+00:51:06,000 --> 00:51:10,000
+Get ready
 
 762
-00:44:06,000 --> 00:44:08,000
- Let's go
+00:51:10,000 --> 00:51:14,000
+Who?
 
 763
-00:44:08,000 --> 00:44:10,000
- You'll get mad
+00:51:24,000 --> 00:51:26,000
+Jack
 
 764
-00:44:10,000 --> 00:44:12,000
- One
+00:51:26,000 --> 00:51:28,000
+Go back to your seat
 
 765
-00:44:12,000 --> 00:44:14,000
- Two
+00:51:28,000 --> 00:51:30,000
+Ray
 
 766
-00:44:14,000 --> 00:44:16,000
- Three
+00:51:30,000 --> 00:51:32,000
+Rio, Tommy
 
 767
-00:44:16,000 --> 00:44:18,000
- This is our last chance
+00:51:32,000 --> 00:51:34,000
+Go ahead
 
 768
-00:44:18,000 --> 00:44:20,000
- We have to protect her
+00:51:34,000 --> 00:51:38,000
+Start
 
 769
-00:44:20,000 --> 00:44:22,000
- Don't let her get hurt
+00:51:38,000 --> 00:51:52,000
+Here's our Jaguar
 
 770
-00:44:22,000 --> 00:44:24,000
- We hope we can get to school
+00:51:52,000 --> 00:51:54,000
+[Mantra Sevenka]
 
 771
-00:44:24,000 --> 00:44:26,000
- So she can go home safely
+00:51:54,000 --> 00:52:10,000
+What's wrong?
 
 772
-00:44:26,000 --> 00:44:28,000
- Amen
+00:52:10,000 --> 00:52:12,000
+I don't know
 
 773
-00:44:28,000 --> 00:44:32,000
- You're such a jerk
+00:52:12,000 --> 00:52:20,000
+Are you talking about me?
 
 774
-00:44:32,000 --> 00:44:34,000
- Let's go home
+00:52:20,000 --> 00:52:22,000
+How dare you talk behind my back?
 
 775
-00:44:34,000 --> 00:44:36,000
- Let's go
+00:52:22,000 --> 00:52:24,000
+If you dare, come here
 
 776
-00:44:36,000 --> 00:44:38,000
- What should we do?
+00:52:24,000 --> 00:52:26,000
+Face the front
 
 777
-00:44:38,000 --> 00:44:42,000
- One, two, three, go
+00:52:26,000 --> 00:52:28,000
+You're not soldiers
 
 778
-00:44:42,000 --> 00:44:44,000
- To the city of Perapan
+00:52:28,000 --> 00:52:30,000
+But you're useless soldiers
 
 779
-00:44:44,000 --> 00:44:54,000
- Alright
+00:52:30,000 --> 00:52:32,000
+Calm down, soldier
 
 780
-00:44:54,000 --> 00:44:56,000
- With this coffee
+00:52:32,000 --> 00:52:34,000
+Hit their tanks
 
 781
-00:44:56,000 --> 00:44:58,000
- I'll be safe
+00:52:34,000 --> 00:52:36,000
+Come on, hit them
 
 782
-00:44:58,000 --> 00:45:00,000
- Until the next three days
+00:52:36,000 --> 00:52:38,000
+Don't, soldier
 
 783
-00:45:00,000 --> 00:45:02,000
- So I won't be in Malang
+00:52:38,000 --> 00:52:42,000
+The car can be damaged, soldier
 
 784
-00:45:02,000 --> 00:45:26,000
- There's no one here
+00:52:42,000 --> 00:52:44,000
+Don't, soldier, we'll fall
 
 785
-00:45:28,000 --> 00:45:30,000
- This must be the same person
+00:52:44,000 --> 00:52:48,000
+Hit them harder
 
 786
-00:45:30,000 --> 00:45:34,000
- This is the same person
+00:52:48,000 --> 00:52:50,000
+Don't, soldier
 
 787
-00:45:34,000 --> 00:45:36,000
- He's playing with me
+00:52:50,000 --> 00:52:54,000
+Run
 
 788
-00:45:36,000 --> 00:45:44,000
- Continue drinking your coffee
+00:52:54,000 --> 00:52:58,000
+Professor Aldebaran
 
 789
-00:45:44,000 --> 00:45:50,000
- It's so enjoyable at night
+00:52:58,000 --> 00:53:00,000
+I have something to tell you
 
 790
-00:45:50,000 --> 00:45:52,000
- So enjoyable
+00:53:00,000 --> 00:53:02,000
+What is it, Professor?
 
 791
-00:45:52,000 --> 00:45:54,000
- (Sleeping)
+00:53:02,000 --> 00:53:04,000
+Alpha has dared to ask me
 
 792
-00:45:54,000 --> 00:46:20,000
- I'm sleepy
+00:53:04,000 --> 00:53:06,000
+He's starting to rebel
 
 793
-00:46:20,000 --> 00:46:22,000
- Are you sleepy?
+00:53:06,000 --> 00:53:10,000
+How?
 
 794
-00:46:22,000 --> 00:46:26,000
- No, I'm not
+00:53:10,000 --> 00:53:12,000
+Today, he's going to take my class
 
 795
-00:46:26,000 --> 00:46:30,000
- You can't be sleepy
+00:53:12,000 --> 00:53:14,000
+Please
 
 796
-00:46:30,000 --> 00:46:32,000
- Open your eyes
+00:53:14,000 --> 00:53:16,000
+Professor Aldebaran, give him a lesson
 
 797
-00:46:32,000 --> 00:46:34,000
- You can't sleep
+00:53:16,000 --> 00:53:18,000
+I'm not a coward
 
 798
-00:46:34,000 --> 00:46:36,000
- You can't sleep
+00:53:18,000 --> 00:53:22,000
+It's not like usual
 
 799
-00:46:36,000 --> 00:46:38,000
- You can't sleep
+00:53:22,000 --> 00:53:24,000
+Alpha makes a mistake
 
 800
-00:46:38,000 --> 00:46:44,000
- You can't sleep
+00:53:24,000 --> 00:53:26,000
+Unless there's a clear reason
 
 801
-00:46:44,000 --> 00:46:48,000
- Can't sleep
+00:53:26,000 --> 00:53:28,000
+Yes
 
 802
-00:46:48,000 --> 00:46:50,000
- (The next day)
+00:53:28,000 --> 00:53:30,000
+You should not defend him
 
 803
-00:46:50,000 --> 00:46:54,000
- Come on, kids
+00:53:30,000 --> 00:53:32,000
+Keep your head down
 
 804
-00:46:54,000 --> 00:46:56,000
- Let's make the school beautiful
+00:53:32,000 --> 00:53:34,000
+He might grow up
 
 805
-00:46:56,000 --> 00:47:00,000
- Put the flowers there
+00:53:34,000 --> 00:53:36,000
+Like Gamma
 
 806
-00:47:00,000 --> 00:47:04,000
- How beautiful it is
+00:53:36,000 --> 00:53:40,000
+Professor Purwa, please
 
 807
-00:47:04,000 --> 00:47:06,000
- When the world is full of love
+00:53:40,000 --> 00:53:42,000
+When you see Alpha
 
 808
-00:47:06,000 --> 00:47:08,000
- Wow
+00:53:42,000 --> 00:53:44,000
+Don't imagine Gamma
 
 809
-00:47:08,000 --> 00:47:10,000
- Love with a smile
+00:53:44,000 --> 00:53:46,000
+But remember Akilah
 
 810
-00:47:10,000 --> 00:47:14,000
- My kids
+00:53:46,000 --> 00:53:52,000
+Akilah
 
 811
-00:47:14,000 --> 00:47:16,000
- Who likes brown?
+00:53:52,000 --> 00:53:54,000
+If you're not married to Gamma
 
 812
-00:47:16,000 --> 00:47:18,000
- Yes
+00:53:54,000 --> 00:53:58,000
+You'll be there
 
 813
-00:47:18,000 --> 00:47:20,000
- Come on, come here
+00:53:58,000 --> 00:54:00,000
+I'm going
 
 814
-00:47:20,000 --> 00:47:22,000
- This is the brown
+00:54:00,000 --> 00:54:04,000
+[Music]
 
 815
-00:47:22,000 --> 00:47:26,000
- We'll divide it one by one
+00:54:30,000 --> 00:54:32,000
+Oh my God
 
 816
-00:47:26,000 --> 00:47:28,000
- The contents
+00:54:32,000 --> 00:54:34,000
+The painting is here
 
 817
-00:47:28,000 --> 00:47:32,000
- We won't divide it, we'll open it
+00:54:34,000 --> 00:54:36,000
+Where?
 
 818
-00:47:32,000 --> 00:47:34,000
- But we'll give it to the friends
+00:54:36,000 --> 00:54:38,000
+[Music]
 
 819
-00:47:34,000 --> 00:47:38,000
- Happy Valentine's Day
+00:54:38,000 --> 00:54:48,000
+Whose voice is that?
 
 820
-00:47:38,000 --> 00:47:40,000
- I hope our day is filled with love
+00:54:48,000 --> 00:54:56,000
+The door is locked
 
 821
-00:47:44,000 --> 00:47:46,000
- Open it
+00:54:56,000 --> 00:54:58,000
+Maybe
 
 822
-00:47:46,000 --> 00:47:52,000
- Thank you, professor
+00:54:58,000 --> 00:55:00,000
+This is our parents' voice
 
 823
-00:47:52,000 --> 00:47:54,000
- The brown
+00:55:00,000 --> 00:55:02,000
+[Music]
 
 824
-00:47:54,000 --> 00:47:56,000
- Makes us love each other more
+00:55:02,000 --> 00:55:06,000
+Come here
 
 825
-00:47:56,000 --> 00:47:58,000
- Love with a smile
+00:55:06,000 --> 00:55:20,000
+[Music]
 
 826
-00:47:58,000 --> 00:48:00,000
- My kids
+00:55:20,000 --> 00:55:30,000
+What is he doing?
 
 827
-00:48:00,000 --> 00:48:04,000
- Thank you, kids
+00:55:30,000 --> 00:55:32,000
+He usually does this
 
 828
-00:48:04,000 --> 00:48:06,000
- Thank you, professor
+00:55:32,000 --> 00:55:34,000
+Why is he doing this now?
 
 829
-00:48:06,000 --> 00:48:08,000
- Happy Valentine's Day
+00:55:34,000 --> 00:55:36,000
+I can't see anything
 
 830
-00:48:08,000 --> 00:48:12,000
- Sorry
+00:55:36,000 --> 00:55:38,000
+[Music]
 
 831
-00:48:12,000 --> 00:48:14,000
- I don't celebrate Valentine's Day
+00:55:38,000 --> 00:55:46,000
+I'm sorry
 
 832
-00:48:14,000 --> 00:48:18,000
- So you just keep your advice
+00:55:46,000 --> 00:55:48,000
+Because the party
 
 833
-00:48:18,000 --> 00:48:20,000
- Because it won't be useful for me
+00:55:48,000 --> 00:55:50,000
+Failed today
 
 834
-00:48:20,000 --> 00:48:22,000
- Do you understand?
+00:55:50,000 --> 00:55:52,000
+It's okay
 
 835
-00:48:22,000 --> 00:48:24,000
- Why don't you celebrate it?
+00:55:52,000 --> 00:55:54,000
+As a request
 
 836
-00:48:24,000 --> 00:48:28,000
- Because professor Purwa is single
+00:55:54,000 --> 00:55:56,000
+I'm sorry
 
 837
-00:48:28,000 --> 00:48:36,000
- Shut up
+00:55:56,000 --> 00:55:58,000
+I'll give you a present
 
 838
-00:48:36,000 --> 00:48:38,000
- Where's Alfa?
+00:55:58,000 --> 00:56:00,000
+[Applause]
 
 839
-00:48:38,000 --> 00:48:40,000
- I don't know, professor
+00:56:00,000 --> 00:56:02,000
+Seriously?
 
 840
-00:48:40,000 --> 00:48:44,000
- I don't know where Alfa is
+00:56:02,000 --> 00:56:04,000
+Yes
 
 841
-00:48:44,000 --> 00:48:48,000
- Maybe Alfa is single
+00:56:04,000 --> 00:56:06,000
+By the way, this is a special gift
 
 842
-00:48:48,000 --> 00:48:50,000
- Because he lost to Ria
+00:56:06,000 --> 00:56:08,000
+A black suit
 
 843
-00:48:50,000 --> 00:48:54,000
- Yes, professor
+00:56:08,000 --> 00:56:10,000
+[Laughter]
 
 844
-00:48:54,000 --> 00:48:56,000
- Alfa is just a story
+00:56:10,000 --> 00:56:12,000
+Really?
 
 845
-00:48:56,000 --> 00:48:58,000
- He likes to be single
+00:56:12,000 --> 00:56:14,000
+Okay, let's go
 
 846
-00:48:58,000 --> 00:49:00,000
- And he's single
+00:56:14,000 --> 00:56:16,000
+[Music]
 
 847
-00:49:00,000 --> 00:49:02,000
- He's single
+00:56:16,000 --> 00:56:30,000
+I want to ask
 
 848
-00:49:02,000 --> 00:49:04,000
- He's single
+00:56:30,000 --> 00:56:32,000
+Where is Alpha?
 
 849
-00:49:04,000 --> 00:49:06,000
- He's single
+00:56:32,000 --> 00:56:34,000
+Alpha?
 
 850
-00:49:06,000 --> 00:49:08,000
- Is that true?
+00:56:34,000 --> 00:56:36,000
+How do I know?
 
 851
-00:49:08,000 --> 00:49:12,000
- Yes, it's true
+00:56:36,000 --> 00:56:38,000
+I'm not in the wrong
 
 852
-00:49:12,000 --> 00:49:14,000
- I must have lost to them
+00:56:38,000 --> 00:56:42,000
+Why?
 
 853
-00:49:14,000 --> 00:49:18,000
- That's why I like to think weird
+00:56:42,000 --> 00:56:44,000
+It's just like that
 
 854
-00:49:18,000 --> 00:49:20,000
- If I meet them
+00:56:44,000 --> 00:56:46,000
+It's so funny
 
 855
-00:49:20,000 --> 00:49:22,000
- I'll be happy
+00:56:46,000 --> 00:56:48,000
+I know
 
 856
-00:49:22,000 --> 00:49:26,000
- I need to think about Ria
+00:56:48,000 --> 00:56:50,000
+I'm like that
 
 857
-00:49:26,000 --> 00:49:28,000
- And my parents
+00:56:50,000 --> 00:56:52,000
+Confused
 
 858
-00:49:28,000 --> 00:49:30,000
- Alright
+00:56:52,000 --> 00:56:54,000
+I'm dizzy
 
 859
-00:49:30,000 --> 00:49:32,000
- Now we'll learn Mantra
+00:56:54,000 --> 00:56:58,000
+[Music]
 
 860
-00:49:32,000 --> 00:49:34,000
- Mantra
+00:56:58,000 --> 00:57:04,000
+Where are you going?
 
 861
-00:49:34,000 --> 00:49:36,000
- Mantra
+00:57:04,000 --> 00:57:06,000
+You are the descendants of the dead
 
 862
-00:49:36,000 --> 00:49:38,000
- I'll introduce
+00:57:06,000 --> 00:57:10,000
+[Music]
 
 863
-00:49:38,000 --> 00:49:40,000
- Mantra Sevenka
+00:57:10,000 --> 00:57:12,000
+Let's hurry
 
 864
-00:49:40,000 --> 00:49:42,000
- Who can answer?
+00:57:12,000 --> 00:57:14,000
+Feel this
 
 865
-00:49:42,000 --> 00:49:46,000
- What's the Mantra?
+00:57:14,000 --> 00:57:18,000
+We play cowboy
 
 866
-00:49:46,000 --> 00:49:50,000
- Rio
+00:57:18,000 --> 00:57:20,000
+[Laughter]
 
 867
-00:49:50,000 --> 00:49:52,000
- If you use this Mantra
+00:57:20,000 --> 00:57:24,000
+[Music]
 
 868
-00:49:52,000 --> 00:49:54,000
- An enemy will appear
+00:57:24,000 --> 00:57:26,000
+Cowboy dance
 
 869
-00:49:54,000 --> 00:49:56,000
- And the enemy will fall
+00:57:26,000 --> 00:57:28,000
+[Music]
 
 870
-00:50:00,000 --> 00:50:02,000
- If you don't understand the Mantra
+00:57:28,000 --> 00:57:30,000
+[Laughter]
 
 871
-00:50:02,000 --> 00:50:04,000
- But the answer is easy
+00:57:30,000 --> 00:57:32,000
+Cowboy dance
 
 872
-00:50:04,000 --> 00:50:08,000
- Good
+00:57:32,000 --> 00:57:34,000
+[Music]
 
 873
-00:50:08,000 --> 00:50:10,000
- Now
+00:57:34,000 --> 00:57:36,000
+[Laughter]
 
 874
-00:50:10,000 --> 00:50:14,000
- We'll try this Mantra together
+00:57:36,000 --> 00:57:38,000
+[Music]
 
 875
-00:50:14,000 --> 00:50:20,000
- I must fail to other students
+00:57:38,000 --> 00:57:40,000
+One more time
 
 876
-00:50:20,000 --> 00:50:22,000
- So that Rio will be number one
+00:57:40,000 --> 00:57:42,000
+Cowboy dance
 
 877
-00:50:22,000 --> 00:50:26,000
- Lita, Rika
+00:57:42,000 --> 00:57:58,000
+[Music]
 
 878
-00:50:26,000 --> 00:50:28,000
- You go first
+00:57:58,000 --> 00:58:00,000
+We're going to the airport
 
 879
-00:50:28,000 --> 00:50:30,000
- [Mantra Sevenka]
+00:58:00,000 --> 00:58:04,000
+[Music]
 
 880
-00:50:30,000 --> 00:50:42,000
- Please go ahead
+00:58:04,000 --> 00:58:06,000
+Ouch
 
 881
-00:50:42,000 --> 00:50:44,000
- I can
+00:58:06,000 --> 00:58:08,000
+Why did you get a bird?
 
 882
-00:50:44,000 --> 00:50:48,000
- I can!
+00:58:08,000 --> 00:58:10,000
+It's really annoying
 
 883
-00:50:48,000 --> 00:50:50,000
- What are you doing to my hair?
+00:58:10,000 --> 00:58:12,000
+Why flying?
 
 884
-00:50:50,000 --> 00:50:54,000
- Lita
+00:58:12,000 --> 00:58:14,000
+Why are there so many birds?
 
 885
-00:50:54,000 --> 00:50:56,000
- The Mantra is Sevenka
+00:58:14,000 --> 00:58:16,000
+What should we do?
 
 886
-00:50:56,000 --> 00:50:58,000
- Not Sevenka
+00:58:16,000 --> 00:58:18,000
+How do we keep the soldiers from attacking us?
 
 887
-00:50:58,000 --> 00:51:00,000
- Do you understand?
+00:58:18,000 --> 00:58:20,000
+I have an idea
 
 888
-00:51:00,000 --> 00:51:02,000
- Jack
+00:58:20,000 --> 00:58:22,000
+What if we cut the rest?
 
 889
-00:51:02,000 --> 00:51:04,000
- Ray
+00:58:22,000 --> 00:58:24,000
+Agree?
 
 890
-00:51:04,000 --> 00:51:06,000
- Go ahead
+00:58:24,000 --> 00:58:26,000
+Agree
 
 891
-00:51:06,000 --> 00:51:10,000
- Get ready
+00:58:26,000 --> 00:58:28,000
+Bastard
 
 892
-00:51:10,000 --> 00:51:14,000
- Who?
+00:58:28,000 --> 00:58:30,000
+Damn bird
 
 893
-00:51:24,000 --> 00:51:26,000
- Jack
+00:58:30,000 --> 00:58:32,000
+Just destroy it
 
 894
-00:51:26,000 --> 00:51:28,000
- Go back to your seat
+00:58:32,000 --> 00:58:34,000
+Make a mess
 
 895
-00:51:28,000 --> 00:51:30,000
- Ray
+00:58:34,000 --> 00:58:36,000
+One two three
 
 896
-00:51:30,000 --> 00:51:32,000
- Rio, Tommy
+00:58:36,000 --> 00:58:38,000
+What are you doing?
 
 897
-00:51:32,000 --> 00:51:34,000
- Go ahead
+00:58:38,000 --> 00:58:42,000
+You guys are not teaching
 
 898
-00:51:34,000 --> 00:51:38,000
- Start
+00:58:42,000 --> 00:58:44,000
+What are you guys?
 
 899
-00:51:38,000 --> 00:51:52,000
- Here's our Jaguar
+00:58:44,000 --> 00:58:46,000
+How dare you touch me?
 
 900
-00:51:52,000 --> 00:51:54,000
- [Mantra Sevenka]
+00:58:46,000 --> 00:58:50,000
+[Music]
 
 901
-00:51:54,000 --> 00:52:10,000
- What's wrong?
+00:58:50,000 --> 00:58:52,000
+Hurry up
 
 902
-00:52:10,000 --> 00:52:12,000
- I don't know
+00:58:52,000 --> 00:59:02,000
+[Music]
 
 903
-00:52:12,000 --> 00:52:20,000
- Are you talking about me?
+00:59:02,000 --> 00:59:04,000
+And you guys
 
 904
-00:52:20,000 --> 00:52:22,000
- How dare you talk behind my back?
+00:59:04,000 --> 00:59:06,000
+[Music]
 
 905
-00:52:22,000 --> 00:52:24,000
- If you dare, come here
+00:59:06,000 --> 00:59:08,000
+I'll make you fall back
 
 906
-00:52:24,000 --> 00:52:26,000
- Face the front
+00:59:08,000 --> 00:59:10,000
+Fall to the sea
 
 907
-00:52:26,000 --> 00:52:28,000
- You're not soldiers
+00:59:10,000 --> 00:59:12,000
+Feel this
 
 908
-00:52:28,000 --> 00:52:30,000
- But you're useless soldiers
+00:59:12,000 --> 00:59:16,000
+[Music]
 
 909
-00:52:30,000 --> 00:52:32,000
- Calm down, soldier
+00:59:16,000 --> 00:59:18,000
+Feel this
 
 910
-00:52:32,000 --> 00:52:34,000
- Hit their tanks
+00:59:18,000 --> 00:59:20,000
+Torvanado
 
 911
-00:52:34,000 --> 00:52:36,000
- Come on, hit them
+00:59:20,000 --> 00:59:24,000
+[Music]
 
 912
-00:52:36,000 --> 00:52:38,000
- Don't, soldier
+00:59:24,000 --> 00:59:26,000
+Where's my Tongsis?
 
 913
-00:52:38,000 --> 00:52:42,000
- The car can be damaged, soldier
+00:59:26,000 --> 00:59:28,000
+[Music]
 
 914
-00:52:42,000 --> 00:52:44,000
- Don't, soldier, we'll fall
+00:59:28,000 --> 00:59:30,000
+How dare you take my Tongsis?
 
 915
-00:52:44,000 --> 00:52:48,000
- Hit them harder
+00:59:30,000 --> 00:59:32,000
+[Music]
 
 916
-00:52:48,000 --> 00:52:50,000
- Don't, soldier
+00:59:32,000 --> 00:59:34,000
+You guys are not teaching
 
 917
-00:52:50,000 --> 00:52:54,000
- Run
+00:59:34,000 --> 00:59:36,000
+They are not polite
 
 918
-00:52:54,000 --> 00:52:58,000
- Professor Aldebaran
+00:59:36,000 --> 00:59:38,000
+They are too brave to the soldiers
 
 919
-00:52:58,000 --> 00:53:00,000
- I have something to tell you
+00:59:38,000 --> 00:59:40,000
+Watch out
 
 920
-00:53:00,000 --> 00:53:02,000
- What is it, Professor?
+00:59:40,000 --> 00:59:42,000
+Sorry soldiers
 
 921
-00:53:02,000 --> 00:53:04,000
- Alpha has dared to ask me
+00:59:42,000 --> 00:59:44,000
+I can't give Tongsis here to the soldiers
 
 922
-00:53:04,000 --> 00:53:06,000
- He's starting to rebel
+00:59:44,000 --> 00:59:46,000
+The soldiers won't be able to hurt us again
 
 923
-00:53:06,000 --> 00:53:10,000
- How?
+00:59:46,000 --> 00:59:48,000
+[Laughs]
 
 924
-00:53:10,000 --> 00:53:12,000
- Today, he's going to take my class
+00:59:48,000 --> 00:59:50,000
+But he can still be angry
 
 925
-00:53:12,000 --> 00:53:14,000
- Please
+00:59:50,000 --> 00:59:52,000
+If he's just angry at your mouth
 
 926
-00:53:14,000 --> 00:53:16,000
- Professor Aldebaran, give him a lesson
+00:59:52,000 --> 00:59:54,000
+We can still chew it
 
 927
-00:53:16,000 --> 00:53:18,000
- I'm not a coward
+00:59:54,000 --> 00:59:56,000
+Slow down
 
 928
-00:53:18,000 --> 00:53:22,000
- It's not like usual
+00:59:56,000 --> 00:59:58,000
+Why is he so like that?
 
 929
-00:53:22,000 --> 00:53:24,000
- Alpha makes a mistake
+00:59:58,000 --> 01:00:00,000
+With Alva
 
 930
-00:53:24,000 --> 00:53:26,000
- Unless there's a clear reason
+01:00:00,000 --> 01:00:02,000
+Yes, are you still angry?
 
 931
-00:53:26,000 --> 00:53:28,000
- Yes
+01:00:02,000 --> 01:00:04,000
+With Alva because of the order
 
 932
-00:53:28,000 --> 00:53:30,000
- You should not defend him
+01:00:04,000 --> 01:00:06,000
+Failed
 
 933
-00:53:30,000 --> 00:53:32,000
- Keep your head down
+01:00:06,000 --> 01:00:08,000
+Why is it just like that?
 
 934
-00:53:32,000 --> 00:53:34,000
- He might grow up
+01:00:08,000 --> 01:00:10,000
+It's too much
 
 935
-00:53:34,000 --> 00:53:36,000
- Like Gamma
+01:00:10,000 --> 01:00:12,000
+I'm suspicious of him
 
 936
-00:53:36,000 --> 00:53:40,000
- Professor Purwa, please
+01:00:12,000 --> 01:00:14,000
+He's always with Ray
 
 937
-00:53:40,000 --> 00:53:42,000
- When you see Alpha
+01:00:14,000 --> 01:00:18,000
+Ray, where are you going?
 
 938
-00:53:42,000 --> 00:53:44,000
- Don't imagine Gamma
+01:00:18,000 --> 01:00:20,000
+Ray
 
 939
-00:53:44,000 --> 00:53:46,000
- But remember Akilah
+01:00:20,000 --> 01:00:22,000
+Cover me
 
 940
-00:53:46,000 --> 00:53:52,000
- Akilah
+01:00:22,000 --> 01:00:24,000
+I'm looking for
 
 941
-00:53:52,000 --> 00:53:54,000
- If you're not married to Gamma
+01:00:24,000 --> 01:00:26,000
+Padang rice
 
 942
-00:53:54,000 --> 00:53:56,000
- You'll be there
+01:00:26,000 --> 01:00:28,000
+Who's that for?
 
 943
-00:53:56,000 --> 00:53:58,000
- You'll be there
+01:00:28,000 --> 01:00:30,000
+That's Rio's cousin
 
 944
-00:53:58,000 --> 00:54:00,000
- I'm going
+01:00:30,000 --> 01:00:32,000
+Poor thing, she's hungry
 
 945
-00:54:00,000 --> 00:54:02,000
- [Music]
+01:00:32,000 --> 01:00:34,000
+I'll go first
 
 946
-00:54:02,000 --> 00:54:04,000
- [Music]
+01:00:34,000 --> 01:00:36,000
+Ray
 
 947
-00:54:30,000 --> 00:54:32,000
- Oh my God
+01:00:36,000 --> 01:00:38,000
+Wait
 
 948
-00:54:32,000 --> 00:54:34,000
- The painting is here
+01:00:38,000 --> 01:00:40,000
+It's dangerous, you know
 
 949
-00:54:34,000 --> 00:54:36,000
- Where?
+01:00:40,000 --> 01:00:42,000
+[Groans]
 
 950
-00:54:36,000 --> 00:54:38,000
- [Music]
+01:00:42,000 --> 01:00:44,000
+Got it, Padang rice
 
 951
-00:54:38,000 --> 00:54:48,000
- Whose voice is that?
+01:00:44,000 --> 01:00:50,000
+Nice, Padang rice
 
 952
-00:54:48,000 --> 00:54:56,000
- The door is locked
+01:00:50,000 --> 01:00:52,000
+Why is he so angry?
 
 953
-00:54:56,000 --> 00:54:58,000
- Maybe
+01:00:52,000 --> 01:00:54,000
+I don't know
 
 954
-00:54:58,000 --> 00:55:00,000
- This is our parents' voice
+01:00:54,000 --> 01:00:56,000
+Listen
 
 955
-00:55:00,000 --> 00:55:02,000
- [Music]
+01:00:56,000 --> 01:00:58,000
+I'll answer your question
 
 956
-00:55:02,000 --> 00:55:06,000
- Come here
+01:00:58,000 --> 01:01:00,000
+What's wrong with you and Alva?
 
 957
-00:55:06,000 --> 00:55:08,000
- [Music]
+01:01:00,000 --> 01:01:02,000
+What do you mean?
 
 958
-00:55:08,000 --> 00:55:10,000
- [Music]
+01:01:02,000 --> 01:01:04,000
+You're always angry
 
 959
-00:55:10,000 --> 00:55:20,000
- [Music]
+01:01:04,000 --> 01:01:06,000
+Because of the order
 
 960
-00:55:20,000 --> 00:55:30,000
- What is he doing?
+01:01:06,000 --> 01:01:08,000
+You know
 
 961
-00:55:30,000 --> 00:55:32,000
- He usually does this
+01:01:08,000 --> 01:01:10,000
+I'll go first
 
 962
-00:55:32,000 --> 00:55:34,000
- Why is he doing this now?
+01:01:10,000 --> 01:01:12,000
+Ray, why is he so like that?
 
 963
-00:55:34,000 --> 00:55:36,000
- I can't see anything
+01:01:12,000 --> 01:01:14,000
+What's wrong with him?
 
 964
-00:55:36,000 --> 00:55:38,000
- [Music]
+01:01:14,000 --> 01:01:16,000
+He's always angry
 
 965
-00:55:38,000 --> 00:55:40,000
- I'm sorry
+01:01:16,000 --> 01:01:18,000
+Yes, he's not a bad person
 
 966
-00:55:40,000 --> 00:55:46,000
- I'm sorry
+01:01:18,000 --> 01:01:20,000
+But he did it on purpose
 
 967
-00:55:46,000 --> 00:55:48,000
- Because the party
+01:01:20,000 --> 01:01:22,000
+To make us look bad
 
 968
-00:55:48,000 --> 00:55:50,000
- Failed today
+01:01:22,000 --> 01:01:24,000
+He's been friends with Alva for a long time
 
 969
-00:55:50,000 --> 00:55:52,000
- It's okay
+01:01:24,000 --> 01:01:26,000
+Why is he so like that?
 
 970
-00:55:52,000 --> 00:55:54,000
- As a request
+01:01:26,000 --> 01:01:28,000
+He must be a bad person
 
 971
-00:55:54,000 --> 00:55:56,000
- I'm sorry
+01:01:28,000 --> 01:01:32,000
+I'm confused
 
 972
-00:55:56,000 --> 00:55:58,000
- I'll give you a present
+01:01:36,000 --> 01:01:38,000
+Alva is a good person
 
 973
-00:55:58,000 --> 00:56:00,000
- [Applause]
+01:01:38,000 --> 01:01:40,000
+As long as you know
 
 974
-00:56:00,000 --> 00:56:02,000
- Seriously?
+01:01:40,000 --> 01:01:42,000
+Alva is a good person
 
 975
-00:56:02,000 --> 00:56:04,000
- Yes
+01:01:42,000 --> 01:01:44,000
+Not like Rio
 
 976
-00:56:04,000 --> 00:56:06,000
- By the way, this is a special gift
+01:01:44,000 --> 01:01:48,000
+Why is he so like that?
 
 977
-00:56:06,000 --> 00:56:08,000
- A black suit
+01:01:48,000 --> 01:02:00,000
+Ray, what's wrong with him?
 
 978
-00:56:08,000 --> 00:56:10,000
- [Laughter]
+01:02:00,000 --> 01:02:02,000
+He's so bad
 
 979
-00:56:10,000 --> 00:56:12,000
- Really?
+01:02:02,000 --> 01:02:04,000
+Alva is a bad person
 
 980
-00:56:12,000 --> 00:56:14,000
- Okay, let's go
+01:02:04,000 --> 01:02:06,000
+But you're right
 
 981
-00:56:14,000 --> 00:56:16,000
- [Music]
+01:02:06,000 --> 01:02:10,000
+Alva is a bad person
 
 982
-00:56:16,000 --> 00:56:30,000
- I want to ask
+01:02:10,000 --> 01:02:12,000
+He's always suspicious of Rio
 
 983
-00:56:30,000 --> 00:56:32,000
- Where is Alpha?
+01:02:12,000 --> 01:02:14,000
+Even though Rio is a good person
 
 984
-00:56:32,000 --> 00:56:34,000
- Alpha?
+01:02:14,000 --> 01:02:16,000
+And handsome
 
 985
-00:56:34,000 --> 00:56:36,000
- How do I know?
+01:02:16,000 --> 01:02:18,000
+Why are you talking like that?
 
 986
-00:56:36,000 --> 00:56:38,000
- I'm not in the wrong
+01:02:18,000 --> 01:02:20,000
+Why?
 
 987
-00:56:38,000 --> 00:56:42,000
- Why?
+01:02:20,000 --> 01:02:22,000
+It's not wrong to talk like that
 
 988
-00:56:42,000 --> 00:56:44,000
- It's just like that
+01:02:22,000 --> 01:02:24,000
+You're just following him
 
 989
-00:56:44,000 --> 00:56:46,000
- It's so funny
+01:02:24,000 --> 01:02:26,000
+You said Alva is a good person
 
 990
-00:56:46,000 --> 00:56:48,000
- I know
+01:02:26,000 --> 01:02:28,000
+But now you're changing
 
 991
-00:56:48,000 --> 00:56:50,000
- I'm like that
+01:02:28,000 --> 01:02:30,000
+Rio is a good person
 
 992
-00:56:50,000 --> 00:56:52,000
- Confused
+01:02:30,000 --> 01:02:32,000
+Not like Alva
 
 993
-00:56:52,000 --> 00:56:54,000
- I'm dizzy
+01:02:32,000 --> 01:02:34,000
+You're right
 
 994
-00:56:54,000 --> 00:56:56,000
- [Music]
+01:02:34,000 --> 01:02:36,000
+That chocolate
 
 995
-00:56:56,000 --> 00:56:58,000
- [Music]
+01:02:36,000 --> 01:02:38,000
+There must be something
 
 996
-00:56:58,000 --> 00:57:04,000
- Where are you going?
+01:02:38,000 --> 01:02:40,000
+In that chocolate
 
 997
-00:57:04,000 --> 00:57:06,000
- You are the descendants of the dead
+01:02:40,000 --> 01:02:42,000
+That makes Prika change her mind
 
 998
-00:57:06,000 --> 00:57:08,000
- [Music]
+01:02:42,000 --> 01:02:44,000
+Here's your chocolate
 
 999
-00:57:08,000 --> 00:57:10,000
- [Music]
+01:02:44,000 --> 01:02:46,000
+Here
 
 1000
-00:57:10,000 --> 00:57:12,000
- Let's hurry
+01:02:46,000 --> 01:02:48,000
+What are you doing?
 
 1001
-00:57:12,000 --> 00:57:14,000
- Feel this
+01:02:48,000 --> 01:02:50,000
+That's my chocolate
 
 1002
-00:57:14,000 --> 00:57:18,000
- We play cowboy
+01:02:50,000 --> 01:02:54,000
+I just want to see it
 
 1003
-00:57:18,000 --> 00:57:20,000
- [Laughter]
+01:02:54,000 --> 01:02:58,000
+You can't
 
 1004
-00:57:20,000 --> 00:57:22,000
- [Music]
+01:02:58,000 --> 01:03:02,000
+That's my chocolate
 
 1005
-00:57:22,000 --> 00:57:24,000
- [Music]
+01:03:02,000 --> 01:03:04,000
+I don't want it
 
 1006
-00:57:24,000 --> 00:57:26,000
- Cowboy dance
+01:03:04,000 --> 01:03:08,000
+Let me see
 
 1007
-00:57:26,000 --> 00:57:28,000
- [Music]
+01:03:08,000 --> 01:03:10,000
+Ouch
 
 1008
-00:57:28,000 --> 00:57:30,000
- [Laughter]
+01:03:10,000 --> 01:03:12,000
+Let's go
 
 1009
-00:57:30,000 --> 00:57:32,000
- Cowboy dance
+01:03:12,000 --> 01:03:16,000
+Wait
 
 1010
-00:57:32,000 --> 00:57:34,000
- [Music]
+01:03:16,000 --> 01:03:22,000
+Why is he like that?
 
 1011
-00:57:34,000 --> 00:57:36,000
- [Laughter]
+01:03:22,000 --> 01:03:24,000
+He's so suspicious
 
 1012
-00:57:36,000 --> 00:57:38,000
- [Music]
+01:03:24,000 --> 01:03:26,000
+Of them
 
 1013
-00:57:38,000 --> 00:57:40,000
- One more time
+01:03:26,000 --> 01:03:28,000
+[Music]
 
 1014
-00:57:40,000 --> 00:57:42,000
- Cowboy dance
+01:03:28,000 --> 01:03:34,000
+Thank you
 
 1015
-00:57:42,000 --> 00:57:44,000
- [Music]
+01:03:34,000 --> 01:03:36,000
+You're the one who saved me
 
 1016
-00:57:44,000 --> 00:57:46,000
- [Music]
+01:03:36,000 --> 01:03:38,000
+Where are you?
 
 1017
-00:57:46,000 --> 00:57:48,000
- [Music]
+01:03:38,000 --> 01:03:42,000
+[Music]
 
 1018
-00:57:48,000 --> 00:57:50,000
- [Music]
+01:03:42,000 --> 01:04:02,000
+I'm suspicious
 
 1019
-00:57:50,000 --> 00:57:52,000
- [Music]
+01:04:02,000 --> 01:04:04,000
+If all of this is a fabrication
 
 1020
-00:57:52,000 --> 00:57:54,000
- [Music]
+01:04:04,000 --> 01:04:18,000
+[Music]
 
 1021
-00:57:54,000 --> 00:57:56,000
- [Music]
+01:04:18,000 --> 01:04:24,000
+Who did this?
 
 1022
-00:57:56,000 --> 00:57:58,000
- [Music]
+01:04:24,000 --> 01:04:32,000
+Alva
 
 1023
-00:57:58,000 --> 00:58:00,000
- We're going to the airport
+01:04:32,000 --> 01:04:34,000
+I did it
 
 1024
-00:58:00,000 --> 00:58:02,000
- [Music]
+01:04:34,000 --> 01:04:36,000
+It's okay
 
 1025
-00:58:02,000 --> 00:58:04,000
- [Music]
+01:04:36,000 --> 01:04:38,000
+I'm sorry
 
 1026
-00:58:04,000 --> 00:58:06,000
- Ouch
+01:04:38,000 --> 01:04:40,000
+I attacked you
 
 1027
-00:58:06,000 --> 00:58:08,000
- Why did you get a bird?
+01:04:40,000 --> 01:04:42,000
+Why did you attack me?
 
 1028
-00:58:08,000 --> 00:58:10,000
- It's really annoying
+01:04:42,000 --> 01:04:44,000
+Because I thought you're a spy
 
 1029
-00:58:10,000 --> 00:58:12,000
- Why flying?
+01:04:44,000 --> 01:04:46,000
+A spy?
 
 1030
-00:58:12,000 --> 00:58:14,000
- Why are there so many birds?
+01:04:46,000 --> 01:04:48,000
+Yes
 
 1031
-00:58:14,000 --> 00:58:16,000
- What should we do?
+01:04:48,000 --> 01:04:50,000
+For the past few days
 
 1032
-00:58:16,000 --> 00:58:18,000
- How do we keep the soldiers from attacking us?
+01:04:50,000 --> 01:04:52,000
+There's been
 
 1033
-00:58:18,000 --> 00:58:20,000
- I have an idea
+01:04:52,000 --> 01:04:54,000
+What is this?
 
 1034
-00:58:20,000 --> 00:58:22,000
- What if we cut the rest?
+01:04:54,000 --> 01:04:56,000
+There's blood
 
 1035
-00:58:22,000 --> 00:58:24,000
- Agree?
+01:04:56,000 --> 01:04:58,000
+Flowers
 
 1036
-00:58:24,000 --> 00:58:26,000
- Agree
+01:04:58,000 --> 01:05:00,000
+Everywhere
 
 1037
-00:58:26,000 --> 00:58:28,000
- Bastard
+01:05:00,000 --> 01:05:02,000
+It's too much
 
 1038
-00:58:28,000 --> 00:58:30,000
- Damn bird
+01:05:02,000 --> 01:05:04,000
+Too much
 
 1039
-00:58:30,000 --> 00:58:32,000
- Just destroy it
+01:05:04,000 --> 01:05:06,000
+It turns out that person
 
 1040
-00:58:32,000 --> 00:58:34,000
- Make a mess
+01:05:06,000 --> 01:05:08,000
+Still dare to come here
 
 1041
-00:58:34,000 --> 00:58:36,000
- One two three
+01:05:08,000 --> 01:05:10,000
+Mr. Paji, actually
 
 1042
-00:58:36,000 --> 00:58:38,000
- What are you doing?
+01:05:10,000 --> 01:05:12,000
+Who did this?
 
 1043
-00:58:38,000 --> 00:58:40,000
- You guys are not teaching
+01:05:12,000 --> 01:05:14,000
+I don't know
 
 1044
-00:58:40,000 --> 00:58:42,000
- You guys are not teaching
+01:05:14,000 --> 01:05:16,000
+Before
 
 1045
-00:58:42,000 --> 00:58:44,000
- What are you guys?
+01:05:16,000 --> 01:05:18,000
+I already
 
 1046
-00:58:44,000 --> 00:58:46,000
- How dare you touch me?
+01:05:18,000 --> 01:05:20,000
+Wanted to stay here
 
 1047
-00:58:46,000 --> 00:58:48,000
- [Music]
+01:05:20,000 --> 01:05:22,000
+But I don't know
 
 1048
-00:58:48,000 --> 00:58:50,000
- [Music]
+01:05:22,000 --> 01:05:24,000
+Why I suddenly fainted
 
 1049
-00:58:50,000 --> 00:58:52,000
- Hurry up
+01:05:24,000 --> 01:05:26,000
+And I fell asleep in the room
 
 1050
-00:58:52,000 --> 00:58:54,000
- [Music]
+01:05:26,000 --> 01:05:28,000
+I'm surprised
 
 1051
-00:58:54,000 --> 00:58:56,000
- [Music]
+01:05:28,000 --> 01:05:30,000
+Before
 
 1052
-00:58:56,000 --> 00:58:58,000
- [Music]
+01:05:30,000 --> 01:05:32,000
+I drank coffee
 
 1053
-00:58:58,000 --> 00:59:00,000
- [Music]
+01:05:32,000 --> 01:05:34,000
+My favorite coffee, Alva
 
 1054
-00:59:00,000 --> 00:59:02,000
- [Music]
+01:05:34,000 --> 01:05:36,000
+But why
 
 1055
-00:59:02,000 --> 00:59:04,000
- And you guys
+01:05:36,000 --> 01:05:38,000
+I can fall asleep
 
 1056
-00:59:04,000 --> 00:59:06,000
- [Music]
+01:05:38,000 --> 01:05:40,000
+Alva, this is a child
 
 1057
-00:59:06,000 --> 00:59:08,000
- I'll make you fall back
+01:05:40,000 --> 01:05:42,000
+A child?
 
 1058
-00:59:08,000 --> 00:59:10,000
- Fall to the sea
+01:05:42,000 --> 01:05:44,000
+Yes, a child
 
 1059
-00:59:10,000 --> 00:59:12,000
- Feel this
+01:05:44,000 --> 01:05:46,000
+Impossible
 
 1060
-00:59:12,000 --> 00:59:14,000
- [Music]
+01:05:46,000 --> 01:05:48,000
+Alva, because he has
 
 1061
-00:59:14,000 --> 00:59:16,000
- [Music]
+01:05:48,000 --> 01:05:50,000
+Very high knowledge
 
 1062
-00:59:16,000 --> 00:59:18,000
- Feel this
+01:05:50,000 --> 01:05:52,000
+Before
 
 1063
-00:59:18,000 --> 00:59:20,000
- Torvanado
+01:05:52,000 --> 01:05:54,000
+He also succeeded in picking up
 
 1064
-00:59:20,000 --> 00:59:22,000
- [Music]
+01:05:54,000 --> 01:05:56,000
+The password I made to protect this tomb
 
 1065
-00:59:22,000 --> 00:59:24,000
- [Music]
+01:05:56,000 --> 01:05:58,000
+Alva, so it's impossible
 
 1066
-00:59:24,000 --> 00:59:26,000
- Where's my Tongsis?
+01:05:58,000 --> 01:06:00,000
+He did it, or the child did it
 
 1067
-00:59:26,000 --> 00:59:28,000
- [Music]
+01:06:00,000 --> 01:06:02,000
+I'm suspicious
 
 1068
-00:59:28,000 --> 00:59:30,000
- How dare you take my Tongsis?
+01:06:02,000 --> 01:06:04,000
+If all of this
 
 1069
-00:59:30,000 --> 00:59:32,000
- [Music]
+01:06:04,000 --> 01:06:06,000
+Is a child's doing
 
 1070
-00:59:32,000 --> 00:59:34,000
- You guys are not teaching
+01:06:06,000 --> 01:06:08,000
+Yes, sir
 
 1071
-00:59:34,000 --> 00:59:36,000
- They are not polite
+01:06:08,000 --> 01:06:10,000
+This is also my purpose to come here
 
 1072
-00:59:36,000 --> 00:59:38,000
- They are too brave to the soldiers
+01:06:10,000 --> 01:06:12,000
+Besides I miss
 
 1073
-00:59:38,000 --> 00:59:40,000
- Watch out
+01:06:12,000 --> 01:06:14,000
+My parents
 
 1074
-00:59:40,000 --> 00:59:42,000
- Sorry soldiers
+01:06:14,000 --> 01:06:16,000
+I want to talk about the prosperity of Angkara
 
 1075
-00:59:42,000 --> 00:59:44,000
- I can't give Tongsis here to the soldiers
+01:06:16,000 --> 01:06:18,000
+What is it, Alva?
 
 1076
-00:59:44,000 --> 00:59:46,000
- The soldiers won't be able to hurt us again
+01:06:18,000 --> 01:06:22,000
+Did Angkara make a child again from school?
 
 1077
-00:59:46,000 --> 00:59:48,000
- [Laughs]
+01:06:22,000 --> 01:06:32,000
+The child is a child
 
 1078
-00:59:48,000 --> 00:59:50,000
- But he can still be angry
+01:06:32,000 --> 01:06:34,000
+Rio is so cool, she gave us chocolate
 
 1079
-00:59:50,000 --> 00:59:52,000
- If he's just angry at your mouth
+01:06:34,000 --> 01:06:36,000
+It's delicious
 
 1080
-00:59:52,000 --> 00:59:54,000
- We can still chew it
+01:06:36,000 --> 01:06:50,000
+Rio is our true leader
 
 1081
-00:59:54,000 --> 00:59:56,000
- Slow down
+01:06:50,000 --> 01:06:52,000
+Yes, I will follow her forever
 
 1082
-00:59:56,000 --> 00:59:58,000
- Why is he so like that?
+01:06:52,000 --> 01:07:02,000
+Live, Rio
 
 1083
-00:59:58,000 --> 01:00:00,000
- With Alva
+01:07:02,000 --> 01:07:04,000
+Let's try, Miss
 
 1084
-01:00:00,000 --> 01:00:02,000
- Yes, are you still angry?
+01:07:04,000 --> 01:07:06,000
+If we
 
 1085
-01:00:02,000 --> 01:00:04,000
- With Alva because of the order
+01:07:06,000 --> 01:07:08,000
+Keep on loving this heart
 
 1086
-01:00:04,000 --> 01:00:06,000
- Failed
+01:07:08,000 --> 01:07:10,000
+Yes, our heart will be happy
 
 1087
-01:00:06,000 --> 01:00:08,000
- Why is it just like that?
+01:07:10,000 --> 01:07:12,000
+Always happy
 
 1088
-01:00:08,000 --> 01:00:10,000
- It's too much
+01:07:12,000 --> 01:07:14,000
+Chocolate makes you happy
 
 1089
-01:00:10,000 --> 01:00:12,000
- I'm suspicious of him
+01:07:14,000 --> 01:07:16,000
+Wait a minute
 
 1090
-01:00:12,000 --> 01:00:14,000
- He's always with Ray
+01:07:16,000 --> 01:07:18,000
+That's smart
 
 1091
-01:00:14,000 --> 01:00:18,000
- Ray, where are you going?
+01:07:18,000 --> 01:07:28,000
+Miss, I don't want to
 
 1092
-01:00:18,000 --> 01:00:20,000
- Ray
+01:07:28,000 --> 01:07:30,000
+Be friends with Alva
 
 1093
-01:00:20,000 --> 01:00:22,000
- Cover me
+01:07:30,000 --> 01:07:34,000
+Rio is our new leader
 
 1094
-01:00:22,000 --> 01:00:24,000
- I'm looking for
+01:07:34,000 --> 01:07:36,000
+Because the one who is evil
 
 1095
-01:00:24,000 --> 01:00:26,000
- Padang rice
+01:07:36,000 --> 01:07:38,000
+Is only Rio
 
 1096
-01:00:26,000 --> 01:00:28,000
- Who's that for?
+01:07:38,000 --> 01:07:42,000
+That's right
 
 1097
-01:00:28,000 --> 01:00:30,000
- That's Rio's cousin
+01:07:42,000 --> 01:07:44,000
+Where is Rio?
 
 1098
-01:00:30,000 --> 01:00:32,000
- Poor thing, she's hungry
+01:07:44,000 --> 01:07:46,000
+Alva
 
 1099
-01:00:32,000 --> 01:00:34,000
- I'll go first
+01:07:46,000 --> 01:07:48,000
+Where is Alva?
 
 1100
-01:00:34,000 --> 01:00:36,000
- Ray
+01:07:48,000 --> 01:07:50,000
+Classroom is not here
 
 1101
-01:00:36,000 --> 01:00:38,000
- Wait
+01:07:50,000 --> 01:07:52,000
+Where is Alva?
 
 1102
-01:00:38,000 --> 01:00:40,000
- It's dangerous, you know
+01:07:52,000 --> 01:08:08,000
+Alva
 
 1103
-01:00:40,000 --> 01:00:42,000
- [Groans]
+01:08:08,000 --> 01:08:12,000
+I better look here
 
 1104
-01:00:42,000 --> 01:00:44,000
- Got it, Padang rice
+01:08:12,000 --> 01:08:14,000
+Where is it?
 
 1105
-01:00:44,000 --> 01:00:50,000
- Nice, Padang rice
+01:08:14,000 --> 01:08:24,000
+This is
 
 1106
-01:00:50,000 --> 01:00:52,000
- Why is he so angry?
+01:08:24,000 --> 01:08:26,000
+Why is Rio's name
 
 1107
-01:00:52,000 --> 01:00:54,000
- I don't know
+01:08:26,000 --> 01:08:28,000
+So similar to Professor Rangkara?
 
 1108
-01:00:54,000 --> 01:00:56,000
- Listen
+01:08:28,000 --> 01:08:30,000
+Maybe
 
 1109
-01:00:56,000 --> 01:00:58,000
- I'll answer your question
+01:08:30,000 --> 01:08:32,000
+Alva is right
 
 1110
-01:00:58,000 --> 01:01:00,000
- What's wrong with you and Alva?
+01:08:32,000 --> 01:08:34,000
+What else can Professor Rangkara and Rio do?
 
 1111
-01:01:00,000 --> 01:01:02,000
- What do you mean?
+01:08:34,000 --> 01:08:38,000
+In the toilet
 
 1112
-01:01:02,000 --> 01:01:04,000
- You're always angry
+01:08:38,000 --> 01:08:42,000
+Don't use it
 
 1113
-01:01:04,000 --> 01:01:06,000
- Because of the order
+01:08:42,000 --> 01:08:46,000
+Here, I want to show you
 
 1114
-01:01:06,000 --> 01:01:08,000
- You know
+01:08:46,000 --> 01:08:50,000
+Where is the map?
 
 1115
-01:01:08,000 --> 01:01:10,000
- I'll go first
+01:08:50,000 --> 01:08:54,000
+I left it
 
 1116
-01:01:10,000 --> 01:01:12,000
- Ray, why is he so like that?
+01:08:54,000 --> 01:08:56,000
+I want to show you
 
 1117
-01:01:12,000 --> 01:01:14,000
- What's wrong with him?
+01:08:56,000 --> 01:08:58,000
+Show me what?
 
 1118
-01:01:14,000 --> 01:01:16,000
- He's always angry
+01:08:58,000 --> 01:09:00,000
+Maybe
 
 1119
-01:01:16,000 --> 01:01:18,000
- Yes, he's not a bad person
+01:09:00,000 --> 01:09:02,000
+The map you gave me
 
 1120
-01:01:18,000 --> 01:01:20,000
- But he did it on purpose
+01:09:02,000 --> 01:09:04,000
+Is broken
 
 1121
-01:01:20,000 --> 01:01:22,000
- To make us look bad
+01:09:04,000 --> 01:09:08,000
+You mean?
 
 1122
-01:01:22,000 --> 01:01:24,000
- He's been friends with Alva for a long time
+01:09:08,000 --> 01:09:10,000
+Because there is Professor Rangkara
 
 1123
-01:01:24,000 --> 01:01:26,000
- Why is he so like that?
+01:09:10,000 --> 01:09:12,000
+And he always
 
 1124
-01:01:26,000 --> 01:01:28,000
- He must be a bad person
+01:09:12,000 --> 01:09:14,000
+Have a fight with his new kid
 
 1125
-01:01:28,000 --> 01:01:32,000
- I'm confused
+01:09:14,000 --> 01:09:16,000
+His name is Rio
 
 1126
-01:01:36,000 --> 01:01:38,000
- Alva is a good person
+01:09:16,000 --> 01:09:18,000
+That means
 
 1127
-01:01:38,000 --> 01:01:40,000
- As long as you know
+01:09:18,000 --> 01:09:20,000
+There is Rangkara near Rio
 
 1128
-01:01:40,000 --> 01:01:42,000
- Alva is a good person
+01:09:20,000 --> 01:09:34,000
+There
 
 1129
-01:01:42,000 --> 01:01:44,000
- Not like Rio
+01:09:34,000 --> 01:09:42,000
+I'm going to kill you
 
 1130
-01:01:44,000 --> 01:01:48,000
- Why is he so like that?
+01:09:42,000 --> 01:09:44,000
+Rio
 
 1131
-01:01:48,000 --> 01:02:00,000
- Ray, what's wrong with him?
+01:09:44,000 --> 01:09:46,000
+What are you doing?
 
 1132
-01:02:00,000 --> 01:02:02,000
- He's so bad
+01:09:46,000 --> 01:09:54,000
+Professor
 
 1133
-01:02:02,000 --> 01:02:04,000
- Alva is a bad person
+01:09:54,000 --> 01:10:00,000
+It's a disaster
 
 1134
-01:02:04,000 --> 01:02:06,000
- But you're right
+01:10:00,000 --> 01:10:04,000
+Rio, why did you do that?
 
 1135
-01:02:06,000 --> 01:02:10,000
- Alva is a bad person
+01:10:04,000 --> 01:10:06,000
+Show your spirit
 
 1136
-01:02:10,000 --> 01:02:12,000
- He's always suspicious of Rio
+01:10:06,000 --> 01:10:08,000
+Get ready, my friend
 
 1137
-01:02:12,000 --> 01:02:14,000
- Even though Rio is a good person
+01:10:08,000 --> 01:10:12,000
+Run, jump,
 
 1138
-01:02:14,000 --> 01:02:16,000
- And handsome
+01:10:12,000 --> 01:10:14,000
+Jump, and get the stars
 
 1139
-01:02:16,000 --> 01:02:18,000
- Why are you talking like that?
+01:10:14,000 --> 01:10:20,000
+Be brave
 
 1140
-01:02:18,000 --> 01:02:20,000
- Why?
+01:10:20,000 --> 01:10:22,000
+Don't give up
 
 1141
-01:02:20,000 --> 01:02:22,000
- It's not wrong to talk like that
+01:10:22,000 --> 01:10:28,000
+Chase your dreams
 
 1142
-01:02:22,000 --> 01:02:24,000
- You're just following him
+01:10:32,000 --> 01:10:34,000
+Go, go, go
 
 1143
-01:02:24,000 --> 01:02:26,000
- You said Alva is a good person
+01:10:34,000 --> 01:10:36,000
+Achieve all your dreams
 
 1144
-01:02:26,000 --> 01:02:28,000
- But now you're changing
+01:10:36,000 --> 01:10:38,000
+Go, go, go
 
 1145
-01:02:28,000 --> 01:02:30,000
- Rio is a good person
+01:10:38,000 --> 01:10:40,000
+Never stop
 
 1146
-01:02:30,000 --> 01:02:32,000
- Not like Alva
+01:10:40,000 --> 01:10:42,000
+Go, go, go
 
 1147
-01:02:32,000 --> 01:02:34,000
- You're right
+01:10:42,000 --> 01:10:44,000
+Fight with your heart
 
 1148
-01:02:34,000 --> 01:02:36,000
- That chocolate
+01:10:44,000 --> 01:10:48,000
+Go, go, go
 
 1149
-01:02:36,000 --> 01:02:38,000
- There must be something
+01:10:48,000 --> 01:10:50,000
+Make yourself proud
 
 1150
-01:02:38,000 --> 01:02:40,000
- In that chocolate
+01:10:50,000 --> 01:10:52,000
+Go, go, go
 
 1151
-01:02:40,000 --> 01:02:42,000
- That makes Prika change her mind
+01:10:52,000 --> 01:10:54,000
+Let's dream
 
 1152
-01:02:42,000 --> 01:02:44,000
- Here's your chocolate
+01:10:54,000 --> 01:10:56,000
+Go, go, go
 
 1153
-01:02:44,000 --> 01:02:46,000
- Here
-
-1154
-01:02:46,000 --> 01:02:48,000
- What are you doing?
-
-1155
-01:02:48,000 --> 01:02:50,000
- That's my chocolate
-
-1156
-01:02:50,000 --> 01:02:52,000
- I just want to see it
-
-1157
-01:02:52,000 --> 01:02:54,000
- I just want to see it
-
-1158
-01:02:54,000 --> 01:02:56,000
- You can't
-
-1159
-01:02:56,000 --> 01:02:58,000
- You can't
-
-1160
-01:02:58,000 --> 01:03:00,000
- That's my chocolate
-
-1161
-01:03:00,000 --> 01:03:02,000
- That's my chocolate
-
-1162
-01:03:02,000 --> 01:03:04,000
- I don't want it
-
-1163
-01:03:04,000 --> 01:03:06,000
- Let me see
-
-1164
-01:03:06,000 --> 01:03:08,000
- Let me see
-
-1165
-01:03:08,000 --> 01:03:10,000
- Ouch
-
-1166
-01:03:10,000 --> 01:03:12,000
- Let's go
-
-1167
-01:03:12,000 --> 01:03:16,000
- Wait
-
-1168
-01:03:16,000 --> 01:03:22,000
- Why is he like that?
-
-1169
-01:03:22,000 --> 01:03:24,000
- He's so suspicious
-
-1170
-01:03:24,000 --> 01:03:26,000
- Of them
-
-1171
-01:03:26,000 --> 01:03:28,000
- [Music]
-
-1172
-01:03:28,000 --> 01:03:34,000
- Thank you
-
-1173
-01:03:34,000 --> 01:03:36,000
- You're the one who saved me
-
-1174
-01:03:36,000 --> 01:03:38,000
- Where are you?
-
-1175
-01:03:38,000 --> 01:03:40,000
- [Music]
-
-1176
-01:03:40,000 --> 01:03:42,000
- [Music]
-
-1177
-01:03:42,000 --> 01:04:02,000
- I'm suspicious
-
-1178
-01:04:02,000 --> 01:04:04,000
- If all of this is a fabrication
-
-1179
-01:04:04,000 --> 01:04:06,000
- [Music]
-
-1180
-01:04:06,000 --> 01:04:08,000
- [Music]
-
-1181
-01:04:08,000 --> 01:04:18,000
- [Music]
-
-1182
-01:04:18,000 --> 01:04:24,000
- Who did this?
-
-1183
-01:04:24,000 --> 01:04:32,000
- Alva
-
-1184
-01:04:32,000 --> 01:04:34,000
- I did it
-
-1185
-01:04:34,000 --> 01:04:36,000
- It's okay
-
-1186
-01:04:36,000 --> 01:04:38,000
- I'm sorry
-
-1187
-01:04:38,000 --> 01:04:40,000
- I attacked you
-
-1188
-01:04:40,000 --> 01:04:42,000
- Why did you attack me?
-
-1189
-01:04:42,000 --> 01:04:44,000
- Because I thought you're a spy
-
-1190
-01:04:44,000 --> 01:04:46,000
- A spy?
-
-1191
-01:04:46,000 --> 01:04:48,000
- Yes
-
-1192
-01:04:48,000 --> 01:04:50,000
- For the past few days
-
-1193
-01:04:50,000 --> 01:04:52,000
- There's been
-
-1194
-01:04:52,000 --> 01:04:54,000
- What is this?
-
-1195
-01:04:54,000 --> 01:04:56,000
- There's blood
-
-1196
-01:04:56,000 --> 01:04:58,000
- Flowers
-
-1197
-01:04:58,000 --> 01:05:00,000
- Everywhere
-
-1198
-01:05:00,000 --> 01:05:02,000
- It's too much
-
-1199
-01:05:02,000 --> 01:05:04,000
- Too much
-
-1200
-01:05:04,000 --> 01:05:06,000
- It turns out that person
-
-1201
-01:05:06,000 --> 01:05:08,000
- Still dare to come here
-
-1202
-01:05:08,000 --> 01:05:10,000
- Mr. Paji, actually
-
-1203
-01:05:10,000 --> 01:05:12,000
- Who did this?
-
-1204
-01:05:12,000 --> 01:05:14,000
- I don't know
-
-1205
-01:05:14,000 --> 01:05:16,000
- Before
-
-1206
-01:05:16,000 --> 01:05:18,000
- I already
-
-1207
-01:05:18,000 --> 01:05:20,000
- Wanted to stay here
-
-1208
-01:05:20,000 --> 01:05:22,000
- But I don't know
-
-1209
-01:05:22,000 --> 01:05:24,000
- Why I suddenly fainted
-
-1210
-01:05:24,000 --> 01:05:26,000
- And I fell asleep in the room
-
-1211
-01:05:26,000 --> 01:05:28,000
- I'm surprised
-
-1212
-01:05:28,000 --> 01:05:30,000
- Before
-
-1213
-01:05:30,000 --> 01:05:32,000
- I drank coffee
-
-1214
-01:05:32,000 --> 01:05:34,000
- My favorite coffee, Alva
-
-1215
-01:05:34,000 --> 01:05:36,000
- But why
-
-1216
-01:05:36,000 --> 01:05:38,000
- I can fall asleep
-
-1217
-01:05:38,000 --> 01:05:40,000
- Alva, this is a child
-
-1218
-01:05:40,000 --> 01:05:42,000
- A child?
-
-1219
-01:05:42,000 --> 01:05:44,000
- Yes, a child
-
-1220
-01:05:44,000 --> 01:05:46,000
- Impossible
-
-1221
-01:05:46,000 --> 01:05:48,000
- Alva, because he has
-
-1222
-01:05:48,000 --> 01:05:50,000
- Very high knowledge
-
-1223
-01:05:50,000 --> 01:05:52,000
- Before
-
-1224
-01:05:52,000 --> 01:05:54,000
- He also succeeded in picking up
-
-1225
-01:05:54,000 --> 01:05:56,000
- The password I made to protect this tomb
-
-1226
-01:05:56,000 --> 01:05:58,000
- Alva, so it's impossible
-
-1227
-01:05:58,000 --> 01:06:00,000
- He did it, or the child did it
-
-1228
-01:06:00,000 --> 01:06:02,000
- I'm suspicious
-
-1229
-01:06:02,000 --> 01:06:04,000
- If all of this
-
-1230
-01:06:04,000 --> 01:06:06,000
- Is a child's doing
-
-1231
-01:06:06,000 --> 01:06:08,000
- Yes, sir
-
-1232
-01:06:08,000 --> 01:06:10,000
- This is also my purpose to come here
-
-1233
-01:06:10,000 --> 01:06:12,000
- Besides I miss
-
-1234
-01:06:12,000 --> 01:06:14,000
- My parents
-
-1235
-01:06:14,000 --> 01:06:16,000
- I want to talk about the prosperity of Angkara
-
-1236
-01:06:16,000 --> 01:06:18,000
- What is it, Alva?
-
-1237
-01:06:18,000 --> 01:06:22,000
- Did Angkara make a child again from school?
-
-1238
-01:06:22,000 --> 01:06:24,000
- The child is a child
-
-1239
-01:06:24,000 --> 01:06:26,000
- The child is a child
-
-1240
-01:06:26,000 --> 01:06:28,000
- The child is a child
-
-1241
-01:06:28,000 --> 01:06:30,000
- The child is a child
-
-1242
-01:06:30,000 --> 01:06:32,000
- The child is a child
-
-1243
-01:06:32,000 --> 01:06:34,000
- Rio is so cool, she gave us chocolate
-
-1244
-01:06:34,000 --> 01:06:36,000
- It's delicious
-
-1245
-01:06:36,000 --> 01:06:50,000
- Rio is our true leader
-
-1246
-01:06:50,000 --> 01:06:52,000
- Yes, I will follow her forever
-
-1247
-01:06:52,000 --> 01:06:54,000
- Live, Rio
-
-1248
-01:06:54,000 --> 01:06:56,000
- Live, Rio
-
-1249
-01:06:56,000 --> 01:06:58,000
- Live, Rio
-
-1250
-01:06:58,000 --> 01:07:00,000
- Live, Rio
-
-1251
-01:07:00,000 --> 01:07:02,000
- Live, Rio
-
-1252
-01:07:02,000 --> 01:07:04,000
- Let's try, Miss
-
-1253
-01:07:04,000 --> 01:07:06,000
- If we
-
-1254
-01:07:06,000 --> 01:07:08,000
- Keep on loving this heart
-
-1255
-01:07:08,000 --> 01:07:10,000
- Yes, our heart will be happy
-
-1256
-01:07:10,000 --> 01:07:12,000
- Always happy
-
-1257
-01:07:12,000 --> 01:07:14,000
- Chocolate makes you happy
-
-1258
-01:07:14,000 --> 01:07:16,000
- Wait a minute
-
-1259
-01:07:16,000 --> 01:07:18,000
- That's smart
-
-1260
-01:07:18,000 --> 01:07:28,000
- Miss, I don't want to
-
-1261
-01:07:28,000 --> 01:07:30,000
- Be friends with Alva
-
-1262
-01:07:30,000 --> 01:07:34,000
- Rio is our new leader
-
-1263
-01:07:34,000 --> 01:07:36,000
- Because the one who is evil
-
-1264
-01:07:36,000 --> 01:07:38,000
- Is only Rio
-
-1265
-01:07:38,000 --> 01:07:40,000
- That's right
-
-1266
-01:07:40,000 --> 01:07:42,000
- That's right
-
-1267
-01:07:42,000 --> 01:07:44,000
- Where is Rio?
-
-1268
-01:07:44,000 --> 01:07:46,000
- Alva
-
-1269
-01:07:46,000 --> 01:07:48,000
- Where is Alva?
-
-1270
-01:07:48,000 --> 01:07:50,000
- Classroom is not here
-
-1271
-01:07:50,000 --> 01:07:52,000
- Where is Alva?
-
-1272
-01:07:52,000 --> 01:07:54,000
- Alva
-
-1273
-01:07:54,000 --> 01:07:58,000
- Alva
-
-1274
-01:07:58,000 --> 01:08:08,000
- Alva
-
-1275
-01:08:08,000 --> 01:08:12,000
- I better look here
-
-1276
-01:08:12,000 --> 01:08:14,000
- Where is it?
-
-1277
-01:08:14,000 --> 01:08:24,000
- This is
-
-1278
-01:08:24,000 --> 01:08:26,000
- Why is Rio's name
-
-1279
-01:08:26,000 --> 01:08:28,000
- So similar to Professor Rangkara?
-
-1280
-01:08:28,000 --> 01:08:30,000
- Maybe
-
-1281
-01:08:30,000 --> 01:08:32,000
- Alva is right
-
-1282
-01:08:32,000 --> 01:08:34,000
- What else can Professor Rangkara and Rio do?
-
-1283
-01:08:34,000 --> 01:08:38,000
- In the toilet
-
-1284
-01:08:38,000 --> 01:08:40,000
- Don't use it
-
-1285
-01:08:40,000 --> 01:08:42,000
- Don't use it
-
-1286
-01:08:42,000 --> 01:08:46,000
- Here, I want to show you
-
-1287
-01:08:46,000 --> 01:08:50,000
- Where is the map?
-
-1288
-01:08:50,000 --> 01:08:54,000
- I left it
-
-1289
-01:08:54,000 --> 01:08:56,000
- I want to show you
-
-1290
-01:08:56,000 --> 01:08:58,000
- Show me what?
-
-1291
-01:08:58,000 --> 01:09:00,000
- Maybe
-
-1292
-01:09:00,000 --> 01:09:02,000
- The map you gave me
-
-1293
-01:09:02,000 --> 01:09:04,000
- Is broken
-
-1294
-01:09:04,000 --> 01:09:08,000
- You mean?
-
-1295
-01:09:08,000 --> 01:09:10,000
- Because there is Professor Rangkara
-
-1296
-01:09:10,000 --> 01:09:12,000
- And he always
-
-1297
-01:09:12,000 --> 01:09:14,000
- Have a fight with his new kid
-
-1298
-01:09:14,000 --> 01:09:16,000
- His name is Rio
-
-1299
-01:09:16,000 --> 01:09:18,000
- That means
-
-1300
-01:09:18,000 --> 01:09:20,000
- There is Rangkara near Rio
-
-1301
-01:09:20,000 --> 01:09:32,000
- There
-
-1302
-01:09:32,000 --> 01:09:34,000
- There
-
-1303
-01:09:34,000 --> 01:09:40,000
- I'm going to kill you
-
-1304
-01:09:40,000 --> 01:09:42,000
- I'm going to kill you
-
-1305
-01:09:42,000 --> 01:09:44,000
- Rio
-
-1306
-01:09:44,000 --> 01:09:46,000
- What are you doing?
-
-1307
-01:09:46,000 --> 01:09:48,000
- Professor
-
-1308
-01:09:48,000 --> 01:09:54,000
- Professor
-
-1309
-01:09:54,000 --> 01:09:58,000
- It's a disaster
-
-1310
-01:09:58,000 --> 01:10:00,000
- It's a disaster
-
-1311
-01:10:00,000 --> 01:10:02,000
- Rio, why did you do that?
-
-1312
-01:10:02,000 --> 01:10:04,000
- Rio, why did you do that?
-
-1313
-01:10:04,000 --> 01:10:06,000
- Show your spirit
-
-1314
-01:10:06,000 --> 01:10:08,000
- Get ready, my friend
-
-1315
-01:10:08,000 --> 01:10:12,000
- Run, jump,
-
-1316
-01:10:12,000 --> 01:10:14,000
- Jump, and get the stars
-
-1317
-01:10:14,000 --> 01:10:20,000
- Be brave
-
-1318
-01:10:20,000 --> 01:10:22,000
- Don't give up
-
-1319
-01:10:22,000 --> 01:10:28,000
- Chase your dreams
-
-1320
-01:10:32,000 --> 01:10:34,000
- Go, go, go
-
-1321
-01:10:34,000 --> 01:10:36,000
- Achieve all your dreams
-
-1322
-01:10:36,000 --> 01:10:38,000
- Go, go, go
-
-1323
-01:10:38,000 --> 01:10:40,000
- Never stop
-
-1324
-01:10:40,000 --> 01:10:42,000
- Go, go, go
-
-1325
-01:10:42,000 --> 01:10:44,000
- Fight with your heart
-
-1326
-01:10:44,000 --> 01:10:48,000
- Go, go, go
-
-1327
-01:10:48,000 --> 01:10:50,000
- Make yourself proud
-
-1328
-01:10:50,000 --> 01:10:52,000
- Go, go, go
-
-1329
-01:10:52,000 --> 01:10:54,000
- Let's dream
-
-1330
-01:10:54,000 --> 01:10:56,000
- Go, go, go
-
-1331
 01:10:56,000 --> 01:10:58,000
- We will
+We will
 

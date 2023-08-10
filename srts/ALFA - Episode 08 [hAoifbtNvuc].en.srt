@@ -1,3700 +1,3136 @@
 1
-00:00:00,000 --> 00:00:02,000
- To be continued...
+00:00:00,000 --> 00:00:20,000
+To be continued...
 
 2
-00:00:03,000 --> 00:00:07,000
- To be continued...
+00:00:20,000 --> 00:00:24,000
+Show your spirit, get ready to find friends
 
 3
-00:00:07,000 --> 00:00:11,000
- To be continued...
+00:00:24,000 --> 00:00:31,000
+Run, run, jump, climb, climb the tower
 
 4
-00:00:11,000 --> 00:00:14,000
- To be continued...
+00:00:31,000 --> 00:00:39,000
+Be brave, don't give up
 
 5
-00:00:14,000 --> 00:00:17,000
- To be continued...
+00:00:39,000 --> 00:00:46,000
+Chase your dreams and hopes
 
 6
-00:00:17,000 --> 00:00:20,000
- To be continued...
+00:00:48,000 --> 00:00:51,000
+Go, go, go, achieve all your dreams
 
 7
-00:00:20,000 --> 00:00:24,000
- Show your spirit, get ready to find friends
+00:00:51,000 --> 00:00:54,000
+Go, go, go, never stop
 
 8
-00:00:24,000 --> 00:00:31,000
- Run, run, jump, climb, climb the tower
+00:00:54,000 --> 00:01:00,000
+Go, go, go, fight with your heart
 
 9
-00:00:31,000 --> 00:00:39,000
- Be brave, don't give up
+00:01:00,000 --> 00:01:04,000
+Go, go, go, make yourself proud
 
 10
-00:00:39,000 --> 00:00:46,000
- Chase your dreams and hopes
+00:01:04,000 --> 00:01:08,000
+Go, go, go, let's dream
 
 11
-00:00:48,000 --> 00:00:51,000
- Go, go, go, achieve all your dreams
+00:01:08,000 --> 00:01:15,000
+Go, go, go, we can do it
 
 12
-00:00:51,000 --> 00:00:54,000
- Go, go, go, never stop
+00:01:16,000 --> 00:01:18,000
+To be continued...
 
 13
-00:00:54,000 --> 00:01:00,000
- Go, go, go, fight with your heart
+00:01:19,000 --> 00:01:20,000
+Calm down, kids
 
 14
-00:01:00,000 --> 00:01:04,000
- Go, go, go, make yourself proud
+00:01:20,000 --> 00:01:23,000
+We will find out what happened
 
 15
-00:01:04,000 --> 00:01:08,000
- Go, go, go, let's dream
+00:01:23,000 --> 00:01:27,000
+Megantara, it's better if you take the kids out of here
 
 16
-00:01:08,000 --> 00:01:15,000
- Go, go, go, we can do it
+00:01:27,000 --> 00:01:30,000
+And don't let a single kid fly
 
 17
-00:01:16,000 --> 00:01:18,000
- To be continued...
+00:01:30,000 --> 00:01:40,000
+Professor, who installed the horrible magic in this gate?
 
 18
-00:01:19,000 --> 00:01:20,000
- Calm down, kids
+00:01:40,000 --> 00:01:42,000
+I don't know either, Megantara
 
 19
-00:01:20,000 --> 00:01:23,000
- We will find out what happened
+00:01:42,000 --> 00:01:45,000
+What's clear is that you can't leave this village
 
 20
-00:01:23,000 --> 00:01:27,000
- Megantara, it's better if you take the kids out of here
+00:01:45,000 --> 00:01:47,000
+And we can't enter the village
 
 21
-00:01:27,000 --> 00:01:30,000
- And don't let a single kid fly
+00:01:48,000 --> 00:01:51,000
+You saved my grandpa
 
 22
-00:01:30,000 --> 00:01:40,000
- Professor, who installed the horrible magic in this gate?
+00:01:51,000 --> 00:01:56,000
+Because you saved my grandpa
 
 23
-00:01:40,000 --> 00:01:42,000
- I don't know either, Megantara
+00:01:56,000 --> 00:02:00,000
+Now you're going to be my grandpa
 
 24
-00:01:42,000 --> 00:01:45,000
- What's clear is that you can't leave this village
+00:02:00,000 --> 00:02:03,000
+The magical beam managed to defeat the monster
 
 25
-00:01:45,000 --> 00:01:47,000
- And we can't enter the village
+00:02:03,000 --> 00:02:05,000
+And locked it in the cave
 
 26
-00:01:48,000 --> 00:01:51,000
- You saved my grandpa
+00:02:05,000 --> 00:02:08,000
+No one knows where the cave is
 
 27
-00:01:51,000 --> 00:01:56,000
- Because you saved my grandpa
+00:02:08,000 --> 00:02:12,000
+But this magic is not permanent
 
 28
-00:01:56,000 --> 00:02:00,000
- Now you're going to be my grandpa
+00:02:12,000 --> 00:02:16,000
+So the monster can be released
 
 29
-00:02:00,000 --> 00:02:03,000
- The magical beam managed to defeat the monster
+00:02:17,000 --> 00:02:25,000
+And we have to find out who the descendant of the magical beam is
 
 30
-00:02:03,000 --> 00:02:05,000
- And locked it in the cave
+00:02:25,000 --> 00:02:27,000
+Who can lock the monster in it
 
 31
-00:02:05,000 --> 00:02:08,000
- No one knows where the cave is
+00:02:27,000 --> 00:02:29,000
+I'm surprised, Dek
 
 32
-00:02:08,000 --> 00:02:12,000
- But this magic is not permanent
+00:02:29,000 --> 00:02:31,000
+How can a snake talk to you?
 
 33
-00:02:12,000 --> 00:02:16,000
- So the monster can be released
+00:02:31,000 --> 00:02:32,000
+I'm surprised too
 
 34
-00:02:17,000 --> 00:02:25,000
- And we have to find out who the descendant of the magical beam is
+00:02:32,000 --> 00:02:36,000
+But I used to talk to a snake
 
 35
-00:02:25,000 --> 00:02:27,000
- Who can lock the monster in it
+00:02:36,000 --> 00:02:39,000
+Maybe it's the descendant of the magical beam
 
 36
-00:02:27,000 --> 00:02:29,000
- I'm surprised, Dek
+00:02:44,000 --> 00:02:46,000
+Nonsense, Dek
 
 37
-00:02:29,000 --> 00:02:31,000
- How can a snake talk to you?
+00:02:46,000 --> 00:02:48,000
+I can't be the descendant of the magical beam
 
 38
-00:02:31,000 --> 00:02:32,000
- I'm surprised too
+00:02:48,000 --> 00:02:50,000
+I'm new here
 
 39
-00:02:32,000 --> 00:02:36,000
- But I used to talk to a snake
+00:02:50,000 --> 00:02:52,000
+Nonsense, Dek
 
 40
-00:02:36,000 --> 00:02:39,000
- Maybe it's the descendant of the magical beam
+00:02:52,000 --> 00:02:55,000
+It's possible, if you're the one who did it
 
 41
-00:02:44,000 --> 00:02:46,000
- Nonsense, Dek
+00:02:55,000 --> 00:02:57,000
+How can you lock the monster in the cave?
 
 42
-00:02:46,000 --> 00:02:48,000
- I can't be the descendant of the magical beam
+00:02:57,000 --> 00:03:01,000
+Did your parents ever tell you about Uncle Wisdom?
 
 43
-00:02:48,000 --> 00:02:50,000
- I'm new here
+00:03:01,000 --> 00:03:03,000
+I don't know them
 
 44
-00:02:50,000 --> 00:02:52,000
- Nonsense, Dek
+00:03:03,000 --> 00:03:07,000
+I don't even know who they are
 
 45
-00:02:52,000 --> 00:02:55,000
- It's possible, if you're the one who did it
+00:03:11,000 --> 00:03:17,000
+My parents said they died a good man
 
 46
-00:02:55,000 --> 00:02:57,000
- How can you lock the monster in the cave?
+00:03:17,000 --> 00:03:24,000
+You're so naive
 
 47
-00:02:57,000 --> 00:03:01,000
- Did your parents ever tell you about Uncle Wisdom?
+00:03:24,000 --> 00:03:28,000
+I'll listen to you
 
 48
-00:03:01,000 --> 00:03:03,000
- I don't know them
+00:03:28,000 --> 00:03:39,000
+We have to break the stone
 
 49
-00:03:03,000 --> 00:03:07,000
- I don't even know who they are
+00:03:39,000 --> 00:03:41,000
+Or we'll be locked in the cave
 
 50
-00:03:11,000 --> 00:03:17,000
- My parents said they died a good man
+00:03:41,000 --> 00:03:44,000
+I want to learn too
 
 51
-00:03:17,000 --> 00:03:24,000
- You're so naive
+00:03:44,000 --> 00:03:46,000
+Let's learn together
 
 52
-00:03:24,000 --> 00:03:28,000
- I'll listen to you
+00:03:46,000 --> 00:03:48,000
+That monster is too small for me
 
 53
-00:03:28,000 --> 00:03:39,000
- We have to break the stone
+00:03:48,000 --> 00:03:51,000
+But it can be released by our teacher
 
 54
-00:03:39,000 --> 00:03:41,000
- Or we'll be locked in the cave
+00:03:51,000 --> 00:03:54,000
+Why is it a snake?
 
 55
-00:03:41,000 --> 00:03:44,000
- I want to learn too
+00:03:54,000 --> 00:03:57,000
+You pretended to be retired
 
 56
-00:03:44,000 --> 00:03:46,000
- Let's learn together
+00:03:57,000 --> 00:03:59,000
+You're exaggerating
 
 57
-00:03:46,000 --> 00:03:48,000
- That monster is too small for me
+00:03:59,000 --> 00:04:01,000
+I'm not pretending to be retired
 
 58
-00:03:48,000 --> 00:03:51,000
- But it can be released by our teacher
+00:04:06,000 --> 00:04:10,000
+It seems like they're more confident now
 
 59
-00:03:51,000 --> 00:03:54,000
- Why is it a snake?
+00:04:10,000 --> 00:04:14,000
+Because they've got a new mantra
 
 60
-00:03:54,000 --> 00:03:57,000
- You pretended to be retired
+00:04:14,000 --> 00:04:17,000
+That's good
 
 61
-00:03:57,000 --> 00:03:59,000
- You're exaggerating
+00:04:17,000 --> 00:04:20,000
+But we can't give up
 
 62
-00:03:59,000 --> 00:04:01,000
- I'm not pretending to be retired
+00:04:20,000 --> 00:04:24,000
+We have to keep an eye on these monsters
 
 63
-00:04:06,000 --> 00:04:10,000
- It seems like they're more confident now
+00:04:24,000 --> 00:04:31,000
+What about Professor Purwa?
 
 64
-00:04:10,000 --> 00:04:14,000
- Because they've got a new mantra
+00:04:31,000 --> 00:04:33,000
+Do you have any clue?
 
 65
-00:04:14,000 --> 00:04:17,000
- That's good
+00:04:34,000 --> 00:04:35,000
+No
 
 66
-00:04:17,000 --> 00:04:20,000
- But we can't give up
+00:04:35,000 --> 00:04:42,000
+The book doesn't mention the type of monster
 
 67
-00:04:20,000 --> 00:04:24,000
- We have to keep an eye on these monsters
+00:04:42,000 --> 00:04:44,000
+The shape
 
 68
-00:04:24,000 --> 00:04:31,000
- What about Professor Purwa?
+00:04:44,000 --> 00:04:46,000
+And the weakness
 
 69
-00:04:31,000 --> 00:04:33,000
- Do you have any clue?
+00:04:46,000 --> 00:04:52,000
+How can we defeat it?
 
 70
-00:04:34,000 --> 00:04:35,000
- No
+00:04:52,000 --> 00:04:54,000
+And we can't go home
 
 71
-00:04:35,000 --> 00:04:42,000
- The book doesn't mention the type of monster
+00:04:54,000 --> 00:04:59,000
+Because the village gate is cursed by a very powerful magic
 
 72
-00:04:42,000 --> 00:04:44,000
- The shape
+00:04:59,000 --> 00:05:01,000
+We're all trapped here
 
 73
-00:04:44,000 --> 00:04:46,000
- And the weakness
+00:05:02,000 --> 00:05:05,000
+We have to find a way to escape
 
 74
-00:04:46,000 --> 00:04:52,000
- How can we defeat it?
+00:05:05,000 --> 00:05:17,000
+Alva
 
 75
-00:04:52,000 --> 00:04:54,000
- And we can't go home
+00:05:17,000 --> 00:05:20,000
+It's so scary
 
 76
-00:04:54,000 --> 00:04:59,000
- Because the village gate is cursed by a very powerful magic
+00:05:20,000 --> 00:05:21,000
+Why?
 
 77
-00:04:59,000 --> 00:05:01,000
- We're all trapped here
+00:05:21,000 --> 00:05:24,000
+The teacher knows about the monster
 
 78
-00:05:02,000 --> 00:05:05,000
- We have to find a way to escape
+00:05:24,000 --> 00:05:28,000
+But he covered us so we won't be scared
 
 79
-00:05:05,000 --> 00:05:17,000
- Alva
+00:05:28,000 --> 00:05:33,000
+And the door is cursed by a very powerful magic
 
 80
-00:05:17,000 --> 00:05:20,000
- It's so scary
+00:05:33,000 --> 00:05:36,000
+So the students can't get out
 
 81
-00:05:20,000 --> 00:05:21,000
- Why?
+00:05:36,000 --> 00:05:40,000
+That's why Professor Albaran can't get in
 
 82
-00:05:21,000 --> 00:05:24,000
- The teacher knows about the monster
+00:05:40,000 --> 00:05:45,000
+I think someone's watching us
 
 83
-00:05:24,000 --> 00:05:28,000
- But he covered us so we won't be scared
+00:05:45,000 --> 00:06:03,000
+What do we do?
 
 84
-00:05:28,000 --> 00:05:33,000
- And the door is cursed by a very powerful magic
+00:06:03,000 --> 00:06:05,000
+The monster has attacked two students
 
 85
-00:05:33,000 --> 00:05:36,000
- So the students can't get out
+00:06:05,000 --> 00:06:09,000
+How long do we have to wait?
 
 86
-00:05:36,000 --> 00:05:40,000
- That's why Professor Albaran can't get in
+00:06:09,000 --> 00:06:10,000
+Soon, sir
 
 87
-00:05:40,000 --> 00:05:45,000
- I think someone's watching us
+00:06:10,000 --> 00:06:12,000
+They're trapped in the village
 
 88
-00:05:45,000 --> 00:05:47,000
- What do we do?
+00:06:12,000 --> 00:06:15,000
+All the students will turn into stone
 
 89
-00:05:47,000 --> 00:06:03,000
- What do we do?
+00:06:15,000 --> 00:06:17,000
+Including the special students
 
 90
-00:06:03,000 --> 00:06:05,000
- The monster has attacked two students
+00:06:17,000 --> 00:06:21,000
+So you just have to wait
 
 91
-00:06:05,000 --> 00:06:09,000
- How long do we have to wait?
+00:06:21,000 --> 00:06:35,000
+I'm bored here
 
 92
-00:06:09,000 --> 00:06:10,000
- Soon, sir
+00:06:35,000 --> 00:06:36,000
+I want to go back to school
 
 93
-00:06:10,000 --> 00:06:12,000
- They're trapped in the village
+00:06:36,000 --> 00:06:39,000
+Yes, we can't eat at school
 
 94
-00:06:12,000 --> 00:06:15,000
- All the students will turn into stone
+00:06:39,000 --> 00:06:40,000
+Yes
 
 95
-00:06:15,000 --> 00:06:17,000
- Including the special students
+00:06:41,000 --> 00:06:43,000
+[The teacher is angry]
 
 96
-00:06:17,000 --> 00:06:21,000
- So you just have to wait
+00:06:43,000 --> 00:06:52,000
+Prita, you can eat the chocolate by yourself
 
 97
-00:06:21,000 --> 00:06:35,000
- I'm bored here
+00:06:52,000 --> 00:06:54,000
+Yes, share it with me
 
 98
-00:06:35,000 --> 00:06:36,000
- I want to go back to school
+00:06:54,000 --> 00:06:55,000
+If you want
 
 99
-00:06:36,000 --> 00:06:39,000
- Yes, we can't eat at school
+00:06:55,000 --> 00:07:09,000
+My chocolate! Give it back!
 
 100
-00:06:39,000 --> 00:06:40,000
- Yes
+00:07:09,000 --> 00:07:10,000
+Prita, what's wrong?
 
 101
-00:06:41,000 --> 00:06:43,000
- [The teacher is angry]
+00:07:10,000 --> 00:07:15,000
+My chocolate was taken by Jack and Mike
 
 102
-00:06:43,000 --> 00:06:52,000
- Prita, you can eat the chocolate by yourself
+00:07:15,000 --> 00:07:17,000
+They ran away
 
 103
-00:06:52,000 --> 00:06:54,000
- Yes, share it with me
+00:07:17,000 --> 00:07:18,000
+That's a problem
 
 104
-00:06:54,000 --> 00:06:55,000
- If you want
+00:07:18,000 --> 00:07:22,000
+I know, but in this situation, it's still a problem
 
 105
-00:06:55,000 --> 00:07:03,000
- My chocolate! Give it back!
+00:07:22,000 --> 00:07:24,000
+Prita, don't be sad
 
 106
-00:07:03,000 --> 00:07:09,000
- My chocolate! Give it back!
+00:07:24,000 --> 00:07:26,000
+I'll go after them
 
 107
-00:07:09,000 --> 00:07:10,000
- Prita, what's wrong?
+00:07:26,000 --> 00:07:28,000
+Don't worry, I'll go with you
 
 108
-00:07:10,000 --> 00:07:15,000
- My chocolate was taken by Jack and Mike
+00:07:28,000 --> 00:07:30,000
+Ray, don't be late
 
 109
-00:07:15,000 --> 00:07:17,000
- They ran away
+00:07:37,000 --> 00:07:40,000
+Smells good
 
 110
-00:07:17,000 --> 00:07:18,000
- That's a problem
+00:07:40,000 --> 00:07:47,000
+What's wrong?
 
 111
-00:07:18,000 --> 00:07:22,000
- I know, but in this situation, it's still a problem
+00:07:47,000 --> 00:07:48,000
+Why did you stop?
 
 112
-00:07:22,000 --> 00:07:24,000
- Prita, don't be sad
+00:07:48,000 --> 00:07:50,000
+Let's go after Jack and Mike
 
 113
-00:07:24,000 --> 00:07:26,000
- I'll go after them
+00:07:50,000 --> 00:07:52,000
+Okay, let's go
 
 114
-00:07:26,000 --> 00:07:28,000
- Don't worry, I'll go with you
+00:07:52,000 --> 00:08:01,000
+My stomach hurts
 
 115
-00:07:28,000 --> 00:07:30,000
- Ray, don't be late
+00:08:01,000 --> 00:08:03,000
+Mike, wait for me!
 
 116
-00:07:37,000 --> 00:07:40,000
- Smells good
+00:08:04,000 --> 00:08:06,000
+[The teacher is angry]
 
 117
-00:07:40,000 --> 00:07:47,000
- What's wrong?
+00:08:06,000 --> 00:08:14,000
+Mike?
 
 118
-00:07:47,000 --> 00:07:48,000
- Why did you stop?
+00:08:14,000 --> 00:08:16,000
+Mike!
 
 119
-00:07:48,000 --> 00:07:50,000
- Let's go after Jack and Mike
+00:08:16,000 --> 00:08:18,000
+That's Jack's voice
 
 120
-00:07:50,000 --> 00:07:52,000
- Okay, let's go
+00:08:18,000 --> 00:08:20,000
+Maybe it's another monster
 
 121
-00:07:52,000 --> 00:08:01,000
- My stomach hurts
+00:08:20,000 --> 00:08:22,000
+Let's go
 
 122
-00:08:01,000 --> 00:08:03,000
- Mike, wait for me!
+00:08:22,000 --> 00:08:31,000
+Mike!
 
 123
-00:08:04,000 --> 00:08:06,000
- [The teacher is angry]
+00:08:32,000 --> 00:08:37,000
+Help!
 
 124
-00:08:06,000 --> 00:08:14,000
- Mike?
+00:08:37,000 --> 00:09:03,000
+I'm scared
 
 125
-00:08:14,000 --> 00:08:16,000
- Mike!
+00:09:03,000 --> 00:09:05,000
+Jack saw Mike being attacked
 
 126
-00:08:16,000 --> 00:08:18,000
- That's Jack's voice
+00:09:05,000 --> 00:09:07,000
+That's why he's still shocked
 
 127
-00:08:18,000 --> 00:08:20,000
- Maybe it's another monster
+00:09:07,000 --> 00:09:13,000
+Okay, let's take them inside
 
 128
-00:08:20,000 --> 00:08:22,000
- Let's go
+00:09:13,000 --> 00:09:16,000
+Sorry, Professor Purwa
 
 129
-00:08:22,000 --> 00:08:31,000
- Mike!
+00:09:16,000 --> 00:09:19,000
+Let Mike handle it
 
 130
-00:08:32,000 --> 00:08:35,000
- Help!
+00:09:19,000 --> 00:09:22,000
+Okay
 
 131
-00:08:35,000 --> 00:08:37,000
- Help!
+00:09:22,000 --> 00:09:29,000
+Alva, let's listen to this
 
 132
-00:08:37,000 --> 00:09:03,000
- I'm scared
+00:09:29,000 --> 00:09:30,000
+How?
 
 133
-00:09:03,000 --> 00:09:05,000
- Jack saw Mike being attacked
+00:09:30,000 --> 00:09:32,000
+Let's go inside
 
 134
-00:09:05,000 --> 00:09:07,000
- That's why he's still shocked
+00:09:32,000 --> 00:09:36,000
+Kids
 
 135
-00:09:07,000 --> 00:09:13,000
- Okay, let's take them inside
+00:09:36,000 --> 00:09:38,000
+Don't go anywhere
 
 136
-00:09:13,000 --> 00:09:16,000
- Sorry, Professor Purwa
+00:09:38,000 --> 00:09:41,000
+Stay here
 
 137
-00:09:16,000 --> 00:09:19,000
- Let Mike handle it
+00:09:41,000 --> 00:09:43,000
+And always be careful
 
 138
-00:09:19,000 --> 00:09:22,000
- Okay
+00:09:43,000 --> 00:09:47,000
+[The teacher is angry]
 
 139
-00:09:22,000 --> 00:09:29,000
- Alva, let's listen to this
+00:09:47,000 --> 00:10:01,000
+Alva?
 
 140
-00:09:29,000 --> 00:09:30,000
- How?
+00:10:02,000 --> 00:10:32,000
+[The teacher is angry]
 
 141
-00:09:30,000 --> 00:09:32,000
- Let's go inside
+00:10:32,000 --> 00:10:53,000
+Are you okay?
 
 142
-00:09:32,000 --> 00:09:36,000
- Kids
+00:10:53,000 --> 00:10:59,000
+I'm okay
 
 143
-00:09:36,000 --> 00:09:38,000
- Don't go anywhere
+00:10:59,000 --> 00:11:01,000
+[The teacher is angry]
 
 144
-00:09:38,000 --> 00:09:41,000
- Stay here
+00:11:01,000 --> 00:11:08,000
+This is the maximum amount of alcohol
 
 145
-00:09:41,000 --> 00:09:43,000
- And always be careful
+00:11:08,000 --> 00:11:13,000
+If you drink that, you'll be calm
 
 146
-00:09:43,000 --> 00:09:45,000
- [The teacher is angry]
+00:11:13,000 --> 00:11:19,000
+Now tell me what happened
 
 147
-00:09:45,000 --> 00:09:47,000
- [The teacher is angry]
+00:11:19,000 --> 00:11:21,000
+Just now
 
 148
-00:09:47,000 --> 00:09:53,000
- Alva?
+00:11:21,000 --> 00:11:25,000
+I was putting on my shoes
 
 149
-00:09:53,000 --> 00:10:01,000
- Alva?
+00:11:25,000 --> 00:11:27,000
+And Mike ran away
 
 150
-00:10:02,000 --> 00:10:04,000
- [The teacher is angry]
+00:11:27,000 --> 00:11:30,000
+And then the monster came
 
 151
-00:10:05,000 --> 00:10:07,000
- [The teacher is angry]
+00:11:30,000 --> 00:11:32,000
+I was so scared
 
 152
-00:10:07,000 --> 00:10:15,000
- [The teacher is angry]
+00:11:32,000 --> 00:11:34,000
+And then he turned into a rock
 
 153
-00:10:15,000 --> 00:10:19,000
- [The teacher is angry]
+00:11:34,000 --> 00:11:39,000
+This is the first time this has happened
 
 154
-00:10:19,000 --> 00:10:30,000
- [The teacher is angry]
+00:11:39,000 --> 00:11:44,000
+Usually, students are attacked when they are happy
 
 155
-00:10:30,000 --> 00:10:32,000
- [The teacher is angry]
+00:11:44,000 --> 00:11:48,000
+Professor Agni
 
 156
-00:10:32,000 --> 00:10:53,000
- Are you okay?
+00:11:48,000 --> 00:11:51,000
+Let's read his mind
 
 157
-00:10:53,000 --> 00:10:59,000
- I'm okay
+00:11:51,000 --> 00:11:53,000
+Okay, Professor
 
 158
-00:10:59,000 --> 00:11:01,000
- [The teacher is angry]
+00:11:54,000 --> 00:11:56,000
+[The teacher is angry]
 
 159
-00:11:01,000 --> 00:11:08,000
- This is the maximum amount of alcohol
+00:11:56,000 --> 00:12:08,000
+My shoes hurt
 
 160
-00:11:08,000 --> 00:11:13,000
- If you drink that, you'll be calm
+00:12:08,000 --> 00:12:10,000
+Mike, wait for me!
 
 161
-00:11:13,000 --> 00:11:19,000
- Now tell me what happened
+00:12:10,000 --> 00:12:13,000
+Hurry!
 
 162
-00:11:19,000 --> 00:11:21,000
- Just now
+00:12:14,000 --> 00:12:41,000
+[The teacher is angry]
 
 163
-00:11:21,000 --> 00:11:25,000
- I was putting on my shoes
+00:12:41,000 --> 00:12:45,000
+Mike!
 
 164
-00:11:25,000 --> 00:11:27,000
- And Mike ran away
+00:12:45,000 --> 00:13:02,000
+I like that monster
 
 165
-00:11:27,000 --> 00:11:30,000
- And then the monster came
+00:13:02,000 --> 00:13:06,000
+It looks like the monster likes chocolate
 
 166
-00:11:30,000 --> 00:11:32,000
- I was so scared
+00:13:06,000 --> 00:13:08,000
+That's weird
 
 167
-00:11:32,000 --> 00:11:34,000
- And then he turned into a rock
+00:13:08,000 --> 00:13:13,000
+How can a monster as cruel as that like chocolate?
 
 168
-00:11:34,000 --> 00:11:39,000
- This is the first time this has happened
+00:13:13,000 --> 00:13:21,000
+Wait, Professor Purwa
 
 169
-00:11:39,000 --> 00:11:44,000
- Usually, students are attacked when they are happy
+00:13:21,000 --> 00:13:24,000
+I have to make sure of something
 
 170
-00:11:44,000 --> 00:11:48,000
- Professor Agni
+00:13:25,000 --> 00:13:55,000
+[The teacher is angry]
 
 171
-00:11:48,000 --> 00:11:51,000
- Let's read his mind
+00:13:55,000 --> 00:14:00,000
+How is it, Professor Agni?
 
 172
-00:11:51,000 --> 00:11:53,000
- Okay, Professor
+00:14:00,000 --> 00:14:02,000
+It seems like it's true
 
 173
-00:11:54,000 --> 00:11:56,000
- [The teacher is angry]
+00:14:02,000 --> 00:14:05,000
+When Tol is attacked
 
 174
-00:11:56,000 --> 00:12:08,000
- My shoes hurt
+00:14:05,000 --> 00:14:07,000
+There's chocolate
 
 175
-00:12:08,000 --> 00:12:10,000
- Mike, wait for me!
+00:14:07,000 --> 00:14:08,000
+Yes, sir
 
 176
-00:12:10,000 --> 00:12:13,000
- Hurry!
+00:14:08,000 --> 00:14:11,000
+And when Nick was attacked
 
 177
-00:12:14,000 --> 00:12:16,000
- [The teacher is angry]
+00:14:11,000 --> 00:14:13,000
+Nick was being tested
 
 178
-00:12:16,000 --> 00:12:38,000
- [The teacher is angry]
+00:14:13,000 --> 00:14:15,000
+He was carrying chocolate
 
 179
-00:12:39,000 --> 00:12:41,000
- [The teacher is angry]
+00:14:15,000 --> 00:14:17,000
+Megantara
 
 180
-00:12:41,000 --> 00:12:45,000
- Mike!
+00:14:17,000 --> 00:14:19,000
+Go back to your students
 
 181
-00:12:45,000 --> 00:13:02,000
- I like that monster
+00:14:19,000 --> 00:14:21,000
+Watch them
 
 182
-00:13:02,000 --> 00:13:06,000
- It looks like the monster likes chocolate
+00:14:21,000 --> 00:14:23,000
+Don't let anyone panic
 
 183
-00:13:06,000 --> 00:13:08,000
- That's weird
+00:14:23,000 --> 00:14:25,000
+And watch them
 
 184
-00:13:08,000 --> 00:13:13,000
- How can a monster as cruel as that like chocolate?
+00:14:25,000 --> 00:14:28,000
+Don't let anyone pass through the village
 
 185
-00:13:13,000 --> 00:13:21,000
- Wait, Professor Purwa
+00:14:28,000 --> 00:14:31,000
+It can be very dangerous for them
 
 186
-00:13:21,000 --> 00:13:24,000
- I have to make sure of something
+00:14:31,000 --> 00:14:35,000
+Yes, Professor
 
 187
-00:13:25,000 --> 00:13:27,000
- [The teacher is angry]
+00:14:35,000 --> 00:14:37,000
+[The teacher is angry]
 
 188
-00:13:27,000 --> 00:13:53,000
- [The teacher is angry]
+00:14:37,000 --> 00:14:56,000
+How is it, Mr. Agni?
 
 189
-00:13:53,000 --> 00:13:55,000
- [The teacher is angry]
+00:14:56,000 --> 00:14:59,000
+Don't worry
 
 190
-00:13:55,000 --> 00:14:00,000
- How is it, Professor Agni?
+00:14:59,000 --> 00:15:02,000
+Mr. Agni is resting
 
 191
-00:14:00,000 --> 00:14:02,000
- It seems like it's true
+00:15:02,000 --> 00:15:04,000
+He's sleeping
 
 192
-00:14:02,000 --> 00:14:05,000
- When Tol is attacked
+00:15:04,000 --> 00:15:06,000
+What about Mike?
 
 193
-00:14:05,000 --> 00:14:07,000
- There's chocolate
+00:15:06,000 --> 00:15:11,000
+Mike is being treated
 
 194
-00:14:07,000 --> 00:14:08,000
- Yes, sir
+00:15:11,000 --> 00:15:13,000
+With a medicine
 
 195
-00:14:08,000 --> 00:14:11,000
- And when Nick was attacked
+00:15:13,000 --> 00:15:14,000
+Aren't you afraid?
 
 196
-00:14:11,000 --> 00:14:13,000
- Nick was being tested
+00:15:14,000 --> 00:15:16,000
+No, sir
 
 197
-00:14:13,000 --> 00:14:15,000
- He was carrying chocolate
+00:15:16,000 --> 00:15:18,000
+We're not afraid, right?
 
 198
-00:14:15,000 --> 00:14:17,000
- Megantara
+00:15:18,000 --> 00:15:19,000
+Yes, sir
 
 199
-00:14:17,000 --> 00:14:19,000
- Go back to your students
+00:15:19,000 --> 00:15:21,000
+Good
 
 200
-00:14:19,000 --> 00:14:21,000
- Watch them
+00:15:21,000 --> 00:15:25,000
+Who said we're not afraid?
 
 201
-00:14:21,000 --> 00:14:23,000
- Don't let anyone panic
+00:15:25,000 --> 00:15:28,000
+This place is getting more dangerous
 
 202
-00:14:23,000 --> 00:14:25,000
- And watch them
+00:15:28,000 --> 00:15:31,000
+But it's our turn to be the bad guys
 
 203
-00:14:25,000 --> 00:14:28,000
- Don't let anyone pass through the village
+00:15:31,000 --> 00:15:34,000
+Let's run away
 
 204
-00:14:28,000 --> 00:14:31,000
- It can be very dangerous for them
+00:15:34,000 --> 00:15:35,000
+Do you agree?
 
 205
-00:14:31,000 --> 00:14:35,000
- Yes, Professor
+00:15:35,000 --> 00:15:37,000
+Yes, sir
 
 206
-00:14:35,000 --> 00:14:37,000
- [The teacher is angry]
+00:15:37,000 --> 00:15:46,000
+Now we know the monster likes chocolate
 
 207
-00:14:37,000 --> 00:14:56,000
- How is it, Mr. Agni?
+00:15:46,000 --> 00:15:48,000
+So we have to protect our friends
 
 208
-00:14:56,000 --> 00:14:59,000
- Don't worry
+00:15:48,000 --> 00:15:49,000
+So they won't eat chocolate
 
 209
-00:14:59,000 --> 00:15:02,000
- Mr. Agni is resting
+00:15:49,000 --> 00:15:50,000
+I agree
 
 210
-00:15:02,000 --> 00:15:04,000
- He's sleeping
+00:15:50,000 --> 00:15:52,000
+So they won't be attacked by the monster
 
 211
-00:15:04,000 --> 00:15:06,000
- What about Mike?
+00:15:52,000 --> 00:15:53,000
+Let's go
 
 212
-00:15:06,000 --> 00:15:11,000
- Mike is being treated
+00:15:53,000 --> 00:16:38,000
+[The teacher is angry]
 
 213
-00:15:11,000 --> 00:15:13,000
- With a medicine
+00:16:38,000 --> 00:16:58,000
+Hurry up, Don!
 
 214
-00:15:13,000 --> 00:15:14,000
- Aren't you afraid?
+00:16:58,000 --> 00:17:00,000
+I'm late
 
 215
-00:15:14,000 --> 00:15:16,000
- No, sir
+00:17:00,000 --> 00:17:10,000
+[The teacher is angry]
 
 216
-00:15:16,000 --> 00:15:18,000
- We're not afraid, right?
+00:17:10,000 --> 00:17:12,000
+It's dangerous, we have to run
 
 217
-00:15:18,000 --> 00:15:19,000
- Yes, sir
+00:17:12,000 --> 00:17:17,000
+I'll go through the village gate
 
 218
-00:15:19,000 --> 00:15:21,000
- Good
+00:17:17,000 --> 00:17:19,000
+I have to stop this
 
 219
-00:15:21,000 --> 00:15:25,000
- Who said we're not afraid?
+00:17:19,000 --> 00:17:27,000
+The army!
 
 220
-00:15:25,000 --> 00:15:28,000
- This place is getting more dangerous
+00:17:27,000 --> 00:17:29,000
+The army is coming!
 
 221
-00:15:28,000 --> 00:15:31,000
- But it's our turn to be the bad guys
+00:17:29,000 --> 00:17:42,000
+The army!
 
 222
-00:15:31,000 --> 00:15:34,000
- Let's run away
+00:17:42,000 --> 00:17:44,000
+What should we do?
 
 223
-00:15:34,000 --> 00:15:35,000
- Do you agree?
+00:17:44,000 --> 00:17:46,000
+The army!
 
 224
-00:15:35,000 --> 00:15:37,000
- Yes, sir
+00:17:46,000 --> 00:17:48,000
+Now
 
 225
-00:15:37,000 --> 00:15:46,000
- Now we know the monster likes chocolate
+00:17:48,000 --> 00:17:51,000
+It's time for the monster to do its job
 
 226
-00:15:46,000 --> 00:15:48,000
- So we have to protect our friends
+00:17:52,000 --> 00:18:09,000
+[We can do it]
 
 227
-00:15:48,000 --> 00:15:49,000
- So they won't eat chocolate
+00:18:09,000 --> 00:18:15,000
+Wait!
 
 228
-00:15:49,000 --> 00:15:50,000
- I agree
+00:18:15,000 --> 00:18:27,000
+You're so slow
 
 229
-00:15:50,000 --> 00:15:52,000
- So they won't be attacked by the monster
+00:18:27,000 --> 00:18:31,000
+You said you're not afraid
 
 230
-00:15:52,000 --> 00:15:53,000
- Let's go
+00:18:31,000 --> 00:18:33,000
+But you want to run away?
 
 231
-00:15:53,000 --> 00:15:55,000
- [The teacher is angry]
+00:18:33,000 --> 00:18:35,000
+Come on
 
 232
-00:15:56,000 --> 00:15:58,000
- [The teacher is angry]
+00:18:35,000 --> 00:18:37,000
+You all go back to your house
 
 233
-00:15:59,000 --> 00:16:01,000
- [The teacher is angry]
+00:18:37,000 --> 00:18:43,000
+We want to go home
 
 234
-00:16:02,000 --> 00:16:04,000
- [The teacher is angry]
+00:18:43,000 --> 00:18:45,000
+This place is getting more dangerous
 
 235
-00:16:05,000 --> 00:16:07,000
- [The teacher is angry]
+00:18:45,000 --> 00:18:47,000
+So that's all you have?
 
 236
-00:16:08,000 --> 00:16:10,000
- [The teacher is angry]
+00:18:47,000 --> 00:18:51,000
+Listen
 
 237
-00:16:10,000 --> 00:16:12,000
- [The teacher is angry]
+00:18:51,000 --> 00:18:53,000
+You're special kids
 
 238
-00:16:12,000 --> 00:16:34,000
- [The teacher is angry]
+00:18:53,000 --> 00:18:58,000
+Kids who are spoiled by other kids
 
 239
-00:16:34,000 --> 00:16:36,000
- [The teacher is angry]
+00:18:58,000 --> 00:19:02,000
+If you're afraid
 
 240
-00:16:36,000 --> 00:16:38,000
- [The teacher is angry]
+00:19:02,000 --> 00:19:04,000
+You don't have the courage
 
 241
-00:16:38,000 --> 00:16:58,000
- Hurry up, Don!
+00:19:04,000 --> 00:19:09,000
+What's the difference between you and other kids?
 
 242
-00:16:58,000 --> 00:17:00,000
- I'm late
+00:19:09,000 --> 00:19:18,000
+Do you know why you're still asked to come here?
 
 243
-00:17:00,000 --> 00:17:02,000
- [The teacher is angry]
+00:19:18,000 --> 00:19:22,000
+Do you?
 
 244
-00:17:02,000 --> 00:17:04,000
- [The teacher is angry]
+00:19:22,000 --> 00:19:25,000
+Look at this
 
 245
-00:17:04,000 --> 00:17:06,000
- [The teacher is angry]
+00:19:26,000 --> 00:19:28,000
+[The Black Magic]
 
 246
-00:17:06,000 --> 00:17:08,000
- [The teacher is angry]
+00:19:28,000 --> 00:19:40,000
+This cave is haunted by the black magic
 
 247
-00:17:08,000 --> 00:17:10,000
- [The teacher is angry]
+00:19:40,000 --> 00:19:42,000
+If we pass it
 
 248
-00:17:10,000 --> 00:17:12,000
- It's dangerous, we have to run
+00:19:42,000 --> 00:19:45,000
+You'll all be destroyed
 
 249
-00:17:12,000 --> 00:17:17,000
- I'll go through the village gate
+00:19:45,000 --> 00:19:50,000
+What should we do?
 
 250
-00:17:17,000 --> 00:17:19,000
- I have to stop this
+00:19:50,000 --> 00:19:53,000
+We have to fight it
 
 251
-00:17:19,000 --> 00:17:27,000
- The army!
+00:19:53,000 --> 00:19:55,000
+Remember
 
 252
-00:17:27,000 --> 00:17:29,000
- The army is coming!
+00:19:55,000 --> 00:19:58,000
+You're special kids
 
 253
-00:17:29,000 --> 00:17:31,000
- The army!
+00:19:58,000 --> 00:20:02,000
+Go back to being farmers
 
 254
-00:17:31,000 --> 00:17:33,000
- The army!
+00:20:02,000 --> 00:20:06,000
+Go back to being brave
 
 255
-00:17:33,000 --> 00:17:42,000
- The army!
+00:20:06,000 --> 00:20:11,000
+Agree?
 
 256
-00:17:42,000 --> 00:17:44,000
- What should we do?
+00:20:11,000 --> 00:20:13,000
+Agree!
 
 257
-00:17:44,000 --> 00:17:46,000
- The army!
+00:20:13,000 --> 00:20:15,000
+Louder!
 
 258
-00:17:46,000 --> 00:17:48,000
- Now
+00:20:15,000 --> 00:20:17,000
+Agree!
 
 259
-00:17:48,000 --> 00:17:51,000
- It's time for the monster to do its job
+00:20:17,000 --> 00:20:18,000
+Brave?
 
 260
-00:17:52,000 --> 00:17:57,000
- [We can do it]
+00:20:18,000 --> 00:20:20,000
+Brave!
 
 261
-00:17:57,000 --> 00:18:07,000
- [We can do it]
+00:20:20,000 --> 00:20:22,000
+That's it
 
 262
-00:18:07,000 --> 00:18:09,000
- [We can do it]
+00:20:22,000 --> 00:20:26,000
+[The Black Magic]
 
 263
-00:18:09,000 --> 00:18:15,000
- Wait!
+00:20:26,000 --> 00:20:31,000
+Now you know the situation
 
 264
-00:18:15,000 --> 00:18:27,000
- You're so slow
+00:20:31,000 --> 00:20:34,000
+But
 
 265
-00:18:27,000 --> 00:18:31,000
- You said you're not afraid
+00:20:34,000 --> 00:20:37,000
+Don't be shocked by the situation
 
 266
-00:18:31,000 --> 00:18:33,000
- But you want to run away?
+00:20:37,000 --> 00:20:42,000
+You have to be calmer
 
 267
-00:18:33,000 --> 00:18:35,000
- Come on
+00:20:42,000 --> 00:20:44,000
+And be ready to face it
 
 268
-00:18:35,000 --> 00:18:37,000
- You all go back to your house
+00:20:44,000 --> 00:20:46,000
+Your heart has to be happy
 
 269
-00:18:37,000 --> 00:18:39,000
- We want to go home
+00:20:46,000 --> 00:20:48,000
+We can't, we're scared
 
 270
-00:18:39,000 --> 00:18:41,000
- We want to go home
+00:20:48,000 --> 00:20:50,000
+Yes, we're scared
 
 271
-00:18:41,000 --> 00:18:43,000
- We want to go home
+00:20:50,000 --> 00:20:54,000
+This fear is our enemy's target
 
 272
-00:18:43,000 --> 00:18:45,000
- This place is getting more dangerous
+00:20:54,000 --> 00:20:57,000
+If we're scared, the enemy will be happy
 
 273
-00:18:45,000 --> 00:18:47,000
- So that's all you have?
+00:20:57,000 --> 00:21:00,000
+But if we're happy
 
 274
-00:18:47,000 --> 00:18:51,000
- Listen
+00:21:00,000 --> 00:21:03,000
+The enemy will feel lonely
 
 275
-00:18:51,000 --> 00:18:53,000
- You're special kids
+00:21:03,000 --> 00:21:04,000
+Do you understand?
 
 276
-00:18:53,000 --> 00:18:58,000
- Kids who are spoiled by other kids
+00:21:04,000 --> 00:21:06,000
+Yes, sir
 
 277
-00:18:58,000 --> 00:19:02,000
- If you're afraid
+00:21:06,000 --> 00:21:08,000
+That's good
 
 278
-00:19:02,000 --> 00:19:04,000
- You don't have the courage
+00:21:08,000 --> 00:21:10,000
+I'm sorry, sir
 
 279
-00:19:04,000 --> 00:19:09,000
- What's the difference between you and other kids?
+00:21:10,000 --> 00:21:12,000
+Okay
 
 280
-00:19:09,000 --> 00:19:18,000
- Do you know why you're still asked to come here?
+00:21:12,000 --> 00:21:16,000
+I'm spinning
 
 281
-00:19:18,000 --> 00:19:22,000
- Do you?
+00:21:16,000 --> 00:21:20,000
+[The Black Magic]
 
 282
-00:19:22,000 --> 00:19:25,000
- Look at this
+00:21:20,000 --> 00:21:37,000
+One, two, three, four, five
 
 283
-00:19:26,000 --> 00:19:28,000
- [The Black Magic]
+00:21:43,000 --> 00:21:46,000
+I'm not happy
 
 284
-00:19:28,000 --> 00:19:40,000
- This cave is haunted by the black magic
+00:21:46,000 --> 00:21:51,000
+I want to win
 
 285
-00:19:40,000 --> 00:19:42,000
- If we pass it
+00:21:51,000 --> 00:21:53,000
+Me too!
 
 286
-00:19:42,000 --> 00:19:45,000
- You'll all be destroyed
+00:21:53,000 --> 00:21:57,000
+If we lose, we're done
 
 287
-00:19:45,000 --> 00:19:48,000
- What should we do?
+00:21:57,000 --> 00:22:00,000
+Now it's your turn
 
 288
-00:19:48,000 --> 00:19:50,000
- What should we do?
+00:22:00,000 --> 00:22:03,000
+I'm so happy
 
 289
-00:19:50,000 --> 00:19:53,000
- We have to fight it
+00:22:03,000 --> 00:22:06,000
+Sometimes I play alone
 
 290
-00:19:53,000 --> 00:19:55,000
- Remember
+00:22:06,000 --> 00:22:09,000
+I don't have any friends
 
 291
-00:19:55,000 --> 00:19:58,000
- You're special kids
+00:22:09,000 --> 00:22:12,000
+But now you're not lonely
 
 292
-00:19:58,000 --> 00:20:02,000
- Go back to being farmers
+00:22:12,000 --> 00:22:14,000
+Because we're your friends
 
 293
-00:20:02,000 --> 00:20:06,000
- Go back to being brave
+00:22:14,000 --> 00:22:17,000
+But if you go home, I'll be lonely
 
 294
-00:20:06,000 --> 00:20:11,000
- Agree?
+00:22:17,000 --> 00:22:20,000
+I promise, we'll come here often
 
 295
-00:20:11,000 --> 00:20:13,000
- Agree!
+00:22:20,000 --> 00:22:22,000
+Wait a minute
 
 296
-00:20:13,000 --> 00:20:15,000
- Louder!
+00:22:22,000 --> 00:22:24,000
+Okay
 
 297
-00:20:15,000 --> 00:20:17,000
- Agree!
+00:22:24,000 --> 00:22:30,000
+It seems they're having fun
 
 298
-00:20:17,000 --> 00:20:18,000
- Brave?
+00:22:30,000 --> 00:22:33,000
+I'll take advantage of the situation
 
 299
-00:20:18,000 --> 00:20:20,000
- Brave!
+00:22:34,000 --> 00:22:38,000
+[The Black Magic]
 
 300
-00:20:20,000 --> 00:20:22,000
- That's it
+00:22:38,000 --> 00:22:45,000
+What are you doing here?
 
 301
-00:20:22,000 --> 00:20:26,000
- [The Black Magic]
+00:22:45,000 --> 00:22:46,000
+What?
 
 302
-00:20:26,000 --> 00:20:31,000
- Now you know the situation
+00:22:46,000 --> 00:22:49,000
+You must be trying to do evil, right?
 
 303
-00:20:31,000 --> 00:20:34,000
- But
+00:22:49,000 --> 00:22:53,000
+Exactly
 
 304
-00:20:34,000 --> 00:20:37,000
- Don't be shocked by the situation
+00:22:53,000 --> 00:22:56,000
+And you
 
 305
-00:20:37,000 --> 00:20:42,000
- You have to be calmer
+00:22:56,000 --> 00:22:59,000
+You'll help me do that evil
 
 306
-00:20:42,000 --> 00:20:44,000
- And be ready to face it
+00:23:00,000 --> 00:23:03,000
+[The Black Magic]
 
 307
-00:20:44,000 --> 00:20:46,000
- Your heart has to be happy
+00:23:03,000 --> 00:23:13,000
+Opo, my dear
 
 308
-00:20:46,000 --> 00:20:48,000
- We can't, we're scared
+00:23:13,000 --> 00:23:17,000
+Will you help me do evil?
 
 309
-00:20:48,000 --> 00:20:50,000
- Yes, we're scared
+00:23:17,000 --> 00:23:27,000
+I...
 
 310
-00:20:50,000 --> 00:20:54,000
- This fear is our enemy's target
+00:23:27,000 --> 00:23:31,000
+[The Black Magic]
 
 311
-00:20:54,000 --> 00:20:57,000
- If we're scared, the enemy will be happy
+00:23:31,000 --> 00:23:39,000
+What's this?
 
 312
-00:20:57,000 --> 00:21:00,000
- But if we're happy
+00:23:39,000 --> 00:23:42,000
+This is a communication mirror
 
 313
-00:21:00,000 --> 00:21:03,000
- The enemy will feel lonely
+00:23:42,000 --> 00:23:47,000
+If we use this mirror, we can talk from afar
 
 314
-00:21:03,000 --> 00:21:04,000
- Do you understand?
+00:23:47,000 --> 00:23:48,000
+Cool
 
 315
-00:21:04,000 --> 00:21:06,000
- Yes, sir
+00:23:48,000 --> 00:23:50,000
+Let's try
 
 316
-00:21:06,000 --> 00:21:08,000
- That's good
+00:23:50,000 --> 00:23:55,000
+Can you see me?
 
 317
-00:21:08,000 --> 00:21:10,000
- I'm sorry, sir
+00:23:55,000 --> 00:23:56,000
+Yes, I can
 
 318
-00:21:10,000 --> 00:21:12,000
- Okay
+00:23:56,000 --> 00:23:58,000
+Can you see me?
 
 319
-00:21:12,000 --> 00:21:16,000
- I'm spinning
+00:23:58,000 --> 00:24:00,000
+Of course, Vega
 
 320
-00:21:16,000 --> 00:21:20,000
- [The Black Magic]
+00:24:00,000 --> 00:24:07,000
+Vega, watch out!
 
 321
-00:21:20,000 --> 00:21:37,000
- One, two, three, four, five
+00:24:07,000 --> 00:24:09,000
+Kaka Arya is after you
 
 322
-00:21:43,000 --> 00:21:46,000
- I'm not happy
+00:24:09,000 --> 00:24:12,000
+[The Black Magic]
 
 323
-00:21:46,000 --> 00:21:51,000
- I want to win
+00:24:12,000 --> 00:24:33,000
+I know how to make you happy
 
 324
-00:21:51,000 --> 00:21:53,000
- Me too!
+00:24:33,000 --> 00:24:36,000
+How, Popo?
 
 325
-00:21:53,000 --> 00:21:57,000
- If we lose, we're done
+00:24:36,000 --> 00:24:41,000
+How about we make something delicious?
 
 326
-00:21:57,000 --> 00:22:00,000
- Now it's your turn
+00:24:41,000 --> 00:24:43,000
+What is it?
 
 327
-00:22:00,000 --> 00:22:03,000
- I'm so happy
+00:24:43,000 --> 00:24:56,000
+Let's go
 
 328
-00:22:03,000 --> 00:22:06,000
- Sometimes I play alone
+00:24:57,000 --> 00:25:01,000
+[The Black Magic]
 
 329
-00:22:06,000 --> 00:22:09,000
- I don't have any friends
+00:25:01,000 --> 00:25:20,000
+Good
 
 330
-00:22:09,000 --> 00:22:12,000
- But now you're not lonely
+00:25:20,000 --> 00:25:22,000
+Very good
 
 331
-00:22:12,000 --> 00:22:14,000
- Because we're your friends
+00:25:22,000 --> 00:25:26,000
+Finally, my plan went well
 
 332
-00:22:14,000 --> 00:22:17,000
- But if you go home, I'll be lonely
+00:25:26,000 --> 00:25:28,000
+And now
 
 333
-00:22:17,000 --> 00:22:20,000
- I promise, we'll come here often
+00:25:28,000 --> 00:25:32,000
+It's time for Monster Legend to do his job
 
 334
-00:22:20,000 --> 00:22:22,000
- Wait a minute
+00:25:32,000 --> 00:25:42,000
+You must destroy all the chocolates in the village
 
 335
-00:22:22,000 --> 00:22:24,000
- Okay
+00:25:42,000 --> 00:25:46,000
+If necessary, destroy all the chocolate trees there
 
 336
-00:22:24,000 --> 00:22:30,000
- It seems they're having fun
+00:25:46,000 --> 00:25:49,000
+So the villagers can't make chocolates anymore
 
 337
-00:22:30,000 --> 00:22:33,000
- I'll take advantage of the situation
+00:25:49,000 --> 00:25:50,000
+Yes, sir
 
 338
-00:22:34,000 --> 00:22:38,000
- [The Black Magic]
+00:25:50,000 --> 00:25:53,000
+And remember, watch out for the children
 
 339
-00:22:38,000 --> 00:22:45,000
- What are you doing here?
+00:25:53,000 --> 00:25:56,000
+Their safety is very important
 
 340
-00:22:45,000 --> 00:22:46,000
- What?
+00:25:56,000 --> 00:25:58,000
+Yes, sir
 
 341
-00:22:46,000 --> 00:22:49,000
- You must be trying to do evil, right?
+00:25:58,000 --> 00:26:04,000
+I will try to find another way to get into the village
 
 342
-00:22:49,000 --> 00:22:53,000
- Exactly
+00:26:04,000 --> 00:26:10,000
+[The Black Magic]
 
 343
-00:22:53,000 --> 00:22:56,000
- And you
+00:26:10,000 --> 00:26:15,000
+Hey, wait for me
 
 344
-00:22:56,000 --> 00:22:59,000
- You'll help me do that evil
+00:26:16,000 --> 00:26:19,000
+[The Black Magic]
 
 345
-00:23:00,000 --> 00:23:03,000
- [The Black Magic]
+00:26:19,000 --> 00:26:40,000
+Popo, no!
 
 346
-00:23:03,000 --> 00:23:13,000
- Opo, my dear
+00:26:41,000 --> 00:26:44,000
+[The Black Magic]
 
 347
-00:23:13,000 --> 00:23:17,000
- Will you help me do evil?
+00:26:44,000 --> 00:26:49,000
+Popo, what are you doing here?
 
 348
-00:23:17,000 --> 00:23:27,000
- I...
+00:26:49,000 --> 00:26:54,000
+Milk?
 
 349
-00:23:27,000 --> 00:23:31,000
- [The Black Magic]
+00:26:54,000 --> 00:26:57,000
+What?
 
 350
-00:23:31,000 --> 00:23:39,000
- What's this?
+00:26:57,000 --> 00:27:00,000
+Kawat, Kawat!
 
 351
-00:23:39,000 --> 00:23:42,000
- This is a communication mirror
+00:27:00,000 --> 00:27:02,000
+We're all in danger!
 
 352
-00:23:42,000 --> 00:23:47,000
- If we use this mirror, we can talk from afar
+00:27:02,000 --> 00:27:05,000
+Danger? What do you mean, Popo?
 
 353
-00:23:47,000 --> 00:23:48,000
- Cool
+00:27:05,000 --> 00:27:07,000
+Those stupid children
 
 354
-00:23:48,000 --> 00:23:50,000
- Let's try
+00:27:07,000 --> 00:27:09,000
+Popo taught them how to make chocolates
 
 355
-00:23:50,000 --> 00:23:55,000
- Can you see me?
+00:27:09,000 --> 00:27:12,000
+Children? Who are you?
 
 356
-00:23:55,000 --> 00:23:56,000
- Yes, I can
+00:27:12,000 --> 00:27:14,000
+I'm their friend
 
 357
-00:23:56,000 --> 00:23:58,000
- Can you see me?
+00:27:14,000 --> 00:27:16,000
+But they're so stupid
 
 358
-00:23:58,000 --> 00:24:00,000
- Of course, Vega
+00:27:16,000 --> 00:27:24,000
+Mega!
 
 359
-00:24:00,000 --> 00:24:07,000
- Vega, watch out!
+00:27:24,000 --> 00:27:30,000
+Those children are making chocolates
 
 360
-00:24:07,000 --> 00:24:09,000
- Kaka Arya is after you
+00:27:30,000 --> 00:27:32,000
+What? Chocolates?
 
 361
-00:24:09,000 --> 00:24:12,000
- [The Black Magic]
+00:27:32,000 --> 00:27:34,000
+That means...
 
 362
-00:24:12,000 --> 00:24:33,000
- I know how to make you happy
+00:27:34,000 --> 00:27:38,000
+That means the monster is coming
 
 363
-00:24:33,000 --> 00:24:36,000
- How, Popo?
+00:27:38,000 --> 00:27:40,000
+Yes, we're in danger
 
 364
-00:24:36,000 --> 00:24:41,000
- How about we make something delicious?
+00:27:40,000 --> 00:27:42,000
+We have to stop it
 
 365
-00:24:41,000 --> 00:24:43,000
- What is it?
+00:27:42,000 --> 00:27:44,000
+Let's go
 
 366
-00:24:43,000 --> 00:24:54,000
- Let's go
+00:27:44,000 --> 00:27:48,000
+It's a monster!
 
 367
-00:24:54,000 --> 00:24:56,000
- Let's go
+00:27:48,000 --> 00:27:50,000
+Popo, run!
 
 368
-00:24:57,000 --> 00:25:01,000
- [The Black Magic]
+00:27:50,000 --> 00:28:06,000
+This looks good
 
 369
-00:25:01,000 --> 00:25:20,000
- Good
+00:28:06,000 --> 00:28:08,000
+Popo!
 
 370
-00:25:20,000 --> 00:25:22,000
- Very good
+00:28:08,000 --> 00:28:10,000
+Tommy, Tommy! Don't eat the chocolate!
 
 371
-00:25:22,000 --> 00:25:26,000
- Finally, my plan went well
+00:28:10,000 --> 00:28:12,000
+Hurry, throw it away!
 
 372
-00:25:26,000 --> 00:25:28,000
- And now
+00:28:12,000 --> 00:28:16,000
+We're tired of making chocolates
 
 373
-00:25:28,000 --> 00:25:32,000
- It's time for Monster Legend to do his job
+00:28:16,000 --> 00:28:19,000
+Then, why did you tell us to throw it away?
 
 374
-00:25:32,000 --> 00:25:42,000
- You must destroy all the chocolates in the village
+00:28:19,000 --> 00:28:22,000
+We don't know!
 
 375
-00:25:42,000 --> 00:25:46,000
- If necessary, destroy all the chocolate trees there
+00:28:22,000 --> 00:28:25,000
+Tommy, Jack, this chocolate is dangerous
 
 376
-00:25:46,000 --> 00:25:49,000
- So the villagers can't make chocolates anymore
+00:28:25,000 --> 00:28:28,000
+This chocolate can lure the monster here
 
 377
-00:25:49,000 --> 00:25:50,000
- Yes, sir
+00:28:28,000 --> 00:28:32,000
+Don't lie!
 
 378
-00:25:50,000 --> 00:25:53,000
- And remember, watch out for the children
+00:28:32,000 --> 00:28:35,000
+There's no monster that likes chocolate
 
 379
-00:25:53,000 --> 00:25:56,000
- Their safety is very important
+00:28:35,000 --> 00:28:37,000
+It's you!
 
 380
-00:25:56,000 --> 00:25:58,000
- Yes, sir
+00:28:37,000 --> 00:28:39,000
+Guys, take care of the chocolate
 
 381
-00:25:58,000 --> 00:26:04,000
- I will try to find another way to get into the village
+00:28:39,000 --> 00:28:41,000
+Don't let Alva eat it
 
 382
-00:26:04,000 --> 00:26:07,000
- [The Black Magic]
+00:28:41,000 --> 00:28:43,000
+Why? You don't want to tell us?
 
 383
-00:26:07,000 --> 00:26:10,000
- [The Black Magic]
+00:28:43,000 --> 00:28:47,000
+Go away!
 
 384
-00:26:10,000 --> 00:26:15,000
- Hey, wait for me
+00:28:47,000 --> 00:28:55,000
+Tendra!
 
 385
-00:26:16,000 --> 00:26:19,000
- [The Black Magic]
+00:28:55,000 --> 00:29:01,000
+Why is there a smell of chocolate here?
 
 386
-00:26:19,000 --> 00:26:40,000
- Popo, no!
+00:29:01,000 --> 00:29:03,000
+Yes, Tendra, they're making chocolates
 
 387
-00:26:41,000 --> 00:26:44,000
- [The Black Magic]
+00:29:03,000 --> 00:29:05,000
+What? / Yes
 
 388
-00:26:44,000 --> 00:26:49,000
- Popo, what are you doing here?
+00:29:05,000 --> 00:29:11,000
+I don't understand
 
 389
-00:26:49,000 --> 00:26:54,000
- Milk?
+00:29:11,000 --> 00:29:13,000
+Why is there so much chocolate here?
 
 390
-00:26:54,000 --> 00:26:57,000
- What?
+00:29:13,000 --> 00:29:16,000
+Tendra told us to have fun
 
 391
-00:26:57,000 --> 00:27:00,000
- Kawat, Kawat!
+00:29:16,000 --> 00:29:18,000
+But we're making chocolates
 
 392
-00:27:00,000 --> 00:27:02,000
- We're all in danger!
+00:29:18,000 --> 00:29:19,000
+It's delicious
 
 393
-00:27:02,000 --> 00:27:05,000
- Danger? What do you mean, Popo?
+00:29:19,000 --> 00:29:22,000
+Now, throw all of these chocolates away!
 
 394
-00:27:05,000 --> 00:27:07,000
- Those stupid children
+00:29:22,000 --> 00:29:25,000
+Why are we throwing them away?
 
 395
-00:27:07,000 --> 00:27:09,000
- Popo taught them how to make chocolates
+00:29:25,000 --> 00:29:27,000
+The chocolate is delicious!
 
 396
-00:27:09,000 --> 00:27:12,000
- Children? Who are you?
+00:29:27,000 --> 00:29:29,000
+This chocolate
 
 397
-00:27:12,000 --> 00:27:14,000
- I'm their friend
+00:29:29,000 --> 00:29:33,000
+will make you feel guilty
 
 398
-00:27:14,000 --> 00:27:16,000
- But they're so stupid
+00:29:33,000 --> 00:29:35,000
+Do you know, guys?
 
 399
-00:27:16,000 --> 00:27:21,000
- Mega!
+00:29:35,000 --> 00:29:38,000
+Mike, Jack, and Tole
 
 400
-00:27:21,000 --> 00:27:24,000
- Mega!
+00:29:38,000 --> 00:29:40,000
+Why did they become a band?
 
 401
-00:27:24,000 --> 00:27:30,000
- Those children are making chocolates
+00:29:40,000 --> 00:29:44,000
+Because they ate the chocolate!
 
 402
-00:27:30,000 --> 00:27:32,000
- What? Chocolates?
+00:29:44,000 --> 00:29:48,000
+If you're still making chocolates,
 
 403
-00:27:32,000 --> 00:27:34,000
- That means...
+00:29:48,000 --> 00:29:50,000
+it means you're ready to be eaten by the monster!
 
 404
-00:27:34,000 --> 00:27:38,000
- That means the monster is coming
+00:29:51,000 --> 00:29:55,000
+[To be continued]
 
 405
-00:27:38,000 --> 00:27:40,000
- Yes, we're in danger
+00:29:55,000 --> 00:29:59,000
+[Previously]
 
 406
-00:27:40,000 --> 00:27:42,000
- We have to stop it
+00:29:59,000 --> 00:30:25,000
+You're in my way!
 
 407
-00:27:42,000 --> 00:27:44,000
- Let's go
+00:30:26,000 --> 00:30:34,000
+[Previously]
 
 408
-00:27:44,000 --> 00:27:48,000
- It's a monster!
+00:31:00,000 --> 00:31:04,000
+Go away!
 
 409
-00:27:48,000 --> 00:27:50,000
- Popo, run!
+00:31:04,000 --> 00:31:06,000
+And bring the food
 
 410
-00:27:50,000 --> 00:28:06,000
- This looks good
+00:31:06,000 --> 00:31:08,000
+The chocolate smell is so strong
 
 411
-00:28:06,000 --> 00:28:08,000
- Popo!
+00:31:08,000 --> 00:31:12,000
+Do your job
 
 412
-00:28:08,000 --> 00:28:10,000
- Tommy, Tommy! Don't eat the chocolate!
+00:31:12,000 --> 00:31:14,000
+and destroy them!
 
 413
-00:28:10,000 --> 00:28:12,000
- Hurry, throw it away!
+00:31:15,000 --> 00:31:59,000
+[To be continued]
 
 414
-00:28:12,000 --> 00:28:16,000
- We're tired of making chocolates
+00:32:25,000 --> 00:32:27,000
+This is the only way
 
 415
-00:28:16,000 --> 00:28:19,000
- Then, why did you tell us to throw it away?
+00:32:27,000 --> 00:32:29,000
+for me to enter the station
 
 416
-00:28:19,000 --> 00:28:22,000
- We don't know!
+00:32:29,000 --> 00:32:33,000
+Davatang Avanza!
 
 417
-00:28:22,000 --> 00:28:25,000
- Tommy, Jack, this chocolate is dangerous
+00:32:33,000 --> 00:32:51,000
+[To be continued]
 
 418
-00:28:25,000 --> 00:28:28,000
- This chocolate can lure the monster here
+00:32:51,000 --> 00:32:57,000
+Gili Ipi!
 
 419
-00:28:28,000 --> 00:28:32,000
- Don't lie!
+00:32:57,000 --> 00:33:02,000
+There's another man!
 
 420
-00:28:32,000 --> 00:28:35,000
- There's no monster that likes chocolate
+00:33:02,000 --> 00:33:05,000
+Why is that man calling us?
 
 421
-00:28:35,000 --> 00:28:37,000
- It's you!
+00:33:05,000 --> 00:33:07,000
+He must be working for us
 
 422
-00:28:37,000 --> 00:28:39,000
- Guys, take care of the chocolate
+00:33:07,000 --> 00:33:09,000
+Hey, young ladies
 
 423
-00:28:39,000 --> 00:28:41,000
- Don't let Alva eat it
+00:33:09,000 --> 00:33:11,000
+I'm here
 
 424
-00:28:41,000 --> 00:28:43,000
- Why? You don't want to tell us?
+00:33:11,000 --> 00:33:13,000
+to invite you to a dance
 
 425
-00:28:43,000 --> 00:28:45,000
- Go away!
+00:33:13,000 --> 00:33:15,000
+A dance?
 
 426
-00:28:45,000 --> 00:28:47,000
- Go away!
+00:33:15,000 --> 00:33:17,000
+Yes
 
 427
-00:28:47,000 --> 00:28:53,000
- Tendra!
+00:33:17,000 --> 00:33:20,000
+The loser has to follow the winner's will
 
 428
-00:28:53,000 --> 00:28:55,000
- Tendra!
+00:33:20,000 --> 00:33:24,000
+How?
 
 429
-00:28:55,000 --> 00:29:01,000
- Why is there a smell of chocolate here?
+00:33:24,000 --> 00:33:27,000
+Why?
 
 430
-00:29:01,000 --> 00:29:03,000
- Yes, Tendra, they're making chocolates
+00:33:27,000 --> 00:33:29,000
+Are you scared?
 
 431
-00:29:03,000 --> 00:29:05,000
- What? / Yes
+00:33:29,000 --> 00:33:31,000
+Just dance!
 
 432
-00:29:05,000 --> 00:29:11,000
- I don't understand
+00:33:31,000 --> 00:33:33,000
+We're never scared
 
 433
-00:29:11,000 --> 00:29:13,000
- Why is there so much chocolate here?
+00:33:33,000 --> 00:33:35,000
+especially with men
 
 434
-00:29:13,000 --> 00:29:16,000
- Tendra told us to have fun
+00:33:35,000 --> 00:33:38,000
+Come on, Gili Ipi!
 
 435
-00:29:16,000 --> 00:29:18,000
- But we're making chocolates
+00:33:38,000 --> 00:33:42,000
+Gili Ipi Baju!
 
 436
-00:29:18,000 --> 00:29:19,000
- It's delicious
+00:33:46,000 --> 00:33:48,000
+[To be continued]
 
 437
-00:29:19,000 --> 00:29:22,000
- Now, throw all of these chocolates away!
+00:33:48,000 --> 00:34:12,000
+Enough!
 
 438
-00:29:22,000 --> 00:29:25,000
- Why are we throwing them away?
+00:34:12,000 --> 00:34:15,000
+I admit defeat
 
 439
-00:29:25,000 --> 00:29:27,000
- The chocolate is delicious!
+00:34:15,000 --> 00:34:17,000
+You're really great, Putri Angsa
 
 440
-00:29:27,000 --> 00:29:29,000
- This chocolate
+00:34:17,000 --> 00:34:20,000
+We don't believe in men
 
 441
-00:29:29,000 --> 00:29:33,000
- will make you feel guilty
+00:34:20,000 --> 00:34:24,000
+Where's the man?
 
 442
-00:29:33,000 --> 00:29:35,000
- Do you know, guys?
+00:34:24,000 --> 00:34:31,000
+Now, you can punish me
 
 443
-00:29:35,000 --> 00:29:38,000
- Mike, Jack, and Tole
+00:34:31,000 --> 00:34:33,000
+with anything
 
 444
-00:29:38,000 --> 00:29:40,000
- Why did they become a band?
+00:34:33,000 --> 00:34:35,000
+But please, don't put me in jail
 
 445
-00:29:40,000 --> 00:29:44,000
- Because they ate the chocolate!
+00:34:35,000 --> 00:34:37,000
+Because I'm most afraid of water
 
 446
-00:29:44,000 --> 00:29:48,000
- If you're still making chocolates,
+00:34:37,000 --> 00:34:39,000
+Especially in this lake
 
 447
-00:29:48,000 --> 00:29:50,000
- it means you're ready to be eaten by the monster!
+00:34:39,000 --> 00:34:41,000
+There's a hole that can lead to the magic village
 
 448
-00:29:51,000 --> 00:29:55,000
- [To be continued]
+00:34:41,000 --> 00:34:43,000
+Don't take me there
 
 449
-00:29:55,000 --> 00:29:57,000
- [Previously]
+00:34:43,000 --> 00:34:45,000
+I'm afraid of that place
 
 450
-00:29:57,000 --> 00:29:59,000
- [Previously]
+00:34:45,000 --> 00:34:47,000
+I'm afraid of that hole
 
 451
-00:29:59,000 --> 00:30:25,000
- You're in my way!
+00:34:47,000 --> 00:34:49,000
+He's afraid of the hole
 
 452
-00:30:26,000 --> 00:30:28,000
- [Previously]
+00:34:49,000 --> 00:34:51,000
+Let's just take him there
 
 453
-00:30:29,000 --> 00:30:31,000
- [Previously]
+00:34:51,000 --> 00:34:53,000
+So he won't be afraid
 
 454
-00:30:32,000 --> 00:30:34,000
- [Previously]
+00:34:53,000 --> 00:34:55,000
+Because you're afraid of water
 
 455
-00:31:00,000 --> 00:31:02,000
- Go away!
+00:34:55,000 --> 00:34:57,000
+and the lake
 
 456
-00:31:02,000 --> 00:31:04,000
- Go away!
+00:34:57,000 --> 00:34:59,000
+We'll take you to the most secluded place
 
 457
-00:31:04,000 --> 00:31:06,000
- And bring the food
+00:34:59,000 --> 00:35:01,000
+Come here!
 
 458
-00:31:06,000 --> 00:31:08,000
- The chocolate smell is so strong
+00:35:01,000 --> 00:35:09,000
+Let's go!
 
 459
-00:31:08,000 --> 00:31:12,000
- Do your job
+00:35:09,000 --> 00:35:28,000
+Thank you for showing us the way
 
 460
-00:31:12,000 --> 00:31:14,000
- and destroy them!
+00:35:28,000 --> 00:35:30,000
+to the magic village
 
 461
-00:31:15,000 --> 00:31:17,000
- [To be continued]
+00:35:31,000 --> 00:35:48,000
+[To be continued]
 
 462
-00:31:18,000 --> 00:31:20,000
- [To be continued]
+00:35:48,000 --> 00:36:12,000
+The dragon!
 
 463
-00:31:20,000 --> 00:31:22,000
- [To be continued]
+00:36:13,000 --> 00:36:15,000
+[The dragon]
 
 464
-00:31:22,000 --> 00:31:37,000
- [To be continued]
+00:36:15,000 --> 00:36:18,000
+I'm scared, dad
 
 465
-00:31:37,000 --> 00:31:39,000
- [To be continued]
+00:36:18,000 --> 00:36:20,000
+Zhen, you're a galaxy
 
 466
-00:31:39,000 --> 00:31:43,000
- [To be continued]
+00:36:20,000 --> 00:36:22,000
+You should be quick
 
 467
-00:31:43,000 --> 00:31:53,000
- [To be continued]
+00:36:22,000 --> 00:36:24,000
+Let's go to the magic village
 
 468
-00:31:54,000 --> 00:31:56,000
- [To be continued]
+00:36:24,000 --> 00:36:26,000
+Let's go
 
 469
-00:31:57,000 --> 00:31:59,000
- [To be continued]
+00:36:26,000 --> 00:36:28,000
+[The dragon]
 
 470
-00:32:25,000 --> 00:32:27,000
- This is the only way
+00:36:28,000 --> 00:36:32,000
+Let's go!
 
 471
-00:32:27,000 --> 00:32:29,000
- for me to enter the station
+00:36:32,000 --> 00:36:34,000
+The dragon!
 
 472
-00:32:29,000 --> 00:32:33,000
- Davatang Avanza!
+00:36:40,000 --> 00:36:42,000
+[The dragon]
 
 473
-00:32:33,000 --> 00:32:49,000
- [To be continued]
+00:36:42,000 --> 00:37:00,000
+I'm scared, dad
 
 474
-00:32:49,000 --> 00:32:51,000
- [To be continued]
+00:37:09,000 --> 00:37:11,000
+Now you have to remember, Alva
 
 475
-00:32:51,000 --> 00:32:57,000
- Gili Ipi!
+00:37:11,000 --> 00:37:14,000
+Don't you ever look at the sparkling eyes
 
 476
-00:32:57,000 --> 00:33:02,000
- There's another man!
+00:37:14,000 --> 00:37:18,000
+Remember, don't you ever look at the sparkling eyes
 
 477
-00:33:02,000 --> 00:33:05,000
- Why is that man calling us?
+00:37:18,000 --> 00:37:24,000
+Maybe the sparkling eyes are the snake eyes
 
 478
-00:33:05,000 --> 00:33:07,000
- He must be working for us
+00:37:24,000 --> 00:37:29,000
+Guys, don't look at the snake eyes!
 
 479
-00:33:07,000 --> 00:33:09,000
- Hey, young ladies
+00:37:29,000 --> 00:37:31,000
+[The dragon]
 
 480
-00:33:09,000 --> 00:33:11,000
- I'm here
+00:37:31,000 --> 00:37:46,000
+Help!
 
 481
-00:33:11,000 --> 00:33:13,000
- to invite you to a dance
+00:37:46,000 --> 00:37:48,000
+Wait for me!
 
 482
-00:33:13,000 --> 00:33:15,000
- A dance?
+00:37:49,000 --> 00:37:51,000
+[The dragon]
 
 483
-00:33:15,000 --> 00:33:17,000
- Yes
+00:37:51,000 --> 00:38:15,000
+Zhen, don't!
 
 484
-00:33:17,000 --> 00:33:20,000
- The loser has to follow the winner's will
+00:38:15,000 --> 00:38:17,000
+It's dangerous, I have to help them
 
 485
-00:33:20,000 --> 00:33:22,000
- How?
+00:38:17,000 --> 00:38:19,000
+Don't, it's dangerous
 
 486
-00:33:22,000 --> 00:33:24,000
- How?
+00:38:19,000 --> 00:38:21,000
+Run!
 
 487
-00:33:24,000 --> 00:33:27,000
- Why?
+00:38:21,000 --> 00:38:25,000
+Don't, dad!
 
 488
-00:33:27,000 --> 00:33:29,000
- Are you scared?
+00:38:25,000 --> 00:38:27,000
+Alva!
 
 489
-00:33:29,000 --> 00:33:31,000
- Just dance!
+00:38:27,000 --> 00:38:44,000
+Dad, I'm so close!
 
 490
-00:33:31,000 --> 00:33:33,000
- We're never scared
+00:38:44,000 --> 00:38:46,000
+Yes!
 
 491
-00:33:33,000 --> 00:33:35,000
- especially with men
+00:38:47,000 --> 00:38:49,000
+I'm going after the dragon!
 
 492
-00:33:35,000 --> 00:33:38,000
- Come on, Gili Ipi!
+00:38:49,000 --> 00:38:55,000
+You're so close!
 
 493
-00:33:38,000 --> 00:33:42,000
- Gili Ipi Baju!
+00:38:55,000 --> 00:39:14,000
+Vi!
 
 494
-00:33:46,000 --> 00:33:48,000
- [To be continued]
+00:39:14,000 --> 00:39:16,000
+I'm scared
 
 495
-00:33:48,000 --> 00:34:12,000
- Enough!
+00:39:16,000 --> 00:39:18,000
+This is fun
 
 496
-00:34:12,000 --> 00:34:15,000
- I admit defeat
+00:39:18,000 --> 00:39:20,000
+Wake up, Vi!
 
 497
-00:34:15,000 --> 00:34:17,000
- You're really great, Putri Angsa
+00:39:20,000 --> 00:39:22,000
+Alva!
 
 498
-00:34:17,000 --> 00:34:20,000
- We don't believe in men
+00:39:22,000 --> 00:39:33,000
+Don't look at the eyes!
 
 499
-00:34:20,000 --> 00:34:22,000
- Where's the man?
+00:39:33,000 --> 00:39:36,000
+Don't look at the snake eyes!
 
 500
-00:34:22,000 --> 00:34:24,000
- Where's the man?
+00:39:36,000 --> 00:39:49,000
+[The dragon]
 
 501
-00:34:24,000 --> 00:34:31,000
- Now, you can punish me
+00:39:49,000 --> 00:40:16,000
+Zhebata!
 
 502
-00:34:31,000 --> 00:34:33,000
- with anything
+00:40:17,000 --> 00:40:25,000
+[The dragon]
 
 503
-00:34:33,000 --> 00:34:35,000
- But please, don't put me in jail
+00:40:25,000 --> 00:40:27,000
+Dad!
 
 504
-00:34:35,000 --> 00:34:37,000
- Because I'm most afraid of water
+00:40:28,000 --> 00:40:51,000
+[The dragon]
 
 505
-00:34:37,000 --> 00:34:39,000
- Especially in this lake
+00:40:51,000 --> 00:41:04,000
+I'm going after the dragon!
 
 506
-00:34:39,000 --> 00:34:41,000
- There's a hole that can lead to the magic village
+00:41:04,000 --> 00:41:17,000
+[The dragon]
 
 507
-00:34:41,000 --> 00:34:43,000
- Don't take me there
+00:41:17,000 --> 00:41:24,000
+Happy Eid!
 
 508
-00:34:43,000 --> 00:34:45,000
- I'm afraid of that place
+00:41:24,000 --> 00:41:30,000
+I'm glad I'm not a stone yet, Alva
 
 509
-00:34:45,000 --> 00:34:47,000
- I'm afraid of that hole
+00:41:30,000 --> 00:42:24,000
+[The dragon]
 
 510
-00:34:47,000 --> 00:34:49,000
- He's afraid of the hole
+00:42:24,000 --> 00:42:40,000
+Mike!
 
 511
-00:34:49,000 --> 00:34:51,000
- Let's just take him there
+00:42:40,000 --> 00:42:44,000
+You!
 
 512
-00:34:51,000 --> 00:34:53,000
- So he won't be afraid
+00:42:44,000 --> 00:42:47,000
+Mike!
 
 513
-00:34:53,000 --> 00:34:55,000
- Because you're afraid of water
+00:42:47,000 --> 00:42:50,000
+How did you become a stone?
 
 514
-00:34:55,000 --> 00:34:57,000
- and the lake
+00:42:50,000 --> 00:42:52,000
+Anis also became a stone
 
 515
-00:34:57,000 --> 00:34:59,000
- We'll take you to the most secluded place
+00:42:52,000 --> 00:42:54,000
+You!
 
 516
-00:34:59,000 --> 00:35:01,000
- Come here!
+00:42:54,000 --> 00:42:57,000
+Hey!
 
 517
-00:35:01,000 --> 00:35:07,000
- Let's go!
+00:42:57,000 --> 00:43:11,000
+He's already in the cave
 
 518
-00:35:07,000 --> 00:35:09,000
- Let's go!
+00:43:11,000 --> 00:43:13,000
+Now we attack him
 
 519
-00:35:09,000 --> 00:35:28,000
- Thank you for showing us the way
+00:43:13,000 --> 00:43:15,000
+In the village!
 
 520
-00:35:28,000 --> 00:35:30,000
- to the magic village
+00:43:16,000 --> 00:43:54,000
+[The dragon]
 
 521
-00:35:31,000 --> 00:35:33,000
- [To be continued]
+00:44:11,000 --> 00:44:15,000
+Why are you two here?
 
 522
-00:35:33,000 --> 00:35:35,000
- [To be continued]
+00:44:15,000 --> 00:44:18,000
+Praise be to God!
 
 523
-00:35:35,000 --> 00:35:37,000
- [To be continued]
+00:44:18,000 --> 00:44:20,000
+Normal quest
 
 524
-00:35:37,000 --> 00:35:39,000
- [To be continued]
+00:44:20,000 --> 00:44:22,000
+Normal?
 
 525
-00:35:39,000 --> 00:35:41,000
- [To be continued]
+00:44:22,000 --> 00:44:24,000
+What happened to me?
 
 526
-00:35:42,000 --> 00:35:44,000
- [To be continued]
+00:44:24,000 --> 00:44:26,000
+You were a stone!
 
 527
-00:35:44,000 --> 00:35:46,000
- [To be continued]
+00:44:26,000 --> 00:44:27,000
+Enough!
 
 528
-00:35:46,000 --> 00:35:48,000
- [To be continued]
+00:44:27,000 --> 00:44:29,000
+We don't want to make a scene
 
 529
-00:35:48,000 --> 00:36:12,000
- The dragon!
+00:44:29,000 --> 00:44:31,000
+Let's get out of here
 
 530
-00:36:13,000 --> 00:36:15,000
- [The dragon]
+00:44:31,000 --> 00:44:33,000
+Let's go!
 
 531
-00:36:15,000 --> 00:36:18,000
- I'm scared, dad
+00:44:33,000 --> 00:44:35,000
+[The dragon]
 
 532
-00:36:18,000 --> 00:36:20,000
- Zhen, you're a galaxy
+00:45:02,000 --> 00:45:04,000
+Sir, it's amazing!
 
 533
-00:36:20,000 --> 00:36:22,000
- You should be quick
+00:45:04,000 --> 00:45:06,000
+Don't be happy yet, Ava
 
 534
-00:36:22,000 --> 00:36:24,000
- Let's go to the magic village
+00:45:06,000 --> 00:45:08,000
+The snake doesn't die
 
 535
-00:36:24,000 --> 00:36:26,000
- Let's go
+00:45:08,000 --> 00:45:10,000
+It just escapes
 
 536
-00:36:26,000 --> 00:36:28,000
- [The dragon]
+00:45:10,000 --> 00:45:12,000
+So the snake can come back?
 
 537
-00:36:28,000 --> 00:36:32,000
- Let's go!
+00:45:12,000 --> 00:45:15,000
+It can come back if it smells like chocolate
 
 538
-00:36:32,000 --> 00:36:34,000
- The dragon!
+00:45:15,000 --> 00:45:24,000
+We should leave this place
 
 539
-00:36:40,000 --> 00:36:42,000
- [The dragon]
+00:45:24,000 --> 00:45:26,000
+Bring the children out of the village
 
 540
-00:36:42,000 --> 00:37:00,000
- I'm scared, dad
+00:45:26,000 --> 00:45:29,000
+I've found a way to get out of the village
 
 541
-00:37:09,000 --> 00:37:11,000
- Now you have to remember, Alva
+00:45:29,000 --> 00:45:30,000
+But professor
 
 542
-00:37:11,000 --> 00:37:14,000
- Don't you ever look at the sparkling eyes
+00:45:30,000 --> 00:45:33,000
+What about the mantra that's blocking the village?
 
 543
-00:37:14,000 --> 00:37:18,000
- Remember, don't you ever look at the sparkling eyes
+00:45:33,000 --> 00:45:35,000
+The mantra is a sign for us
 
 544
-00:37:18,000 --> 00:37:24,000
- Maybe the sparkling eyes are the snake eyes
+00:45:35,000 --> 00:45:37,000
+Once we get out
 
 545
-00:37:24,000 --> 00:37:29,000
- Guys, don't look at the snake eyes!
+00:45:37,000 --> 00:45:39,000
+The mantra will disappear
 
 546
-00:37:29,000 --> 00:37:31,000
- [The dragon]
+00:45:39,000 --> 00:45:46,000
+Rey!
 
 547
-00:37:31,000 --> 00:37:46,000
- Help!
+00:45:46,000 --> 00:45:50,000
+Wake up!
 
 548
-00:37:46,000 --> 00:37:48,000
- Wait for me!
+00:45:50,000 --> 00:45:53,000
+Ava
 
 549
-00:37:49,000 --> 00:37:51,000
- [The dragon]
+00:45:53,000 --> 00:45:55,000
+You didn't eat the monster, did you?
 
 550
-00:37:51,000 --> 00:38:15,000
- Zhen, don't!
+00:45:55,000 --> 00:45:56,000
+No
 
 551
-00:38:15,000 --> 00:38:17,000
- It's dangerous, I have to help them
+00:45:56,000 --> 00:45:57,000
+Let's go
 
 552
-00:38:17,000 --> 00:38:19,000
- Don't, it's dangerous
+00:45:57,000 --> 00:46:07,000
+Is everything messed up?
 
 553
-00:38:19,000 --> 00:38:21,000
- Run!
+00:46:07,000 --> 00:46:09,000
+What's going on?
 
 554
-00:38:21,000 --> 00:38:25,000
- Don't, dad!
+00:46:09,000 --> 00:46:11,000
+Maybe they're playing war
 
 555
-00:38:25,000 --> 00:38:27,000
- Alva!
+00:46:11,000 --> 00:46:13,000
+Hurry!
 
 556
-00:38:27,000 --> 00:38:44,000
- Dad, I'm so close!
+00:46:13,000 --> 00:46:14,000
+Look!
 
 557
-00:38:44,000 --> 00:38:46,000
- Yes!
+00:46:14,000 --> 00:46:15,000
+Who's playing?
 
 558
-00:38:47,000 --> 00:38:49,000
- I'm going after the dragon!
+00:46:15,000 --> 00:46:19,000
+Three!
 
 559
-00:38:49,000 --> 00:38:55,000
- You're so close!
+00:46:19,000 --> 00:46:20,000
+Rey!
 
 560
-00:38:55,000 --> 00:39:14,000
- Vi!
+00:46:20,000 --> 00:46:21,000
+Ava!
 
 561
-00:39:14,000 --> 00:39:16,000
- I'm scared
+00:46:21,000 --> 00:46:31,000
+Children
 
 562
-00:39:16,000 --> 00:39:18,000
- This is fun
+00:46:31,000 --> 00:46:33,000
+Let's go back to school
 
 563
-00:39:18,000 --> 00:39:20,000
- Wake up, Vi!
+00:46:33,000 --> 00:46:44,000
+Professor
 
 564
-00:39:20,000 --> 00:39:22,000
- Alva!
+00:46:44,000 --> 00:46:46,000
+How's the monster?
 
 565
-00:39:22,000 --> 00:39:33,000
- Don't look at the eyes!
+00:46:46,000 --> 00:46:48,000
+We managed to get rid of the monster
 
 566
-00:39:33,000 --> 00:39:36,000
- Don't look at the snake eyes!
+00:46:48,000 --> 00:46:50,000
+But it's not dead yet
 
 567
-00:39:36,000 --> 00:39:38,000
- [The dragon]
+00:46:50,000 --> 00:46:51,000
+Only escaped
 
 568
-00:39:39,000 --> 00:39:41,000
- [The dragon]
+00:46:51,000 --> 00:46:53,000
+You have to be alert
 
 569
-00:39:42,000 --> 00:39:44,000
- [The dragon]
+00:46:53,000 --> 00:46:55,000
+And now
 
 570
-00:39:45,000 --> 00:39:47,000
- [The dragon]
+00:46:55,000 --> 00:46:57,000
+We have to go back to school
 
 571
-00:39:47,000 --> 00:39:49,000
- [The dragon]
+00:46:57,000 --> 00:46:59,000
+Bring the children to a safer place
 
 572
-00:39:49,000 --> 00:40:16,000
- Zhebata!
+00:46:59,000 --> 00:47:02,000
+But I and the teachers will come back here
 
 573
-00:40:17,000 --> 00:40:19,000
- [The dragon]
+00:47:02,000 --> 00:47:04,000
+To kill the monster
 
 574
-00:40:19,000 --> 00:40:23,000
- [The dragon]
+00:47:04,000 --> 00:47:06,000
+Thank you, professor Ladebaran
 
 575
-00:40:23,000 --> 00:40:25,000
- [The dragon]
+00:47:06,000 --> 00:47:09,000
+Rita
 
 576
-00:40:25,000 --> 00:40:27,000
- Dad!
+00:47:09,000 --> 00:47:10,000
+I have to go
 
 577
-00:40:28,000 --> 00:40:30,000
- [The dragon]
+00:47:16,000 --> 00:47:19,000
+You'll come back here, won't you?
 
 578
-00:40:30,000 --> 00:40:48,000
- [The dragon]
+00:47:19,000 --> 00:47:21,000
+Of course
 
 579
-00:40:49,000 --> 00:40:51,000
- [The dragon]
+00:47:21,000 --> 00:47:23,000
+But don't forget
 
 580
-00:40:51,000 --> 00:41:04,000
- I'm going after the dragon!
+00:47:23,000 --> 00:47:26,000
+We'll contact you through this channel
 
 581
-00:41:04,000 --> 00:41:06,000
- [The dragon]
+00:47:27,000 --> 00:48:10,000
+To be continued...
 
 582
-00:41:06,000 --> 00:41:14,000
- [The dragon]
+00:48:10,000 --> 00:48:19,000
+This well
 
 583
-00:41:15,000 --> 00:41:17,000
- [The dragon]
+00:48:19,000 --> 00:48:22,000
+Connects to the lake around our school
 
 584
-00:41:17,000 --> 00:41:24,000
- Happy Eid!
+00:48:22,000 --> 00:48:25,000
+And we'll go in there one by one
 
 585
-00:41:24,000 --> 00:41:30,000
- I'm glad I'm not a stone yet, Alva
+00:48:25,000 --> 00:48:27,000
+As soon as you get in
 
 586
-00:41:30,000 --> 00:41:38,000
- [The dragon]
+00:48:27,000 --> 00:48:29,000
+You have to swim as fast as you can
 
 587
-00:41:38,000 --> 00:41:41,000
- [The dragon]
+00:48:29,000 --> 00:48:30,000
+To the lake
 
 588
-00:41:42,000 --> 00:41:44,000
- [The dragon]
+00:48:30,000 --> 00:48:32,000
+You'll pair up
 
 589
-00:41:44,000 --> 00:41:49,000
- [The dragon]
+00:48:32,000 --> 00:48:34,000
+And the teachers will help you
 
 590
-00:41:49,000 --> 00:42:03,000
- [The dragon]
+00:48:34,000 --> 00:48:37,000
+To be continued...
 
 591
-00:42:03,000 --> 00:42:07,000
- [The dragon]
+00:48:37,000 --> 00:48:41,000
+Wait!
 
 592
-00:42:08,000 --> 00:42:10,000
- [The dragon]
+00:48:41,000 --> 00:48:55,000
+Don't think you can leave this village so easily
 
 593
-00:42:10,000 --> 00:42:14,000
- [The dragon]
+00:48:55,000 --> 00:48:57,000
+Nice to meet you, Ankara
 
 594
-00:42:14,000 --> 00:42:22,000
- [The dragon]
+00:48:57,000 --> 00:48:59,000
+But unfortunately
 
 595
-00:42:22,000 --> 00:42:24,000
- [The dragon]
+00:48:59,000 --> 00:49:01,000
+We have to say goodbye
 
 596
-00:42:24,000 --> 00:42:40,000
- Mike!
+00:49:02,000 --> 00:49:05,000
+Don't be arrogant, Ladebaran
 
 597
-00:42:40,000 --> 00:42:44,000
- You!
+00:49:05,000 --> 00:49:08,000
+The science I'm in charge of
 
 598
-00:42:44,000 --> 00:42:47,000
- Mike!
+00:49:08,000 --> 00:49:11,000
+Is far better than the last time we met
 
 599
-00:42:47,000 --> 00:42:50,000
- How did you become a stone?
+00:49:11,000 --> 00:49:15,000
+Ankara
 
 600
-00:42:50,000 --> 00:42:52,000
- Anis also became a stone
+00:49:15,000 --> 00:49:18,000
+Don't talk too much
 
 601
-00:42:52,000 --> 00:42:54,000
- You!
+00:49:18,000 --> 00:49:21,000
+You're not even willing to defeat me
 
 602
-00:42:54,000 --> 00:42:57,000
- Hey!
+00:49:21,000 --> 00:49:25,000
+How can you defeat professor Ladebaran?
 
 603
-00:42:57,000 --> 00:43:11,000
- He's already in the cave
+00:49:25,000 --> 00:49:27,000
+Professor
 
 604
-00:43:11,000 --> 00:43:13,000
- Now we attack him
+00:49:27,000 --> 00:49:29,000
+It's better
 
 605
-00:43:13,000 --> 00:43:15,000
- In the village!
+00:49:30,000 --> 00:49:32,000
+To bring your children
 
 606
-00:43:16,000 --> 00:43:18,000
- [The dragon]
+00:49:32,000 --> 00:49:35,000
+So that I can face this challenge
 
 607
-00:43:18,000 --> 00:43:22,000
- [The dragon]
+00:49:35,000 --> 00:50:46,000
+To be continued...
 
 608
-00:43:22,000 --> 00:43:31,000
- [The dragon]
+00:51:07,000 --> 00:51:09,000
+That's it, let's go
 
 609
-00:43:42,000 --> 00:43:44,000
- [The dragon]
+00:51:09,000 --> 00:51:11,000
+So that I can face this challenge
 
 610
-00:43:44,000 --> 00:43:54,000
- [The dragon]
+00:51:11,000 --> 00:51:13,000
+Hurry up, give me the children
 
 611
-00:44:11,000 --> 00:44:15,000
- Why are you two here?
+00:51:13,000 --> 00:51:19,000
+Hurry up, let's go
 
 612
-00:44:15,000 --> 00:44:18,000
- Praise be to God!
+00:51:20,000 --> 00:51:30,000
+To be continued...
 
 613
-00:44:18,000 --> 00:44:20,000
- Normal quest
+00:51:55,000 --> 00:51:57,000
+I haven't lost yet
 
 614
-00:44:20,000 --> 00:44:22,000
- Normal?
+00:51:57,000 --> 00:52:00,000
+And I will never lose
 
 615
-00:44:22,000 --> 00:44:24,000
- What happened to me?
+00:52:01,000 --> 00:52:03,000
+Everything is in vain
 
 616
-00:44:24,000 --> 00:44:26,000
- You were a stone!
+00:52:03,000 --> 00:52:27,000
+I'm not going to lose
 
 617
-00:44:26,000 --> 00:44:27,000
- Enough!
+00:52:28,000 --> 00:52:30,000
+Everyone is home
 
 618
-00:44:27,000 --> 00:44:29,000
- We don't want to make a scene
+00:52:30,000 --> 00:52:33,000
+I'm the only one left
 
 619
-00:44:29,000 --> 00:44:31,000
- Let's get out of here
+00:52:33,000 --> 00:52:37,000
+Hi, Mahfiz
 
 620
-00:44:31,000 --> 00:44:33,000
- Let's go!
+00:52:37,000 --> 00:52:45,000
+I don't want people to be in trouble because of me
 
 621
-00:44:33,000 --> 00:44:35,000
- [The dragon]
+00:52:45,000 --> 00:52:47,000
+I have to face this
 
 622
-00:45:02,000 --> 00:45:04,000
- Sir, it's amazing!
+00:52:47,000 --> 00:52:49,000
+You guys, don't tell anyone
 
 623
-00:45:04,000 --> 00:45:06,000
- Don't be happy yet, Ava
+00:52:49,000 --> 00:53:04,000
+We can do it
 
 624
-00:45:06,000 --> 00:45:08,000
- The snake doesn't die
+00:53:04,000 --> 00:53:09,000
+Thank God, there's a crazy person in here
 
 625
-00:45:08,000 --> 00:45:10,000
- It just escapes
+00:53:09,000 --> 00:53:11,000
+Thank God
 
 626
-00:45:10,000 --> 00:45:12,000
- So the snake can come back?
+00:53:11,000 --> 00:53:13,000
+Hurry up, there's a crazy person
 
 627
-00:45:12,000 --> 00:45:15,000
- It can come back if it smells like chocolate
+00:53:13,000 --> 00:53:15,000
+Hurry up, there's a crazy person in here
 
 628
-00:45:15,000 --> 00:45:24,000
- We should leave this place
+00:53:15,000 --> 00:53:23,000
+Help
 
 629
-00:45:24,000 --> 00:45:26,000
- Bring the children out of the village
+00:53:23,000 --> 00:53:26,000
+Felita, what's wrong?
 
 630
-00:45:26,000 --> 00:45:29,000
- I've found a way to get out of the village
+00:53:26,000 --> 00:53:32,000
+Help, I'm scared
 
 631
-00:45:29,000 --> 00:45:30,000
- But professor
+00:53:41,000 --> 00:53:43,000
+Hello everyone
 
 632
-00:45:30,000 --> 00:45:33,000
- What about the mantra that's blocking the village?
+00:53:43,000 --> 00:53:46,000
+Felita is in my hands
 
 633
-00:45:33,000 --> 00:45:35,000
- The mantra is a sign for us
+00:53:46,000 --> 00:53:49,000
+And you tell Alva
 
 634
-00:45:35,000 --> 00:45:37,000
- Once we get out
+00:53:49,000 --> 00:53:53,000
+If Alva still wants this child to live
 
 635
-00:45:37,000 --> 00:45:39,000
- The mantra will disappear
+00:53:53,000 --> 00:53:56,000
+Then she has to surrender herself
 
 636
-00:45:39,000 --> 00:45:46,000
- Rey!
+00:54:10,000 --> 00:54:11,000
+I don't understand
 
 637
-00:45:46,000 --> 00:45:48,000
- Wake up!
+00:54:11,000 --> 00:54:13,000
+It's up to you to tell Alva
 
 638
-00:45:48,000 --> 00:45:50,000
- Wake up!
+00:54:13,000 --> 00:54:17,000
+The important thing is you have to find me to Ramadhan
 
 639
-00:45:50,000 --> 00:45:53,000
- Ava
+00:54:17,000 --> 00:54:21,000
+Felita and Antaboga will be waiting for you
 
 640
-00:45:53,000 --> 00:45:55,000
- You didn't eat the monster, did you?
+00:54:21,000 --> 00:54:24,000
+Huh? Antaboga?
 
 641
-00:45:55,000 --> 00:45:56,000
- No
+00:54:24,000 --> 00:54:29,000
+Your time is only 1x24 hours
 
 642
-00:45:56,000 --> 00:45:57,000
- Let's go
+00:54:29,000 --> 00:54:31,000
+If you're late
 
 643
-00:45:57,000 --> 00:46:07,000
- Is everything messed up?
+00:54:31,000 --> 00:54:35,000
+Then this child will be gone forever
 
 644
-00:46:07,000 --> 00:46:09,000
- What's going on?
+00:54:36,000 --> 00:54:38,000
+I will return to the magic village
 
 645
-00:46:09,000 --> 00:46:11,000
- Maybe they're playing war
+00:54:38,000 --> 00:54:40,000
+To lock the monster in the cave of Krama
 
 646
-00:46:11,000 --> 00:46:13,000
- Hurry!
+00:54:40,000 --> 00:54:45,000
+You guys take care of the children
 
 647
-00:46:13,000 --> 00:46:14,000
- Look!
+00:54:45,000 --> 00:54:47,000
+And stay alert
 
 648
-00:46:14,000 --> 00:46:15,000
- Who's playing?
+00:54:47,000 --> 00:54:49,000
+Because Ankara won't give up so easily
 
 649
-00:46:15,000 --> 00:46:19,000
- Three!
+00:54:49,000 --> 00:54:52,000
+He will definitely do everything
 
 650
-00:46:19,000 --> 00:46:20,000
- Rey!
+00:54:52,000 --> 00:54:54,000
+I'm sorry, Prof
 
 651
-00:46:20,000 --> 00:46:21,000
- Ava!
+00:54:54,000 --> 00:54:56,000
+But the professor can
 
 652
-00:46:21,000 --> 00:46:31,000
- Children
+00:54:56,000 --> 00:54:58,000
+Because as far as I know
 
 653
-00:46:31,000 --> 00:46:33,000
- Let's go back to school
+00:54:58,000 --> 00:55:00,000
+According to the legend
 
 654
-00:46:33,000 --> 00:46:44,000
- Professor
+00:55:00,000 --> 00:55:02,000
+There's a monster in the cave of Krama
 
 655
-00:46:44,000 --> 00:46:46,000
- How's the monster?
+00:55:02,000 --> 00:55:04,000
+Because as far as I know
 
 656
-00:46:46,000 --> 00:46:48,000
- We managed to get rid of the monster
+00:55:04,000 --> 00:55:06,000
+According to the legend
 
 657
-00:46:48,000 --> 00:46:50,000
- But it's not dead yet
+00:55:06,000 --> 00:55:08,000
+Only people of the five sacred tribes
 
 658
-00:46:50,000 --> 00:46:51,000
- Only escaped
+00:55:08,000 --> 00:55:10,000
+Can open and close the cave
 
 659
-00:46:51,000 --> 00:46:53,000
- You have to be alert
+00:55:10,000 --> 00:55:12,000
+I will still try
 
 660
-00:46:53,000 --> 00:46:55,000
- And now
+00:55:12,000 --> 00:55:15,000
+So that the villagers of the magic village can live in peace
 
 661
-00:46:55,000 --> 00:46:57,000
- We have to go back to school
+00:55:15,000 --> 00:55:26,000
+Alva
 
 662
-00:46:57,000 --> 00:46:59,000
- Bring the children to a safer place
+00:55:26,000 --> 00:55:28,000
+Don't be stubborn
 
 663
-00:46:59,000 --> 00:47:02,000
- But I and the teachers will come back here
+00:55:28,000 --> 00:55:30,000
+If you go there alone
 
 664
-00:47:02,000 --> 00:47:04,000
- To kill the monster
+00:55:30,000 --> 00:55:32,000
+You will be attacked by the monsters
 
 665
-00:47:04,000 --> 00:47:06,000
- Thank you, professor Ladebaran
+00:55:32,000 --> 00:55:33,000
+Yes, sir
 
 666
-00:47:06,000 --> 00:47:09,000
- Rita
+00:55:33,000 --> 00:55:35,000
+Let's report it to the soldiers and the professor
 
 667
-00:47:09,000 --> 00:47:10,000
- I have to go
+00:55:35,000 --> 00:55:37,000
+Yes
 
 668
-00:47:16,000 --> 00:47:19,000
- You'll come back here, won't you?
+00:55:37,000 --> 00:55:39,000
+They will definitely accompany you
 
 669
-00:47:19,000 --> 00:47:21,000
- Of course
+00:55:39,000 --> 00:55:41,000
+Besides
 
 670
-00:47:21,000 --> 00:47:23,000
- But don't forget
+00:55:41,000 --> 00:55:43,000
+If you go with the professor
 
 671
-00:47:23,000 --> 00:47:26,000
- We'll contact you through this channel
+00:55:43,000 --> 00:55:45,000
+You will be protected
 
 672
-00:47:27,000 --> 00:47:32,000
- To be continued...
+00:55:45,000 --> 00:55:47,000
+Yes, sir
 
 673
-00:47:32,000 --> 00:47:35,000
- To be continued...
+00:55:47,000 --> 00:55:49,000
+The professor can turn into a bird
 
 674
-00:47:36,000 --> 00:47:39,000
- To be continued...
+00:55:49,000 --> 00:55:50,000
+Yes, sir
 
 675
-00:47:39,000 --> 00:47:42,000
- To be continued...
+00:55:50,000 --> 00:55:52,000
+Professor Agni can also turn into a cat
 
 676
-00:47:42,000 --> 00:47:45,000
- To be continued...
+00:55:52,000 --> 00:55:54,000
+The soldiers can also change
 
 677
-00:47:46,000 --> 00:47:49,000
- To be continued...
+00:55:54,000 --> 00:55:55,000
+No
 
 678
-00:47:49,000 --> 00:47:57,000
- To be continued...
+00:55:55,000 --> 00:55:57,000
+I have to help him
 
 679
-00:47:57,000 --> 00:48:06,000
- To be continued...
+00:55:57,000 --> 00:55:58,000
+Alva
 
 680
-00:48:07,000 --> 00:48:10,000
- To be continued...
+00:55:58,000 --> 00:56:00,000
+Don't be stubborn
 
 681
-00:48:10,000 --> 00:48:19,000
- This well
+00:56:00,000 --> 00:56:01,000
+No
 
 682
-00:48:19,000 --> 00:48:22,000
- Connects to the lake around our school
+00:56:01,000 --> 00:56:03,000
+I will go back alone
 
 683
-00:48:22,000 --> 00:48:25,000
- And we'll go in there one by one
+00:56:03,000 --> 00:56:05,000
+I don't want people to be in danger because of me
 
 684
-00:48:25,000 --> 00:48:27,000
- As soon as you get in
+00:56:05,000 --> 00:56:07,000
+I have to be patient
 
 685
-00:48:27,000 --> 00:48:29,000
- You have to swim as fast as you can
+00:56:07,000 --> 00:56:08,000
+You guys
 
 686
-00:48:29,000 --> 00:48:30,000
- To the lake
+00:56:08,000 --> 00:56:10,000
+Don't tell anyone
 
 687
-00:48:30,000 --> 00:48:32,000
- You'll pair up
+00:56:10,000 --> 00:56:15,000
+Alva
 
 688
-00:48:32,000 --> 00:48:34,000
- And the teachers will help you
+00:56:15,000 --> 00:56:16,000
+I'm so scared
 
 689
-00:48:34,000 --> 00:48:37,000
- To be continued...
+00:56:16,000 --> 00:56:18,000
+Let's report it to the professor
 
 690
-00:48:37,000 --> 00:48:41,000
- Wait!
+00:56:18,000 --> 00:56:19,000
+Let's go
 
 691
-00:48:41,000 --> 00:48:55,000
- Don't think you can leave this village so easily
+00:56:26,000 --> 00:56:27,000
+Evil
 
 692
-00:48:55,000 --> 00:48:57,000
- Nice to meet you, Ankara
+00:56:27,000 --> 00:56:29,000
+You left me
 
 693
-00:48:57,000 --> 00:48:59,000
- But unfortunately
+00:56:29,000 --> 00:56:32,000
+I can be miserable
 
 694
-00:48:59,000 --> 00:49:01,000
- We have to say goodbye
+00:56:32,000 --> 00:56:33,000
+I can be in pain
 
 695
-00:49:02,000 --> 00:49:05,000
- Don't be arrogant, Ladebaran
+00:56:33,000 --> 00:56:35,000
+I can die
 
 696
-00:49:05,000 --> 00:49:08,000
- The science I'm in charge of
+00:56:36,000 --> 00:56:48,000
+Evil
 
 697
-00:49:08,000 --> 00:49:11,000
- Is far better than the last time we met
+00:56:48,000 --> 00:56:59,000
+Po
 
 698
-00:49:11,000 --> 00:49:15,000
- Ankara
+00:56:59,000 --> 00:57:00,000
+Evil
 
 699
-00:49:15,000 --> 00:49:18,000
- Don't talk too much
+00:57:00,000 --> 00:57:06,000
+It's not working
 
 700
-00:49:18,000 --> 00:49:21,000
- You're not even willing to defeat me
+00:57:06,000 --> 00:57:07,000
+Po
 
 701
-00:49:21,000 --> 00:49:25,000
- How can you defeat professor Ladebaran?
+00:57:07,000 --> 00:57:09,000
+What are you doing here?
 
 702
-00:49:25,000 --> 00:49:27,000
- Professor
+00:57:09,000 --> 00:57:11,000
+Po
 
 703
-00:49:27,000 --> 00:49:29,000
- It's better
+00:57:11,000 --> 00:57:13,000
+I'm just sitting here
 
 704
-00:49:30,000 --> 00:49:32,000
- To bring your children
+00:57:13,000 --> 00:57:14,000
+Why?
 
 705
-00:49:32,000 --> 00:49:35,000
- So that I can face this challenge
+00:57:14,000 --> 00:57:17,000
+Why is Alva back?
 
 706
-00:49:35,000 --> 00:49:38,000
- To be continued...
+00:57:17,000 --> 00:57:19,000
+I'm looking for the treasure
 
 707
-00:49:39,000 --> 00:49:42,000
- To be continued...
+00:57:19,000 --> 00:57:21,000
+Do you know where it is?
 
 708
-00:49:43,000 --> 00:49:46,000
- To be continued...
+00:57:21,000 --> 00:57:24,000
+What?
 
 709
-00:49:46,000 --> 00:49:49,000
- To be continued...
+00:57:24,000 --> 00:57:28,000
+What are you doing there?
 
 710
-00:49:50,000 --> 00:49:53,000
- To be continued...
+00:57:28,000 --> 00:57:31,000
+Plit is kidnapped
 
 711
-00:49:54,000 --> 00:49:57,000
- To be continued...
+00:57:31,000 --> 00:57:32,000
+Plit is captured
 
 712
-00:49:58,000 --> 00:50:01,000
- To be continued...
+00:57:32,000 --> 00:57:34,000
+I have to help her
 
 713
-00:50:02,000 --> 00:50:05,000
- To be continued...
+00:57:34,000 --> 00:57:35,000
+Do you know?
 
 714
-00:50:05,000 --> 00:50:09,000
- To be continued...
+00:57:35,000 --> 00:57:39,000
+I don't know
 
 715
-00:50:09,000 --> 00:50:15,000
- To be continued...
+00:57:39,000 --> 00:57:40,000
+Good
 
 716
-00:50:15,000 --> 00:50:22,000
- To be continued...
+00:57:40,000 --> 00:57:41,000
+Walk me there
 
 717
-00:50:23,000 --> 00:50:26,000
- To be continued...
+00:57:41,000 --> 00:57:43,000
+Oh no
 
 718
-00:50:27,000 --> 00:50:30,000
- To be continued...
+00:57:43,000 --> 00:57:44,000
+Alva
 
 719
-00:50:31,000 --> 00:50:34,000
- To be continued...
+00:57:44,000 --> 00:57:46,000
+It's so scary there
 
 720
-00:50:34,000 --> 00:50:37,000
- To be continued...
+00:57:46,000 --> 00:57:49,000
+There's a ghost
 
 721
-00:50:38,000 --> 00:50:41,000
- To be continued...
+00:57:49,000 --> 00:57:52,000
+I have a bad experience with a ghost
 
 722
-00:50:42,000 --> 00:50:46,000
- To be continued...
+00:57:52,000 --> 00:57:55,000
+What kind of experience?
 
 723
-00:51:07,000 --> 00:51:09,000
- That's it, let's go
+00:57:55,000 --> 00:57:58,000
+So
 
 724
-00:51:09,000 --> 00:51:11,000
- So that I can face this challenge
+00:57:58,000 --> 00:58:00,000
+That time
 
 725
-00:51:11,000 --> 00:51:13,000
- Hurry up, give me the children
+00:58:00,000 --> 00:58:02,000
+I didn't mean to
 
 726
-00:51:13,000 --> 00:51:19,000
- Hurry up, let's go
+00:58:02,000 --> 00:58:05,000
+I fell into the cave
 
 727
-00:51:20,000 --> 00:51:23,000
- To be continued...
+00:58:05,000 --> 00:58:09,000
+I met a ghost
 
 728
-00:51:24,000 --> 00:51:27,000
- To be continued...
+00:58:09,000 --> 00:58:10,000
+What?
 
 729
-00:51:27,000 --> 00:51:30,000
- To be continued...
+00:58:10,000 --> 00:58:24,000
+I'm sorry
 
 730
-00:51:55,000 --> 00:51:57,000
- I haven't lost yet
+00:58:24,000 --> 00:58:26,000
+I'm so scared
 
 731
-00:51:57,000 --> 00:52:00,000
- And I will never lose
+00:58:26,000 --> 00:58:28,000
+Don't be scared
 
 732
-00:52:01,000 --> 00:52:03,000
- Everything is in vain
+00:58:28,000 --> 00:58:30,000
+I'm here
 
 733
-00:52:03,000 --> 00:52:06,000
- I'm not going to lose
+00:58:30,000 --> 00:58:32,000
+I'm sorry
 
 734
-00:52:06,000 --> 00:52:09,000
- I'm not going to lose
+00:58:32,000 --> 00:58:34,000
+I didn't mean to
 
 735
-00:52:09,000 --> 00:52:12,000
- I'm not going to lose
+00:58:34,000 --> 00:59:24,000
+I'm so scared
 
 736
-00:52:12,000 --> 00:52:15,000
- I'm not going to lose
+00:59:47,000 --> 00:59:52,000
+The spell that was played by the dark lord
 
 737
-00:52:15,000 --> 00:52:18,000
- I'm not going to lose
+00:59:52,000 --> 00:59:55,000
+Turned Antaboga into a mole
 
 738
-00:52:18,000 --> 00:52:21,000
- I'm not going to lose
+00:59:55,000 --> 00:59:57,000
+A ghost
 
 739
-00:52:21,000 --> 00:52:24,000
- I'm not going to lose
+00:59:57,000 --> 00:59:59,000
+And since then
 
 740
-00:52:24,000 --> 00:52:27,000
- I'm not going to lose
+00:59:59,000 --> 01:00:03,000
+I became a follower of the dark lord
 
 741
-00:52:28,000 --> 00:52:30,000
- Everyone is home
+01:00:03,000 --> 01:00:06,000
+So, Antaboga can be a ghost
 
 742
-00:52:30,000 --> 00:52:33,000
- I'm the only one left
+01:00:06,000 --> 01:00:08,000
+If we play the spell
 
 743
-00:52:33,000 --> 00:52:37,000
- Hi, Mahfiz
+01:00:08,000 --> 01:00:17,000
+I can play the spell
 
 744
-00:52:37,000 --> 00:52:45,000
- I don't want people to be in trouble because of me
+01:00:17,000 --> 01:00:21,000
+So, Antaboga likes a special music
 
 745
-00:52:45,000 --> 00:52:47,000
- I have to face this
+01:00:21,000 --> 01:00:25,000
+If I make a mistake, I can be cursed
 
 746
-00:52:47,000 --> 00:52:49,000
- You guys, don't tell anyone
+01:00:25,000 --> 01:00:29,000
+I can be cursed by Antaboga
 
 747
-00:52:49,000 --> 00:52:54,000
- We can do it
+01:00:29,000 --> 01:00:31,000
+Teach me the spell
 
 748
-00:52:54,000 --> 00:53:04,000
- We can do it
+01:00:31,000 --> 01:00:33,000
+How?
 
 749
-00:53:04,000 --> 00:53:09,000
- Thank God, there's a crazy person in here
+01:00:33,000 --> 01:00:35,000
+I'll think about it
 
 750
-00:53:09,000 --> 00:53:11,000
- Thank God
+01:00:35,000 --> 01:00:37,000
+Come on, Popo
 
 751
-00:53:11,000 --> 00:53:13,000
- Hurry up, there's a crazy person
+01:00:37,000 --> 01:00:38,000
+Teach me
 
 752
-00:53:13,000 --> 00:53:15,000
- Hurry up, there's a crazy person in here
+01:00:38,000 --> 01:00:40,000
+Please
 
 753
-00:53:15,000 --> 00:53:23,000
- Help
+01:00:40,000 --> 01:00:43,000
+Okay, I'll teach you
 
 754
-00:53:23,000 --> 00:53:26,000
- Felita, what's wrong?
+01:00:43,000 --> 01:00:44,000
+Seriously?
 
 755
-00:53:26,000 --> 00:53:32,000
- Help, I'm scared
+01:00:45,000 --> 01:00:47,000
+Even though I don't like it
 
 756
-00:53:41,000 --> 00:53:43,000
- Hello everyone
+01:00:47,000 --> 01:00:49,000
+Even though I'm forced to
 
 757
-00:53:43,000 --> 00:53:46,000
- Felita is in my hands
+01:00:49,000 --> 01:00:50,000
+Thank you, Popo
 
 758
-00:53:46,000 --> 00:53:49,000
- And you tell Alva
+01:00:50,000 --> 01:00:52,000
+Please, God
 
 759
-00:53:49,000 --> 00:53:53,000
- If Alva still wants this child to live
+01:00:52,000 --> 01:01:01,000
+I went back to the village
 
 760
-00:53:53,000 --> 00:53:56,000
- Then she has to surrender herself
+01:01:01,000 --> 01:01:05,000
+I was about to be kidnapped by Professor Angkara
 
 761
-00:54:10,000 --> 00:54:11,000
- I don't understand
+01:01:05,000 --> 01:01:07,000
+And Professor Angkara said
 
 762
-00:54:11,000 --> 00:54:13,000
- It's up to you to tell Alva
+01:01:07,000 --> 01:01:09,000
+I have to go there
 
 763
-00:54:13,000 --> 00:54:17,000
- The important thing is you have to find me to Ramadhan
+01:01:09,000 --> 01:01:11,000
+I can't go with him
 
 764
-00:54:17,000 --> 00:54:21,000
- Felita and Antaboga will be waiting for you
+01:01:11,000 --> 01:01:12,000
+He has to go alone
 
 765
-00:54:21,000 --> 00:54:24,000
- Huh? Antaboga?
+01:01:12,000 --> 01:01:14,000
+Or else, he'll be cursed
 
 766
-00:54:24,000 --> 00:54:29,000
- Your time is only 1x24 hours
+01:01:14,000 --> 01:01:17,000
+I can do it
 
 767
-00:54:29,000 --> 00:54:31,000
- If you're late
+01:01:17,000 --> 01:01:20,000
+Yeah, I can do it
 
 768
-00:54:31,000 --> 00:54:35,000
- Then this child will be gone forever
+01:01:20,000 --> 01:01:22,000
+Thank you for teaching me
 
 769
-00:54:36,000 --> 00:54:38,000
- I will return to the magic village
+01:01:22,000 --> 01:01:23,000
+Popo was hugged
 
 770
-00:54:38,000 --> 00:54:40,000
- To lock the monster in the cave of Krama
+01:01:23,000 --> 01:01:27,000
+Usually, all gods treat Popo with love
 
 771
-00:54:40,000 --> 00:54:45,000
- You guys take care of the children
+01:01:27,000 --> 01:01:30,000
+Isn't it supposed to be a fun trip?
 
 772
-00:54:45,000 --> 00:54:47,000
- And stay alert
+01:01:30,000 --> 01:01:32,000
+What do you know, Jani?
 
 773
-00:54:47,000 --> 00:54:49,000
- Because Ankara won't give up so easily
+01:01:32,000 --> 01:01:36,000
+Unfortunately, you're too late to know
 
 774
-00:54:49,000 --> 00:54:52,000
- He will definitely do everything
+01:01:37,000 --> 01:01:39,000
+[Music]
 
 775
-00:54:52,000 --> 00:54:54,000
- I'm sorry, Prof
+01:01:39,000 --> 01:01:44,000
+Show your spirit, get ready to find your friends
 
 776
-00:54:54,000 --> 00:54:56,000
- But the professor can
+01:01:44,000 --> 01:01:51,000
+Run, jump, jump, climb the stars
 
 777
-00:54:56,000 --> 00:54:58,000
- Because as far as I know
+01:01:51,000 --> 01:01:59,000
+Be brave, don't give up
 
 778
-00:54:58,000 --> 00:55:00,000
- According to the legend
+01:02:00,000 --> 01:02:06,000
+Chase your dreams
 
 779
-00:55:00,000 --> 00:55:02,000
- There's a monster in the cave of Krama
+01:02:06,000 --> 01:02:10,000
+Go, go, go, reach all your dreams
 
 780
-00:55:02,000 --> 00:55:04,000
- Because as far as I know
+01:02:10,000 --> 01:02:13,000
+Go, go, go, never stop
 
 781
-00:55:04,000 --> 00:55:06,000
- According to the legend
+01:02:13,000 --> 01:02:19,000
+Go, go, go, fight with your heart
 
 782
-00:55:06,000 --> 00:55:08,000
- Only people of the five sacred tribes
+01:02:19,000 --> 01:02:23,000
+Go, go, go, make yourself proud
 
 783
-00:55:08,000 --> 00:55:10,000
- Can open and close the cave
+01:02:23,000 --> 01:02:27,000
+Go, go, go, let's dream
 
 784
-00:55:10,000 --> 00:55:12,000
- I will still try
-
-785
-00:55:12,000 --> 00:55:15,000
- So that the villagers of the magic village can live in peace
-
-786
-00:55:15,000 --> 00:55:26,000
- Alva
-
-787
-00:55:26,000 --> 00:55:28,000
- Don't be stubborn
-
-788
-00:55:28,000 --> 00:55:30,000
- If you go there alone
-
-789
-00:55:30,000 --> 00:55:32,000
- You will be attacked by the monsters
-
-790
-00:55:32,000 --> 00:55:33,000
- Yes, sir
-
-791
-00:55:33,000 --> 00:55:35,000
- Let's report it to the soldiers and the professor
-
-792
-00:55:35,000 --> 00:55:37,000
- Yes
-
-793
-00:55:37,000 --> 00:55:39,000
- They will definitely accompany you
-
-794
-00:55:39,000 --> 00:55:41,000
- Besides
-
-795
-00:55:41,000 --> 00:55:43,000
- If you go with the professor
-
-796
-00:55:43,000 --> 00:55:45,000
- You will be protected
-
-797
-00:55:45,000 --> 00:55:47,000
- Yes, sir
-
-798
-00:55:47,000 --> 00:55:49,000
- The professor can turn into a bird
-
-799
-00:55:49,000 --> 00:55:50,000
- Yes, sir
-
-800
-00:55:50,000 --> 00:55:52,000
- Professor Agni can also turn into a cat
-
-801
-00:55:52,000 --> 00:55:54,000
- The soldiers can also change
-
-802
-00:55:54,000 --> 00:55:55,000
- No
-
-803
-00:55:55,000 --> 00:55:57,000
- I have to help him
-
-804
-00:55:57,000 --> 00:55:58,000
- Alva
-
-805
-00:55:58,000 --> 00:56:00,000
- Don't be stubborn
-
-806
-00:56:00,000 --> 00:56:01,000
- No
-
-807
-00:56:01,000 --> 00:56:03,000
- I will go back alone
-
-808
-00:56:03,000 --> 00:56:05,000
- I don't want people to be in danger because of me
-
-809
-00:56:05,000 --> 00:56:07,000
- I have to be patient
-
-810
-00:56:07,000 --> 00:56:08,000
- You guys
-
-811
-00:56:08,000 --> 00:56:10,000
- Don't tell anyone
-
-812
-00:56:10,000 --> 00:56:14,000
- Alva
-
-813
-00:56:14,000 --> 00:56:15,000
- Alva
-
-814
-00:56:15,000 --> 00:56:16,000
- I'm so scared
-
-815
-00:56:16,000 --> 00:56:18,000
- Let's report it to the professor
-
-816
-00:56:18,000 --> 00:56:19,000
- Let's go
-
-817
-00:56:26,000 --> 00:56:27,000
- Evil
-
-818
-00:56:27,000 --> 00:56:29,000
- You left me
-
-819
-00:56:29,000 --> 00:56:32,000
- I can be miserable
-
-820
-00:56:32,000 --> 00:56:33,000
- I can be in pain
-
-821
-00:56:33,000 --> 00:56:35,000
- I can die
-
-822
-00:56:36,000 --> 00:56:38,000
- Evil
-
-823
-00:56:38,000 --> 00:56:40,000
- Evil
-
-824
-00:56:40,000 --> 00:56:42,000
- Evil
-
-825
-00:56:42,000 --> 00:56:44,000
- Evil
-
-826
-00:56:44,000 --> 00:56:46,000
- Evil
-
-827
-00:56:47,000 --> 00:56:48,000
- Evil
-
-828
-00:56:48,000 --> 00:56:59,000
- Po
-
-829
-00:56:59,000 --> 00:57:00,000
- Evil
-
-830
-00:57:00,000 --> 00:57:06,000
- It's not working
-
-831
-00:57:06,000 --> 00:57:07,000
- Po
-
-832
-00:57:07,000 --> 00:57:09,000
- What are you doing here?
-
-833
-00:57:09,000 --> 00:57:11,000
- Po
-
-834
-00:57:11,000 --> 00:57:13,000
- I'm just sitting here
-
-835
-00:57:13,000 --> 00:57:14,000
- Why?
-
-836
-00:57:14,000 --> 00:57:17,000
- Why is Alva back?
-
-837
-00:57:17,000 --> 00:57:19,000
- I'm looking for the treasure
-
-838
-00:57:19,000 --> 00:57:21,000
- Do you know where it is?
-
-839
-00:57:21,000 --> 00:57:24,000
- What?
-
-840
-00:57:24,000 --> 00:57:28,000
- What are you doing there?
-
-841
-00:57:28,000 --> 00:57:31,000
- Plit is kidnapped
-
-842
-00:57:31,000 --> 00:57:32,000
- Plit is captured
-
-843
-00:57:32,000 --> 00:57:34,000
- I have to help her
-
-844
-00:57:34,000 --> 00:57:35,000
- Do you know?
-
-845
-00:57:35,000 --> 00:57:39,000
- I don't know
-
-846
-00:57:39,000 --> 00:57:40,000
- Good
-
-847
-00:57:40,000 --> 00:57:41,000
- Walk me there
-
-848
-00:57:41,000 --> 00:57:43,000
- Oh no
-
-849
-00:57:43,000 --> 00:57:44,000
- Alva
-
-850
-00:57:44,000 --> 00:57:46,000
- It's so scary there
-
-851
-00:57:46,000 --> 00:57:49,000
- There's a ghost
-
-852
-00:57:49,000 --> 00:57:52,000
- I have a bad experience with a ghost
-
-853
-00:57:52,000 --> 00:57:55,000
- What kind of experience?
-
-854
-00:57:55,000 --> 00:57:58,000
- So
-
-855
-00:57:58,000 --> 00:58:00,000
- That time
-
-856
-00:58:00,000 --> 00:58:02,000
- I didn't mean to
-
-857
-00:58:02,000 --> 00:58:05,000
- I fell into the cave
-
-858
-00:58:05,000 --> 00:58:09,000
- I met a ghost
-
-859
-00:58:09,000 --> 00:58:10,000
- What?
-
-860
-00:58:10,000 --> 00:58:24,000
- I'm sorry
-
-861
-00:58:24,000 --> 00:58:26,000
- I'm so scared
-
-862
-00:58:26,000 --> 00:58:28,000
- Don't be scared
-
-863
-00:58:28,000 --> 00:58:30,000
- I'm here
-
-864
-00:58:30,000 --> 00:58:32,000
- I'm sorry
-
-865
-00:58:32,000 --> 00:58:34,000
- I didn't mean to
-
-866
-00:58:34,000 --> 00:58:36,000
- I'm so scared
-
-867
-00:58:37,000 --> 00:58:39,000
- I'm so scared
-
-868
-00:59:05,000 --> 00:59:07,000
- I'm so scared
-
-869
-00:59:07,000 --> 00:59:09,000
- I'm so scared
-
-870
-00:59:09,000 --> 00:59:11,000
- I'm so scared
-
-871
-00:59:12,000 --> 00:59:14,000
- I'm so scared
-
-872
-00:59:15,000 --> 00:59:17,000
- I'm so scared
-
-873
-00:59:18,000 --> 00:59:20,000
- I'm so scared
-
-874
-00:59:20,000 --> 00:59:22,000
- I'm so scared
-
-875
-00:59:22,000 --> 00:59:24,000
- I'm so scared
-
-876
-00:59:47,000 --> 00:59:52,000
- The spell that was played by the dark lord
-
-877
-00:59:52,000 --> 00:59:55,000
- Turned Antaboga into a mole
-
-878
-00:59:55,000 --> 00:59:57,000
- A ghost
-
-879
-00:59:57,000 --> 00:59:59,000
- And since then
-
-880
-00:59:59,000 --> 01:00:03,000
- I became a follower of the dark lord
-
-881
-01:00:03,000 --> 01:00:06,000
- So, Antaboga can be a ghost
-
-882
-01:00:06,000 --> 01:00:08,000
- If we play the spell
-
-883
-01:00:08,000 --> 01:00:13,000
- I can play the spell
-
-884
-01:00:15,000 --> 01:00:17,000
- I can play the spell
-
-885
-01:00:17,000 --> 01:00:21,000
- So, Antaboga likes a special music
-
-886
-01:00:21,000 --> 01:00:25,000
- If I make a mistake, I can be cursed
-
-887
-01:00:25,000 --> 01:00:29,000
- I can be cursed by Antaboga
-
-888
-01:00:29,000 --> 01:00:31,000
- Teach me the spell
-
-889
-01:00:31,000 --> 01:00:33,000
- How?
-
-890
-01:00:33,000 --> 01:00:35,000
- I'll think about it
-
-891
-01:00:35,000 --> 01:00:37,000
- Come on, Popo
-
-892
-01:00:37,000 --> 01:00:38,000
- Teach me
-
-893
-01:00:38,000 --> 01:00:40,000
- Please
-
-894
-01:00:40,000 --> 01:00:43,000
- Okay, I'll teach you
-
-895
-01:00:43,000 --> 01:00:44,000
- Seriously?
-
-896
-01:00:45,000 --> 01:00:47,000
- Even though I don't like it
-
-897
-01:00:47,000 --> 01:00:49,000
- Even though I'm forced to
-
-898
-01:00:49,000 --> 01:00:50,000
- Thank you, Popo
-
-899
-01:00:50,000 --> 01:00:52,000
- Please, God
-
-900
-01:00:52,000 --> 01:01:01,000
- I went back to the village
-
-901
-01:01:01,000 --> 01:01:05,000
- I was about to be kidnapped by Professor Angkara
-
-902
-01:01:05,000 --> 01:01:07,000
- And Professor Angkara said
-
-903
-01:01:07,000 --> 01:01:09,000
- I have to go there
-
-904
-01:01:09,000 --> 01:01:11,000
- I can't go with him
-
-905
-01:01:11,000 --> 01:01:12,000
- He has to go alone
-
-906
-01:01:12,000 --> 01:01:14,000
- Or else, he'll be cursed
-
-907
-01:01:14,000 --> 01:01:17,000
- I can do it
-
-908
-01:01:17,000 --> 01:01:20,000
- Yeah, I can do it
-
-909
-01:01:20,000 --> 01:01:22,000
- Thank you for teaching me
-
-910
-01:01:22,000 --> 01:01:23,000
- Popo was hugged
-
-911
-01:01:23,000 --> 01:01:27,000
- Usually, all gods treat Popo with love
-
-912
-01:01:27,000 --> 01:01:30,000
- Isn't it supposed to be a fun trip?
-
-913
-01:01:30,000 --> 01:01:32,000
- What do you know, Jani?
-
-914
-01:01:32,000 --> 01:01:36,000
- Unfortunately, you're too late to know
-
-915
-01:01:37,000 --> 01:01:39,000
- [Music]
-
-916
-01:01:39,000 --> 01:01:44,000
- Show your spirit, get ready to find your friends
-
-917
-01:01:44,000 --> 01:01:51,000
- Run, jump, jump, climb the stars
-
-918
-01:01:51,000 --> 01:01:59,000
- Be brave, don't give up
-
-919
-01:02:00,000 --> 01:02:06,000
- Chase your dreams
-
-920
-01:02:06,000 --> 01:02:10,000
- Go, go, go, reach all your dreams
-
-921
-01:02:10,000 --> 01:02:13,000
- Go, go, go, never stop
-
-922
-01:02:13,000 --> 01:02:19,000
- Go, go, go, fight with your heart
-
-923
-01:02:19,000 --> 01:02:23,000
- Go, go, go, make yourself proud
-
-924
-01:02:23,000 --> 01:02:27,000
- Go, go, go, let's dream
-
-925
 01:02:27,000 --> 01:02:32,000
- Go, go, go, we will
+Go, go, go, we will
 

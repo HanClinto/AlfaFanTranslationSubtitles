@@ -1,3076 +1,2584 @@
 1
-00:00:00,000 --> 00:00:02,000
- To be continued...
+00:00:00,000 --> 00:00:20,000
+To be continued...
 
 2
-00:00:03,000 --> 00:00:07,000
- To be continued...
+00:00:20,000 --> 00:00:24,000
+Show your spirit, get ready to find friends
 
 3
-00:00:07,000 --> 00:00:11,000
- To be continued...
+00:00:24,000 --> 00:00:31,000
+Run, run, jump, climb, climb the tower
 
 4
-00:00:11,000 --> 00:00:14,000
- To be continued...
+00:00:31,000 --> 00:00:39,000
+Be brave, don't give up
 
 5
-00:00:14,000 --> 00:00:17,000
- To be continued...
+00:00:39,000 --> 00:00:46,000
+Chase your dreams and hopes
 
 6
-00:00:17,000 --> 00:00:20,000
- To be continued...
+00:00:48,000 --> 00:00:51,000
+Go, go, go, achieve all your dreams
 
 7
-00:00:20,000 --> 00:00:24,000
- Show your spirit, get ready to find friends
+00:00:51,000 --> 00:00:54,000
+Go, go, go, never stop
 
 8
-00:00:24,000 --> 00:00:31,000
- Run, run, jump, climb, climb the tower
+00:00:54,000 --> 00:01:00,000
+Go, go, go, fight with your heart
 
 9
-00:00:31,000 --> 00:00:39,000
- Be brave, don't give up
+00:01:00,000 --> 00:01:04,000
+Go, go, go, make yourself proud
 
 10
-00:00:39,000 --> 00:00:46,000
- Chase your dreams and hopes
+00:01:04,000 --> 00:01:08,000
+Go, go, go, let's dream
 
 11
-00:00:48,000 --> 00:00:51,000
- Go, go, go, achieve all your dreams
+00:01:08,000 --> 00:01:15,000
+Go, go, go, we can do it
 
 12
-00:00:51,000 --> 00:00:54,000
- Go, go, go, never stop
+00:01:16,000 --> 00:01:18,000
+To be continued...
 
 13
-00:00:54,000 --> 00:01:00,000
- Go, go, go, fight with your heart
+00:01:19,000 --> 00:01:21,000
+Attack!
 
 14
-00:01:00,000 --> 00:01:04,000
- Go, go, go, make yourself proud
+00:01:21,000 --> 00:01:25,000
+We won't stop until we get that fire crystal
 
 15
-00:01:04,000 --> 00:01:08,000
- Go, go, go, let's dream
+00:01:25,000 --> 00:01:27,000
+So we can all unite
 
 16
-00:01:08,000 --> 00:01:15,000
- Go, go, go, we can do it
+00:01:27,000 --> 00:01:30,000
+Damn, they're all united
 
 17
-00:01:16,000 --> 00:01:18,000
- To be continued...
+00:01:30,000 --> 00:01:34,000
+We can't let this happen, I have to stop them
 
 18
-00:01:19,000 --> 00:01:21,000
- Attack!
+00:01:34,000 --> 00:01:36,000
+Don't touch me!
 
 19
-00:01:21,000 --> 00:01:25,000
- We won't stop until we get that fire crystal
+00:01:36,000 --> 00:01:41,000
+Rita, you're so brave
 
 20
-00:01:25,000 --> 00:01:27,000
- So we can all unite
+00:01:41,000 --> 00:01:46,000
+You know, only bad people dare to attack their own friends
 
 21
-00:01:27,000 --> 00:01:30,000
- Damn, they're all united
+00:01:46,000 --> 00:01:48,000
+I'm a bad person
 
 22
-00:01:30,000 --> 00:01:34,000
- We can't let this happen, I have to stop them
+00:01:48,000 --> 00:01:53,000
+She's not a bad person, she just can't control herself
 
 23
-00:01:34,000 --> 00:01:36,000
- Don't touch me!
+00:01:53,000 --> 00:01:56,000
+I'm glad I can help you
 
 24
-00:01:36,000 --> 00:01:41,000
- Rita, you're so brave
+00:01:56,000 --> 00:02:00,000
+But you have to remember, you can't use your feelings
 
 25
-00:01:41,000 --> 00:01:46,000
- You know, only bad people dare to attack their own friends
+00:02:00,000 --> 00:02:04,000
+You have to control yourself, think of yourself
 
 26
-00:01:46,000 --> 00:01:48,000
- I'm a bad person
+00:02:04,000 --> 00:02:07,000
+And you have to let go of your love for others
 
 27
-00:01:48,000 --> 00:01:53,000
- She's not a bad person, she just can't control herself
+00:02:07,000 --> 00:02:14,000
+Let me go, help!
 
 28
-00:01:53,000 --> 00:01:56,000
- I'm glad I can help you
+00:02:14,000 --> 00:02:16,000
+Shut up!
 
 29
-00:01:56,000 --> 00:02:00,000
- But you have to remember, you can't use your feelings
+00:02:16,000 --> 00:02:20,000
+It's useless to call them, they won't come for you
 
 30
-00:02:00,000 --> 00:02:04,000
- You have to control yourself, think of yourself
+00:02:20,000 --> 00:02:27,000
+Finally, the police called me
 
 31
-00:02:04,000 --> 00:02:07,000
- And you have to let go of your love for others
+00:02:27,000 --> 00:02:37,000
+Ah, I'm so lucky
 
 32
-00:02:07,000 --> 00:02:14,000
- Let me go, help!
+00:02:37,000 --> 00:02:40,000
+Oh no, what should I do?
 
 33
-00:02:14,000 --> 00:02:16,000
- Shut up!
+00:02:40,000 --> 00:02:43,000
+I'm so sleepy
 
 34
-00:02:16,000 --> 00:02:20,000
- It's useless to call them, they won't come for you
+00:02:44,000 --> 00:02:58,000
+Help!
 
 35
-00:02:20,000 --> 00:02:27,000
- Finally, the police called me
+00:02:58,000 --> 00:03:00,000
+Rita!
 
 36
-00:02:27,000 --> 00:02:37,000
- Ah, I'm so lucky
+00:03:00,000 --> 00:03:02,000
+Where are you?
 
 37
-00:02:37,000 --> 00:02:40,000
- Oh no, what should I do?
+00:03:02,000 --> 00:03:05,000
+Rita, I'm here!
 
 38
-00:02:40,000 --> 00:02:43,000
- I'm so sleepy
+00:03:05,000 --> 00:03:09,000
+What should I do? I can't help you like this
 
 39
-00:02:44,000 --> 00:02:47,000
- Help!
+00:03:10,000 --> 00:03:13,000
+I'm stuck here!
 
 40
-00:02:47,000 --> 00:02:52,000
- Help!
+00:03:13,000 --> 00:03:16,000
+Rita!
 
 41
-00:02:52,000 --> 00:02:58,000
- Help!
+00:03:16,000 --> 00:03:19,000
+Help!
 
 42
-00:02:58,000 --> 00:03:00,000
- Rita!
+00:03:19,000 --> 00:03:22,000
+I've learned Pegasus' spell
 
 43
-00:03:00,000 --> 00:03:02,000
- Where are you?
+00:03:22,000 --> 00:03:26,000
+This is good, let me try
 
 44
-00:03:02,000 --> 00:03:05,000
- Rita, I'm here!
+00:03:26,000 --> 00:03:34,000
+Pegasus!
 
 45
-00:03:05,000 --> 00:03:09,000
- What should I do? I can't help you like this
+00:03:39,000 --> 00:03:43,000
+This is so small, how can it help me?
 
 46
-00:03:10,000 --> 00:03:13,000
- I'm stuck here!
+00:03:43,000 --> 00:03:45,000
+Tell me!
 
 47
-00:03:13,000 --> 00:03:16,000
- Rita!
+00:03:45,000 --> 00:03:49,000
+Bulgarda, I need Bulgarda
 
 48
-00:03:16,000 --> 00:03:19,000
- Help!
+00:03:49,000 --> 00:03:52,000
+Bulgarda
 
 49
-00:03:19,000 --> 00:03:22,000
- I've learned Pegasus' spell
+00:03:52,000 --> 00:03:58,000
+Pegasus!
 
 50
-00:03:22,000 --> 00:03:26,000
- This is good, let me try
+00:03:59,000 --> 00:04:01,000
+Pegasus
 
 51
-00:03:26,000 --> 00:03:34,000
- Pegasus!
+00:04:01,000 --> 00:04:12,000
+Wow, it's so big
 
 52
-00:03:39,000 --> 00:03:43,000
- This is so small, how can it help me?
+00:04:12,000 --> 00:04:17,000
+Bulgarda, let go of my rope
 
 53
-00:03:43,000 --> 00:03:45,000
- Tell me!
+00:04:27,000 --> 00:04:29,000
+Thank you Bulgarda
 
 54
-00:03:45,000 --> 00:03:49,000
- Bulgarda, I need Bulgarda
+00:04:29,000 --> 00:04:32,000
+Tell me!
 
 55
-00:03:49,000 --> 00:03:52,000
- Bulgarda
+00:04:32,000 --> 00:04:44,000
+Rita, Ray, Pegasus, where are you?
 
 56
-00:03:52,000 --> 00:03:58,000
- Pegasus!
+00:04:44,000 --> 00:04:47,000
+Rita, Ray, Pegasus
 
 57
-00:03:59,000 --> 00:04:01,000
- Pegasus
+00:04:47,000 --> 00:04:50,000
+Ray, Rita, where are you?
 
 58
-00:04:01,000 --> 00:04:12,000
- Wow, it's so big
+00:04:50,000 --> 00:04:56,000
+Ray, Pegasus, Rita, where are you?
 
 59
-00:04:12,000 --> 00:04:17,000
- Bulgarda, let go of my rope
+00:04:57,000 --> 00:05:25,000
+Ray, Pegasus, where are you?
 
 60
-00:04:27,000 --> 00:04:29,000
- Thank you Bulgarda
+00:05:25,000 --> 00:05:27,000
+I'll look for Rita
 
 61
-00:04:29,000 --> 00:04:32,000
- Tell me!
+00:05:27,000 --> 00:05:29,000
+Okay, bye
 
 62
-00:04:32,000 --> 00:04:44,000
- Rita, Ray, Pegasus, where are you?
+00:05:29,000 --> 00:05:33,000
+Let me go!
 
 63
-00:04:44,000 --> 00:04:47,000
- Rita, Ray, Pegasus
+00:05:33,000 --> 00:05:35,000
+Help!
 
 64
-00:04:47,000 --> 00:04:50,000
- Ray, Rita, where are you?
+00:05:35,000 --> 00:05:47,000
+Help me, Sir!
 
 65
-00:04:50,000 --> 00:04:56,000
- Ray, Pegasus, Rita, where are you?
+00:05:47,000 --> 00:05:51,000
+Rita, you have to gather your strength and attack them
 
 66
-00:04:57,000 --> 00:05:00,000
- Ray, Pegasus, where are you?
+00:05:51,000 --> 00:05:55,000
+Pegasus, Ray, Pegasus, where are you?
 
 67
-00:05:00,000 --> 00:05:03,000
- Ray, Pegasus, where are you?
+00:05:55,000 --> 00:06:14,000
+Now you throw the people who hurt you, hurry up!
 
 68
-00:05:03,000 --> 00:05:06,000
- Ray, Pegasus, where are you?
+00:06:14,000 --> 00:06:22,000
+Pegasus, Ray, Pegasus, where are you?
 
 69
-00:05:06,000 --> 00:05:10,000
- Ray, Pegasus, where are you?
+00:06:22,000 --> 00:06:44,000
+Rita, where are you?
 
 70
-00:05:10,000 --> 00:05:14,000
- Ray, Pegasus, where are you?
+00:06:46,000 --> 00:06:48,000
+Where is Rita?
 
 71
-00:05:14,000 --> 00:05:18,000
- Ray, Pegasus, where are you?
+00:06:48,000 --> 00:06:52,000
+I don't know, when I got here, Rita was gone
 
 72
-00:05:18,000 --> 00:05:22,000
- Ray, Pegasus, where are you?
+00:06:52,000 --> 00:06:53,000
+Where is she?
 
 73
-00:05:22,000 --> 00:05:25,000
- Ray, Pegasus, where are you?
+00:06:53,000 --> 00:06:55,000
+Rita!
 
 74
-00:05:25,000 --> 00:05:27,000
- I'll look for Rita
+00:06:55,000 --> 00:06:57,000
+Ray, use your thunder
 
 75
-00:05:27,000 --> 00:05:29,000
- Okay, bye
+00:06:57,000 --> 00:06:58,000
+Okay
 
 76
-00:05:29,000 --> 00:05:33,000
- Let me go!
+00:06:58,000 --> 00:07:18,000
+Sir, Rita is under that man's roof
 
 77
-00:05:33,000 --> 00:05:35,000
- Help!
+00:07:18,000 --> 00:07:22,000
+Stop!
 
 78
-00:05:35,000 --> 00:05:47,000
- Help me, Sir!
+00:07:22,000 --> 00:07:26,000
+Rita, let's go back to school
 
 79
-00:05:47,000 --> 00:05:51,000
- Rita, you have to gather your strength and attack them
+00:07:26,000 --> 00:07:29,000
+Yes, let's go back to school
 
 80
-00:05:51,000 --> 00:05:55,000
- Pegasus, Ray, Pegasus, where are you?
+00:07:29,000 --> 00:07:31,000
+Don't follow him anymore
 
 81
-00:05:55,000 --> 00:06:14,000
- Now you throw the people who hurt you, hurry up!
+00:07:31,000 --> 00:07:33,000
+Don't be fooled, boy
 
 82
-00:06:14,000 --> 00:06:18,000
- Pegasus, Ray, Pegasus, where are you?
+00:07:33,000 --> 00:07:38,000
+Do you remember? They've made you sad, they've divorced you
 
 83
-00:06:18,000 --> 00:06:22,000
- Pegasus, Ray, Pegasus, where are you?
+00:07:40,000 --> 00:07:44,000
+Rita, let's go back to school
 
 84
-00:06:22,000 --> 00:06:44,000
- Rita, where are you?
+00:07:44,000 --> 00:07:46,000
+We want to play the snake again
 
 85
-00:06:46,000 --> 00:06:48,000
- Where is Rita?
+00:07:46,000 --> 00:07:47,000
+Yes
 
 86
-00:06:48,000 --> 00:06:52,000
- I don't know, when I got here, Rita was gone
+00:07:47,000 --> 00:07:53,000
+Let's go, Rita
 
 87
-00:06:52,000 --> 00:06:53,000
- Where is she?
+00:07:53,000 --> 00:07:54,000
+Let's go
 
 88
-00:06:53,000 --> 00:06:54,000
- Rita!
+00:07:54,000 --> 00:08:00,000
+Pegasus!
 
 89
-00:06:54,000 --> 00:06:55,000
- Rita!
+00:08:00,000 --> 00:08:05,000
+Pegasus, are you okay?
 
 90
-00:06:55,000 --> 00:06:57,000
- Ray, use your thunder
+00:08:05,000 --> 00:08:26,000
+Vega, Vega
 
 91
-00:06:57,000 --> 00:06:58,000
- Okay
+00:08:30,000 --> 00:08:34,000
+Vega, don't force yourself
 
 92
-00:06:58,000 --> 00:07:14,000
- Sir, Rita is under that man's roof
+00:08:34,000 --> 00:08:36,000
+Just write it down
 
 93
-00:07:15,000 --> 00:07:18,000
- Sir, Rita is under that man's roof
+00:08:36,000 --> 00:08:40,000
+Pelita is so brave
 
 94
-00:07:18,000 --> 00:07:22,000
- Stop!
+00:08:40,000 --> 00:08:43,000
+She made Vega become like this
 
 95
-00:07:22,000 --> 00:07:26,000
- Rita, let's go back to school
+00:08:43,000 --> 00:08:47,000
+I told you, she's a monster
 
 96
-00:07:26,000 --> 00:07:29,000
- Yes, let's go back to school
+00:08:47,000 --> 00:08:50,000
+That's why we shouldn't get close to her anymore
 
 97
-00:07:29,000 --> 00:07:31,000
- Don't follow him anymore
+00:08:50,000 --> 00:08:57,000
+I'm so sorry for what happened to Vega
 
 98
-00:07:31,000 --> 00:07:33,000
- Don't be fooled, boy
+00:08:57,000 --> 00:08:59,000
+I shouldn't have gone
 
 99
-00:07:33,000 --> 00:07:38,000
- Do you remember? They've made you sad, they've divorced you
+00:09:00,000 --> 00:09:02,000
+Forgive me, Sir
 
 100
-00:07:40,000 --> 00:07:44,000
- Rita, let's go back to school
+00:09:02,000 --> 00:09:05,000
+You don't have to regret
 
 101
-00:07:44,000 --> 00:07:46,000
- We want to play the snake again
+00:09:05,000 --> 00:09:09,000
+Make this a learning experience for you
 
 102
-00:07:46,000 --> 00:07:47,000
- Yes
+00:09:09,000 --> 00:09:11,000
+You have to remember
 
 103
-00:07:47,000 --> 00:07:48,000
- Let's go, Rita
+00:09:11,000 --> 00:09:15,000
+I will never leave you in any condition
 
 104
-00:07:48,000 --> 00:07:53,000
- Let's go, Rita
+00:09:15,000 --> 00:09:19,000
+And this is your place
 
 105
-00:07:53,000 --> 00:07:54,000
- Let's go
+00:09:19,000 --> 00:09:22,000
+I'm always by your side
 
 106
-00:07:54,000 --> 00:08:00,000
- Pegasus!
+00:09:22,000 --> 00:09:28,000
+[The Snakes' Claw]
 
 107
-00:08:00,000 --> 00:08:03,000
- Pegasus, are you okay?
+00:09:28,000 --> 00:09:34,000
+There's a truth
 
 108
-00:08:03,000 --> 00:08:05,000
- Pegasus, are you okay?
+00:09:34,000 --> 00:09:37,000
+Pelita has a very dangerous power
 
 109
-00:08:05,000 --> 00:08:26,000
- Vega, Vega
+00:09:37,000 --> 00:09:41,000
+And we have to be careful to catch her
 
 110
-00:08:30,000 --> 00:08:34,000
- Vega, don't force yourself
+00:09:41,000 --> 00:09:46,000
+We have to prepare more to fight that girl
 
 111
-00:08:34,000 --> 00:08:36,000
- Just write it down
+00:09:46,000 --> 00:09:49,000
+If we can catch her
 
 112
-00:08:36,000 --> 00:08:40,000
- Pelita is so brave
+00:09:49,000 --> 00:09:52,000
+All the snakes will be gone
 
 113
-00:08:40,000 --> 00:08:43,000
- She made Vega become like this
+00:09:52,000 --> 00:09:56,000
+Tri, you have to make a new weapon
 
 114
-00:08:43,000 --> 00:08:47,000
- I told you, she's a monster
+00:09:56,000 --> 00:09:59,000
+A very powerful weapon
 
 115
-00:08:47,000 --> 00:08:50,000
- That's why we shouldn't get close to her anymore
+00:09:59,000 --> 00:10:03,000
+A weapon that can defeat the girl named Pelita
 
 116
-00:08:50,000 --> 00:08:57,000
- I'm so sorry for what happened to Vega
+00:10:03,000 --> 00:10:09,000
+Alright, we will take them down
 
 117
-00:08:57,000 --> 00:08:59,000
- I shouldn't have gone
+00:10:10,000 --> 00:10:14,000
+[The Snakes' Claw]
 
 118
-00:09:00,000 --> 00:09:02,000
- Forgive me, Sir
+00:10:14,000 --> 00:10:25,000
+Pelita, let's go home
 
 119
-00:09:02,000 --> 00:09:05,000
- You don't have to regret
+00:10:25,000 --> 00:10:27,000
+Let's go home
 
 120
-00:09:05,000 --> 00:09:09,000
- Make this a learning experience for you
+00:10:27,000 --> 00:10:30,000
+Let's go back to school
 
 121
-00:09:09,000 --> 00:09:11,000
- You have to remember
+00:10:30,000 --> 00:10:34,000
+Let's play together again
 
 122
-00:09:11,000 --> 00:09:15,000
- I will never leave you in any condition
+00:10:35,000 --> 00:10:39,000
+[The Snakes' Claw]
 
 123
-00:09:15,000 --> 00:09:19,000
- And this is your place
+00:10:39,000 --> 00:10:44,000
+I feel so sorry for Vega
 
 124
-00:09:19,000 --> 00:09:22,000
- I'm always by your side
+00:10:44,000 --> 00:10:46,000
+Come on, Pelita
 
 125
-00:09:22,000 --> 00:09:28,000
- [The Snakes' Claw]
+00:10:46,000 --> 00:10:48,000
+She must be so sad
 
 126
-00:09:28,000 --> 00:09:34,000
- There's a truth
+00:10:48,000 --> 00:10:51,000
+She must be thinking about us
 
 127
-00:09:34,000 --> 00:09:37,000
- Pelita has a very dangerous power
+00:10:51,000 --> 00:10:55,000
+Let's go home, Pelita
 
 128
-00:09:37,000 --> 00:09:41,000
- And we have to be careful to catch her
+00:10:55,000 --> 00:10:57,000
+Come on, Pelita
 
 129
-00:09:41,000 --> 00:09:46,000
- We have to prepare more to fight that girl
+00:11:02,000 --> 00:11:04,000
+Pelita
 
 130
-00:09:46,000 --> 00:09:49,000
- If we can catch her
+00:11:04,000 --> 00:11:07,000
+Come on, Pelita
 
 131
-00:09:49,000 --> 00:09:52,000
- All the snakes will be gone
+00:11:07,000 --> 00:11:11,000
+Wake up, Pelita
 
 132
-00:09:52,000 --> 00:09:56,000
- Tri, you have to make a new weapon
+00:11:11,000 --> 00:11:13,000
+Wake up
 
 133
-00:09:56,000 --> 00:09:59,000
- A very powerful weapon
+00:11:13,000 --> 00:11:17,000
+What's wrong?
 
 134
-00:09:59,000 --> 00:10:03,000
- A weapon that can defeat the girl named Pelita
+00:11:17,000 --> 00:11:19,000
+Are you sick?
 
 135
-00:10:03,000 --> 00:10:09,000
- Alright, we will take them down
+00:11:19,000 --> 00:11:21,000
+I'm not sick
 
 136
-00:10:10,000 --> 00:10:14,000
- [The Snakes' Claw]
+00:11:21,000 --> 00:11:23,000
+I feel so sorry for Vega
 
 137
-00:10:14,000 --> 00:10:25,000
- Pelita, let's go home
+00:11:23,000 --> 00:11:25,000
+Come on, Pelita
 
 138
-00:10:25,000 --> 00:10:27,000
- Let's go home
+00:11:25,000 --> 00:11:29,000
+Let's go home and play together again
 
 139
-00:10:27,000 --> 00:10:30,000
- Let's go back to school
+00:11:30,000 --> 00:11:34,000
+[The Snakes' Claw]
 
 140
-00:10:30,000 --> 00:10:34,000
- Let's play together again
+00:11:34,000 --> 00:11:41,000
+Pelita, let's go home
 
 141
-00:10:35,000 --> 00:10:39,000
- [The Snakes' Claw]
+00:11:41,000 --> 00:11:46,000
+Tentara, we have to help Vega
 
 142
-00:10:39,000 --> 00:10:44,000
- I feel so sorry for Vega
+00:11:46,000 --> 00:11:50,000
+We have to take Vega to Pelita's place
 
 143
-00:10:44,000 --> 00:10:46,000
- Come on, Pelita
+00:11:50,000 --> 00:11:51,000
+Tentara, will you?
 
 144
-00:10:46,000 --> 00:10:48,000
- She must be so sad
+00:11:51,000 --> 00:11:53,000
+I feel sorry for her
 
 145
-00:10:48,000 --> 00:10:51,000
- She must be thinking about us
+00:11:53,000 --> 00:11:57,000
+Ava, don't be nervous
 
 146
-00:10:51,000 --> 00:10:55,000
- Let's go home, Pelita
+00:11:57,000 --> 00:12:00,000
+It's a very far place
 
 147
-00:10:55,000 --> 00:10:57,000
- Come on, Pelita
+00:12:00,000 --> 00:12:04,000
+It's not only far, it's also dangerous
 
 148
-00:11:02,000 --> 00:11:04,000
- Pelita
+00:12:04,000 --> 00:12:08,000
+That's why I need your help
 
 149
-00:11:04,000 --> 00:11:07,000
- Come on, Pelita
+00:12:08,000 --> 00:12:11,000
+To make me safe
 
 150
-00:11:07,000 --> 00:11:11,000
- Wake up, Pelita
+00:12:11,000 --> 00:12:13,000
+Can you help me?
 
 151
-00:11:11,000 --> 00:11:13,000
- Wake up
+00:12:13,000 --> 00:12:15,000
+Please, Tentara
 
 152
-00:11:13,000 --> 00:11:17,000
- What's wrong?
+00:12:15,000 --> 00:12:17,000
+I feel sorry for Vega
 
 153
-00:11:17,000 --> 00:11:19,000
- Are you sick?
+00:12:17,000 --> 00:12:19,000
+Please, I'm begging you
 
 154
-00:11:19,000 --> 00:11:21,000
- I'm not sick
+00:12:19,000 --> 00:12:21,000
+Yes, Ava
 
 155
-00:11:21,000 --> 00:11:23,000
- I feel so sorry for Vega
+00:12:21,000 --> 00:12:24,000
+We'll go there
 
 156
-00:11:23,000 --> 00:11:25,000
- Come on, Pelita
+00:12:24,000 --> 00:12:26,000
+What are you wearing?
 
 157
-00:11:25,000 --> 00:11:29,000
- Let's go home and play together again
+00:12:26,000 --> 00:12:33,000
+How about this?
 
 158
-00:11:30,000 --> 00:11:34,000
- [The Snakes' Claw]
+00:12:33,000 --> 00:12:39,000
+What do you think?
 
 159
-00:11:34,000 --> 00:11:41,000
- Pelita, let's go home
+00:12:39,000 --> 00:12:41,000
+It's a good idea, right?
 
 160
-00:11:41,000 --> 00:11:46,000
- Tentara, we have to help Vega
+00:12:41,000 --> 00:12:44,000
+Buy a card, eh
 
 161
-00:11:46,000 --> 00:11:50,000
- We have to take Vega to Pelita's place
+00:12:44,000 --> 00:12:47,000
+It's full of coconut
 
 162
-00:11:50,000 --> 00:11:51,000
- Tentara, will you?
+00:12:47,000 --> 00:12:49,000
+Good idea, eh
 
 163
-00:11:51,000 --> 00:11:53,000
- I feel sorry for her
+00:12:49,000 --> 00:12:53,000
+It's Alva's idea
 
 164
-00:11:53,000 --> 00:11:57,000
- Ava, don't be nervous
+00:12:53,000 --> 00:12:57,000
+Good, good
 
 165
-00:11:57,000 --> 00:12:00,000
- It's a very far place
+00:12:57,000 --> 00:13:01,000
+Let's go
 
 166
-00:12:00,000 --> 00:12:04,000
- It's not only far, it's also dangerous
+00:13:02,000 --> 00:13:06,000
+[The Snakes' Claw]
 
 167
-00:12:04,000 --> 00:12:08,000
- That's why I need your help
+00:13:06,000 --> 00:13:26,000
+I am the third head dragon
 
 168
-00:12:08,000 --> 00:12:11,000
- To make me safe
+00:13:26,000 --> 00:13:30,000
+I bring your favorite food
 
 169
-00:12:11,000 --> 00:12:13,000
- Can you help me?
+00:13:30,000 --> 00:13:32,000
+Please enjoy
 
 170
-00:12:13,000 --> 00:12:15,000
- Please, Tentara
+00:13:32,000 --> 00:13:47,000
+Sorry for disturbing your time
 
 171
-00:12:15,000 --> 00:12:17,000
- I feel sorry for Vega
+00:13:47,000 --> 00:13:53,000
+I'm sorry
 
 172
-00:12:17,000 --> 00:12:19,000
- Please, I'm begging you
+00:13:53,000 --> 00:13:56,000
+For disturbing your time
 
 173
-00:12:19,000 --> 00:12:21,000
- Yes, Ava
+00:13:56,000 --> 00:14:04,000
+Change
 
 174
-00:12:21,000 --> 00:12:24,000
- We'll go there
+00:14:05,000 --> 00:14:09,000
+[The Snakes' Claw]
 
 175
-00:12:24,000 --> 00:12:26,000
- What are you wearing?
+00:14:09,000 --> 00:14:28,000
+Come on, finish it
 
 176
-00:12:26,000 --> 00:12:33,000
- How about this?
+00:14:28,000 --> 00:14:30,000
+Eat it
 
 177
-00:12:33,000 --> 00:12:39,000
- What do you think?
+00:14:31,000 --> 00:14:33,000
+[The Snakes' Claw]
 
 178
-00:12:39,000 --> 00:12:41,000
- It's a good idea, right?
+00:14:33,000 --> 00:14:43,000
+Hold it tight
 
 179
-00:12:41,000 --> 00:12:44,000
- Buy a card, eh
+00:14:43,000 --> 00:14:45,000
+Hold it
 
 180
-00:12:44,000 --> 00:12:47,000
- It's full of coconut
+00:14:46,000 --> 00:15:15,000
+[The Snakes' Claw]
 
 181
-00:12:47,000 --> 00:12:49,000
- Good idea, eh
+00:15:15,000 --> 00:15:34,000
+We'll succeed
 
 182
-00:12:49,000 --> 00:12:53,000
- It's Alva's idea
+00:15:34,000 --> 00:15:36,000
+This arrow is very powerful
 
 183
-00:12:53,000 --> 00:12:57,000
- Good, good
+00:15:36,000 --> 00:15:38,000
+Whatever it hits
 
 184
-00:12:57,000 --> 00:13:01,000
- Let's go
+00:15:38,000 --> 00:15:41,000
+Will turn into a stone
 
 185
-00:13:02,000 --> 00:13:06,000
- [The Snakes' Claw]
+00:15:41,000 --> 00:15:43,000
+Good
 
 186
-00:13:06,000 --> 00:13:26,000
- I am the third head dragon
+00:15:43,000 --> 00:15:46,000
+Let's go
 
 187
-00:13:26,000 --> 00:13:30,000
- I bring your favorite food
+00:15:46,000 --> 00:15:54,000
+So what should I do now?
 
 188
-00:13:30,000 --> 00:13:32,000
- Please enjoy
+00:15:54,000 --> 00:15:57,000
+We have to defend ourselves
 
 189
-00:13:32,000 --> 00:13:47,000
- Sorry for disturbing your time
+00:15:57,000 --> 00:16:01,000
+Until I can control the little one
 
 190
-00:13:47,000 --> 00:13:49,000
- I'm sorry
+00:16:05,000 --> 00:16:08,000
+Hi, little one
 
 191
-00:13:49,000 --> 00:13:51,000
- I'm sorry
+00:16:08,000 --> 00:16:15,000
+That's the one who kidnapped me
 
 192
-00:13:51,000 --> 00:13:53,000
- I'm sorry
+00:16:15,000 --> 00:16:18,000
+How did he know you?
 
 193
-00:13:53,000 --> 00:13:56,000
- For disturbing your time
+00:16:18,000 --> 00:16:22,000
+Besides, you don't have to worry
 
 194
-00:13:56,000 --> 00:14:04,000
- Change
+00:16:22,000 --> 00:16:26,000
+I've made a promise with the teachers at the magic school
 
 195
-00:14:05,000 --> 00:14:09,000
- [The Snakes' Claw]
+00:16:26,000 --> 00:16:29,000
+To fight back against the elf warriors
 
 196
-00:14:09,000 --> 00:14:28,000
- Come on, finish it
+00:16:29,000 --> 00:16:33,000
+So they won't disturb our plan now
 
 197
-00:14:28,000 --> 00:14:30,000
- Eat it
+00:16:33,000 --> 00:16:35,000
+Good, Angkara
 
 198
-00:14:31,000 --> 00:14:33,000
- [The Snakes' Claw]
+00:16:35,000 --> 00:16:39,000
+Now your job is to eliminate Ray and Vicky
 
 199
-00:14:33,000 --> 00:14:35,000
- Hold it tight
+00:16:39,000 --> 00:16:43,000
+I'll make the elf warriors destroy your elf
 
 200
-00:14:35,000 --> 00:14:37,000
- Hold it tight
+00:16:43,000 --> 00:16:46,000
+You have to kidnap the elf
 
 201
-00:14:37,000 --> 00:14:43,000
- Hold it tight
+00:16:46,000 --> 00:16:53,000
+Yes, sir
 
 202
-00:14:43,000 --> 00:14:45,000
- Hold it
+00:16:53,000 --> 00:17:02,000
+Just a moment
 
 203
-00:14:46,000 --> 00:14:50,000
- [The Snakes' Claw]
+00:17:03,000 --> 00:17:07,000
+[The Snakes' Claw]
 
 204
-00:15:11,000 --> 00:15:15,000
- [The Snakes' Claw]
+00:17:07,000 --> 00:17:12,000
+Soon, Alva will be mine
 
 205
-00:15:15,000 --> 00:15:34,000
- We'll succeed
+00:17:12,000 --> 00:17:27,000
+What's that?
 
 206
-00:15:34,000 --> 00:15:36,000
- This arrow is very powerful
+00:17:28,000 --> 00:17:32,000
+[The Snakes' Claw]
 
 207
-00:15:36,000 --> 00:15:38,000
- Whatever it hits
+00:17:32,000 --> 00:17:35,000
+What are you doing?
 
 208
-00:15:38,000 --> 00:15:41,000
- Will turn into a stone
+00:17:35,000 --> 00:17:37,000
+Stay there
 
 209
-00:15:41,000 --> 00:15:43,000
- Good
+00:17:37,000 --> 00:17:39,000
+You're a bad guy
 
 210
-00:15:43,000 --> 00:15:46,000
- Let's go
+00:17:39,000 --> 00:17:42,000
+I won't let you hurt KvK
 
 211
-00:15:46,000 --> 00:15:54,000
- So what should I do now?
+00:17:42,000 --> 00:17:48,000
+Don't run, Kelita
 
 212
-00:15:54,000 --> 00:15:57,000
- We have to defend ourselves
+00:17:48,000 --> 00:17:56,000
+[The Snakes' Claw]
 
 213
-00:15:57,000 --> 00:16:01,000
- Until I can control the little one
+00:17:56,000 --> 00:17:58,000
+Where are you going?
 
 214
-00:16:05,000 --> 00:16:08,000
- Hi, little one
+00:17:58,000 --> 00:18:01,000
+It's late, go to bed
 
 215
-00:16:08,000 --> 00:16:15,000
- That's the one who kidnapped me
+00:18:01,000 --> 00:18:03,000
+I'll teach you a new skill tomorrow
 
 216
-00:16:15,000 --> 00:16:18,000
- How did he know you?
+00:18:03,000 --> 00:18:05,000
+I don't want to
 
 217
-00:16:18,000 --> 00:16:22,000
- Besides, you don't have to worry
+00:18:05,000 --> 00:18:07,000
+I know everything
 
 218
-00:16:22,000 --> 00:16:26,000
- I've made a promise with the teachers at the magic school
+00:18:07,000 --> 00:18:09,000
+You're a bad guy
 
 219
-00:16:26,000 --> 00:16:29,000
- To fight back against the elf warriors
+00:18:09,000 --> 00:18:13,000
+You're friends with the one who kidnapped me
 
 220
-00:16:29,000 --> 00:16:33,000
- So they won't disturb our plan now
+00:18:13,000 --> 00:18:16,000
+You want to hurt KvK and Alva
 
 221
-00:16:33,000 --> 00:16:35,000
- Good, Angkara
+00:18:16,000 --> 00:18:19,000
+I don't want to be your friend
 
 222
-00:16:35,000 --> 00:16:39,000
- Now your job is to eliminate Ray and Vicky
+00:18:19,000 --> 00:18:25,000
+Good, you're here
 
 223
-00:16:39,000 --> 00:16:43,000
- I'll make the elf warriors destroy your elf
+00:18:25,000 --> 00:18:27,000
+Come here
 
 224
-00:16:43,000 --> 00:16:46,000
- You have to kidnap the elf
+00:18:27,000 --> 00:18:35,000
+How dare you
 
 225
-00:16:46,000 --> 00:16:53,000
- Yes, sir
+00:18:36,000 --> 00:19:19,000
+[The Snakes' Claw]
 
 226
-00:16:53,000 --> 00:17:02,000
- Just a moment
+00:19:19,000 --> 00:19:23,000
+Kelita!
 
 227
-00:17:03,000 --> 00:17:07,000
- [The Snakes' Claw]
+00:19:24,000 --> 00:19:29,000
+[The Snakes' Claw]
 
 228
-00:17:07,000 --> 00:17:12,000
- Soon, Alva will be mine
+00:19:29,000 --> 00:19:31,000
+Come on
 
 229
-00:17:12,000 --> 00:17:27,000
- What's that?
+00:19:31,000 --> 00:19:35,000
+Thank you, Naga
 
 230
-00:17:28,000 --> 00:17:32,000
- [The Snakes' Claw]
+00:19:35,000 --> 00:19:38,000
+I think the place is near
 
 231
-00:17:32,000 --> 00:17:35,000
- What are you doing?
+00:19:38,000 --> 00:19:42,000
+Thank you, Naga
 
 232
-00:17:35,000 --> 00:17:37,000
- Stay there
+00:19:42,000 --> 00:19:45,000
+I think the place is near
 
 233
-00:17:37,000 --> 00:17:39,000
- You're a bad guy
+00:19:46,000 --> 00:20:26,000
+[The Snakes' Claw]
 
 234
-00:17:39,000 --> 00:17:42,000
- I won't let you hurt KvK
+00:20:26,000 --> 00:20:29,000
+Kelita!
 
 235
-00:17:42,000 --> 00:17:48,000
- Don't run, Kelita
+00:20:29,000 --> 00:20:54,000
+[The Snakes' Claw]
 
 236
-00:17:48,000 --> 00:17:56,000
- [The Snakes' Claw]
+00:20:54,000 --> 00:20:56,000
+Kelita!
 
 237
-00:17:56,000 --> 00:17:58,000
- Where are you going?
+00:20:56,000 --> 00:21:13,000
+Kelita, wake up!
 
 238
-00:17:58,000 --> 00:18:01,000
- It's late, go to bed
+00:21:32,000 --> 00:21:34,000
+Keep going, Naga!
 
 239
-00:18:01,000 --> 00:18:03,000
- I'll teach you a new skill tomorrow
+00:21:34,000 --> 00:21:36,000
+Finish them off!
 
 240
-00:18:03,000 --> 00:18:05,000
- I don't want to
+00:21:36,000 --> 00:21:39,000
+Wake up!
 
 241
-00:18:05,000 --> 00:18:07,000
- I know everything
+00:21:39,000 --> 00:21:46,000
+Wake up, Fega!
 
 242
-00:18:07,000 --> 00:18:09,000
- You're a bad guy
+00:21:46,000 --> 00:21:48,000
+Fega!
 
 243
-00:18:09,000 --> 00:18:13,000
- You're friends with the one who kidnapped me
+00:21:48,000 --> 00:21:49,000
+Wake up!
 
 244
-00:18:13,000 --> 00:18:16,000
- You want to hurt KvK and Alva
+00:21:49,000 --> 00:21:50,000
+Wait, Fega!
 
 245
-00:18:16,000 --> 00:18:19,000
- I don't want to be your friend
+00:21:50,000 --> 00:21:56,000
+Wake up, Fega!
 
 246
-00:18:19,000 --> 00:18:25,000
- Good, you're here
+00:21:56,000 --> 00:22:19,000
+[The Snakes' Claw]
 
 247
-00:18:25,000 --> 00:18:27,000
- Come here
+00:22:19,000 --> 00:22:22,000
+Wake up, Fega!
 
 248
-00:18:27,000 --> 00:18:35,000
- How dare you
+00:22:22,000 --> 00:22:39,000
+[The Snakes' Claw]
 
 249
-00:18:36,000 --> 00:18:40,000
- [The Snakes' Claw]
+00:22:39,000 --> 00:22:41,000
+Yes! Five!
 
 250
-00:18:40,000 --> 00:18:45,000
- [The Snakes' Claw]
+00:22:41,000 --> 00:22:44,000
+One, two, three, four, five!
 
 251
-00:18:45,000 --> 00:18:49,000
- [The Snakes' Claw]
+00:22:44,000 --> 00:22:46,000
+Yeah!
 
 252
-00:18:49,000 --> 00:19:00,000
- [The Snakes' Claw]
+00:22:46,000 --> 00:22:49,000
+Wake up, Fega!
 
 253
-00:19:00,000 --> 00:19:05,000
- [The Snakes' Claw]
+00:22:49,000 --> 00:22:51,000
+Wake up!
 
 254
-00:19:05,000 --> 00:19:10,000
- [The Snakes' Claw]
+00:22:51,000 --> 00:23:05,000
+Wake up, Fega!
 
 255
-00:19:10,000 --> 00:19:15,000
- [The Snakes' Claw]
+00:23:05,000 --> 00:23:35,000
+[The Snakes' Claw]
 
 256
-00:19:15,000 --> 00:19:19,000
- [The Snakes' Claw]
+00:23:35,000 --> 00:23:37,000
+Fega!
 
 257
-00:19:19,000 --> 00:19:21,000
- Kelita!
+00:23:37,000 --> 00:23:52,000
+[The Snakes' Claw]
 
 258
-00:19:21,000 --> 00:19:23,000
- Kelita!
+00:23:52,000 --> 00:23:54,000
+You're alive!
 
 259
-00:19:24,000 --> 00:19:29,000
- [The Snakes' Claw]
+00:23:54,000 --> 00:23:56,000
+I got you!
 
 260
-00:19:29,000 --> 00:19:31,000
- Come on
+00:23:56,000 --> 00:24:02,000
+Fega!
 
 261
-00:19:31,000 --> 00:19:33,000
- Thank you, Naga
+00:24:02,000 --> 00:24:16,000
+[The Snakes' Claw]
 
 262
-00:19:33,000 --> 00:19:35,000
- Thank you, Naga
+00:24:16,000 --> 00:24:19,000
+I'm so glad you're not frozen again.
 
 263
-00:19:35,000 --> 00:19:38,000
- I think the place is near
+00:24:19,000 --> 00:24:23,000
+I'm so happy and proud.
 
 264
-00:19:38,000 --> 00:19:40,000
- Thank you, Naga
+00:24:23,000 --> 00:24:25,000
+I'm not frozen again because of you.
 
 265
-00:19:40,000 --> 00:19:42,000
- Thank you, Naga
+00:24:25,000 --> 00:24:28,000
+Because I love you so much.
 
 266
-00:19:42,000 --> 00:19:45,000
- I think the place is near
+00:24:28,000 --> 00:24:31,000
+So, the ice cream melted.
 
 267
-00:19:46,000 --> 00:19:51,000
- [The Snakes' Claw]
+00:24:31,000 --> 00:24:41,000
+[The Snakes' Claw]
 
 268
-00:19:51,000 --> 00:19:56,000
- [The Snakes' Claw]
+00:24:41,000 --> 00:24:43,000
+Felita.
 
 269
-00:19:56,000 --> 00:20:01,000
- [The Snakes' Claw]
+00:24:43,000 --> 00:24:51,000
+From now on, fill your heart with love.
 
 270
-00:20:01,000 --> 00:20:06,000
- [The Snakes' Claw]
+00:24:51,000 --> 00:24:53,000
+Okay?
 
 271
-00:20:06,000 --> 00:20:11,000
- [The Snakes' Claw]
+00:24:53,000 --> 00:24:57,000
+And don't hate people.
 
 272
-00:20:11,000 --> 00:20:16,000
- [The Snakes' Claw]
+00:24:57,000 --> 00:24:58,000
+Okay?
 
 273
-00:20:16,000 --> 00:20:21,000
- [The Snakes' Claw]
+00:24:58,000 --> 00:25:00,000
+One more thing.
 
 274
-00:20:21,000 --> 00:20:26,000
- [The Snakes' Claw]
+00:25:00,000 --> 00:25:03,000
+Don't be afraid to leave.
 
 275
-00:20:26,000 --> 00:20:29,000
- Kelita!
+00:25:03,000 --> 00:25:06,000
+We'll always be with you.
 
 276
-00:20:29,000 --> 00:20:36,000
- [The Snakes' Claw]
+00:25:06,000 --> 00:25:07,000
+Okay?
 
 277
-00:20:36,000 --> 00:20:39,000
- [The Snakes' Claw]
+00:25:07,000 --> 00:25:09,000
+Okay.
 
 278
-00:20:39,000 --> 00:20:44,000
- [The Snakes' Claw]
+00:25:09,000 --> 00:25:21,000
+[The Snakes' Claw]
 
 279
-00:20:44,000 --> 00:20:49,000
- [The Snakes' Claw]
+00:25:21,000 --> 00:25:23,000
+It's all trees.
 
 280
-00:20:49,000 --> 00:20:54,000
- [The Snakes' Claw]
+00:25:23,000 --> 00:25:27,000
+The plants here are my friends.
 
 281
-00:20:54,000 --> 00:20:56,000
- Kelita!
+00:25:27,000 --> 00:25:47,000
+[The Snakes' Claw]
 
 282
-00:20:56,000 --> 00:20:58,000
- Kelita, wake up!
+00:25:47,000 --> 00:25:49,000
+I'm sorry.
 
 283
-00:20:58,000 --> 00:21:02,000
- Kelita, wake up!
+00:25:49,000 --> 00:25:59,000
+[The Snakes' Claw]
 
 284
-00:21:02,000 --> 00:21:05,000
- Kelita, wake up!
+00:25:59,000 --> 00:26:05,000
+[We can do it!]
 
 285
-00:21:06,000 --> 00:21:09,000
- Kelita, wake up!
+00:26:22,000 --> 00:26:39,000
+Where's Papua?
 
 286
-00:21:09,000 --> 00:21:13,000
- Kelita, wake up!
+00:26:39,000 --> 00:26:50,000
+Kauat, he's after us!
 
 287
-00:21:32,000 --> 00:21:34,000
- Keep going, Naga!
+00:26:50,000 --> 00:27:00,000
+[The Snakes' Claw]
 
 288
-00:21:34,000 --> 00:21:36,000
- Finish them off!
+00:27:00,000 --> 00:27:02,000
+Purwocer!
 
 289
-00:21:36,000 --> 00:21:39,000
- Wake up!
+00:27:02,000 --> 00:27:25,000
+[The Snakes' Claw]
 
 290
-00:21:39,000 --> 00:21:41,000
- Wake up, Fega!
+00:27:25,000 --> 00:27:27,000
+Look!
 
 291
-00:21:41,000 --> 00:21:43,000
- Wake up, Fega!
+00:27:27,000 --> 00:27:29,000
+The ice is melting!
 
 292
-00:21:43,000 --> 00:21:46,000
- Wake up, Fega!
+00:27:29,000 --> 00:27:32,000
+Everything is back to normal.
 
 293
-00:21:46,000 --> 00:21:47,000
- Fega!
+00:27:32,000 --> 00:27:38,000
+This means that the firecrackers will return to us.
 
 294
-00:21:47,000 --> 00:21:48,000
- Fega!
+00:27:39,000 --> 00:27:49,000
+[The Snakes' Claw]
 
 295
-00:21:48,000 --> 00:21:49,000
- Wake up!
+00:27:49,000 --> 00:27:51,000
+It's too late!
 
 296
-00:21:49,000 --> 00:21:50,000
- Wait, Fega!
+00:27:51,000 --> 00:27:59,000
+[The Snakes' Claw]
 
 297
-00:21:50,000 --> 00:21:53,000
- Wake up, Fega!
+00:27:59,000 --> 00:28:02,000
+We did it!
 
 298
-00:21:53,000 --> 00:21:56,000
- Wake up, Fega!
+00:28:02,000 --> 00:28:04,000
+Yeah!
 
 299
-00:21:56,000 --> 00:22:19,000
- [The Snakes' Claw]
+00:28:04,000 --> 00:28:08,000
+[The Snakes' Claw]
 
 300
-00:22:19,000 --> 00:22:22,000
- Wake up, Fega!
+00:28:08,000 --> 00:28:14,000
+So, Vega succeeded in making the princess realize the meaning of love and sacrifice.
 
 301
-00:22:22,000 --> 00:22:39,000
- [The Snakes' Claw]
+00:28:14,000 --> 00:28:17,000
+And finally, all this mess ended.
 
 302
-00:22:39,000 --> 00:22:41,000
- Yes! Five!
+00:28:17,000 --> 00:28:18,000
+That's right, Professor.
 
 303
-00:22:41,000 --> 00:22:44,000
- One, two, three, four, five!
+00:28:18,000 --> 00:28:20,000
+And you, Megantara.
 
 304
-00:22:44,000 --> 00:22:46,000
- Yeah!
+00:28:20,000 --> 00:28:24,000
+Why did you let Alva and Vega run away from school?
 
 305
-00:22:46,000 --> 00:22:49,000
- Wake up, Fega!
+00:28:24,000 --> 00:28:28,000
+You brought the Chief of the Three without reporting to me.
 
 306
-00:22:49,000 --> 00:22:51,000
- Wake up!
+00:28:28,000 --> 00:28:30,000
+Eating the snake's fish,
 
 307
-00:22:51,000 --> 00:23:05,000
- Wake up, Fega!
+00:28:30,000 --> 00:28:33,000
+and sharing it with the coconut.
 
 308
-00:23:05,000 --> 00:23:19,000
- [The Snakes' Claw]
+00:28:33,000 --> 00:28:36,000
+I'm sorry.
 
 309
-00:23:19,000 --> 00:23:35,000
- [The Snakes' Claw]
+00:28:36,000 --> 00:28:39,000
+Again, I forgot.
 
 310
-00:23:35,000 --> 00:23:37,000
- Fega!
+00:28:39,000 --> 00:28:49,000
+I failed again.
 
 311
-00:23:37,000 --> 00:23:52,000
- [The Snakes' Claw]
+00:28:49,000 --> 00:28:52,000
+I thought I could get the power to become a weapon.
 
 312
-00:23:52,000 --> 00:23:54,000
- You're alive!
+00:28:52,000 --> 00:28:55,000
+So, I don't have to face Aldebaran directly.
 
 313
-00:23:54,000 --> 00:23:56,000
- I got you!
+00:28:55,000 --> 00:28:59,000
+Angara!
 
 314
-00:23:56,000 --> 00:24:02,000
- Fega!
+00:29:00,000 --> 00:29:02,000
+Yes, sir.
 
 315
-00:24:02,000 --> 00:24:16,000
- [The Snakes' Claw]
+00:29:02,000 --> 00:29:04,000
+Do you know what you have to do?
 
 316
-00:24:16,000 --> 00:24:19,000
- I'm so glad you're not frozen again.
+00:29:04,000 --> 00:29:05,000
+Yes, sir.
 
 317
-00:24:19,000 --> 00:24:23,000
- I'm so happy and proud.
+00:29:05,000 --> 00:29:07,000
+The Star of Destiny will appear tomorrow night.
 
 318
-00:24:23,000 --> 00:24:25,000
- I'm not frozen again because of you.
+00:29:07,000 --> 00:29:10,000
+I will get it and give it to you.
 
 319
-00:24:25,000 --> 00:24:28,000
- Because I love you so much.
+00:29:10,000 --> 00:29:13,000
+So you can get the power from the Star of Destiny.
 
 320
-00:24:28,000 --> 00:24:31,000
- So, the ice cream melted.
+00:29:13,000 --> 00:29:15,000
+No.
 
 321
-00:24:31,000 --> 00:24:41,000
- [The Snakes' Claw]
+00:29:15,000 --> 00:29:17,000
+You have to get it, Angara.
 
 322
-00:24:41,000 --> 00:24:43,000
- Felita.
+00:29:17,000 --> 00:29:19,000
+Don't fail.
 
 323
-00:24:43,000 --> 00:24:51,000
- From now on, fill your heart with love.
+00:29:19,000 --> 00:29:22,000
+Yes, sir.
 
 324
-00:24:51,000 --> 00:24:53,000
- Okay?
+00:29:27,000 --> 00:29:30,000
+The falling star.
 
 325
-00:24:53,000 --> 00:24:57,000
- And don't hate people.
+00:29:30,000 --> 00:29:33,000
+The falling star is...
 
 326
-00:24:57,000 --> 00:24:58,000
- Okay?
+00:29:33,000 --> 00:29:36,000
+a falling star...
 
 327
-00:24:58,000 --> 00:25:00,000
- One more thing.
+00:29:36,000 --> 00:29:38,000
+that falls to the earth.
 
 328
-00:25:00,000 --> 00:25:03,000
- Don't be afraid to leave.
+00:29:38,000 --> 00:29:43,000
+And when it falls to the earth,
 
 329
-00:25:03,000 --> 00:25:06,000
- We'll always be with you.
+00:29:43,000 --> 00:29:45,000
+the star changes its form...
 
 330
-00:25:06,000 --> 00:25:07,000
- Okay?
+00:29:45,000 --> 00:29:48,000
+and becomes a falling woman.
 
 331
-00:25:07,000 --> 00:25:09,000
- Okay.
+00:29:48,000 --> 00:29:52,000
+Then...
 
 332
-00:25:09,000 --> 00:25:21,000
- [The Snakes' Claw]
+00:29:53,000 --> 00:29:58,000
+Tommy.
 
 333
-00:25:21,000 --> 00:25:23,000
- It's all trees.
+00:29:58,000 --> 00:30:00,000
+Yes, sir.
 
 334
-00:25:23,000 --> 00:25:27,000
- The plants here are my friends.
+00:30:00,000 --> 00:30:03,000
+When will the falling star appear?
 
 335
-00:25:27,000 --> 00:25:43,000
- [The Snakes' Claw]
+00:30:03,000 --> 00:30:06,000
+I don't know.
 
 336
-00:25:43,000 --> 00:25:47,000
- [The Snakes' Claw]
+00:30:06,000 --> 00:30:12,000
+Tommy.
 
 337
-00:25:47,000 --> 00:25:49,000
- I'm sorry.
+00:30:12,000 --> 00:30:16,000
+Tommy!
 
 338
-00:25:49,000 --> 00:25:55,000
- [The Snakes' Claw]
+00:30:21,000 --> 00:30:24,000
+When will the falling star appear?
 
 339
-00:25:55,000 --> 00:25:59,000
- [The Snakes' Claw]
+00:30:24,000 --> 00:30:31,000
+I don't know, sir.
 
 340
-00:25:59,000 --> 00:26:05,000
- [We can do it!]
+00:30:31,000 --> 00:30:33,000
+Listen.
 
 341
-00:26:22,000 --> 00:26:25,000
- Where's Papua?
+00:30:33,000 --> 00:30:36,000
+Vega knows when the falling star will appear.
 
 342
-00:26:25,000 --> 00:26:39,000
- Where's Papua?
+00:30:36,000 --> 00:30:38,000
+The falling star...
 
 343
-00:26:39,000 --> 00:26:50,000
- Kauat, he's after us!
+00:30:38,000 --> 00:30:41,000
+fell about a thousand years ago.
 
 344
-00:26:50,000 --> 00:27:00,000
- [The Snakes' Claw]
+00:30:41,000 --> 00:30:44,000
+Good.
 
 345
-00:27:00,000 --> 00:27:02,000
- Purwocer!
+00:30:44,000 --> 00:30:46,000
+You're right.
 
 346
-00:27:02,000 --> 00:27:05,000
- [The Snakes' Claw]
+00:30:47,000 --> 00:30:49,000
+Good.
 
 347
-00:27:05,000 --> 00:27:10,000
- [The Snakes' Claw]
+00:30:49,000 --> 00:30:59,000
+Then, the question is...
 
 348
-00:27:10,000 --> 00:27:13,000
- [The Snakes' Claw]
+00:30:59,000 --> 00:31:02,000
+why are the falling stars...
 
 349
-00:27:13,000 --> 00:27:16,000
- [The Snakes' Claw]
+00:31:02,000 --> 00:31:05,000
+awaited by the people?
 
 350
-00:27:16,000 --> 00:27:20,000
- [The Snakes' Claw]
+00:31:05,000 --> 00:31:10,000
+Ray.
 
 351
-00:27:20,000 --> 00:27:23,000
- [The Snakes' Claw]
+00:31:12,000 --> 00:31:14,000
+Why are the falling stars...
 
 352
-00:27:23,000 --> 00:27:25,000
- [The Snakes' Claw]
+00:31:14,000 --> 00:31:17,000
+awaited by the people?
 
 353
-00:27:25,000 --> 00:27:27,000
- Look!
+00:31:17,000 --> 00:31:22,000
+Maybe because...
 
 354
-00:27:27,000 --> 00:27:29,000
- The ice is melting!
+00:31:22,000 --> 00:31:24,000
+Because what?
 
 355
-00:27:29,000 --> 00:27:32,000
- Everything is back to normal.
+00:31:24,000 --> 00:31:26,000
+Because it's beautiful.
 
 356
-00:27:32,000 --> 00:27:38,000
- This means that the firecrackers will return to us.
+00:31:26,000 --> 00:31:31,000
+I don't know.
 
 357
-00:27:39,000 --> 00:27:41,000
- [The Snakes' Claw]
+00:31:31,000 --> 00:31:33,000
+Vega.
 
 358
-00:27:41,000 --> 00:27:44,000
- [The Snakes' Claw]
+00:31:33,000 --> 00:31:35,000
+Why are the falling stars...
 
 359
-00:27:44,000 --> 00:27:47,000
- [The Snakes' Claw]
+00:31:35,000 --> 00:31:37,000
+awaited by the people?
 
 360
-00:27:47,000 --> 00:27:49,000
- [The Snakes' Claw]
+00:31:37,000 --> 00:31:39,000
+Because the falling star gives power.
 
 361
-00:27:49,000 --> 00:27:51,000
- It's too late!
+00:31:39,000 --> 00:31:41,000
+There's no limit...
 
 362
-00:27:51,000 --> 00:27:53,000
- [The Snakes' Claw]
+00:31:41,000 --> 00:31:43,000
+to what it can do.
 
 363
-00:27:53,000 --> 00:27:56,000
- [The Snakes' Claw]
+00:31:43,000 --> 00:31:45,000
+Especially the heart.
 
 364
-00:27:56,000 --> 00:27:59,000
- [The Snakes' Claw]
+00:31:45,000 --> 00:31:46,000
+Correct.
 
 365
-00:27:59,000 --> 00:28:02,000
- We did it!
+00:31:46,000 --> 00:31:48,000
+Give Vega a round of applause.
 
 366
-00:28:02,000 --> 00:28:04,000
- Yeah!
+00:31:48,000 --> 00:31:54,000
+Why are the falling stars...
 
 367
-00:28:04,000 --> 00:28:08,000
- [The Snakes' Claw]
+00:31:54,000 --> 00:31:57,000
+awaited by the people?
 
 368
-00:28:08,000 --> 00:28:14,000
- So, Vega succeeded in making the princess realize the meaning of love and sacrifice.
+00:31:57,000 --> 00:31:59,000
+Because the falling stars...
 
 369
-00:28:14,000 --> 00:28:17,000
- And finally, all this mess ended.
+00:31:59,000 --> 00:32:01,000
+will be fought by the people...
 
 370
-00:28:17,000 --> 00:28:18,000
- That's right, Professor.
+00:32:01,000 --> 00:32:05,000
+who are thirsty for power.
 
 371
-00:28:18,000 --> 00:28:20,000
- And you, Megantara.
+00:32:05,000 --> 00:32:08,000
+Therefore...
 
 372
-00:28:20,000 --> 00:28:24,000
- Why did you let Alva and Vega run away from school?
+00:32:08,000 --> 00:32:11,000
+Professor Aldebaran has confirmed...
 
 373
-00:28:24,000 --> 00:28:28,000
- You brought the Chief of the Three without reporting to me.
+00:32:11,000 --> 00:32:13,000
+that we are all...
 
 374
-00:28:28,000 --> 00:28:30,000
- Eating the snake's fish,
+00:32:13,000 --> 00:32:17,000
+forbidden to catch the falling stars.
 
 375
-00:28:30,000 --> 00:28:33,000
- and sharing it with the coconut.
+00:32:17,000 --> 00:32:24,000
+[The Falling Stars]
 
 376
-00:28:33,000 --> 00:28:36,000
- I'm sorry.
+00:32:24,000 --> 00:32:45,000
+Thank you, Aldebaran.
 
 377
-00:28:36,000 --> 00:28:39,000
- Again, I forgot.
+00:32:45,000 --> 00:32:48,000
+[The Falling Stars]
 
 378
-00:28:39,000 --> 00:28:49,000
- I failed again.
+00:33:10,000 --> 00:33:12,000
+There's a party.
 
 379
-00:28:49,000 --> 00:28:52,000
- I thought I could get the power to become a weapon.
+00:33:12,000 --> 00:33:15,000
+Party.
 
 380
-00:28:52,000 --> 00:28:55,000
- So, I don't have to face Aldebaran directly.
+00:33:15,000 --> 00:33:17,000
+I like parties.
 
 381
-00:28:55,000 --> 00:28:59,000
- Angara!
+00:33:17,000 --> 00:33:22,000
+Popo.
 
 382
-00:29:00,000 --> 00:29:02,000
- Yes, sir.
+00:33:22,000 --> 00:33:24,000
+What?
 
 383
-00:29:02,000 --> 00:29:04,000
- Do you know what you have to do?
+00:33:24,000 --> 00:33:27,000
+Don't touch me.
 
 384
-00:29:04,000 --> 00:29:05,000
- Yes, sir.
+00:33:27,000 --> 00:33:29,000
+You'll turn into ice.
 
 385
-00:29:05,000 --> 00:29:07,000
- The Star of Destiny will appear tomorrow night.
+00:33:29,000 --> 00:33:31,000
+I'm afraid of the cold.
 
 386
-00:29:07,000 --> 00:29:10,000
- I will get it and give it to you.
+00:33:31,000 --> 00:33:32,000
+Don't be afraid, Popo.
 
 387
-00:29:10,000 --> 00:29:13,000
- So you can get the power from the Star of Destiny.
+00:33:32,000 --> 00:33:34,000
+I can handle my power.
 
 388
-00:29:13,000 --> 00:29:15,000
- No.
+00:33:34,000 --> 00:33:35,000
+Forgive me.
 
 389
-00:29:15,000 --> 00:29:17,000
- You have to get it, Angara.
+00:33:35,000 --> 00:33:37,000
+I made you freeze.
 
 390
-00:29:17,000 --> 00:29:19,000
- Don't fail.
+00:33:37,000 --> 00:33:39,000
+Really?
 
 391
-00:29:19,000 --> 00:29:22,000
- Yes, sir.
+00:33:39,000 --> 00:33:41,000
+You're a jinak.
 
 392
-00:29:27,000 --> 00:29:30,000
- The falling star.
+00:33:41,000 --> 00:33:43,000
+What am I?
 
 393
-00:29:30,000 --> 00:29:33,000
- The falling star is...
+00:33:43,000 --> 00:33:53,000
+Popo.
 
 394
-00:29:33,000 --> 00:29:36,000
- a falling star...
+00:33:53,000 --> 00:33:55,000
+Let's go home.
 
 395
-00:29:36,000 --> 00:29:38,000
- that falls to the earth.
+00:33:55,000 --> 00:33:58,000
+Home?
 
 396
-00:29:38,000 --> 00:29:43,000
- And when it falls to the earth,
+00:33:58,000 --> 00:34:00,000
+I'm fine.
 
 397
-00:29:43,000 --> 00:29:45,000
- the star changes its form...
+00:34:00,000 --> 00:34:03,000
+I'm free.
 
 398
-00:29:45,000 --> 00:29:48,000
- and becomes a falling woman.
+00:34:03,000 --> 00:34:07,000
+I'm not helping anyone.
 
 399
-00:29:48,000 --> 00:29:52,000
- Then...
+00:34:07,000 --> 00:34:11,000
+I'm doing this for Alva's good.
 
 400
-00:29:53,000 --> 00:29:55,000
- Tommy.
+00:34:11,000 --> 00:34:15,000
+I don't want to be a jinak.
 
 401
-00:29:55,000 --> 00:29:58,000
- Tommy.
+00:34:15,000 --> 00:34:23,000
+We're sorry.
 
 402
-00:29:58,000 --> 00:30:00,000
- Yes, sir.
+00:34:23,000 --> 00:34:25,000
+We're going to hurt you.
 
 403
-00:30:00,000 --> 00:30:03,000
- When will the falling star appear?
+00:34:25,000 --> 00:34:28,000
+It's okay.
 
 404
-00:30:03,000 --> 00:30:06,000
- I don't know.
+00:34:28,000 --> 00:34:30,000
+Okay.
 
 405
-00:30:06,000 --> 00:30:10,000
- Tommy.
+00:34:30,000 --> 00:34:32,000
+We'll go now.
 
 406
-00:30:10,000 --> 00:30:12,000
- Tommy.
+00:34:33,000 --> 00:34:38,000
+[The Falling Stars]
 
 407
-00:30:12,000 --> 00:30:16,000
- Tommy!
+00:34:38,000 --> 00:34:48,000
+Let's gather.
 
 408
-00:30:21,000 --> 00:30:24,000
- When will the falling star appear?
+00:34:48,000 --> 00:34:51,000
+There's a firework party.
 
 409
-00:30:24,000 --> 00:30:27,000
- I don't know, sir.
+00:34:51,000 --> 00:34:53,000
+Yeah!
 
 410
-00:30:27,000 --> 00:30:31,000
- I don't know, sir.
+00:34:54,000 --> 00:35:22,000
+[The Falling Stars]
 
 411
-00:30:31,000 --> 00:30:33,000
- Listen.
+00:35:45,000 --> 00:35:47,000
+That's not a firework.
 
 412
-00:30:33,000 --> 00:30:36,000
- Vega knows when the falling star will appear.
+00:35:47,000 --> 00:35:59,000
+You better give up.
 
 413
-00:30:36,000 --> 00:30:38,000
- The falling star...
+00:35:59,000 --> 00:36:03,000
+Before the dark lord comes.
 
 414
-00:30:38,000 --> 00:30:41,000
- fell about a thousand years ago.
+00:36:03,000 --> 00:36:18,000
+[The Falling Stars]
 
 415
-00:30:41,000 --> 00:30:44,000
- Good.
+00:36:18,000 --> 00:36:23,000
+That's not a firework.
 
 416
-00:30:44,000 --> 00:30:46,000
- You're right.
+00:36:23,000 --> 00:36:30,000
+Of course I like fireworks.
 
 417
-00:30:47,000 --> 00:30:49,000
- Good.
+00:36:40,000 --> 00:36:41,000
+I'm with Bambu.
 
 418
-00:30:49,000 --> 00:30:59,000
- Then, the question is...
+00:36:41,000 --> 00:36:43,000
+They look happy.
 
 419
-00:30:59,000 --> 00:31:02,000
- why are the falling stars...
+00:36:43,000 --> 00:36:46,000
+I'll find out.
 
 420
-00:31:02,000 --> 00:31:05,000
- awaited by the people?
+00:36:46,000 --> 00:36:48,000
+I was happy with the girl.
 
 421
-00:31:05,000 --> 00:31:10,000
- Ray.
+00:36:48,000 --> 00:36:54,000
+This is a trap.
 
 422
-00:31:12,000 --> 00:31:14,000
- Why are the falling stars...
+00:36:54,000 --> 00:36:56,000
+We have to get the falling star.
 
 423
-00:31:14,000 --> 00:31:17,000
- awaited by the people?
+00:36:56,000 --> 00:37:06,000
+Let's go.
 
 424
-00:31:17,000 --> 00:31:20,000
- Maybe because...
+00:37:06,000 --> 00:37:11,000
+[The Falling Stars]
 
 425
-00:31:20,000 --> 00:31:22,000
- Maybe because...
+00:37:11,000 --> 00:37:25,000
+I'm sorry.
 
 426
-00:31:22,000 --> 00:31:24,000
- Because what?
+00:37:25,000 --> 00:37:27,000
+It's my fault.
 
 427
-00:31:24,000 --> 00:31:26,000
- Because it's beautiful.
+00:37:27,000 --> 00:37:53,000
+That's the falling star.
 
 428
-00:31:26,000 --> 00:31:31,000
- I don't know.
+00:37:54,000 --> 00:37:57,000
+I can't fail this time.
 
 429
-00:31:31,000 --> 00:31:33,000
- Vega.
+00:37:58,000 --> 00:38:20,000
+[The Falling Stars]
 
 430
-00:31:33,000 --> 00:31:35,000
- Why are the falling stars...
+00:38:20,000 --> 00:38:42,000
+Hey, get out of here.
 
 431
-00:31:35,000 --> 00:31:37,000
- awaited by the people?
+00:38:43,000 --> 00:39:52,000
+[The Falling Stars]
 
 432
-00:31:37,000 --> 00:31:39,000
- Because the falling star gives power.
+00:39:52,000 --> 00:40:05,000
+You better give up.
 
 433
-00:31:39,000 --> 00:31:41,000
- There's no limit...
+00:40:05,000 --> 00:40:09,000
+Before the 8th prince comes here,
 
 434
-00:31:41,000 --> 00:31:43,000
- to what it can do.
+00:40:09,000 --> 00:40:11,000
+we won't let him go.
 
 435
-00:31:43,000 --> 00:31:45,000
- Especially the heart.
+00:40:11,000 --> 00:40:14,000
+Before we get his heart.
 
 436
-00:31:45,000 --> 00:31:46,000
- Correct.
+00:40:15,000 --> 00:40:17,000
+Don't dream.
 
 437
-00:31:46,000 --> 00:31:48,000
- Give Vega a round of applause.
+00:40:17,000 --> 00:40:22,000
+Everyone wants his heart.
 
 438
-00:31:48,000 --> 00:31:54,000
- Why are the falling stars...
+00:40:22,000 --> 00:40:25,000
+But it's not that easy.
 
 439
-00:31:54,000 --> 00:31:57,000
- awaited by the people?
+00:40:25,000 --> 00:40:30,000
+Step on my body first.
 
 440
-00:31:57,000 --> 00:31:59,000
- Because the falling stars...
+00:40:31,000 --> 00:40:36,000
+[The Falling Stars]
 
 441
-00:31:59,000 --> 00:32:01,000
- will be fought by the people...
+00:40:36,000 --> 00:40:59,000
+Step on my body first.
 
 442
-00:32:01,000 --> 00:32:05,000
- who are thirsty for power.
+00:40:59,000 --> 00:41:34,000
+[The Falling Stars]
 
 443
-00:32:05,000 --> 00:32:08,000
- Therefore...
+00:41:57,000 --> 00:41:59,000
+It's so heavy.
 
 444
-00:32:08,000 --> 00:32:11,000
- Professor Aldebaran has confirmed...
+00:41:59,000 --> 00:42:03,000
+Here, take a rest.
 
 445
-00:32:11,000 --> 00:32:13,000
- that we are all...
+00:42:03,000 --> 00:42:07,000
+It's heavy.
 
 446
-00:32:13,000 --> 00:32:17,000
- forbidden to catch the falling stars.
+00:42:07,000 --> 00:42:20,000
+You want to take my heart, right?
 
 447
-00:32:17,000 --> 00:32:24,000
- [The Falling Stars]
+00:42:20,000 --> 00:42:24,000
+No, it's not me.
 
 448
-00:32:24,000 --> 00:32:45,000
- Thank you, Aldebaran.
+00:42:24,000 --> 00:42:26,000
+Go away, you're a bad person.
 
 449
-00:32:45,000 --> 00:32:48,000
- [The Falling Stars]
+00:42:27,000 --> 00:43:03,000
+[The Falling Stars]
 
 450
-00:33:10,000 --> 00:33:12,000
- There's a party.
+00:43:03,000 --> 00:43:18,000
+God, help me.
 
 451
-00:33:12,000 --> 00:33:15,000
- Party.
+00:43:18,000 --> 00:43:21,000
+Alright, I'll help you.
 
 452
-00:33:15,000 --> 00:33:17,000
- I like parties.
+00:43:21,000 --> 00:43:25,000
+[The Falling Stars]
 
 453
-00:33:17,000 --> 00:33:22,000
- Popo.
+00:43:25,000 --> 00:43:30,000
+I'll make you sleep forever.
 
 454
-00:33:22,000 --> 00:33:24,000
- What?
+00:43:30,000 --> 00:43:42,000
+You're a bad person.
 
 455
-00:33:24,000 --> 00:33:27,000
- Don't touch me.
+00:43:42,000 --> 00:43:48,000
+You're rude.
 
 456
-00:33:27,000 --> 00:33:29,000
- You'll turn into ice.
+00:43:48,000 --> 00:43:51,000
+It turns out you can use my magic.
 
 457
-00:33:29,000 --> 00:33:31,000
- I'm afraid of the cold.
+00:43:51,000 --> 00:43:54,000
+But I won't lose.
 
 458
-00:33:31,000 --> 00:33:32,000
- Don't be afraid, Popo.
+00:43:54,000 --> 00:44:15,000
+[The Falling Stars]
 
 459
-00:33:32,000 --> 00:33:34,000
- I can handle my power.
+00:44:15,000 --> 00:44:37,000
+Hey, you!
 
 460
-00:33:34,000 --> 00:33:35,000
- Forgive me.
+00:44:37,000 --> 00:44:42,000
+[The Falling Stars]
 
 461
-00:33:35,000 --> 00:33:37,000
- I made you freeze.
+00:44:42,000 --> 00:45:01,000
+Thank you for helping me.
 
 462
-00:33:37,000 --> 00:33:39,000
- Really?
+00:45:01,000 --> 00:45:04,000
+I'm sorry, I misjudged you.
 
 463
-00:33:39,000 --> 00:33:41,000
- You're a jinak.
+00:45:04,000 --> 00:45:07,000
+I hit you too.
 
 464
-00:33:41,000 --> 00:33:43,000
- What am I?
+00:45:07,000 --> 00:45:12,000
+Yes, when you landed, they were fighting for your battle.
 
 465
-00:33:43,000 --> 00:33:53,000
- Popo.
+00:45:12,000 --> 00:45:15,000
+So I took you away from there.
 
 466
-00:33:53,000 --> 00:33:55,000
- Let's go home.
+00:45:15,000 --> 00:45:17,000
+I'm so sorry.
 
 467
-00:33:55,000 --> 00:33:58,000
- Home?
+00:45:17,000 --> 00:45:19,000
+I'm so bad.
 
 468
-00:33:58,000 --> 00:34:00,000
- I'm fine.
+00:45:19,000 --> 00:45:21,000
+You want to forgive me, right?
 
 469
-00:34:00,000 --> 00:34:03,000
- I'm free.
+00:45:21,000 --> 00:45:22,000
+Yes.
 
 470
-00:34:03,000 --> 00:34:07,000
- I'm not helping anyone.
+00:45:22,000 --> 00:45:37,000
+[The Falling Stars]
 
 471
-00:34:07,000 --> 00:34:11,000
- I'm doing this for Alva's good.
+00:46:01,000 --> 00:46:04,000
+Where's the falling star?
 
 472
-00:34:11,000 --> 00:34:15,000
- I don't want to be a jinak.
+00:46:04,000 --> 00:46:10,000
+The falling star is gone.
 
 473
-00:34:15,000 --> 00:34:23,000
- We're sorry.
+00:46:10,000 --> 00:46:12,000
+It's all your fault.
 
 474
-00:34:23,000 --> 00:34:25,000
- We're going to hurt you.
+00:46:12,000 --> 00:46:16,000
+You should be punished.
 
 475
-00:34:25,000 --> 00:34:28,000
- It's okay.
+00:46:17,000 --> 00:46:27,000
+[The Falling Stars]
 
 476
-00:34:28,000 --> 00:34:30,000
- Okay.
+00:46:27,000 --> 00:46:50,000
+Listen!
 
 477
-00:34:30,000 --> 00:34:32,000
- We'll go now.
+00:46:51,000 --> 00:46:54,000
+The falling star is mine.
 
 478
-00:34:33,000 --> 00:34:38,000
- [The Falling Stars]
+00:46:54,000 --> 00:47:00,000
+If you meet it, you can't touch it.
 
 479
-00:34:38,000 --> 00:34:48,000
- Let's gather.
+00:47:00,000 --> 00:47:02,000
+Not even see it.
 
 480
-00:34:48,000 --> 00:34:51,000
- There's a firework party.
+00:47:02,000 --> 00:47:04,000
+Do you understand?
 
 481
-00:34:51,000 --> 00:34:53,000
- Yeah!
+00:47:04,000 --> 00:47:08,000
+Good.
 
 482
-00:34:54,000 --> 00:34:59,000
- [The Falling Stars]
+00:47:08,000 --> 00:47:10,000
+Goodbye.
 
 483
-00:35:00,000 --> 00:35:05,000
- [The Falling Stars]
+00:47:10,000 --> 00:47:25,000
+[The Falling Stars]
 
 484
-00:35:06,000 --> 00:35:11,000
- [The Falling Stars]
+00:47:25,000 --> 00:47:48,000
+I think this belongs to the Sido School.
 
 485
-00:35:12,000 --> 00:35:17,000
- [The Falling Stars]
+00:47:48,000 --> 00:47:51,000
+They must have taken the falling star.
 
 486
-00:35:17,000 --> 00:35:22,000
- [The Falling Stars]
+00:47:51,000 --> 00:47:54,000
+Yes, they did.
 
 487
-00:35:45,000 --> 00:35:47,000
- That's not a firework.
+00:47:54,000 --> 00:47:56,000
+Let's go there.
 
 488
-00:35:47,000 --> 00:35:59,000
- You better give up.
+00:47:56,000 --> 00:48:03,000
+My name is Selena.
 
 489
-00:35:59,000 --> 00:36:03,000
- Before the dark lord comes.
+00:48:03,000 --> 00:48:06,000
+Alva, I'm from Sido School.
 
 490
-00:36:03,000 --> 00:36:08,000
- [The Falling Stars]
+00:48:06,000 --> 00:48:10,000
+Alva, I beg you.
 
 491
-00:36:08,000 --> 00:36:13,000
- [The Falling Stars]
+00:48:10,000 --> 00:48:15,000
+Don't tell anyone that I'm the falling star.
 
 492
-00:36:13,000 --> 00:36:18,000
- [The Falling Stars]
+00:48:15,000 --> 00:48:18,000
+Because they will all fight me.
 
 493
-00:36:18,000 --> 00:36:23,000
- That's not a firework.
+00:48:18,000 --> 00:48:20,000
+My hair will be cut.
 
 494
-00:36:23,000 --> 00:36:30,000
- Of course I like fireworks.
+00:48:20,000 --> 00:48:24,000
+Because my hair can make any kind of clothes.
 
 495
-00:36:40,000 --> 00:36:41,000
- I'm with Bambu.
+00:48:24,000 --> 00:48:26,000
+And my tears will be squeezed.
 
 496
-00:36:41,000 --> 00:36:43,000
- They look happy.
+00:48:26,000 --> 00:48:30,000
+Because my tears can create new power.
 
 497
-00:36:43,000 --> 00:36:46,000
- I'll find out.
+00:48:30,000 --> 00:48:33,000
+And can cure any kind of disease.
 
 498
-00:36:46,000 --> 00:36:48,000
- I was happy with the girl.
+00:48:33,000 --> 00:48:36,000
+And my heart.
 
 499
-00:36:48,000 --> 00:36:54,000
- This is a trap.
+00:48:36,000 --> 00:48:40,000
+If my heart is taken and eaten.
 
 500
-00:36:54,000 --> 00:36:56,000
- We have to get the falling star.
+00:48:40,000 --> 00:48:43,000
+It can create unlimited power.
 
 501
-00:36:56,000 --> 00:37:06,000
- Let's go.
+00:48:44,000 --> 00:48:47,000
+[The Falling Stars]
 
 502
-00:37:06,000 --> 00:37:11,000
- [The Falling Stars]
+00:48:47,000 --> 00:48:50,000
+They will fight to get you.
 
 503
-00:37:11,000 --> 00:37:25,000
- I'm sorry.
+00:48:50,000 --> 00:48:52,000
+I'm scared, Alva.
 
 504
-00:37:25,000 --> 00:37:27,000
- It's my fault.
+00:48:52,000 --> 00:48:55,000
+I want to go back to heaven.
 
 505
-00:37:27,000 --> 00:37:53,000
- That's the falling star.
+00:48:55,000 --> 00:48:58,000
+Okay, don't be sad.
 
 506
-00:37:54,000 --> 00:37:57,000
- I can't fail this time.
+00:48:58,000 --> 00:49:01,000
+I promise I won't tell anyone about you.
 
 507
-00:37:58,000 --> 00:38:03,000
- [The Falling Stars]
+00:49:01,000 --> 00:49:05,000
+And I will help you until you go back to heaven.
 
 508
-00:38:04,000 --> 00:38:09,000
- [The Falling Stars]
+00:49:05,000 --> 00:49:07,000
+Are you serious?
 
 509
-00:38:10,000 --> 00:38:15,000
- [The Falling Stars]
+00:49:07,000 --> 00:49:08,000
+Yes.
 
 510
-00:38:15,000 --> 00:38:20,000
- [The Falling Stars]
+00:49:08,000 --> 00:49:09,000
+You're so kind.
 
 511
-00:38:20,000 --> 00:38:42,000
- Hey, get out of here.
+00:49:09,000 --> 00:49:11,000
+Thank you, Alva.
 
 512
-00:38:43,000 --> 00:38:48,000
- [The Falling Stars]
+00:49:11,000 --> 00:49:13,000
+Promise.
 
 513
-00:38:49,000 --> 00:38:54,000
- [The Falling Stars]
+00:49:13,000 --> 00:49:20,000
+Don't go anywhere.
 
 514
-00:38:55,000 --> 00:39:00,000
- [The Falling Stars]
+00:49:20,000 --> 00:49:22,000
+Because this place is safe.
 
 515
-00:39:00,000 --> 00:39:18,000
- [The Falling Stars]
+00:49:22,000 --> 00:49:24,000
+I will go back to the party.
 
 516
-00:39:19,000 --> 00:39:24,000
- [The Falling Stars]
+00:49:24,000 --> 00:49:26,000
+Because they are looking for me.
 
 517
-00:39:24,000 --> 00:39:34,000
- [The Falling Stars]
+00:49:26,000 --> 00:49:27,000
+Okay.
 
 518
-00:39:34,000 --> 00:39:47,000
- [The Falling Stars]
+00:49:27,000 --> 00:49:36,000
+If you don't want to tell us where the falling star is.
 
 519
-00:39:47,000 --> 00:39:52,000
- [The Falling Stars]
+00:49:36,000 --> 00:49:39,000
+We will find it ourselves.
 
 520
-00:39:52,000 --> 00:40:05,000
- You better give up.
+00:49:39,000 --> 00:49:43,000
+[The Falling Stars]
 
 521
-00:40:05,000 --> 00:40:09,000
- Before the 8th prince comes here,
+00:49:43,000 --> 00:50:00,000
+Ali Baran!
 
 522
-00:40:09,000 --> 00:40:11,000
- we won't let him go.
+00:50:00,000 --> 00:50:05,000
+Why are you all here?
 
 523
-00:40:11,000 --> 00:40:14,000
- Before we get his heart.
+00:50:05,000 --> 00:50:08,000
+[The Falling Stars]
 
 524
-00:40:15,000 --> 00:40:17,000
- Don't dream.
+00:50:08,000 --> 00:50:13,000
+Are you the soldiers?
 
 525
-00:40:17,000 --> 00:40:22,000
- Everyone wants his heart.
+00:50:13,000 --> 00:50:15,000
+Or the rebels?
 
 526
-00:40:22,000 --> 00:40:25,000
- But it's not that easy.
+00:50:15,000 --> 00:50:18,000
+Hey, what's the truth?
 
 527
-00:40:25,000 --> 00:40:27,000
- Step on my body first.
+00:50:18,000 --> 00:50:23,000
+Where did you hide the falling star?
 
 528
-00:40:28,000 --> 00:40:30,000
- Step on my body first.
+00:50:23,000 --> 00:50:28,000
+Hurry, return it. Because it's ours.
 
 529
-00:40:31,000 --> 00:40:36,000
- [The Falling Stars]
+00:50:28,000 --> 00:50:31,000
+[The Falling Stars]
 
 530
-00:40:36,000 --> 00:40:59,000
- Step on my body first.
+00:50:31,000 --> 00:50:50,000
+The falling star.
 
 531
-00:40:59,000 --> 00:41:04,000
- [The Falling Stars]
+00:50:50,000 --> 00:50:53,000
+I don't understand.
 
 532
-00:41:05,000 --> 00:41:10,000
- [The Falling Stars]
+00:50:53,000 --> 00:50:54,000
+Don't pretend.
 
 533
-00:41:11,000 --> 00:41:16,000
- [The Falling Stars]
+00:50:54,000 --> 00:50:56,000
+This is the proof.
 
 534
-00:41:17,000 --> 00:41:22,000
- [The Falling Stars]
+00:50:56,000 --> 00:50:59,000
+[The Falling Stars]
 
 535
-00:41:23,000 --> 00:41:28,000
- [The Falling Stars]
+00:50:59,000 --> 00:51:04,000
+We found this brooch at the place where the falling star was.
 
 536
-00:41:29,000 --> 00:41:34,000
- [The Falling Stars]
+00:51:04,000 --> 00:51:19,000
+Calm down.
 
 537
-00:41:57,000 --> 00:41:59,000
- It's so heavy.
+00:51:19,000 --> 00:51:22,000
+I'm sure this is all a misunderstanding.
 
 538
-00:41:59,000 --> 00:42:03,000
- Here, take a rest.
+00:51:22,000 --> 00:51:23,000
+The proof is with us.
 
 539
-00:42:03,000 --> 00:42:07,000
- It's heavy.
+00:51:23,000 --> 00:51:25,000
+And it can't be wrong.
 
 540
-00:42:07,000 --> 00:42:20,000
- You want to take my heart, right?
+00:51:26,000 --> 00:51:30,000
+If you don't want to tell us where the falling star is.
 
 541
-00:42:20,000 --> 00:42:24,000
- No, it's not me.
+00:51:30,000 --> 00:51:32,000
+We will find it ourselves.
 
 542
-00:42:24,000 --> 00:42:26,000
- Go away, you're a bad person.
+00:51:32,000 --> 00:51:33,000
+Wait.
 
 543
-00:42:27,000 --> 00:42:32,000
- [The Falling Stars]
+00:51:33,000 --> 00:51:38,000
+I won't let you in without my permission.
 
 544
-00:42:32,000 --> 00:42:53,000
- [The Falling Stars]
+00:51:38,000 --> 00:51:46,000
+Or you have to face me.
 
 545
-00:42:53,000 --> 00:42:58,000
- [The Falling Stars]
+00:51:46,000 --> 00:51:49,000
+[The Falling Stars]
 
 546
-00:42:58,000 --> 00:43:03,000
- [The Falling Stars]
+00:51:49,000 --> 00:52:06,000
+Okay, let's go.
 
 547
-00:43:03,000 --> 00:43:18,000
- God, help me.
+00:52:06,000 --> 00:52:15,000
+The bottom line is that they are really dead.
 
 548
-00:43:18,000 --> 00:43:21,000
- Alright, I'll help you.
+00:52:15,000 --> 00:52:18,000
+But, they were just crushed a little.
 
 549
-00:43:21,000 --> 00:43:25,000
- [The Falling Stars]
+00:52:18,000 --> 00:52:19,000
+And now they are gone.
 
 550
-00:43:25,000 --> 00:43:30,000
- I'll make you sleep forever.
+00:52:19,000 --> 00:52:21,000
+Professor Nadia Bara.
 
 551
-00:43:30,000 --> 00:43:42,000
- You're a bad person.
+00:52:21,000 --> 00:52:23,000
+What do we do now?
 
 552
-00:43:42,000 --> 00:43:48,000
- You're rude.
+00:52:23,000 --> 00:52:25,000
+This seems like a very serious problem.
 
 553
-00:43:48,000 --> 00:43:51,000
- It turns out you can use my magic.
+00:52:25,000 --> 00:52:31,000
+I will find out about the falling star.
 
 554
-00:43:51,000 --> 00:43:54,000
- But I won't lose.
+00:52:31,000 --> 00:52:33,000
+You stay alert.
 
 555
-00:43:54,000 --> 00:44:04,000
- [The Falling Stars]
+00:52:33,000 --> 00:52:36,000
+I will find the answer.
 
 556
-00:44:05,000 --> 00:44:10,000
- [The Falling Stars]
+00:52:36,000 --> 00:52:40,000
+Agni, bring the kids inside.
 
 557
-00:44:10,000 --> 00:44:15,000
- [The Falling Stars]
+00:52:42,000 --> 00:52:45,000
+Come on, kids.
 
 558
-00:44:15,000 --> 00:44:37,000
- Hey, you!
+00:52:45,000 --> 00:52:56,000
+Alva, where are you from?
 
 559
-00:44:37,000 --> 00:44:42,000
- [The Falling Stars]
+00:52:56,000 --> 00:52:57,000
+We are looking for the answer.
 
 560
-00:44:42,000 --> 00:45:01,000
- Thank you for helping me.
+00:52:57,000 --> 00:53:04,000
+I can't tell you that I'm a fan of The Falling Stars.
 
 561
-00:45:01,000 --> 00:45:04,000
- I'm sorry, I misjudged you.
+00:53:04,000 --> 00:53:06,000
+I have promised.
 
 562
-00:45:04,000 --> 00:45:07,000
- I hit you too.
+00:53:10,000 --> 00:53:14,000
+I have a stomachache.
 
 563
-00:45:07,000 --> 00:45:12,000
- Yes, when you landed, they were fighting for your battle.
+00:53:14,000 --> 00:53:17,000
+That's why I have been in the toilet.
 
 564
-00:45:12,000 --> 00:45:15,000
- So I took you away from there.
+00:53:17,000 --> 00:53:20,000
+Alva has a stomachache.
 
 565
-00:45:15,000 --> 00:45:17,000
- I'm so sorry.
+00:53:20,000 --> 00:53:22,000
+I will take the medicine at the clinic.
 
 566
-00:45:17,000 --> 00:45:19,000
- I'm so bad.
+00:53:22,000 --> 00:53:24,000
+No need.
 
 567
-00:45:19,000 --> 00:45:21,000
- You want to forgive me, right?
+00:53:24,000 --> 00:53:26,000
+I'm already well.
 
 568
-00:45:21,000 --> 00:45:22,000
- Yes.
+00:53:26,000 --> 00:53:29,000
+Let's go there.
 
 569
-00:45:22,000 --> 00:45:28,000
- [The Falling Stars]
+00:53:29,000 --> 00:53:32,000
+The teachers will look for us.
 
 570
-00:45:29,000 --> 00:45:34,000
- [The Falling Stars]
+00:53:32,000 --> 00:53:33,000
+Let's go.
 
 571
-00:45:34,000 --> 00:45:37,000
- [The Falling Stars]
+00:53:33,000 --> 00:53:46,000
+It's been a long time since I've been here.
 
 572
-00:46:01,000 --> 00:46:04,000
- Where's the falling star?
+00:53:46,000 --> 00:53:49,000
+What is he doing?
 
 573
-00:46:04,000 --> 00:46:10,000
- The falling star is gone.
+00:53:49,000 --> 00:53:59,000
+He thinks I'm just singing.
 
 574
-00:46:10,000 --> 00:46:12,000
- It's all your fault.
+00:54:00,000 --> 00:54:46,000
+To be continued...
 
 575
-00:46:12,000 --> 00:46:16,000
- You should be punished.
+00:54:46,000 --> 00:54:49,000
+He thinks I'm just singing.
 
 576
-00:46:17,000 --> 00:46:21,000
- [The Falling Stars]
+00:54:49,000 --> 00:55:35,000
+To be continued...
 
 577
-00:46:22,000 --> 00:46:27,000
- [The Falling Stars]
+00:55:35,000 --> 00:55:40,000
+Alva, where are we?
 
 578
-00:46:27,000 --> 00:46:50,000
- Listen!
+00:55:40,000 --> 00:55:43,000
+We're at the toilet.
 
 579
-00:46:51,000 --> 00:46:54,000
- The falling star is mine.
+00:55:43,000 --> 00:55:45,000
+Toilet?
 
 580
-00:46:54,000 --> 00:47:00,000
- If you meet it, you can't touch it.
+00:55:45,000 --> 00:55:47,000
+Why are we at the toilet?
 
 581
-00:47:00,000 --> 00:47:02,000
- Not even see it.
+00:55:47,000 --> 00:55:49,000
+We're at the toilet.
 
 582
-00:47:02,000 --> 00:47:04,000
- Do you understand?
+00:55:49,000 --> 00:55:51,000
+Why are we at the toilet?
 
 583
-00:47:04,000 --> 00:47:08,000
- Good.
+00:55:51,000 --> 00:55:53,000
+We're at the toilet.
 
 584
-00:47:08,000 --> 00:47:10,000
- Goodbye.
+00:55:54,000 --> 00:55:57,000
+If you're a princess...
 
 585
-00:47:10,000 --> 00:47:15,000
- [The Falling Stars]
+00:55:57,000 --> 00:56:02,000
+Just hold my hand...
 
 586
-00:47:15,000 --> 00:47:20,000
- [The Falling Stars]
+00:56:02,000 --> 00:56:22,000
+Princess...
 
 587
-00:47:20,000 --> 00:47:25,000
- [The Falling Stars]
+00:56:22,000 --> 00:56:26,000
+Alva?
 
 588
-00:47:25,000 --> 00:47:48,000
- I think this belongs to the Sido School.
+00:56:26,000 --> 00:56:27,000
+Selena?
 
 589
-00:47:48,000 --> 00:47:51,000
- They must have taken the falling star.
+00:56:27,000 --> 00:56:29,000
+Why is it so crowded here?
 
 590
-00:47:51,000 --> 00:47:54,000
- Yes, they did.
+00:56:29,000 --> 00:56:31,000
+What are you doing here?
 
 591
-00:47:54,000 --> 00:47:56,000
- Let's go there.
+00:56:31,000 --> 00:56:33,000
+Do you want to join the dance and sing?
 
 592
-00:47:56,000 --> 00:48:03,000
- My name is Selena.
+00:56:33,000 --> 00:56:34,000
+Come on.
 
 593
-00:48:03,000 --> 00:48:06,000
- Alva, I'm from Sido School.
+00:56:34,000 --> 00:56:35,000
+No, no, no.
 
 594
-00:48:06,000 --> 00:48:10,000
- Alva, I beg you.
+00:56:35,000 --> 00:56:36,000
+Come here.
 
 595
-00:48:10,000 --> 00:48:15,000
- Don't tell anyone that I'm the falling star.
+00:56:36,000 --> 00:56:37,000
+No, no, no.
 
 596
-00:48:15,000 --> 00:48:18,000
- Because they will all fight me.
+00:56:37,000 --> 00:56:38,000
+I don't want to.
 
 597
-00:48:18,000 --> 00:48:20,000
- My hair will be cut.
+00:56:38,000 --> 00:56:40,000
+I don't want to dance and sing.
 
 598
-00:48:20,000 --> 00:48:24,000
- Because my hair can make any kind of clothes.
+00:56:40,000 --> 00:56:42,000
+Then, what are you doing here?
 
 599
-00:48:24,000 --> 00:48:26,000
- And my tears will be squeezed.
+00:56:42,000 --> 00:56:43,000
+I want you to be quiet.
 
 600
-00:48:26,000 --> 00:48:30,000
- Because my tears can create new power.
+00:56:43,000 --> 00:56:46,000
+Why should I be quiet?
 
 601
-00:48:30,000 --> 00:48:33,000
- And can cure any kind of disease.
+00:56:46,000 --> 00:56:48,000
+Because if you dance and sing...
 
 602
-00:48:33,000 --> 00:48:36,000
- And my heart.
+00:56:48,000 --> 00:56:51,000
+Your voice will be heard by my neighbors.
 
 603
-00:48:36,000 --> 00:48:40,000
- If my heart is taken and eaten.
+00:56:51,000 --> 00:56:54,000
+People will be suspicious.
 
 604
-00:48:40,000 --> 00:48:43,000
- It can create unlimited power.
+00:56:54,000 --> 00:56:56,000
+Then, what should I do?
 
 605
-00:48:44,000 --> 00:48:47,000
- [The Falling Stars]
+00:56:56,000 --> 00:56:59,000
+Just sleep.
 
 606
-00:48:47,000 --> 00:48:50,000
- They will fight to get you.
+00:56:59,000 --> 00:57:01,000
+It's late now.
 
 607
-00:48:50,000 --> 00:48:52,000
- I'm scared, Alva.
+00:57:01,000 --> 00:57:04,000
+Alva, I'm a star.
 
 608
-00:48:52,000 --> 00:48:55,000
- I want to go back to heaven.
+00:57:04,000 --> 00:57:07,000
+My duty is to light up the night.
 
 609
-00:48:55,000 --> 00:48:58,000
- Okay, don't be sad.
+00:57:07,000 --> 00:57:10,000
+So, I can't sleep at night.
 
 610
-00:48:58,000 --> 00:49:01,000
- I promise I won't tell anyone about you.
+00:57:10,000 --> 00:57:12,000
+But you can't be noisy.
 
 611
-00:49:01,000 --> 00:49:05,000
- And I will help you until you go back to heaven.
+00:57:12,000 --> 00:57:14,000
+If you're caught,
 
 612
-00:49:05,000 --> 00:49:07,000
- Are you serious?
+00:57:14,000 --> 00:57:17,000
+and you're taken by the heart,
 
 613
-00:49:07,000 --> 00:49:08,000
- Yes.
+00:57:17,000 --> 00:57:18,000
+what will happen?
 
 614
-00:49:08,000 --> 00:49:09,000
- You're so kind.
+00:57:18,000 --> 00:57:20,000
+You'll be taken by the heart.
 
 615
-00:49:09,000 --> 00:49:11,000
- Thank you, Alva.
+00:57:20,000 --> 00:57:25,000
+That's why...
 
 616
-00:49:11,000 --> 00:49:13,000
- Promise.
+00:57:25,000 --> 00:57:27,000
+you can't be noisy.
 
 617
-00:49:13,000 --> 00:49:20,000
- Don't go anywhere.
+00:57:27,000 --> 00:57:28,000
+I'll go now.
 
 618
-00:49:20,000 --> 00:49:22,000
- Because this place is safe.
+00:57:28,000 --> 00:57:30,000
+Bye.
 
 619
-00:49:22,000 --> 00:49:24,000
- I will go back to the party.
+00:57:30,000 --> 00:57:34,000
+Idiot.
 
 620
-00:49:24,000 --> 00:49:26,000
- Because they are looking for me.
+00:57:34,000 --> 00:57:36,000
+You can't do that.
 
 621
-00:49:26,000 --> 00:49:27,000
- Okay.
+00:57:36,000 --> 00:57:40,000
+I'm sorry, sir.
 
 622
-00:49:27,000 --> 00:49:36,000
- If you don't want to tell us where the falling star is.
+00:57:41,000 --> 00:57:44,000
+It's all because of me, the Elven warriors.
 
 623
-00:49:36,000 --> 00:49:39,000
- We will find it ourselves.
+00:57:44,000 --> 00:57:57,000
+I don't want to hear your excuses.
 
 624
-00:49:39,000 --> 00:49:43,000
- [The Falling Stars]
+00:57:57,000 --> 00:58:00,000
+Why did you let her go?
 
 625
-00:49:43,000 --> 00:50:00,000
- Ali Baran!
+00:58:09,000 --> 00:58:11,000
+I have to get the fallen star.
 
 626
-00:50:00,000 --> 00:50:05,000
- Why are you all here?
+00:58:11,000 --> 00:58:31,000
+Help!
 
 627
-00:50:05,000 --> 00:50:08,000
- [The Falling Stars]
+00:58:37,000 --> 00:58:39,000
+The fallen star.
 
 628
-00:50:08,000 --> 00:50:13,000
- Are you the soldiers?
+00:58:39,000 --> 00:58:41,000
+You're great, sir!
 
 629
-00:50:13,000 --> 00:50:15,000
- Or the rebels?
+00:58:41,000 --> 00:58:54,000
+How can I be in that cave?
 
 630
-00:50:15,000 --> 00:50:18,000
- Hey, what's the truth?
+00:58:54,000 --> 00:58:56,000
+It's so cold.
 
 631
-00:50:18,000 --> 00:50:23,000
- Where did you hide the falling star?
+00:58:57,000 --> 00:59:01,000
+[music]
 
 632
-00:50:23,000 --> 00:50:28,000
- Hurry, return it. Because it's ours.
+00:59:01,000 --> 00:59:10,680
+Running, sprinting, jumping, galloping
 
 633
-00:50:28,000 --> 00:50:31,000
- [The Falling Stars]
+00:59:10,680 --> 00:59:17,480
+Brave, unfamiliar, confessions
 
 634
-00:50:31,000 --> 00:50:50,000
- The falling star.
+00:59:17,480 --> 00:59:24,680
+Chase, hope, and dreams
 
 635
-00:50:50,000 --> 00:50:53,000
- I don't understand.
+00:59:24,680 --> 00:59:26,000
+Go, go, go!
 
 636
-00:50:53,000 --> 00:50:54,000
- Don't pretend.
+00:59:26,000 --> 00:59:28,000
+Get everywhere dreams
 
 637
-00:50:54,000 --> 00:50:56,000
- This is the proof.
+00:59:28,000 --> 00:59:29,680
+Go, go, go!
 
 638
-00:50:56,000 --> 00:50:59,000
- [The Falling Stars]
+00:59:29,680 --> 00:59:31,680
+Never stop
 
 639
-00:50:59,000 --> 00:51:04,000
- We found this brooch at the place where the falling star was.
+00:59:31,680 --> 00:59:33,680
+Go, go, go!
 
 640
-00:51:04,000 --> 00:51:19,000
- Calm down.
+00:59:33,680 --> 00:59:38,680
+Fight with the power of your heart
 
 641
-00:51:19,000 --> 00:51:22,000
- I'm sure this is all a misunderstanding.
+00:59:38,680 --> 00:59:40,680
+Go, go, go!
 
 642
-00:51:22,000 --> 00:51:23,000
- The proof is with us.
+00:59:40,680 --> 00:59:41,680
+Make yourself proud
 
 643
-00:51:23,000 --> 00:51:25,000
- And it can't be wrong.
+00:59:41,680 --> 00:59:43,680
+Go, go, go!
 
 644
-00:51:26,000 --> 00:51:30,000
- If you don't want to tell us where the falling star is.
+00:59:43,680 --> 00:59:45,680
+Let's dream!
 
 645
-00:51:30,000 --> 00:51:32,000
- We will find it ourselves.
+00:59:45,680 --> 00:59:47,680
+Go, go, go!
 
 646
-00:51:32,000 --> 00:51:33,000
- Wait.
-
-647
-00:51:33,000 --> 00:51:38,000
- I won't let you in without my permission.
-
-648
-00:51:38,000 --> 00:51:46,000
- Or you have to face me.
-
-649
-00:51:46,000 --> 00:51:49,000
- [The Falling Stars]
-
-650
-00:51:49,000 --> 00:52:06,000
- Okay, let's go.
-
-651
-00:52:06,000 --> 00:52:15,000
- The bottom line is that they are really dead.
-
-652
-00:52:15,000 --> 00:52:18,000
- But, they were just crushed a little.
-
-653
-00:52:18,000 --> 00:52:19,000
- And now they are gone.
-
-654
-00:52:19,000 --> 00:52:21,000
- Professor Nadia Bara.
-
-655
-00:52:21,000 --> 00:52:23,000
- What do we do now?
-
-656
-00:52:23,000 --> 00:52:25,000
- This seems like a very serious problem.
-
-657
-00:52:25,000 --> 00:52:31,000
- I will find out about the falling star.
-
-658
-00:52:31,000 --> 00:52:33,000
- You stay alert.
-
-659
-00:52:33,000 --> 00:52:36,000
- I will find the answer.
-
-660
-00:52:36,000 --> 00:52:40,000
- Agni, bring the kids inside.
-
-661
-00:52:42,000 --> 00:52:45,000
- Come on, kids.
-
-662
-00:52:45,000 --> 00:52:54,000
- Alva, where are you from?
-
-663
-00:52:54,000 --> 00:52:56,000
- Alva, where are you from?
-
-664
-00:52:56,000 --> 00:52:57,000
- We are looking for the answer.
-
-665
-00:52:57,000 --> 00:53:04,000
- I can't tell you that I'm a fan of The Falling Stars.
-
-666
-00:53:04,000 --> 00:53:06,000
- I have promised.
-
-667
-00:53:10,000 --> 00:53:14,000
- I have a stomachache.
-
-668
-00:53:14,000 --> 00:53:17,000
- That's why I have been in the toilet.
-
-669
-00:53:17,000 --> 00:53:20,000
- Alva has a stomachache.
-
-670
-00:53:20,000 --> 00:53:22,000
- I will take the medicine at the clinic.
-
-671
-00:53:22,000 --> 00:53:24,000
- No need.
-
-672
-00:53:24,000 --> 00:53:26,000
- I'm already well.
-
-673
-00:53:26,000 --> 00:53:29,000
- Let's go there.
-
-674
-00:53:29,000 --> 00:53:32,000
- The teachers will look for us.
-
-675
-00:53:32,000 --> 00:53:33,000
- Let's go.
-
-676
-00:53:33,000 --> 00:53:46,000
- It's been a long time since I've been here.
-
-677
-00:53:46,000 --> 00:53:49,000
- What is he doing?
-
-678
-00:53:49,000 --> 00:53:59,000
- He thinks I'm just singing.
-
-679
-00:54:00,000 --> 00:54:05,000
- To be continued...
-
-680
-00:54:06,000 --> 00:54:11,000
- To be continued...
-
-681
-00:54:11,000 --> 00:54:17,000
- To be continued...
-
-682
-00:54:18,000 --> 00:54:23,000
- To be continued...
-
-683
-00:54:23,000 --> 00:54:29,000
- To be continued...
-
-684
-00:54:30,000 --> 00:54:35,000
- To be continued...
-
-685
-00:54:36,000 --> 00:54:41,000
- To be continued...
-
-686
-00:54:41,000 --> 00:54:46,000
- To be continued...
-
-687
-00:54:46,000 --> 00:54:49,000
- He thinks I'm just singing.
-
-688
-00:54:49,000 --> 00:54:54,000
- To be continued...
-
-689
-00:54:54,000 --> 00:54:59,000
- To be continued...
-
-690
-00:54:59,000 --> 00:55:04,000
- To be continued...
-
-691
-00:55:04,000 --> 00:55:10,000
- To be continued...
-
-692
-00:55:10,000 --> 00:55:16,000
- To be continued...
-
-693
-00:55:16,000 --> 00:55:22,000
- To be continued...
-
-694
-00:55:22,000 --> 00:55:28,000
- To be continued...
-
-695
-00:55:28,000 --> 00:55:35,000
- To be continued...
-
-696
-00:55:35,000 --> 00:55:40,000
- Alva, where are we?
-
-697
-00:55:40,000 --> 00:55:43,000
- We're at the toilet.
-
-698
-00:55:43,000 --> 00:55:45,000
- Toilet?
-
-699
-00:55:45,000 --> 00:55:47,000
- Why are we at the toilet?
-
-700
-00:55:47,000 --> 00:55:49,000
- We're at the toilet.
-
-701
-00:55:49,000 --> 00:55:51,000
- Why are we at the toilet?
-
-702
-00:55:51,000 --> 00:55:53,000
- We're at the toilet.
-
-703
-00:55:54,000 --> 00:55:57,000
- If you're a princess...
-
-704
-00:55:57,000 --> 00:56:02,000
- Just hold my hand...
-
-705
-00:56:02,000 --> 00:56:07,000
- Princess...
-
-706
-00:56:07,000 --> 00:56:17,000
- Princess...
-
-707
-00:56:17,000 --> 00:56:22,000
- Princess...
-
-708
-00:56:22,000 --> 00:56:26,000
- Alva?
-
-709
-00:56:26,000 --> 00:56:27,000
- Selena?
-
-710
-00:56:27,000 --> 00:56:29,000
- Why is it so crowded here?
-
-711
-00:56:29,000 --> 00:56:31,000
- What are you doing here?
-
-712
-00:56:31,000 --> 00:56:33,000
- Do you want to join the dance and sing?
-
-713
-00:56:33,000 --> 00:56:34,000
- Come on.
-
-714
-00:56:34,000 --> 00:56:35,000
- No, no, no.
-
-715
-00:56:35,000 --> 00:56:36,000
- Come here.
-
-716
-00:56:36,000 --> 00:56:37,000
- No, no, no.
-
-717
-00:56:37,000 --> 00:56:38,000
- I don't want to.
-
-718
-00:56:38,000 --> 00:56:40,000
- I don't want to dance and sing.
-
-719
-00:56:40,000 --> 00:56:42,000
- Then, what are you doing here?
-
-720
-00:56:42,000 --> 00:56:43,000
- I want you to be quiet.
-
-721
-00:56:43,000 --> 00:56:46,000
- Why should I be quiet?
-
-722
-00:56:46,000 --> 00:56:48,000
- Because if you dance and sing...
-
-723
-00:56:48,000 --> 00:56:51,000
- Your voice will be heard by my neighbors.
-
-724
-00:56:51,000 --> 00:56:54,000
- People will be suspicious.
-
-725
-00:56:54,000 --> 00:56:56,000
- Then, what should I do?
-
-726
-00:56:56,000 --> 00:56:59,000
- Just sleep.
-
-727
-00:56:59,000 --> 00:57:01,000
- It's late now.
-
-728
-00:57:01,000 --> 00:57:04,000
- Alva, I'm a star.
-
-729
-00:57:04,000 --> 00:57:07,000
- My duty is to light up the night.
-
-730
-00:57:07,000 --> 00:57:10,000
- So, I can't sleep at night.
-
-731
-00:57:10,000 --> 00:57:12,000
- But you can't be noisy.
-
-732
-00:57:12,000 --> 00:57:14,000
- If you're caught,
-
-733
-00:57:14,000 --> 00:57:17,000
- and you're taken by the heart,
-
-734
-00:57:17,000 --> 00:57:18,000
- what will happen?
-
-735
-00:57:18,000 --> 00:57:20,000
- You'll be taken by the heart.
-
-736
-00:57:20,000 --> 00:57:25,000
- That's why...
-
-737
-00:57:25,000 --> 00:57:27,000
- you can't be noisy.
-
-738
-00:57:27,000 --> 00:57:28,000
- I'll go now.
-
-739
-00:57:28,000 --> 00:57:30,000
- Bye.
-
-740
-00:57:30,000 --> 00:57:34,000
- Idiot.
-
-741
-00:57:34,000 --> 00:57:36,000
- You can't do that.
-
-742
-00:57:36,000 --> 00:57:40,000
- I'm sorry, sir.
-
-743
-00:57:41,000 --> 00:57:44,000
- It's all because of me, the Elven warriors.
-
-744
-00:57:44,000 --> 00:57:57,000
- I don't want to hear your excuses.
-
-745
-00:57:57,000 --> 00:58:00,000
- Why did you let her go?
-
-746
-00:58:09,000 --> 00:58:11,000
- I have to get the fallen star.
-
-747
-00:58:11,000 --> 00:58:27,000
- Help!
-
-748
-00:58:27,000 --> 00:58:31,000
- Help!
-
-749
-00:58:37,000 --> 00:58:39,000
- The fallen star.
-
-750
-00:58:39,000 --> 00:58:41,000
- You're great, sir!
-
-751
-00:58:41,000 --> 00:58:54,000
- How can I be in that cave?
-
-752
-00:58:54,000 --> 00:58:56,000
- It's so cold.
-
-753
-00:58:57,000 --> 00:58:59,000
- [music]
-
-754
-00:58:59,000 --> 00:59:01,000
- [music]
-
-755
-00:59:01,000 --> 00:59:10,680
- Running, sprinting, jumping, galloping
-
-756
-00:59:10,680 --> 00:59:17,480
- Brave, unfamiliar, confessions
-
-757
-00:59:17,480 --> 00:59:24,680
- Chase, hope, and dreams
-
-758
-00:59:24,680 --> 00:59:26,000
- Go, go, go!
-
-759
-00:59:26,000 --> 00:59:28,000
- Get everywhere dreams
-
-760
-00:59:28,000 --> 00:59:29,680
- Go, go, go!
-
-761
-00:59:29,680 --> 00:59:31,680
- Never stop
-
-762
-00:59:31,680 --> 00:59:33,680
- Go, go, go!
-
-763
-00:59:33,680 --> 00:59:38,680
- Fight with the power of your heart
-
-764
-00:59:38,680 --> 00:59:40,680
- Go, go, go!
-
-765
-00:59:40,680 --> 00:59:41,680
- Make yourself proud
-
-766
-00:59:41,680 --> 00:59:43,680
- Go, go, go!
-
-767
-00:59:43,680 --> 00:59:45,680
- Let's dream!
-
-768
-00:59:45,680 --> 00:59:47,680
- Go, go, go!
-
-769
 00:59:47,680 --> 00:59:49,680
- We will!
+We will!
 

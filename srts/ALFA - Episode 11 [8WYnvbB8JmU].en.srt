@@ -1,4084 +1,2908 @@
 1
-00:00:00,000 --> 00:00:02,000
- To be continued...
+00:00:00,000 --> 00:00:19,000
+To be continued...
 
 2
-00:00:03,000 --> 00:00:07,000
- To be continued...
+00:00:20,000 --> 00:00:25,000
+Show your spirit, prepare it, my friend
 
 3
-00:00:07,000 --> 00:00:13,000
- To be continued...
+00:00:25,000 --> 00:00:32,000
+Run, jump, jump, we are the champions
 
 4
-00:00:13,000 --> 00:00:19,000
- To be continued...
+00:00:32,000 --> 00:00:40,000
+Be brave, don't give up
 
 5
-00:00:20,000 --> 00:00:25,000
- Show your spirit, prepare it, my friend
+00:00:40,000 --> 00:00:47,000
+Chase your dreams and hopes
 
 6
-00:00:25,000 --> 00:00:32,000
- Run, jump, jump, we are the champions
+00:00:48,000 --> 00:00:51,000
+Go, go, go, reach all your dreams
 
 7
-00:00:32,000 --> 00:00:40,000
- Be brave, don't give up
+00:00:51,000 --> 00:00:54,000
+Go, go, go, never stop
 
 8
-00:00:40,000 --> 00:00:47,000
- Chase your dreams and hopes
+00:00:54,000 --> 00:01:00,000
+Go, go, go, run with courage
 
 9
-00:00:48,000 --> 00:00:51,000
- Go, go, go, reach all your dreams
+00:01:00,000 --> 00:01:04,000
+Go, go, go, make yourself proud
 
 10
-00:00:51,000 --> 00:00:54,000
- Go, go, go, never stop
+00:01:04,000 --> 00:01:08,000
+Go, go, go, let's dream
 
 11
-00:00:54,000 --> 00:01:00,000
- Go, go, go, run with courage
+00:01:08,000 --> 00:01:19,000
+Go, go, go, we can do it
 
 12
-00:01:00,000 --> 00:01:04,000
- Go, go, go, make yourself proud
+00:01:19,000 --> 00:01:22,000
+Prince?
 
 13
-00:01:04,000 --> 00:01:08,000
- Go, go, go, let's dream
+00:01:22,000 --> 00:01:29,000
+What should I do? My power is getting stronger
 
 14
-00:01:08,000 --> 00:01:15,000
- Go, go, go, we can do it
+00:01:29,000 --> 00:01:31,000
+I think this is an attack
 
 15
-00:01:15,000 --> 00:01:19,000
- Go, go, go, we can do it
+00:01:31,000 --> 00:01:35,000
+And, professor, what is this?
 
 16
-00:01:19,000 --> 00:01:22,000
- Prince?
+00:01:35,000 --> 00:01:40,000
+This is one of the special powers of one of the students in this school
 
 17
-00:01:22,000 --> 00:01:29,000
- What should I do? My power is getting stronger
+00:01:40,000 --> 00:01:43,000
+What about Alfa? What about Alfa?
 
 18
-00:01:29,000 --> 00:01:31,000
- I think this is an attack
+00:01:44,000 --> 00:01:46,000
+Alfa has been in a coma twice
 
 19
-00:01:31,000 --> 00:01:35,000
- And, professor, what is this?
+00:01:46,000 --> 00:01:52,000
+I was bitten by Alfa
 
 20
-00:01:35,000 --> 00:01:40,000
- This is one of the special powers of one of the students in this school
+00:01:52,000 --> 00:01:57,000
+Oh my, oh my, oh my, this is a mess, a mess
 
 21
-00:01:40,000 --> 00:01:43,000
- What about Alfa? What about Alfa?
+00:01:57,000 --> 00:02:00,000
+Alfa must be in pain
 
 22
-00:01:44,000 --> 00:01:46,000
- Alfa has been in a coma twice
+00:02:00,000 --> 00:02:03,000
+I have to help Alfa
 
 23
-00:01:46,000 --> 00:01:52,000
- I was bitten by Alfa
+00:02:03,000 --> 00:02:10,000
+Hey, there's a dragon eating a stone mushroom and a papaya
 
 24
-00:01:52,000 --> 00:01:57,000
- Oh my, oh my, oh my, this is a mess, a mess
+00:02:10,000 --> 00:02:13,000
+Guard, open the door for me
 
 25
-00:01:57,000 --> 00:02:00,000
- Alfa must be in pain
+00:02:13,000 --> 00:02:17,000
+Guard, open the door
 
 26
-00:02:00,000 --> 00:02:03,000
- I have to help Alfa
+00:02:17,000 --> 00:02:20,000
+Open the door for me, quick
 
 27
-00:02:03,000 --> 00:02:10,000
- Hey, there's a dragon eating a stone mushroom and a papaya
+00:02:20,000 --> 00:02:23,000
+I have a dragon that wants to come in
 
 28
-00:02:10,000 --> 00:02:13,000
- Guard, open the door for me
+00:02:23,000 --> 00:02:25,000
+Guard, open the door
 
 29
-00:02:13,000 --> 00:02:17,000
- Guard, open the door
+00:02:25,000 --> 00:02:33,000
+I'm suffocating, professor
 
 30
-00:02:17,000 --> 00:02:20,000
- Open the door for me, quick
+00:02:33,000 --> 00:02:37,000
+I'm freezing, I'm cold
 
 31
-00:02:20,000 --> 00:02:23,000
- I have a dragon that wants to come in
+00:02:39,000 --> 00:02:41,000
+I'm freezing to death
 
 32
-00:02:23,000 --> 00:02:25,000
- Guard, open the door
+00:02:41,000 --> 00:02:45,000
+Just move, I can't, professor
 
 33
-00:02:25,000 --> 00:02:33,000
- I'm suffocating, professor
+00:02:45,000 --> 00:02:48,000
+I have to take the firecracker
 
 34
-00:02:33,000 --> 00:02:37,000
- I'm freezing, I'm cold
+00:02:48,000 --> 00:02:54,000
+But, professor, the firecracker is in the highest tower in the school
 
 35
-00:02:39,000 --> 00:02:41,000
- I'm freezing to death
+00:02:54,000 --> 00:02:57,000
+And I think I should move
 
 36
-00:02:41,000 --> 00:02:45,000
- Just move, I can't, professor
+00:02:57,000 --> 00:03:04,000
+There's no other way, only the firecracker can warm this room
 
 37
-00:02:45,000 --> 00:02:48,000
- I have to take the firecracker
+00:03:05,000 --> 00:03:11,000
+Armi, call Megantara and give her this firecracker
 
 38
-00:02:48,000 --> 00:02:54,000
- But, professor, the firecracker is in the highest tower in the school
+00:03:11,000 --> 00:03:14,000
+Yes, professor
 
 39
-00:02:54,000 --> 00:02:57,000
- And I think I should move
+00:03:14,000 --> 00:03:20,000
+Dafatang, give me the firecracker
 
 40
-00:02:57,000 --> 00:03:04,000
- There's no other way, only the firecracker can warm this room
+00:03:20,000 --> 00:03:25,000
+Megantara, come back quickly
 
 41
-00:03:05,000 --> 00:03:11,000
- Armi, call Megantara and give her this firecracker
+00:03:25,000 --> 00:03:28,000
+The magic school is in trouble
 
 42
-00:03:11,000 --> 00:03:14,000
- Yes, professor
+00:03:28,000 --> 00:03:32,000
+And I've already brought the firecracker back
 
 43
-00:03:14,000 --> 00:03:20,000
- Dafatang, give me the firecracker
+00:03:33,000 --> 00:03:35,000
+Because Dana is freezing
 
 44
-00:03:20,000 --> 00:03:25,000
- Megantara, come back quickly
+00:03:35,000 --> 00:03:38,000
+Dafatang, explode
 
 45
-00:03:25,000 --> 00:03:28,000
- The magic school is in trouble
+00:03:38,000 --> 00:03:54,000
+I'm burning
 
 46
-00:03:28,000 --> 00:03:32,000
- And I've already brought the firecracker back
+00:03:54,000 --> 00:04:00,000
+Find Megantara and bring her back
 
 47
-00:03:33,000 --> 00:03:35,000
- Because Dana is freezing
+00:04:01,000 --> 00:04:03,000
+Megantara, explode
 
 48
-00:03:35,000 --> 00:03:38,000
- Dafatang, explode
+00:04:03,000 --> 00:04:13,000
+I'm so full
 
 49
-00:03:38,000 --> 00:03:54,000
- I'm burning
+00:04:13,000 --> 00:04:16,000
+I'm so hungry, I'm not feeling well
 
 50
-00:03:54,000 --> 00:04:00,000
- Find Megantara and bring her back
+00:04:16,000 --> 00:04:19,000
+I'm going to finish the firecracker
 
 51
-00:04:01,000 --> 00:04:03,000
- Megantara, explode
+00:04:19,000 --> 00:04:22,000
+Thank you for finishing your meal
 
 52
-00:04:03,000 --> 00:04:13,000
- I'm so full
+00:04:22,000 --> 00:04:25,000
+Now, it's time for you to drink the juice
 
 53
-00:04:13,000 --> 00:04:16,000
- I'm so hungry, I'm not feeling well
+00:04:25,000 --> 00:04:27,000
+Yes, drink the juice
 
 54
-00:04:16,000 --> 00:04:19,000
- I'm going to finish the firecracker
+00:04:27,000 --> 00:04:34,000
+Yes
 
 55
-00:04:19,000 --> 00:04:22,000
- Thank you for finishing your meal
+00:04:35,000 --> 00:05:50,000
+To be continued...
 
 56
-00:04:22,000 --> 00:04:25,000
- Now, it's time for you to drink the juice
+00:05:50,000 --> 00:05:52,000
+Vega is like that for me
 
 57
-00:04:25,000 --> 00:04:27,000
- Yes, drink the juice
+00:05:52,000 --> 00:06:13,000
+To be continued...
 
 58
-00:04:27,000 --> 00:04:28,000
- Yes
+00:06:13,000 --> 00:06:15,000
+What's wrong, Alva?
 
 59
-00:04:28,000 --> 00:04:29,000
- Yes
+00:06:15,000 --> 00:06:17,000
+Alva?
 
 60
-00:04:29,000 --> 00:04:34,000
- Yes
+00:06:17,000 --> 00:06:31,000
+Oh no, it's terrible
 
 61
-00:04:35,000 --> 00:04:38,000
- To be continued...
+00:06:31,000 --> 00:06:33,000
+My body is starting to get a rash
 
 62
-00:04:38,000 --> 00:04:42,000
- To be continued...
+00:06:33,000 --> 00:06:35,000
+What should I do?
 
 63
-00:04:42,000 --> 00:04:46,000
- To be continued...
+00:06:56,000 --> 00:06:59,000
+Oh no, it's so weird
 
 64
-00:04:46,000 --> 00:04:52,000
- To be continued...
+00:06:59,000 --> 00:07:02,000
+Every time I send a letter, I have to punch it first
 
 65
-00:04:52,000 --> 00:04:59,000
- To be continued...
+00:07:02,000 --> 00:07:15,000
+This is the back button of Professor Ardebar
 
 66
-00:04:59,000 --> 00:05:06,000
- To be continued...
+00:07:15,000 --> 00:07:20,000
+It means there's something very important at school
 
 67
-00:05:06,000 --> 00:05:12,000
- To be continued...
+00:07:21,000 --> 00:07:23,000
+What should I do?
 
 68
-00:05:12,000 --> 00:05:18,000
- To be continued...
+00:07:23,000 --> 00:07:33,000
+Oh no, what should I do?
 
 69
-00:05:18,000 --> 00:05:25,000
- To be continued...
+00:07:33,000 --> 00:07:36,000
+Alva's business is not done yet
 
 70
-00:05:25,000 --> 00:05:32,000
- To be continued...
+00:07:36,000 --> 00:07:38,000
+There's another problem
 
 71
-00:05:32,000 --> 00:05:39,000
- To be continued...
+00:07:38,000 --> 00:07:49,000
+Don't write my last sentence
 
 72
-00:05:39,000 --> 00:05:46,000
- To be continued...
+00:07:49,000 --> 00:07:51,000
+Just write it
 
 73
-00:05:46,000 --> 00:05:50,000
- To be continued...
+00:07:51,000 --> 00:07:53,000
+Delete it
 
 74
-00:05:50,000 --> 00:05:52,000
- Vega is like that for me
+00:07:53,000 --> 00:07:57,000
+She's not used to writing
 
 75
-00:05:52,000 --> 00:06:04,000
- To be continued...
+00:07:57,000 --> 00:08:02,000
+Okay, I'll be right back
 
 76
-00:06:04,000 --> 00:06:13,000
- To be continued...
+00:08:02,000 --> 00:08:07,000
+But wait until Alva's business is done
 
 77
-00:06:13,000 --> 00:06:15,000
- What's wrong, Alva?
+00:08:07,000 --> 00:08:10,000
+Wow, that's so cool
 
 78
-00:06:15,000 --> 00:06:17,000
- Alva?
+00:08:10,000 --> 00:08:14,000
+If this is the way, I don't have to work as a teacher anymore
 
 79
-00:06:17,000 --> 00:06:31,000
- Oh no, it's terrible
+00:08:14,000 --> 00:08:16,000
+You're just a lazy kid
 
 80
-00:06:31,000 --> 00:06:33,000
- My body is starting to get a rash
+00:08:16,000 --> 00:08:18,000
+That's why you have a lot of left overs
 
 81
-00:06:33,000 --> 00:06:35,000
- What should I do?
+00:08:18,000 --> 00:08:19,000
+Right
 
 82
-00:06:56,000 --> 00:06:59,000
- Oh no, it's so weird
+00:08:19,000 --> 00:08:23,000
+Go back to Professor Abdi
 
 83
-00:06:59,000 --> 00:07:02,000
- Every time I send a letter, I have to punch it first
+00:08:24,000 --> 00:08:26,000
+What's wrong?
 
 84
-00:07:02,000 --> 00:07:15,000
- This is the back button of Professor Ardebar
+00:08:26,000 --> 00:08:28,000
+I'm so tired
 
 85
-00:07:15,000 --> 00:07:20,000
- It means there's something very important at school
+00:08:28,000 --> 00:08:30,000
+I'm going to bed
 
 86
-00:07:21,000 --> 00:07:23,000
- What should I do?
+00:08:30,000 --> 00:08:32,000
+I'm so tired
 
 87
-00:07:23,000 --> 00:07:33,000
- Oh no, what should I do?
+00:08:58,000 --> 00:09:01,000
+This scratch is amazing
 
 88
-00:07:33,000 --> 00:07:36,000
- Alva's business is not done yet
+00:09:01,000 --> 00:09:04,000
+The cold feeling is gone
 
 89
-00:07:36,000 --> 00:07:38,000
- There's another problem
+00:09:04,000 --> 00:09:24,000
+Now you have to do another test
 
 90
-00:07:38,000 --> 00:07:49,000
- Don't write my last sentence
+00:09:24,000 --> 00:09:27,000
+Which is a board painting competition
 
 91
-00:07:49,000 --> 00:07:51,000
- Just write it
+00:09:27,000 --> 00:09:30,000
+You have to do it manually
 
 92
-00:07:51,000 --> 00:07:53,000
- Delete it
+00:09:30,000 --> 00:09:33,000
+Without magic, without magic
 
 93
-00:07:53,000 --> 00:07:57,000
- She's not used to writing
+00:09:33,000 --> 00:09:37,000
+One child who finishes last
 
 94
-00:07:57,000 --> 00:08:02,000
- Okay, I'll be right back
+00:09:37,000 --> 00:09:41,000
+Will be eliminated and can't continue to the next stage
 
 95
-00:08:02,000 --> 00:08:07,000
- But wait until Alva's business is done
+00:09:41,000 --> 00:09:44,000
+Please go straight to the paint house
 
 96
-00:08:07,000 --> 00:08:10,000
- Wow, that's so cool
+00:09:44,000 --> 00:09:46,000
+Painting is easy
 
 97
-00:08:10,000 --> 00:08:14,000
- If this is the way, I don't have to work as a teacher anymore
+00:09:46,000 --> 00:09:48,000
+That's my specialty
 
 98
-00:08:14,000 --> 00:08:16,000
- You're just a lazy kid
+00:09:48,000 --> 00:09:50,000
+You two must be lame
 
 99
-00:08:16,000 --> 00:08:18,000
- That's why you have a lot of left overs
+00:09:50,000 --> 00:09:53,000
+Do you know the idiom "Tongkosong Nyaring Bunyinya"
 
 100
-00:08:18,000 --> 00:08:19,000
- Right
+00:09:53,000 --> 00:09:56,000
+That's a noisy person but no brain
 
 101
-00:08:19,000 --> 00:08:23,000
- Go back to Professor Abdi
+00:09:56,000 --> 00:09:59,000
+Sorry, if a ghost fights a human
 
 102
-00:08:24,000 --> 00:08:26,000
- What's wrong?
+00:09:59,000 --> 00:10:01,000
+It will definitely defeat the ghost
 
 103
-00:08:26,000 --> 00:08:28,000
- I'm so tired
+00:10:01,000 --> 00:10:04,000
+Who said humans are more noble?
 
 104
-00:08:28,000 --> 00:08:30,000
- I'm going to bed
+00:10:04,000 --> 00:10:07,000
+So, humans will always win
 
 105
-00:08:30,000 --> 00:08:32,000
- I'm so tired
+00:10:07,000 --> 00:10:08,000
+Ghost
 
 106
-00:08:58,000 --> 00:09:01,000
- This scratch is amazing
+00:10:08,000 --> 00:10:09,000
+Human
 
 107
-00:09:01,000 --> 00:09:04,000
- The cold feeling is gone
+00:10:09,000 --> 00:10:10,000
+Ghost
 
 108
-00:09:04,000 --> 00:09:24,000
- Now you have to do another test
+00:10:10,000 --> 00:10:11,000
+Human
 
 109
-00:09:24,000 --> 00:09:27,000
- Which is a board painting competition
+00:10:23,000 --> 00:10:27,000
+You have to paint the wall with your name
 
 110
-00:09:27,000 --> 00:09:30,000
- You have to do it manually
+00:10:27,000 --> 00:10:30,000
+Do it neatly and quickly
 
 111
-00:09:30,000 --> 00:09:33,000
- Without magic, without magic
+00:10:30,000 --> 00:10:34,000
+The child who finishes last and is the most messy
 
 112
-00:09:33,000 --> 00:09:37,000
- One child who finishes last
+00:10:34,000 --> 00:10:36,000
+Will be eliminated
 
 113
-00:09:37,000 --> 00:09:41,000
- Will be eliminated and can't continue to the next stage
+00:10:36,000 --> 00:10:39,000
+We will start on the count of three
 
 114
-00:09:41,000 --> 00:09:44,000
- Please go straight to the paint house
+00:10:39,000 --> 00:10:41,000
+One
 
 115
-00:09:44,000 --> 00:09:46,000
- Painting is easy
+00:10:41,000 --> 00:10:43,000
+Two
 
 116
-00:09:46,000 --> 00:09:48,000
- That's my specialty
+00:10:43,000 --> 00:10:45,000
+Three
 
 117
-00:09:48,000 --> 00:09:50,000
- You two must be lame
+00:10:45,000 --> 00:10:46,000
+Four
 
 118
-00:09:50,000 --> 00:09:53,000
- Do you know the idiom "Tongkosong Nyaring Bunyinya"
+00:10:46,000 --> 00:10:48,000
+Five
 
 119
-00:09:53,000 --> 00:09:56,000
- That's a noisy person but no brain
+00:10:48,000 --> 00:10:50,000
+Six
 
 120
-00:09:56,000 --> 00:09:59,000
- Sorry, if a ghost fights a human
+00:10:50,000 --> 00:10:52,000
+Seven
 
 121
-00:09:59,000 --> 00:10:01,000
- It will definitely defeat the ghost
+00:10:52,000 --> 00:10:54,000
+Eight
 
 122
-00:10:01,000 --> 00:10:04,000
- Who said humans are more noble?
+00:10:54,000 --> 00:10:56,000
+Nine
 
 123
-00:10:04,000 --> 00:10:07,000
- So, humans will always win
+00:10:56,000 --> 00:10:58,000
+Ten
 
 124
-00:10:07,000 --> 00:10:08,000
- Ghost
+00:10:58,000 --> 00:11:00,000
+Eleven
 
 125
-00:10:08,000 --> 00:10:09,000
- Human
+00:11:00,000 --> 00:11:02,000
+Twelve
 
 126
-00:10:09,000 --> 00:10:10,000
- Ghost
+00:11:02,000 --> 00:11:04,000
+Thirteen
 
 127
-00:10:10,000 --> 00:10:11,000
- Human
+00:11:04,000 --> 00:11:06,000
+Fourteen
 
 128
-00:10:23,000 --> 00:10:27,000
- You have to paint the wall with your name
+00:11:06,000 --> 00:11:08,000
+Fifteen
 
 129
-00:10:27,000 --> 00:10:30,000
- Do it neatly and quickly
+00:11:08,000 --> 00:11:10,000
+Sixteen
 
 130
-00:10:30,000 --> 00:10:34,000
- The child who finishes last and is the most messy
+00:11:10,000 --> 00:11:12,000
+Seventeen
 
 131
-00:10:34,000 --> 00:10:36,000
- Will be eliminated
+00:11:12,000 --> 00:11:14,000
+Eighteen
 
 132
-00:10:36,000 --> 00:10:39,000
- We will start on the count of three
+00:11:14,000 --> 00:11:15,000
+Nineteen
 
 133
-00:10:39,000 --> 00:10:41,000
- One
+00:11:15,000 --> 00:11:17,000
+Seventeen
 
 134
-00:10:41,000 --> 00:10:43,000
- Two
+00:11:17,000 --> 00:11:19,000
+Nineteen
 
 135
-00:10:43,000 --> 00:10:45,000
- Three
+00:11:19,000 --> 00:11:21,000
+Eighteen
 
 136
-00:10:45,000 --> 00:10:46,000
- Four
+00:11:21,000 --> 00:11:23,000
+Nineteen
 
 137
-00:10:46,000 --> 00:10:48,000
- Five
+00:11:23,000 --> 00:11:25,000
+Seventeen
 
 138
-00:10:48,000 --> 00:10:50,000
- Six
+00:11:25,000 --> 00:11:27,000
+Eighteen
 
 139
-00:10:50,000 --> 00:10:52,000
- Seven
+00:11:27,000 --> 00:11:31,000
+Nineteen
 
 140
-00:10:52,000 --> 00:10:54,000
- Eight
+00:11:31,000 --> 00:11:33,000
+Eighteen
 
 141
-00:10:54,000 --> 00:10:56,000
- Nine
+00:11:33,000 --> 00:11:35,000
+Nineteen
 
 142
-00:10:56,000 --> 00:10:58,000
- Ten
+00:11:35,000 --> 00:11:37,000
+Eighteen
 
 143
-00:10:58,000 --> 00:11:00,000
- Eleven
+00:11:37,000 --> 00:11:39,000
+Nineteen
 
 144
-00:11:00,000 --> 00:11:02,000
- Twelve
+00:11:39,000 --> 00:11:41,000
+Eighteen
 
 145
-00:11:02,000 --> 00:11:04,000
- Thirteen
+00:11:41,000 --> 00:11:53,000
+Nineteen
 
 146
-00:11:04,000 --> 00:11:06,000
- Fourteen
+00:11:53,000 --> 00:11:55,000
+Rega
 
 147
-00:11:06,000 --> 00:11:08,000
- Fifteen
+00:11:55,000 --> 00:11:57,000
+You shouldn't be like this
 
 148
-00:11:08,000 --> 00:11:10,000
- Sixteen
+00:11:57,000 --> 00:12:00,000
+Because of me, you lost
 
 149
-00:11:10,000 --> 00:11:12,000
- Seventeen
+00:12:00,000 --> 00:12:01,000
+It's okay
 
 150
-00:11:12,000 --> 00:11:14,000
- Eighteen
+00:12:01,000 --> 00:12:05,000
+Our goal is to get that violin
 
 151
-00:11:14,000 --> 00:11:15,000
- Nineteen
+00:12:05,000 --> 00:12:07,000
+So, if one of us loses
 
 152
-00:11:15,000 --> 00:11:17,000
- Seventeen
+00:12:07,000 --> 00:12:09,000
+What else can we do?
 
 153
-00:11:17,000 --> 00:11:19,000
- Nineteen
+00:12:09,000 --> 00:12:11,000
+The important thing is you have to continue
 
 154
-00:11:19,000 --> 00:11:21,000
- Eighteen
+00:12:11,000 --> 00:12:13,000
+You have to win, okay?
 
 155
-00:11:21,000 --> 00:11:23,000
- Nineteen
+00:12:13,000 --> 00:12:17,000
+Make sure my fight with Ray is not in vain
 
 156
-00:11:23,000 --> 00:11:25,000
- Seventeen
+00:12:17,000 --> 00:12:19,000
+Thank you, Rega
 
 157
-00:11:25,000 --> 00:11:27,000
- Eighteen
+00:12:19,000 --> 00:12:31,000
+I'm sorry, Rega
 
 158
-00:11:27,000 --> 00:11:29,000
- Nineteen
+00:12:31,000 --> 00:12:33,000
+You have to go home now
 
 159
-00:11:29,000 --> 00:11:31,000
- Nineteen
+00:12:33,000 --> 00:12:39,000
+You have to be able to
 
 160
-00:11:31,000 --> 00:11:33,000
- Eighteen
+00:12:39,000 --> 00:12:40,000
+Win
 
 161
-00:11:33,000 --> 00:11:35,000
- Nineteen
+00:12:40,000 --> 00:12:57,000
+You failed too
 
 162
-00:11:35,000 --> 00:11:37,000
- Eighteen
+00:12:57,000 --> 00:12:59,000
+Rega?
 
 163
-00:11:37,000 --> 00:11:39,000
- Nineteen
+00:12:59,000 --> 00:13:02,000
+What else can I do?
 
 164
-00:11:39,000 --> 00:11:41,000
- Eighteen
+00:13:02,000 --> 00:13:04,000
+He's a trap
 
 165
-00:11:41,000 --> 00:11:43,000
- Nineteen
+00:13:04,000 --> 00:13:06,000
+Afal is really angry
 
 166
-00:11:44,000 --> 00:11:45,000
- Nineteen
+00:13:06,000 --> 00:13:08,000
+I helped him
 
 167
-00:11:45,000 --> 00:11:47,000
- Nineteen
+00:13:08,000 --> 00:13:11,000
+And I lost too
 
 168
-00:11:47,000 --> 00:11:49,000
- Nineteen
+00:13:11,000 --> 00:13:13,000
+Rega, what should you do?
 
 169
-00:11:49,000 --> 00:11:51,000
- Nineteen
+00:13:13,000 --> 00:13:15,000
+Afal is weak
 
 170
-00:11:51,000 --> 00:11:53,000
- Nineteen
+00:13:15,000 --> 00:13:17,000
+Why did you let him win?
 
 171
-00:11:53,000 --> 00:11:55,000
- Rega
+00:13:17,000 --> 00:13:21,000
+I suggest you give that violin to Afal
 
 172
-00:11:55,000 --> 00:11:57,000
- You shouldn't be like this
+00:13:21,000 --> 00:13:22,000
+What should I do?
 
 173
-00:11:57,000 --> 00:12:00,000
- Because of me, you lost
+00:13:22,000 --> 00:13:24,000
+I forgot
 
 174
-00:12:00,000 --> 00:12:01,000
- It's okay
+00:13:24,000 --> 00:13:27,000
+I didn't think of that
 
 175
-00:12:01,000 --> 00:12:05,000
- Our goal is to get that violin
+00:13:27,000 --> 00:13:31,000
+I just want to try to win
 
 176
-00:12:05,000 --> 00:12:07,000
- So, if one of us loses
+00:13:31,000 --> 00:13:37,000
+A forester eats a pondo's nest
 
 177
-00:12:07,000 --> 00:12:09,000
- What else can we do?
+00:13:37,000 --> 00:13:40,000
+It's not that he's stupid
 
 178
-00:12:09,000 --> 00:12:11,000
- The important thing is you have to continue
+00:13:40,000 --> 00:13:42,000
+He's just nice
 
 179
-00:12:11,000 --> 00:12:13,000
- You have to win, okay?
+00:13:42,000 --> 00:13:44,000
+Whatever the reason
 
 180
-00:12:13,000 --> 00:12:17,000
- Make sure my fight with Ray is not in vain
+00:13:44,000 --> 00:13:46,000
+Fighting and sacrificing for a friend
 
 181
-00:12:17,000 --> 00:12:19,000
- Thank you, Rega
+00:13:46,000 --> 00:13:47,000
+Won't bring you any results
 
 182
-00:12:19,000 --> 00:12:31,000
- I'm sorry, Rega
+00:13:47,000 --> 00:13:48,000
+But, soldier
 
 183
-00:12:31,000 --> 00:12:33,000
- You have to go home now
+00:13:48,000 --> 00:13:49,000
+But, soldier?
 
 184
-00:12:33,000 --> 00:12:39,000
- You have to be able to
+00:13:49,000 --> 00:13:51,000
+You don't have to use that word
 
 185
-00:12:39,000 --> 00:12:40,000
- Win
+00:13:51,000 --> 00:13:55,000
+It's better for him to fight for a friend
 
 186
-00:12:40,000 --> 00:12:57,000
- You failed too
+00:13:55,000 --> 00:13:56,000
+And try hard
 
 187
-00:12:57,000 --> 00:12:59,000
- Rega?
+00:13:56,000 --> 00:13:58,000
+Than you
 
 188
-00:12:59,000 --> 00:13:02,000
- What else can I do?
+00:13:58,000 --> 00:14:02,000
+Failed because you don't want to eat vegetables
 
 189
-00:13:02,000 --> 00:13:04,000
- He's a trap
+00:14:02,000 --> 00:14:04,000
+Vegetable chicken
 
 190
-00:13:04,000 --> 00:13:06,000
- Afal is really angry
+00:14:05,000 --> 00:14:06,000
+Huh?
 
 191
-00:13:06,000 --> 00:13:08,000
- I helped him
+00:14:06,000 --> 00:14:16,000
+This is the final round
 
 192
-00:13:08,000 --> 00:13:11,000
- And I lost too
+00:14:16,000 --> 00:14:19,000
+The final round will decide
 
 193
-00:13:11,000 --> 00:13:13,000
- Rega, what should you do?
+00:14:19,000 --> 00:14:22,000
+Who will get the life fluid
 
 194
-00:13:13,000 --> 00:13:15,000
- Afal is weak
+00:14:22,000 --> 00:14:26,000
+You have to run until the finish line
 
 195
-00:13:15,000 --> 00:13:17,000
- Why did you let him win?
+00:14:26,000 --> 00:14:29,000
+Whoever arrives first is the winner
 
 196
-00:13:17,000 --> 00:13:21,000
- I suggest you give that violin to Afal
+00:14:29,000 --> 00:14:31,000
+Remember
 
 197
-00:13:21,000 --> 00:13:22,000
- What should I do?
+00:14:31,000 --> 00:14:34,000
+You can't use any magic here
 
 198
-00:13:22,000 --> 00:13:24,000
- I forgot
+00:14:34,000 --> 00:14:36,000
+I'm so nervous
 
 199
-00:13:24,000 --> 00:13:27,000
- I didn't think of that
+00:14:36,000 --> 00:14:39,000
+But I won't give up
 
 200
-00:13:27,000 --> 00:13:31,000
- I just want to try to win
+00:14:39,000 --> 00:14:41,000
+I'm happy
 
 201
-00:13:31,000 --> 00:13:37,000
- A forester eats a pondo's nest
+00:14:41,000 --> 00:14:43,000
+I believe in you, Rega
 
 202
-00:13:37,000 --> 00:13:40,000
- It's not that he's stupid
+00:14:43,000 --> 00:14:44,000
+One
 
 203
-00:13:40,000 --> 00:13:42,000
- He's just nice
+00:14:44,000 --> 00:14:49,000
+Two
 
 204
-00:13:42,000 --> 00:13:44,000
- Whatever the reason
+00:14:49,000 --> 00:14:53,000
+Three
 
 205
-00:13:44,000 --> 00:13:46,000
- Fighting and sacrificing for a friend
+00:14:54,000 --> 00:14:55,000
+Four
 
 206
-00:13:46,000 --> 00:13:47,000
- Won't bring you any results
+00:15:19,000 --> 00:15:21,000
+Come on, brother!
 
 207
-00:13:47,000 --> 00:13:48,000
- But, soldier
+00:15:21,000 --> 00:15:22,000
+Hurry up!
 
 208
-00:13:48,000 --> 00:13:49,000
- But, soldier?
+00:15:22,000 --> 00:15:24,000
+I'm nervous
 
 209
-00:13:49,000 --> 00:13:51,000
- You don't have to use that word
+00:15:24,000 --> 00:15:27,000
+Hurry up!
 
 210
-00:13:51,000 --> 00:13:55,000
- It's better for him to fight for a friend
+00:15:47,000 --> 00:15:49,000
+Come on, brother!
 
 211
-00:13:55,000 --> 00:13:56,000
- And try hard
+00:15:49,000 --> 00:15:57,000
+It's not that long
 
 212
-00:13:56,000 --> 00:13:58,000
- Than you
+00:15:57,000 --> 00:15:59,000
+You should just run
 
 213
-00:13:58,000 --> 00:14:02,000
- Failed because you don't want to eat vegetables
+00:15:59,000 --> 00:16:00,000
+I'll win for sure
 
 214
-00:14:02,000 --> 00:14:04,000
- Vegetable chicken
+00:16:00,000 --> 00:16:02,000
+This is called
 
 215
-00:14:05,000 --> 00:14:06,000
- Huh?
+00:16:02,000 --> 00:16:04,000
+Winning without any competition
 
 216
-00:14:06,000 --> 00:14:16,000
- This is the final round
+00:16:04,000 --> 00:16:05,000
+I'm excited
 
 217
-00:14:16,000 --> 00:14:19,000
- The final round will decide
+00:16:06,000 --> 00:16:08,000
+[The final round]
 
 218
-00:14:19,000 --> 00:14:22,000
- Who will get the life fluid
+00:16:08,000 --> 00:16:20,000
+This is awesome
 
 219
-00:14:22,000 --> 00:14:26,000
- You have to run until the finish line
+00:16:20,000 --> 00:16:21,000
+I've been waiting for this
 
 220
-00:14:26,000 --> 00:14:29,000
- Whoever arrives first is the winner
+00:16:22,000 --> 00:16:24,000
+[The final round]
 
 221
-00:14:29,000 --> 00:14:31,000
- Remember
+00:16:24,000 --> 00:16:40,000
+Ava
 
 222
-00:14:31,000 --> 00:14:34,000
- You can't use any magic here
+00:16:40,000 --> 00:16:42,000
+Ava, wake up
 
 223
-00:14:34,000 --> 00:14:36,000
- I'm so nervous
+00:16:42,000 --> 00:16:44,000
+Ava
 
 224
-00:14:36,000 --> 00:14:39,000
- But I won't give up
+00:16:44,000 --> 00:16:46,000
+Ava, wake up
 
 225
-00:14:39,000 --> 00:14:41,000
- I'm happy
+00:16:47,000 --> 00:16:49,000
+[The final round]
 
 226
-00:14:41,000 --> 00:14:43,000
- I believe in you, Rega
+00:16:49,000 --> 00:17:00,000
+You guys
 
 227
-00:14:43,000 --> 00:14:44,000
- One
+00:17:00,000 --> 00:17:02,000
+Wake up, Ava
 
 228
-00:14:44,000 --> 00:14:49,000
- Two
+00:17:02,000 --> 00:17:04,000
+You can't die
 
 229
-00:14:49,000 --> 00:14:53,000
- Three
+00:17:04,000 --> 00:17:05,000
+But
 
 230
-00:14:54,000 --> 00:14:55,000
- Four
+00:17:05,000 --> 00:17:07,000
+I can't take it anymore
 
 231
-00:15:19,000 --> 00:15:21,000
- Come on, brother!
+00:17:07,000 --> 00:17:09,000
+My body hurts
 
 232
-00:15:21,000 --> 00:15:22,000
- Hurry up!
+00:17:09,000 --> 00:17:12,000
+Ava
 
 233
-00:15:22,000 --> 00:15:24,000
- I'm nervous
+00:17:12,000 --> 00:17:15,000
+You can't let your friends' struggles get in the way
 
 234
-00:15:24,000 --> 00:15:27,000
- Hurry up!
+00:17:16,000 --> 00:17:18,000
+It's true, Ava
 
 235
-00:15:47,000 --> 00:15:49,000
- Come on, brother!
+00:17:18,000 --> 00:17:20,000
+They've sacrificed for you
 
 236
-00:15:49,000 --> 00:15:57,000
- It's not that long
+00:17:20,000 --> 00:17:22,000
+Don't let them be a burden
 
 237
-00:15:57,000 --> 00:15:59,000
- You should just run
+00:17:22,000 --> 00:17:32,000
+Ava, wake up
 
 238
-00:15:59,000 --> 00:16:00,000
- I'll win for sure
+00:17:32,000 --> 00:17:33,000
+Ava
 
 239
-00:16:00,000 --> 00:16:02,000
- This is called
+00:17:33,000 --> 00:17:38,000
+Ava, wake up
 
 240
-00:16:02,000 --> 00:16:04,000
- Winning without any competition
+00:17:38,000 --> 00:17:40,000
+[The final round]
 
 241
-00:16:04,000 --> 00:16:05,000
- I'm excited
+00:17:40,000 --> 00:17:50,000
+Ava
 
 242
-00:16:06,000 --> 00:16:08,000
- [The final round]
+00:17:50,000 --> 00:17:52,000
+This is how it should be
 
 243
-00:16:08,000 --> 00:16:20,000
- This is awesome
+00:17:52,000 --> 00:17:53,000
+Because of me
 
 244
-00:16:20,000 --> 00:16:21,000
- I've been waiting for this
+00:17:53,000 --> 00:17:55,000
+You lost
 
 245
-00:16:22,000 --> 00:16:24,000
- [The final round]
+00:17:55,000 --> 00:17:56,000
+It's okay
 
 246
-00:16:24,000 --> 00:16:37,000
- Ava
+00:17:56,000 --> 00:17:59,000
+You came here to get that award
 
 247
-00:16:37,000 --> 00:16:40,000
- Ava
+00:17:59,000 --> 00:18:02,000
+So, if you lose
 
 248
-00:16:40,000 --> 00:16:42,000
- Ava, wake up
+00:18:02,000 --> 00:18:04,000
+What else can we do?
 
 249
-00:16:42,000 --> 00:16:44,000
- Ava
+00:18:04,000 --> 00:18:05,000
+We have to move on
 
 250
-00:16:44,000 --> 00:16:46,000
- Ava, wake up
+00:18:05,000 --> 00:18:06,000
+You have to win
 
 251
-00:16:47,000 --> 00:16:49,000
- [The final round]
+00:18:06,000 --> 00:18:07,000
+Okay?
 
 252
-00:16:49,000 --> 00:17:00,000
- You guys
+00:18:07,000 --> 00:18:09,000
+[The final round]
 
 253
-00:17:00,000 --> 00:17:02,000
- Wake up, Ava
+00:18:09,000 --> 00:18:11,000
+You're right
 
 254
-00:17:02,000 --> 00:17:04,000
- You can't die
+00:18:11,000 --> 00:18:13,000
+I'm not giving up
 
 255
-00:17:04,000 --> 00:17:05,000
- But
+00:18:13,000 --> 00:18:15,000
+This is my friends
 
 256
-00:17:05,000 --> 00:17:07,000
- I can't take it anymore
+00:18:15,000 --> 00:18:16,000
+Good
 
 257
-00:17:07,000 --> 00:17:09,000
- My body hurts
+00:18:16,000 --> 00:18:17,000
+Now, stand up
 
 258
-00:17:09,000 --> 00:17:12,000
- Ava
+00:18:17,000 --> 00:18:18,000
+And be brave
 
 259
-00:17:12,000 --> 00:17:15,000
- You can't let your friends' struggles get in the way
+00:18:18,000 --> 00:18:20,000
+Be brave, okay?
 
 260
-00:17:16,000 --> 00:17:18,000
- It's true, Ava
+00:18:20,000 --> 00:18:23,000
+We'll take care of you
 
 261
-00:17:18,000 --> 00:17:20,000
- They've sacrificed for you
+00:18:24,000 --> 00:18:26,000
+Show your spirit
 
 262
-00:17:20,000 --> 00:17:22,000
- Don't let them be a burden
+00:18:26,000 --> 00:18:29,000
+Get ready, my friend
 
 263
-00:17:22,000 --> 00:17:32,000
- Ava, wake up
+00:18:29,000 --> 00:18:36,000
+Run, jump, and be brave
 
 264
-00:17:32,000 --> 00:17:33,000
- Ava
+00:18:36,000 --> 00:18:40,000
+Be brave
 
 265
-00:17:33,000 --> 00:17:34,000
- Ava, wake up
+00:18:40,000 --> 00:18:44,000
+Don't give up
 
 266
-00:17:34,000 --> 00:17:38,000
- Ava, wake up
+00:18:44,000 --> 00:18:51,000
+Chase your dreams
 
 267
-00:17:38,000 --> 00:17:40,000
- [The final round]
+00:18:52,000 --> 00:18:54,000
+Go, go, go
 
 268
-00:17:40,000 --> 00:17:50,000
- Ava
+00:18:54,000 --> 00:18:55,000
+Achieve all your dreams
 
 269
-00:17:50,000 --> 00:17:52,000
- This is how it should be
+00:18:55,000 --> 00:18:57,000
+Go, go, go
 
 270
-00:17:52,000 --> 00:17:53,000
- Because of me
+00:18:57,000 --> 00:18:59,000
+Don't give up
 
 271
-00:17:53,000 --> 00:17:55,000
- You lost
+00:18:59,000 --> 00:19:01,000
+I'm not giving up
 
 272
-00:17:55,000 --> 00:17:56,000
- It's okay
+00:19:01,000 --> 00:19:03,000
+Surrender with all your might
 
 273
-00:17:56,000 --> 00:17:59,000
- You came here to get that award
+00:19:03,000 --> 00:19:06,000
+Now, it's time to say goodbye to the ghost
 
 274
-00:17:59,000 --> 00:18:02,000
- So, if you lose
+00:19:06,000 --> 00:19:12,000
+It's true
 
 275
-00:18:02,000 --> 00:18:04,000
- What else can we do?
+00:19:12,000 --> 00:19:16,000
+We can do it
 
 276
-00:18:04,000 --> 00:18:05,000
- We have to move on
+00:19:16,000 --> 00:19:26,000
+[The final round]
 
 277
-00:18:05,000 --> 00:18:06,000
- You have to win
+00:19:26,000 --> 00:19:29,000
+It's so far, Alva
 
 278
-00:18:06,000 --> 00:18:07,000
- Okay?
+00:19:29,000 --> 00:19:31,000
+Go, go, go
 
 279
-00:18:07,000 --> 00:18:09,000
- [The final round]
+00:19:31,000 --> 00:19:33,000
+Be proud of yourself
 
 280
-00:18:09,000 --> 00:18:11,000
- You're right
+00:19:33,000 --> 00:19:35,000
+Go, go, go
 
 281
-00:18:11,000 --> 00:18:13,000
- I'm not giving up
+00:19:35,000 --> 00:19:37,000
+Let's dream
 
 282
-00:18:13,000 --> 00:18:15,000
- This is my friends
+00:19:37,000 --> 00:19:39,000
+Go, go, go
 
 283
-00:18:15,000 --> 00:18:16,000
- Good
+00:19:39,000 --> 00:19:40,000
+Ibu
 
 284
-00:18:16,000 --> 00:18:17,000
- Now, stand up
+00:19:40,000 --> 00:19:42,000
+Ibu, where's Alva?
 
 285
-00:18:17,000 --> 00:18:18,000
- And be brave
+00:19:42,000 --> 00:19:44,000
+How can she run so fast?
 
 286
-00:18:18,000 --> 00:18:20,000
- Be brave, okay?
+00:19:44,000 --> 00:19:45,000
+Where did she come from?
 
 287
-00:18:20,000 --> 00:18:23,000
- We'll take care of you
+00:19:45,000 --> 00:19:49,000
+Oh my God
 
 288
-00:18:24,000 --> 00:18:26,000
- Show your spirit
+00:19:49,000 --> 00:19:52,000
+Show your spirit
 
 289
-00:18:26,000 --> 00:18:29,000
- Get ready, my friend
+00:19:52,000 --> 00:19:55,000
+Get ready, my friend
 
 290
-00:18:29,000 --> 00:18:36,000
- Run, jump, and be brave
+00:19:55,000 --> 00:20:02,000
+Run, jump, and be brave
 
 291
-00:18:36,000 --> 00:18:40,000
- Be brave
+00:20:02,000 --> 00:20:06,000
+Be brave
 
 292
-00:18:40,000 --> 00:18:44,000
- Don't give up
+00:20:06,000 --> 00:20:10,000
+Don't give up
 
 293
-00:18:44,000 --> 00:18:51,000
- Chase your dreams
+00:20:11,000 --> 00:20:17,000
+Chase your dreams
 
 294
-00:18:52,000 --> 00:18:54,000
- Go, go, go
+00:20:17,000 --> 00:20:20,000
+Go, go, go
 
 295
-00:18:54,000 --> 00:18:55,000
- Achieve all your dreams
+00:20:20,000 --> 00:20:22,000
+Achieve all your dreams
 
 296
-00:18:55,000 --> 00:18:57,000
- Go, go, go
+00:20:22,000 --> 00:20:24,000
+Go, go, go
 
 297
-00:18:57,000 --> 00:18:59,000
- Don't give up
+00:20:24,000 --> 00:20:26,000
+Raya
 
 298
-00:18:59,000 --> 00:19:01,000
- I'm not giving up
+00:20:26,000 --> 00:20:27,000
+What?
 
 299
-00:19:01,000 --> 00:19:03,000
- Surrender with all your might
+00:20:27,000 --> 00:20:29,000
+You think you won?
 
 300
-00:19:03,000 --> 00:19:06,000
- Now, it's time to say goodbye to the ghost
+00:20:29,000 --> 00:20:30,000
+Wrong
 
 301
-00:19:06,000 --> 00:19:12,000
- It's true
+00:20:30,000 --> 00:20:32,000
+I won, you lost
 
 302
-00:19:12,000 --> 00:19:16,000
- We can do it
+00:20:32,000 --> 00:20:33,000
+Fine
 
 303
-00:19:16,000 --> 00:19:18,000
- [The final round]
+00:20:33,000 --> 00:20:34,000
+Let's see, the judges said
 
 304
-00:19:18,000 --> 00:19:21,000
- [The final round]
+00:20:34,000 --> 00:20:36,000
+Why are you so confident?
 
 305
-00:19:21,000 --> 00:19:26,000
- [The final round]
+00:20:36,000 --> 00:20:37,000
+I won, you know
 
 306
-00:19:26,000 --> 00:19:29,000
- It's so far, Alva
+00:20:37,000 --> 00:20:39,000
+It's up to you
 
 307
-00:19:29,000 --> 00:19:31,000
- Go, go, go
+00:20:40,000 --> 00:21:16,000
+[The final round]
 
 308
-00:19:31,000 --> 00:19:33,000
- Be proud of yourself
+00:21:16,000 --> 00:21:26,000
+Thank God
 
 309
-00:19:33,000 --> 00:19:35,000
- Go, go, go
+00:21:26,000 --> 00:21:29,000
+This firecracker is really useful
 
 310
-00:19:35,000 --> 00:19:37,000
- Let's dream
+00:21:29,000 --> 00:21:34,000
+But we can't just let it go, Professor
 
 311
-00:19:37,000 --> 00:19:39,000
- Go, go, go
+00:21:34,000 --> 00:21:37,000
+We have to find the culprit
 
 312
-00:19:39,000 --> 00:19:40,000
- Ibu
+00:21:37,000 --> 00:21:40,000
+And stop him before he freezes this school
 
 313
-00:19:40,000 --> 00:19:42,000
- Ibu, where's Alva?
+00:21:42,000 --> 00:21:43,000
+You're right
 
 314
-00:19:42,000 --> 00:19:44,000
- How can she run so fast?
+00:21:43,000 --> 00:21:45,000
+We have to find the news
 
 315
-00:19:44,000 --> 00:19:45,000
- Where did she come from?
+00:21:45,000 --> 00:21:48,000
+I order all teachers to find the news
 
 316
-00:19:45,000 --> 00:19:47,000
- Oh my God
+00:21:48,000 --> 00:21:50,000
+Split up to find him
 
 317
-00:19:47,000 --> 00:19:49,000
- Oh my God
+00:21:50,000 --> 00:21:58,000
+Kids, stay here
 
 318
-00:19:49,000 --> 00:19:52,000
- Show your spirit
+00:21:58,000 --> 00:21:59,000
+Don't go anywhere
 
 319
-00:19:52,000 --> 00:19:55,000
- Get ready, my friend
+00:21:59,000 --> 00:22:01,000
+Yes, sir
 
 320
-00:19:55,000 --> 00:20:02,000
- Run, jump, and be brave
+00:22:01,000 --> 00:22:04,000
+I will leave the firecracker here
 
 321
-00:20:02,000 --> 00:20:06,000
- Be brave
+00:22:04,000 --> 00:22:07,000
+So you won't be left behind
 
 322
-00:20:06,000 --> 00:20:10,000
- Don't give up
+00:22:07,000 --> 00:22:09,000
+[The final round]
 
 323
-00:20:11,000 --> 00:20:17,000
- Chase your dreams
+00:22:09,000 --> 00:22:31,000
+Life?
 
 324
-00:20:17,000 --> 00:20:20,000
- Go, go, go
+00:22:31,000 --> 00:22:35,000
+Because you're in the finish line at the same time
 
 325
-00:20:20,000 --> 00:20:22,000
- Achieve all your dreams
+00:22:35,000 --> 00:22:39,000
+You two will take the life liquid
 
 326
-00:20:22,000 --> 00:20:24,000
- Go, go, go
+00:22:39,000 --> 00:22:42,000
+The one who finishes first
 
 327
-00:20:24,000 --> 00:20:26,000
- Raya
+00:22:42,000 --> 00:22:46,000
+Will get the life liquid
 
 328
-00:20:26,000 --> 00:20:27,000
- What?
+00:22:46,000 --> 00:22:51,000
+One
 
 329
-00:20:27,000 --> 00:20:29,000
- You think you won?
+00:22:51,000 --> 00:22:55,000
+Two
 
 330
-00:20:29,000 --> 00:20:30,000
- Wrong
+00:22:55,000 --> 00:22:59,000
+Three
 
 331
-00:20:30,000 --> 00:20:32,000
- I won, you lost
+00:22:59,000 --> 00:23:00,000
+Start!
 
 332
-00:20:32,000 --> 00:20:33,000
- Fine
+00:23:01,000 --> 00:23:03,000
+[The final round]
 
 333
-00:20:33,000 --> 00:20:34,000
- Let's see, the judges said
+00:23:03,000 --> 00:23:12,000
+Yes, I did it!
 
 334
-00:20:34,000 --> 00:20:36,000
- Why are you so confident?
+00:23:12,000 --> 00:23:14,000
+I did it!
 
 335
-00:20:36,000 --> 00:20:37,000
- I won, you know
+00:23:14,000 --> 00:23:16,000
+I'm so sad
 
 336
-00:20:37,000 --> 00:20:39,000
- It's up to you
+00:23:16,000 --> 00:23:19,000
+You didn't get the life liquid
 
 337
-00:20:40,000 --> 00:20:42,000
- [The final round]
+00:23:19,000 --> 00:23:24,000
+Even though I've sacrificed a lot for you
 
 338
-00:20:43,000 --> 00:20:45,000
- [The final round]
+00:23:26,000 --> 00:23:30,000
+Now, it's time for you to leave me
 
 339
-00:20:46,000 --> 00:20:48,000
- [The final round]
+00:23:30,000 --> 00:23:34,000
+I will be a beautiful human
 
 340
-00:20:49,000 --> 00:20:51,000
- [The final round]
+00:23:34,000 --> 00:23:46,000
+The bottle
 
 341
-00:20:51,000 --> 00:20:59,000
- [The final round]
+00:23:46,000 --> 00:23:51,000
+Alva, did you take the bottle?
 
 342
-00:20:59,000 --> 00:21:13,000
- [The final round]
+00:23:51,000 --> 00:23:52,000
+Give it back!
 
 343
-00:21:14,000 --> 00:21:16,000
- [The final round]
+00:23:52,000 --> 00:23:54,000
+You're so mean!
 
 344
-00:21:16,000 --> 00:21:26,000
- Thank God
+00:23:54,000 --> 00:23:56,000
+I don't know!
 
 345
-00:21:26,000 --> 00:21:29,000
- This firecracker is really useful
+00:23:56,000 --> 00:23:58,000
+Why is it in my hand?
 
 346
-00:21:29,000 --> 00:21:34,000
- But we can't just let it go, Professor
+00:23:58,000 --> 00:23:59,000
+But...
 
 347
-00:21:34,000 --> 00:21:37,000
- We have to find the culprit
+00:23:59,000 --> 00:24:01,000
+It's gone!
 
 348
-00:21:37,000 --> 00:21:40,000
- And stop him before he freezes this school
+00:24:01,000 --> 00:24:03,000
+I'm here again
 
 349
-00:21:42,000 --> 00:21:43,000
- You're right
+00:24:03,000 --> 00:24:04,000
+Alva!
 
 350
-00:21:43,000 --> 00:21:45,000
- We have to find the news
+00:24:04,000 --> 00:24:06,000
+What are you doing?
 
 351
-00:21:45,000 --> 00:21:48,000
- I order all teachers to find the news
+00:24:06,000 --> 00:24:07,000
+Give it back!
 
 352
-00:21:48,000 --> 00:21:50,000
- Split up to find him
+00:24:07,000 --> 00:24:09,000
+That's my brother's bottle!
 
 353
-00:21:50,000 --> 00:21:58,000
- Kids, stay here
+00:24:09,000 --> 00:24:10,000
+I don't know!
 
 354
-00:21:58,000 --> 00:21:59,000
- Don't go anywhere
+00:24:10,000 --> 00:24:14,000
+Raya, in this competition
 
 355
-00:21:59,000 --> 00:22:01,000
- Yes, sir
+00:24:14,000 --> 00:24:17,000
+The participants must be honest and fair
 
 356
-00:22:01,000 --> 00:22:04,000
- I will leave the firecracker here
+00:24:17,000 --> 00:24:19,000
+They can't cheat
 
 357
-00:22:04,000 --> 00:22:07,000
- So you won't be left behind
+00:24:19,000 --> 00:24:20,000
+What?
 
 358
-00:22:07,000 --> 00:22:09,000
- [The final round]
+00:24:20,000 --> 00:24:24,000
+You've cheated by pushing Alva
 
 359
-00:22:09,000 --> 00:22:31,000
- Life?
+00:24:24,000 --> 00:24:26,000
+So, you're the loser
 
 360
-00:22:31,000 --> 00:22:35,000
- Because you're in the finish line at the same time
+00:24:26,000 --> 00:24:28,000
+And we decided
 
 361
-00:22:35,000 --> 00:22:39,000
- You two will take the life liquid
+00:24:28,000 --> 00:24:31,000
+Alva will win this competition
 
 362
-00:22:39,000 --> 00:22:42,000
- The one who finishes first
+00:24:31,000 --> 00:24:44,000
+Yes!
 
 363
-00:22:42,000 --> 00:22:46,000
- Will get the life liquid
+00:24:44,000 --> 00:24:46,000
+Thank you, jury!
 
 364
-00:22:46,000 --> 00:22:51,000
- One
+00:24:46,000 --> 00:24:48,000
+Thank you so much!
 
 365
-00:22:51,000 --> 00:22:55,000
- Two
+00:24:48,000 --> 00:24:56,000
+I'm so happy!
 
 366
-00:22:55,000 --> 00:22:59,000
- Three
+00:24:56,000 --> 00:25:00,000
+Flita!
 
 367
-00:22:59,000 --> 00:23:00,000
- Start!
+00:25:00,000 --> 00:25:04,000
+Where are you?
 
 368
-00:23:01,000 --> 00:23:03,000
- [The final round]
+00:25:04,000 --> 00:25:25,000
+Flita!
 
 369
-00:23:03,000 --> 00:23:12,000
- Yes, I did it!
+00:25:25,000 --> 00:25:35,000
+Let's just use my crystal ball
 
 370
-00:23:12,000 --> 00:23:14,000
- I did it!
+00:25:35,000 --> 00:25:38,000
+Okay, you find it
 
 371
-00:23:14,000 --> 00:23:16,000
- I'm so sad
+00:25:38,000 --> 00:25:39,000
+Okay
 
 372
-00:23:16,000 --> 00:23:19,000
- You didn't get the life liquid
+00:25:39,000 --> 00:25:44,000
+Crystal ball's reception
 
 373
-00:23:19,000 --> 00:23:24,000
- Even though I've sacrificed a lot for you
+00:25:45,000 --> 00:25:48,000
+The ball is in her hand
 
 374
-00:23:26,000 --> 00:23:30,000
- Now, it's time for you to leave me
+00:25:48,000 --> 00:25:54,000
+There she is!
 
 375
-00:23:30,000 --> 00:23:34,000
- I will be a beautiful human
+00:25:54,000 --> 00:26:08,000
+What's wrong with my crystal ball?
 
 376
-00:23:34,000 --> 00:23:46,000
- The bottle
+00:26:08,000 --> 00:26:11,000
+I'm so sorry
 
 377
-00:23:46,000 --> 00:23:51,000
- Alva, did you take the bottle?
+00:26:11,000 --> 00:26:16,000
+We'll find out where Flita is soon
 
 378
-00:23:51,000 --> 00:23:52,000
- Give it back!
+00:26:16,000 --> 00:26:35,000
+My little sister
 
 379
-00:23:52,000 --> 00:23:54,000
- You're so mean!
+00:26:35,000 --> 00:26:37,000
+I'm going to cry
 
 380
-00:23:54,000 --> 00:23:56,000
- I don't know!
+00:26:38,000 --> 00:26:40,000
+Who are you?
 
 381
-00:23:56,000 --> 00:23:58,000
- Why is it in my hand?
+00:26:40,000 --> 00:26:52,000
+I'm Pangeran from a faraway country
 
 382
-00:23:58,000 --> 00:23:59,000
- But...
+00:26:52,000 --> 00:26:59,000
+Why are you crying here?
 
 383
-00:23:59,000 --> 00:24:01,000
- It's gone!
+00:26:59,000 --> 00:27:01,000
+I'm a weirdo
 
 384
-00:24:01,000 --> 00:24:03,000
- I'm here again
+00:27:01,000 --> 00:27:03,000
+Everyone hates me
 
 385
-00:24:03,000 --> 00:24:04,000
- Alva!
+00:27:03,000 --> 00:27:11,000
+I'm not a good person
 
 386
-00:24:04,000 --> 00:24:06,000
- What are you doing?
+00:27:11,000 --> 00:27:14,000
+Then we're the same
 
 387
-00:24:06,000 --> 00:24:07,000
- Give it back!
+00:27:14,000 --> 00:27:16,000
+What do you mean?
 
 388
-00:24:07,000 --> 00:24:09,000
- That's my brother's bottle!
+00:27:16,000 --> 00:27:19,000
+I don't have any friends
 
 389
-00:24:09,000 --> 00:24:10,000
- I don't know!
+00:27:19,000 --> 00:27:23,000
+Almost everyone in this world hates me
 
 390
-00:24:10,000 --> 00:24:14,000
- Raya, in this competition
+00:27:23,000 --> 00:27:26,000
+I'm considered a problem
 
 391
-00:24:14,000 --> 00:24:17,000
- The participants must be honest and fair
+00:27:26,000 --> 00:27:30,000
+What if we become friends?
 
 392
-00:24:17,000 --> 00:24:19,000
- They can't cheat
+00:27:30,000 --> 00:27:33,000
+But are you afraid of me?
 
 393
-00:24:19,000 --> 00:24:20,000
- What?
+00:27:33,000 --> 00:27:35,000
+I have a strange power
 
 394
-00:24:20,000 --> 00:24:24,000
- You've cheated by pushing Alva
+00:27:35,000 --> 00:27:38,000
+I can make everyone freeze
 
 395
-00:24:24,000 --> 00:24:26,000
- So, you're the loser
+00:27:38,000 --> 00:27:40,000
+Since we're friends
 
 396
-00:24:26,000 --> 00:24:28,000
- And we decided
+00:27:40,000 --> 00:27:43,000
+I'll tell you my secret
 
 397
-00:24:28,000 --> 00:24:31,000
- Alva will win this competition
+00:27:43,000 --> 00:27:46,000
+I also have a strange power
 
 398
-00:24:31,000 --> 00:24:44,000
- Yes!
+00:27:46,000 --> 00:27:48,000
+I can't freeze
 
 399
-00:24:44,000 --> 00:24:46,000
- Thank you, jury!
+00:27:48,000 --> 00:27:58,000
+Are you sure you want to be my friend?
 
 400
-00:24:46,000 --> 00:24:48,000
- Thank you so much!
+00:28:02,000 --> 00:28:04,000
+Give me your hand
 
 401
-00:24:48,000 --> 00:24:50,000
- I'm so happy!
+00:28:04,000 --> 00:28:08,000
+I'm not afraid of you
 
 402
-00:24:50,000 --> 00:24:52,000
- I'm so happy!
+00:28:34,000 --> 00:28:36,000
+You see for yourself
 
 403
-00:24:52,000 --> 00:24:54,000
- I'm so happy!
+00:28:36,000 --> 00:28:38,000
+I don't freeze
 
 404
-00:24:54,000 --> 00:24:56,000
- I'm so happy!
+00:28:38,000 --> 00:28:47,000
+Professor Aldebaran
 
 405
-00:24:56,000 --> 00:24:58,000
- Flita!
+00:28:47,000 --> 00:28:49,000
+I got a message from Professor Agni
 
 406
-00:24:58,000 --> 00:25:00,000
- Flita!
+00:28:49,000 --> 00:28:51,000
+That the school is in danger
 
 407
-00:25:00,000 --> 00:25:04,000
- Where are you?
+00:28:51,000 --> 00:28:53,000
+But who will do it?
 
 408
-00:25:04,000 --> 00:25:06,000
- Flita!
+00:28:53,000 --> 00:29:09,000
+We can do it
 
 409
-00:25:06,000 --> 00:25:16,000
- Flita!
+00:29:09,000 --> 00:29:16,000
+Who is it?
 
 410
-00:25:17,000 --> 00:25:18,000
- Flita!
+00:29:16,000 --> 00:29:18,000
+Where's Alva?
 
 411
-00:25:18,000 --> 00:25:21,000
- Flita!
+00:29:18,000 --> 00:29:22,000
+Ri, wake up!
 
 412
-00:25:21,000 --> 00:25:23,000
- Flita!
+00:29:22,000 --> 00:29:24,000
+It's morning
 
 413
-00:25:23,000 --> 00:25:25,000
- Flita!
+00:29:24,000 --> 00:29:26,000
+What about Alva?
 
 414
-00:25:25,000 --> 00:25:35,000
- Let's just use my crystal ball
+00:29:26,000 --> 00:29:28,000
+I want to ask her
 
 415
-00:25:35,000 --> 00:25:38,000
- Okay, you find it
+00:29:28,000 --> 00:29:30,000
+Alva hasn't come
 
 416
-00:25:38,000 --> 00:25:39,000
- Okay
+00:29:30,000 --> 00:29:32,000
+Where's Alva?
 
 417
-00:25:39,000 --> 00:25:44,000
- Crystal ball's reception
+00:29:32,000 --> 00:29:34,000
+She hasn't come
 
 418
-00:25:45,000 --> 00:25:48,000
- The ball is in her hand
+00:29:34,000 --> 00:29:38,000
+She hasn't come?
 
 419
-00:25:48,000 --> 00:25:54,000
- There she is!
+00:29:38,000 --> 00:29:40,000
+I'm scared
 
 420
-00:25:54,000 --> 00:26:08,000
- What's wrong with my crystal ball?
+00:29:40,000 --> 00:29:46,000
+Alva?
 
 421
-00:26:08,000 --> 00:26:11,000
- I'm so sorry
+00:29:46,000 --> 00:29:48,000
+Are you okay?
 
 422
-00:26:11,000 --> 00:26:16,000
- We'll find out where Flita is soon
+00:29:48,000 --> 00:29:50,000
+You're okay, right?
 
 423
-00:26:16,000 --> 00:26:35,000
- My little sister
+00:29:50,000 --> 00:29:52,000
+Alva?
 
 424
-00:26:35,000 --> 00:26:37,000
- I'm going to cry
+00:29:52,000 --> 00:29:54,000
+Are you okay?
 
 425
-00:26:38,000 --> 00:26:40,000
- Who are you?
+00:29:54,000 --> 00:30:00,000
+Alva?
 
 426
-00:26:40,000 --> 00:26:52,000
- I'm Pangeran from a faraway country
+00:30:00,000 --> 00:30:02,000
+I'm scared
 
 427
-00:26:52,000 --> 00:26:59,000
- Why are you crying here?
+00:30:26,000 --> 00:30:28,000
+What's that?
 
 428
-00:26:59,000 --> 00:27:01,000
- I'm a weirdo
+00:30:28,000 --> 00:30:30,000
+Watch out!
 
 429
-00:27:01,000 --> 00:27:03,000
- Everyone hates me
+00:30:30,000 --> 00:30:32,000
+Alva must have been possessed by a very evil magic
 
 430
-00:27:03,000 --> 00:27:05,000
- I'm not a good person
+00:30:32,000 --> 00:30:34,000
+What kind of magic is this?
 
 431
-00:27:05,000 --> 00:27:07,000
- I'm not a good person
+00:30:34,000 --> 00:30:53,000
+You're all dead
 
 432
-00:27:07,000 --> 00:27:09,000
- I'm not a good person
+00:30:53,000 --> 00:31:12,000
+Alva, you're safe!
 
 433
-00:27:09,000 --> 00:27:11,000
- I'm not a good person
+00:31:12,000 --> 00:31:14,000
+You're safe!
 
 434
-00:27:11,000 --> 00:27:14,000
- Then we're the same
+00:31:14,000 --> 00:31:19,000
+Come here
 
 435
-00:27:14,000 --> 00:27:16,000
- What do you mean?
+00:31:19,000 --> 00:31:23,000
+Alva, I'm so relieved
 
 436
-00:27:16,000 --> 00:27:19,000
- I don't have any friends
+00:31:23,000 --> 00:31:27,000
+You're safe
 
 437
-00:27:19,000 --> 00:27:23,000
- Almost everyone in this world hates me
+00:31:27,000 --> 00:31:29,000
+This is for you
 
 438
-00:27:23,000 --> 00:27:26,000
- I'm considered a problem
+00:31:29,000 --> 00:31:33,000
+Thank you
 
 439
-00:27:26,000 --> 00:27:30,000
- What if we become friends?
+00:31:47,000 --> 00:31:51,000
+Cintara
 
 440
-00:27:30,000 --> 00:27:33,000
- But are you afraid of me?
+00:31:51,000 --> 00:31:53,000
+Forgive me
 
 441
-00:27:33,000 --> 00:27:35,000
- I have a strange power
+00:31:53,000 --> 00:31:59,000
+But thank you too, Cintara
 
 442
-00:27:35,000 --> 00:27:38,000
- I can make everyone freeze
+00:31:59,000 --> 00:32:13,000
+Cintara
 
 443
-00:27:38,000 --> 00:27:40,000
- Since we're friends
+00:32:13,000 --> 00:32:19,000
+Forgive me
 
 444
-00:27:40,000 --> 00:27:43,000
- I'll tell you my secret
+00:32:20,000 --> 00:32:31,000
+Help!
 
 445
-00:27:43,000 --> 00:27:46,000
- I also have a strange power
+00:32:31,000 --> 00:32:53,000
+What's wrong, Cintara?
 
 446
-00:27:46,000 --> 00:27:48,000
- I can't freeze
+00:32:53,000 --> 00:32:55,000
+What's wrong?
 
 447
-00:27:48,000 --> 00:27:58,000
- Are you sure you want to be my friend?
+00:32:55,000 --> 00:32:57,000
+I almost forgot
 
 448
-00:28:02,000 --> 00:28:04,000
- Give me your hand
+00:32:57,000 --> 00:33:03,000
+We have to go to school
 
 449
-00:28:04,000 --> 00:28:06,000
- I'm not afraid of you
+00:33:03,000 --> 00:33:05,000
+Why?
 
 450
-00:28:06,000 --> 00:28:08,000
- I'm not afraid of you
+00:33:05,000 --> 00:33:07,000
+This is a letter from Professor Ali Baran
 
 451
-00:28:34,000 --> 00:28:36,000
- You see for yourself
+00:33:07,000 --> 00:33:09,000
+I got a letter from him
 
 452
-00:28:36,000 --> 00:28:38,000
- I don't freeze
+00:33:09,000 --> 00:33:13,000
+He said our school is in danger
 
 453
-00:28:38,000 --> 00:28:47,000
- Professor Aldebaran
+00:33:13,000 --> 00:33:15,000
+Danger? What danger?
 
 454
-00:28:47,000 --> 00:28:49,000
- I got a message from Professor Agni
+00:33:15,000 --> 00:33:19,000
+So we have to go back to school
 
 455
-00:28:49,000 --> 00:28:51,000
- That the school is in danger
+00:33:19,000 --> 00:33:23,000
+This letter will make us
 
 456
-00:28:51,000 --> 00:28:53,000
- But who will do it?
+00:33:23,000 --> 00:33:27,000
+Make us able to go back to school
 
 457
-00:28:53,000 --> 00:28:59,000
- We can do it
+00:33:27,000 --> 00:33:29,000
+Come on
 
 458
-00:28:59,000 --> 00:29:09,000
- We can do it
+00:33:29,000 --> 00:33:33,000
+Hold this
 
 459
-00:29:09,000 --> 00:29:16,000
- Who is it?
+00:33:33,000 --> 00:33:35,000
+Ready?
 
 460
-00:29:16,000 --> 00:29:18,000
- Where's Alva?
+00:33:35,000 --> 00:33:39,000
+Ready
 
 461
-00:29:18,000 --> 00:29:20,000
- Ri, wake up!
+00:33:39,000 --> 00:34:05,000
+Welcome, Alfa
 
 462
-00:29:20,000 --> 00:29:22,000
- Ri, wake up!
+00:34:05,000 --> 00:34:07,000
+I'm happy you're here
 
 463
-00:29:22,000 --> 00:29:24,000
- It's morning
+00:34:07,000 --> 00:34:09,000
+Thank you, Professor
 
 464
-00:29:24,000 --> 00:29:26,000
- What about Alva?
+00:34:09,000 --> 00:34:11,000
+Professor Ali Baran
 
 465
-00:29:26,000 --> 00:29:28,000
- I want to ask her
+00:34:11,000 --> 00:34:13,000
+I got a letter from Professor Aki
 
 466
-00:29:28,000 --> 00:29:30,000
- Alva hasn't come
+00:34:13,000 --> 00:34:15,000
+He said our school is in danger
 
 467
-00:29:30,000 --> 00:29:32,000
- Where's Alva?
+00:34:15,000 --> 00:34:17,000
+But who did this, Professor?
 
 468
-00:29:32,000 --> 00:29:34,000
- She hasn't come
+00:34:17,000 --> 00:34:23,000
+He did this
 
 469
-00:29:34,000 --> 00:29:36,000
- She hasn't come?
+00:34:23,000 --> 00:34:25,000
+He did this?
 
 470
-00:29:36,000 --> 00:29:38,000
- She hasn't come?
+00:34:25,000 --> 00:34:29,000
+But that's impossible
 
 471
-00:29:38,000 --> 00:29:40,000
- I'm scared
+00:34:29,000 --> 00:34:33,000
+We didn't expect it either
 
 472
-00:29:40,000 --> 00:29:44,000
- Alva?
+00:34:33,000 --> 00:34:35,000
+But it turns out
 
 473
-00:29:44,000 --> 00:29:46,000
- Alva?
+00:34:35,000 --> 00:34:37,000
+Plita has special powers
 
 474
-00:29:46,000 --> 00:29:48,000
- Are you okay?
+00:34:37,000 --> 00:34:39,000
+But unfortunately
 
 475
-00:29:48,000 --> 00:29:50,000
- You're okay, right?
+00:34:39,000 --> 00:34:41,000
+She can't control her powers
 
 476
-00:29:50,000 --> 00:29:52,000
- Alva?
+00:34:41,000 --> 00:34:45,000
+So when she's angry
 
 477
-00:29:52,000 --> 00:29:54,000
- Are you okay?
+00:34:45,000 --> 00:34:47,000
+Angry, sad
 
 478
-00:29:54,000 --> 00:29:56,000
- Alva?
+00:34:47,000 --> 00:34:49,000
+Feeling lonely, scared
 
 479
-00:29:56,000 --> 00:29:58,000
- Alva?
+00:34:49,000 --> 00:34:53,000
+Then the power can come out
 
 480
-00:29:58,000 --> 00:30:00,000
- Alva?
+00:34:53,000 --> 00:34:57,000
+And what touches her can freeze
 
 481
-00:30:00,000 --> 00:30:02,000
- I'm scared
+00:34:57,000 --> 00:34:59,000
+Where's Plita?
 
 482
-00:30:26,000 --> 00:30:28,000
- What's that?
+00:34:59,000 --> 00:35:01,000
+We haven't been able to find her
 
 483
-00:30:28,000 --> 00:30:30,000
- Watch out!
+00:35:01,000 --> 00:35:03,000
+We need a telescope
 
 484
-00:30:30,000 --> 00:30:32,000
- Alva must have been possessed by a very evil magic
+00:35:03,000 --> 00:35:05,000
+Ray, telescope
 
 485
-00:30:32,000 --> 00:30:34,000
- What kind of magic is this?
+00:35:05,000 --> 00:35:07,000
+Try using this telescope
 
 486
-00:30:34,000 --> 00:30:51,000
- You're all dead
+00:35:07,000 --> 00:35:09,000
+Where's Plita?
 
 487
-00:30:51,000 --> 00:30:53,000
- You're all dead
+00:35:09,000 --> 00:35:17,000
+The food is so good
 
 488
-00:30:53,000 --> 00:31:12,000
- Alva, you're safe!
+00:35:17,000 --> 00:35:19,000
+There's ice cream
 
 489
-00:31:12,000 --> 00:31:14,000
- You're safe!
+00:35:19,000 --> 00:35:21,000
+Permanent
 
 490
-00:31:14,000 --> 00:31:19,000
- Come here
+00:35:21,000 --> 00:35:23,000
+Bakso
 
 491
-00:31:19,000 --> 00:31:21,000
- Alva, I'm so relieved
+00:35:23,000 --> 00:35:25,000
+Ray, focus
 
 492
-00:31:21,000 --> 00:31:23,000
- Alva, I'm so relieved
+00:35:25,000 --> 00:35:27,000
+Find where's Plita
 
 493
-00:31:23,000 --> 00:31:25,000
- You're safe
+00:35:27,000 --> 00:35:29,000
+You're the one who's thinking about food
 
 494
-00:31:25,000 --> 00:31:27,000
- You're safe
+00:35:29,000 --> 00:35:31,000
+I'm hungry
 
 495
-00:31:27,000 --> 00:31:29,000
- This is for you
+00:35:31,000 --> 00:35:33,000
+Plita
 
 496
-00:31:29,000 --> 00:31:31,000
- Thank you
+00:35:33,000 --> 00:35:35,000
+Can you find Plita?
 
 497
-00:31:31,000 --> 00:31:33,000
- Thank you
+00:35:35,000 --> 00:35:51,000
+That's her
 
 498
-00:31:47,000 --> 00:31:49,000
- Cintara
+00:35:51,000 --> 00:35:53,000
+That's Plita
 
 499
-00:31:49,000 --> 00:31:51,000
- Cintara
+00:35:53,000 --> 00:35:55,000
+Alva
 
 500
-00:31:51,000 --> 00:31:53,000
- Forgive me
+00:35:55,000 --> 00:35:57,000
+Plita
 
 501
-00:31:53,000 --> 00:31:57,000
- But thank you too, Cintara
+00:35:57,000 --> 00:36:07,000
+She's with a man
 
 502
-00:31:57,000 --> 00:31:59,000
- But thank you too, Cintara
+00:36:07,000 --> 00:36:09,000
+He's a criminal
 
 503
-00:31:59,000 --> 00:32:01,000
- Cintara
+00:36:09,000 --> 00:36:15,000
+But who is that, Prof?
 
 504
-00:32:01,000 --> 00:32:13,000
- Cintara
+00:36:15,000 --> 00:36:17,000
+Or maybe
 
 505
-00:32:13,000 --> 00:32:15,000
- Forgive me
+00:36:17,000 --> 00:36:19,000
+Professor Angkara
 
 506
-00:32:15,000 --> 00:32:17,000
- Forgive me
+00:36:23,000 --> 00:36:25,000
+But he looks different
 
 507
-00:32:17,000 --> 00:32:19,000
- Forgive me
+00:36:25,000 --> 00:36:49,000
+I brought you a warm chocolate
 
 508
-00:32:20,000 --> 00:32:22,000
- Help!
+00:36:49,000 --> 00:36:51,000
+Here, so your body will be warm
 
 509
-00:32:22,000 --> 00:32:24,000
- Help!
+00:36:51,000 --> 00:36:56,180
+He can see everything, how sweet you are, sadness is only a part of your heart.
 
 510
-00:32:24,000 --> 00:32:26,000
- Help!
+00:36:56,180 --> 00:37:00,500
+You only have deep heart, nothing else matters.
 
 511
-00:32:26,000 --> 00:32:28,000
- Help!
+00:37:00,500 --> 00:37:05,180
+You have got my heart, I've got your heart.
 
 512
-00:32:29,000 --> 00:32:31,000
- Help!
+00:37:05,180 --> 00:37:10,660
+And we'll always be together.
 
 513
-00:32:31,000 --> 00:32:53,000
- What's wrong, Cintara?
+00:37:10,660 --> 00:37:18,660
+You really think I can't go to you?
 
 514
-00:32:53,000 --> 00:32:55,000
- What's wrong?
+00:37:18,660 --> 00:37:22,660
+I'm not afraid of you, I'm afraid of your love.
 
 515
-00:32:55,000 --> 00:32:57,000
- I almost forgot
+00:37:22,660 --> 00:37:26,660
+I'm afraid that you'll leave me.
 
 516
-00:32:57,000 --> 00:33:01,000
- We have to go to school
+00:37:26,660 --> 00:37:29,660
+I'm scared.
 
 517
-00:33:01,000 --> 00:33:03,000
- We have to go to school
+00:37:29,660 --> 00:37:30,660
+Wait!
 
 518
-00:33:03,000 --> 00:33:05,000
- Why?
+00:37:30,660 --> 00:37:37,660
+Who are you?
 
 519
-00:33:05,000 --> 00:33:07,000
- This is a letter from Professor Ali Baran
+00:37:37,660 --> 00:37:49,660
+To be continued...
 
 520
-00:33:07,000 --> 00:33:09,000
- I got a letter from him
+00:38:12,660 --> 00:38:13,660
+Bobo?
 
 521
-00:33:09,000 --> 00:33:11,000
- He said our school is in danger
+00:38:13,660 --> 00:38:37,660
+Alva! Where are you?
 
 522
-00:33:11,000 --> 00:33:13,000
- He said our school is in danger
+00:38:37,660 --> 00:38:39,660
+Alva!
 
 523
-00:33:13,000 --> 00:33:15,000
- Danger? What danger?
+00:38:39,660 --> 00:38:43,660
+Alva! Where are you?
 
 524
-00:33:15,000 --> 00:33:17,000
- So we have to go back to school
+00:38:43,660 --> 00:38:46,660
+Alva!
 
 525
-00:33:17,000 --> 00:33:19,000
- So we have to go back to school
+00:38:46,660 --> 00:38:49,660
+That's Aldebar's voice.
 
 526
-00:33:19,000 --> 00:33:21,000
- This letter will make us
+00:38:49,660 --> 00:38:53,660
+I can't face him with this power.
 
 527
-00:33:21,000 --> 00:33:23,000
- This letter will make us
+00:38:53,660 --> 00:39:04,660
+Alva!
 
 528
-00:33:23,000 --> 00:33:25,000
- Make us able to go back to school
+00:39:04,660 --> 00:39:06,660
+Alva?
 
 529
-00:33:25,000 --> 00:33:27,000
- Make us able to go back to school
+00:39:06,660 --> 00:39:10,660
+Alva, wake up.
 
 530
-00:33:27,000 --> 00:33:29,000
- Come on
+00:39:10,660 --> 00:39:14,660
+Alva?
 
 531
-00:33:29,000 --> 00:33:33,000
- Hold this
+00:39:14,660 --> 00:39:20,660
+You're a handsome boy, why do you look like this?
 
 532
-00:33:33,000 --> 00:33:35,000
- Ready?
+00:39:20,660 --> 00:39:25,660
+Alva, who did this to you?
 
 533
-00:33:35,000 --> 00:33:37,000
- Ready
+00:39:25,660 --> 00:39:31,660
+To be continued...
 
 534
-00:33:37,000 --> 00:33:39,000
- Ready
+00:39:31,660 --> 00:39:49,660
+How is it, Professor?
 
 535
-00:33:39,000 --> 00:34:05,000
- Welcome, Alfa
+00:39:50,660 --> 00:39:54,660
+It's nothing. We should go back inside.
 
 536
-00:34:05,000 --> 00:34:07,000
- I'm happy you're here
+00:39:54,660 --> 00:39:57,660
+Come on, help Alva.
 
 537
-00:34:07,000 --> 00:34:09,000
- Thank you, Professor
+00:39:57,660 --> 00:40:09,660
+Megantara's feeling says...
 
 538
-00:34:09,000 --> 00:34:11,000
- Professor Ali Baran
+00:40:09,660 --> 00:40:14,660
+...that Professor Aldebaran is hiding something.
 
 539
-00:34:11,000 --> 00:34:13,000
- I got a letter from Professor Aki
+00:40:15,660 --> 00:40:17,660
+To be continued...
 
 540
-00:34:13,000 --> 00:34:15,000
- He said our school is in danger
+00:40:17,660 --> 00:40:31,660
+How long are we going to stay here?
 
 541
-00:34:15,000 --> 00:34:17,000
- But who did this, Professor?
+00:40:31,660 --> 00:40:34,660
+I'm getting sick of this.
 
 542
-00:34:17,000 --> 00:34:19,000
- He did this
+00:40:34,660 --> 00:40:37,660
+Be patient.
 
 543
-00:34:19,000 --> 00:34:21,000
- He did this
+00:40:37,660 --> 00:40:43,660
+Professor is trying to make us recover.
 
 544
-00:34:21,000 --> 00:34:23,000
- He did this
+00:40:43,660 --> 00:40:45,660
+We should just wait here.
 
 545
-00:34:23,000 --> 00:34:25,000
- He did this?
+00:40:45,660 --> 00:40:49,660
+Because of the monster, we're like this.
 
 546
-00:34:25,000 --> 00:34:29,000
- But that's impossible
+00:40:49,660 --> 00:40:53,660
+This school is so cold, we can't play.
 
 547
-00:34:29,000 --> 00:34:31,000
- We didn't expect it either
+00:40:53,660 --> 00:40:57,660
+It's so cold, we should go back.
 
 548
-00:34:31,000 --> 00:34:33,000
- We didn't expect it either
+00:40:57,660 --> 00:41:00,660
+Firecrackers.
 
 549
-00:34:33,000 --> 00:34:35,000
- But it turns out
+00:41:00,660 --> 00:41:03,660
+So this is how they do the cold.
 
 550
-00:34:35,000 --> 00:34:37,000
- Plita has special powers
+00:41:03,660 --> 00:41:07,660
+I know how to use this situation.
 
 551
-00:34:37,000 --> 00:34:39,000
- But unfortunately
+00:41:07,660 --> 00:41:13,660
+To be continued...
 
 552
-00:34:39,000 --> 00:34:41,000
- She can't control her powers
+00:41:35,660 --> 00:41:39,660
+If the chair is gone, the fire will be destroyed.
 
 553
-00:34:41,000 --> 00:34:45,000
- So when she's angry
+00:41:39,660 --> 00:41:43,660
+And Aldebaran can't use his magic because it's too cold.
 
 554
-00:34:45,000 --> 00:34:47,000
- Angry, sad
+00:41:43,660 --> 00:42:03,660
+A tree?
 
 555
-00:34:47,000 --> 00:34:49,000
- Feeling lonely, scared
+00:42:03,660 --> 00:42:09,660
+To be continued...
 
 556
-00:34:49,000 --> 00:34:51,000
- Then the power can come out
+00:42:09,660 --> 00:42:28,660
+Where are you taking me?
 
 557
-00:34:51,000 --> 00:34:53,000
- Then the power can come out
+00:42:28,660 --> 00:42:32,660
+I'm taking you to a place that can heal your hand.
 
 558
-00:34:53,000 --> 00:34:55,000
- And what touches her can freeze
+00:42:32,660 --> 00:42:35,660
+I don't want to. I want to go down.
 
 559
-00:34:55,000 --> 00:34:57,000
- And what touches her can freeze
+00:42:35,660 --> 00:42:38,660
+Calm down. I'll stop.
 
 560
-00:34:57,000 --> 00:34:59,000
- Where's Plita?
+00:42:38,660 --> 00:42:47,660
+You can go down.
 
 561
-00:34:59,000 --> 00:35:01,000
- We haven't been able to find her
+00:42:48,660 --> 00:43:40,660
+To be continued...
 
 562
-00:35:01,000 --> 00:35:03,000
- We need a telescope
+00:43:40,660 --> 00:43:49,660
+What are you doing?
 
 563
-00:35:03,000 --> 00:35:05,000
- Ray, telescope
+00:43:49,660 --> 00:43:58,660
+This is a very rare sight.
 
 564
-00:35:05,000 --> 00:35:07,000
- Try using this telescope
+00:43:58,660 --> 00:44:00,660
+He always attacks the tree.
 
 565
-00:35:07,000 --> 00:35:09,000
- Where's Plita?
+00:44:00,660 --> 00:44:04,660
+While his friends are at school.
 
 566
-00:35:09,000 --> 00:35:17,000
- The food is so good
+00:44:04,660 --> 00:44:06,660
+Yes, sir.
 
 567
-00:35:17,000 --> 00:35:19,000
- There's ice cream
+00:44:06,660 --> 00:44:09,660
+I want to go to my own school.
 
 568
-00:35:19,000 --> 00:35:21,000
- Permanent
+00:44:09,660 --> 00:44:12,660
+Throw him out of the school.
 
 569
-00:35:21,000 --> 00:35:23,000
- Bakso
+00:44:12,660 --> 00:44:14,660
+Or just throw him out.
 
 570
-00:35:23,000 --> 00:35:25,000
- Ray, focus
+00:44:14,660 --> 00:44:16,660
+I'm not wrong, sir.
 
 571
-00:35:25,000 --> 00:35:27,000
- Find where's Plita
+00:44:16,660 --> 00:44:18,660
+Don't throw me out of the school.
 
 572
-00:35:27,000 --> 00:35:29,000
- You're the one who's thinking about food
+00:44:18,660 --> 00:44:21,660
+Because I don't want to see you again.
 
 573
-00:35:29,000 --> 00:35:31,000
- I'm hungry
+00:44:21,660 --> 00:44:23,660
+He's a bad guy.
 
 574
-00:35:31,000 --> 00:35:33,000
- Plita
+00:44:23,660 --> 00:44:25,660
+Don't go with him.
 
 575
-00:35:33,000 --> 00:35:35,000
- Can you find Plita?
+00:44:25,660 --> 00:44:27,660
+He should be thrown out of this school.
 
 576
-00:35:35,000 --> 00:35:51,000
- That's her
+00:44:27,660 --> 00:44:29,660
+Throw him out.
 
 577
-00:35:51,000 --> 00:35:53,000
- That's Plita
+00:44:29,660 --> 00:44:33,660
+Let's go.
 
 578
-00:35:53,000 --> 00:35:55,000
- Alva
+00:44:33,660 --> 00:44:35,660
+Don't waste time with him.
 
 579
-00:35:55,000 --> 00:35:57,000
- Plita
+00:44:35,660 --> 00:44:42,660
+Let's go with him.
 
 580
-00:35:57,000 --> 00:36:07,000
- She's with a man
+00:44:42,660 --> 00:44:46,660
+Let's go.
 
 581
-00:36:07,000 --> 00:36:09,000
- He's a criminal
+00:44:47,660 --> 00:45:56,660
+To be continued...
 
 582
-00:36:09,000 --> 00:36:15,000
- But who is that, Prof?
+00:45:56,660 --> 00:46:09,660
+Calm down, Elf.
 
 583
-00:36:15,000 --> 00:36:17,000
- Or maybe
+00:46:09,660 --> 00:46:12,660
+I don't mean any harm here.
 
 584
-00:36:17,000 --> 00:36:19,000
- Professor Angkara
+00:46:12,660 --> 00:46:14,660
+Why are you here?
 
 585
-00:36:23,000 --> 00:36:25,000
- But he looks different
+00:46:14,660 --> 00:46:17,660
+I want to tell you a secret.
 
 586
-00:36:25,000 --> 00:36:49,000
- I brought you a warm chocolate
+00:46:17,660 --> 00:46:37,660
+I have bad news and good news.
 
 587
-00:36:49,000 --> 00:36:51,000
- Here, so your body will be warm
+00:46:37,660 --> 00:46:39,660
+What is it, sir?
 
 588
-00:36:51,000 --> 00:36:56,180
- He can see everything, how sweet you are, sadness is only a part of your heart.
+00:46:39,660 --> 00:46:40,660
+Alva.
 
 589
-00:36:56,180 --> 00:37:00,500
- You only have deep heart, nothing else matters.
+00:46:40,660 --> 00:46:44,660
+It seems that he has met the eighth prince.
 
 590
-00:37:00,500 --> 00:37:05,180
- You have got my heart, I've got your heart.
+00:46:44,660 --> 00:46:50,660
+The good news is...
 
 591
-00:37:05,180 --> 00:37:10,660
- And we'll always be together.
+00:46:50,660 --> 00:46:52,660
+Alva is safe.
 
 592
-00:37:10,660 --> 00:37:18,660
- You really think I can't go to you?
+00:46:52,660 --> 00:46:55,660
+Although his face is a little wounded.
 
 593
-00:37:18,660 --> 00:37:22,660
- I'm not afraid of you, I'm afraid of your love.
+00:46:55,660 --> 00:46:57,660
+The bad news is...
 
 594
-00:37:22,660 --> 00:37:26,660
- I'm afraid that you'll leave me.
+00:46:57,660 --> 00:47:01,660
+The eighth prince has taken Plita away.
 
 595
-00:37:26,660 --> 00:37:29,660
- I'm scared.
+00:47:01,660 --> 00:47:06,660
+Purwa.
 
 596
-00:37:29,660 --> 00:37:30,660
- Wait!
+00:47:06,660 --> 00:47:09,660
+I want you to find Plita's whereabouts.
 
 597
-00:37:30,660 --> 00:37:37,660
- Who are you?
+00:47:09,660 --> 00:47:12,660
+As soon as you find her, let me know.
 
 598
-00:37:37,660 --> 00:37:41,660
- To be continued...
+00:47:12,660 --> 00:47:14,660
+Yes, sir.
 
 599
-00:37:41,660 --> 00:37:45,660
- To be continued...
+00:47:14,660 --> 00:47:22,660
+You all can go back to the clinic.
 
 600
-00:37:45,660 --> 00:37:49,660
- To be continued...
+00:47:22,660 --> 00:47:24,660
+And stay alert.
 
 601
-00:38:12,660 --> 00:38:13,660
- Bobo?
+00:47:24,660 --> 00:47:26,660
+I will call Alva.
 
 602
-00:38:13,660 --> 00:38:37,660
- Alva! Where are you?
+00:47:26,660 --> 00:47:28,660
+To train her to be stronger.
 
 603
-00:38:37,660 --> 00:38:39,660
- Alva!
+00:47:28,660 --> 00:47:31,660
+Because one day...
 
 604
-00:38:39,660 --> 00:38:43,660
- Alva! Where are you?
+00:47:31,660 --> 00:47:34,660
+She may meet the eighth prince.
 
 605
-00:38:43,660 --> 00:38:46,660
- Alva!
+00:47:34,660 --> 00:47:36,660
+Yes, sir.
 
 606
-00:38:46,660 --> 00:38:49,660
- That's Aldebar's voice.
+00:47:36,660 --> 00:47:46,660
+To be continued...
 
 607
-00:38:49,660 --> 00:38:53,660
- I can't face him with this power.
+00:47:46,660 --> 00:47:59,660
+It's true what he said.
 
 608
-00:38:53,660 --> 00:39:04,660
- Alva!
+00:47:59,660 --> 00:48:05,660
+To be continued...
 
 609
-00:39:04,660 --> 00:39:06,660
- Alva?
+00:48:08,660 --> 00:48:11,660
+Professor is calling me.
 
 610
-00:39:06,660 --> 00:39:08,660
- Alva, wake up.
+00:48:11,660 --> 00:48:16,660
+Alva.
 
 611
-00:39:08,660 --> 00:39:10,660
- Alva, wake up.
+00:48:16,660 --> 00:48:19,660
+I mean to call you here.
 
 612
-00:39:10,660 --> 00:39:14,660
- Alva?
+00:48:19,660 --> 00:48:22,660
+Because I want to teach you...
 
 613
-00:39:14,660 --> 00:39:20,660
- You're a handsome boy, why do you look like this?
+00:48:22,660 --> 00:48:24,660
+The Pegasus Mantra.
 
 614
-00:39:20,660 --> 00:39:25,660
- Alva, who did this to you?
+00:48:24,660 --> 00:48:26,660
+Pegasus Mantra?
 
 615
-00:39:25,660 --> 00:39:31,660
- To be continued...
+00:48:26,660 --> 00:48:28,660
+What is that, sir?
 
 616
-00:39:31,660 --> 00:39:49,660
- How is it, Professor?
+00:48:28,660 --> 00:48:30,660
+Pegasus Mantra...
 
 617
-00:39:50,660 --> 00:39:54,660
- It's nothing. We should go back inside.
+00:48:30,660 --> 00:48:34,660
+Is a mantra that can create friends when you are alone.
 
 618
-00:39:54,660 --> 00:39:57,660
- Come on, help Alva.
+00:48:34,660 --> 00:48:36,660
+And you have to fight a strong enemy.
 
 619
-00:39:57,660 --> 00:40:09,660
- Megantara's feeling says...
+00:48:36,660 --> 00:48:38,660
+Like before.
 
 620
-00:40:09,660 --> 00:40:14,660
- ...that Professor Aldebaran is hiding something.
+00:48:38,660 --> 00:48:41,660
+I will set an example for you.
 
 621
-00:40:15,660 --> 00:40:17,660
- To be continued...
+00:48:41,660 --> 00:48:44,660
+Pegasus!
 
 622
-00:40:17,660 --> 00:40:31,660
- How long are we going to stay here?
+00:48:44,660 --> 00:48:48,660
+So cool!
 
 623
-00:40:31,660 --> 00:40:34,660
- I'm getting sick of this.
+00:48:48,660 --> 00:48:56,660
+Alva.
 
 624
-00:40:34,660 --> 00:40:37,660
- Be patient.
+00:48:56,660 --> 00:48:58,660
+Now, you go to me.
 
 625
-00:40:37,660 --> 00:40:43,660
- Professor is trying to make us recover.
+00:48:58,660 --> 00:49:00,660
+Yes, sir.
 
 626
-00:40:43,660 --> 00:40:45,660
- We should just wait here.
+00:49:03,660 --> 00:49:05,660
+Look, Alva.
 
 627
-00:40:45,660 --> 00:40:49,660
- Because of the monster, we're like this.
+00:49:05,660 --> 00:49:09,660
+My friend will protect me until the end.
 
 628
-00:40:49,660 --> 00:40:53,660
- This school is so cold, we can't play.
+00:49:09,660 --> 00:49:13,660
+And I can pull myself away from the enemy.
 
 629
-00:40:53,660 --> 00:40:57,660
- It's so cold, we should go back.
+00:49:13,660 --> 00:49:15,660
+Or distract the enemy.
 
 630
-00:40:57,660 --> 00:41:00,660
- Firecrackers.
+00:49:15,660 --> 00:49:22,660
+Pegasus!
 
 631
-00:41:00,660 --> 00:41:03,660
- So this is how they do the cold.
+00:49:22,660 --> 00:49:25,660
+Alva.
 
 632
-00:41:03,660 --> 00:41:07,660
- I know how to use this situation.
+00:49:25,660 --> 00:49:27,660
+What animal do you like the most?
 
 633
-00:41:07,660 --> 00:41:13,660
- To be continued...
+00:49:27,660 --> 00:49:31,660
+Garuda, sir.
 
 634
-00:41:35,660 --> 00:41:39,660
- If the chair is gone, the fire will be destroyed.
+00:49:31,660 --> 00:49:33,660
+Very good.
 
 635
-00:41:39,660 --> 00:41:43,660
- And Aldebaran can't use his magic because it's too cold.
+00:49:33,660 --> 00:49:37,660
+Now, you concentrate.
 
 636
-00:41:43,660 --> 00:42:03,660
- A tree?
+00:49:37,660 --> 00:49:40,660
+And imagine Garuda's feather on your head.
 
 637
-00:42:03,660 --> 00:42:09,660
- To be continued...
+00:49:40,660 --> 00:49:43,660
+Then, say the Pegasus Mantra.
 
 638
-00:42:09,660 --> 00:42:28,660
- Where are you taking me?
+00:49:43,660 --> 00:49:45,660
+Concentrate, Alva.
 
 639
-00:42:28,660 --> 00:42:32,660
- I'm taking you to a place that can heal your hand.
+00:49:45,660 --> 00:49:47,660
+Yes, sir.
 
 640
-00:42:32,660 --> 00:42:35,660
- I don't want to. I want to go down.
+00:49:47,660 --> 00:49:50,660
+Pegasus!
 
 641
-00:42:35,660 --> 00:42:38,660
- Calm down. I'll stop.
+00:49:50,660 --> 00:49:53,660
+Why is it a chicken?
 
 642
-00:42:38,660 --> 00:42:47,660
- You can go down.
+00:49:53,660 --> 00:49:55,660
+Alva.
 
 643
-00:42:48,660 --> 00:42:53,660
- To be continued...
+00:49:55,660 --> 00:49:58,660
+Your enemy can't scare a chicken.
 
 644
-00:42:53,660 --> 00:42:59,660
- To be continued...
+00:49:58,660 --> 00:50:00,660
+Come on, try again.
 
 645
-00:42:59,660 --> 00:43:03,660
- To be continued...
+00:50:01,660 --> 00:50:03,660
+Pegasus!
 
 646
-00:43:04,660 --> 00:43:10,660
- To be continued...
+00:50:03,660 --> 00:50:08,660
+Wow, it's a duck.
 
 647
-00:43:11,660 --> 00:43:15,660
- To be continued...
+00:50:08,660 --> 00:50:13,660
+I will be laughed at by the enemy.
 
 648
-00:43:15,660 --> 00:43:21,660
- To be continued...
+00:50:13,660 --> 00:50:17,660
+Alva.
 
 649
-00:43:21,660 --> 00:43:27,660
- To be continued...
+00:50:17,660 --> 00:50:19,660
+That's all for today.
 
 650
-00:43:27,660 --> 00:43:34,660
- To be continued...
+00:50:19,660 --> 00:50:21,660
+Now, you should rest.
 
 651
-00:43:34,660 --> 00:43:40,660
- To be continued...
+00:50:21,660 --> 00:50:23,660
+We will continue tomorrow.
 
 652
-00:43:40,660 --> 00:43:49,660
- What are you doing?
+00:50:23,660 --> 00:50:25,660
+Yes, sir.
 
 653
-00:43:49,660 --> 00:43:58,660
- This is a very rare sight.
+00:50:25,660 --> 00:50:29,660
+I will go now.
 
 654
-00:43:58,660 --> 00:44:00,660
- He always attacks the tree.
+00:50:29,660 --> 00:50:42,660
+To be continued...
 
 655
-00:44:00,660 --> 00:44:04,660
- While his friends are at school.
+00:50:42,660 --> 00:50:59,660
+Alva.
 
 656
-00:44:04,660 --> 00:44:06,660
- Yes, sir.
+00:51:03,660 --> 00:51:05,660
+What are you doing there?
 
 657
-00:44:06,660 --> 00:44:09,660
- I want to go to my own school.
+00:51:05,660 --> 00:51:07,660
+I was taught a new mantra.
 
 658
-00:44:09,660 --> 00:44:12,660
- Throw him out of the school.
+00:51:07,660 --> 00:51:10,660
+A new mantra?
 
 659
-00:44:12,660 --> 00:44:14,660
- Or just throw him out.
+00:51:10,660 --> 00:51:14,660
+Yes, so I can be stronger than the enemy.
 
 660
-00:44:14,660 --> 00:44:16,660
- I'm not wrong, sir.
+00:51:14,660 --> 00:51:17,660
+Who is the enemy you met?
 
 661
-00:44:16,660 --> 00:44:18,660
- Don't throw me out of the school.
+00:51:17,660 --> 00:51:20,660
+I asked the officer.
 
 662
-00:44:18,660 --> 00:44:21,660
- Because I don't want to see you again.
+00:51:20,660 --> 00:51:22,660
+He was so worried.
 
 663
-00:44:21,660 --> 00:44:23,660
- He's a bad guy.
+00:51:22,660 --> 00:51:24,660
+I don't know.
 
 664
-00:44:23,660 --> 00:44:25,660
- Don't go with him.
+00:51:24,660 --> 00:51:27,660
+I talked to the officer.
 
 665
-00:44:25,660 --> 00:44:27,660
- He should be thrown out of this school.
+00:51:27,660 --> 00:51:30,660
+Don't tell anyone.
 
 666
-00:44:27,660 --> 00:44:29,660
- Throw him out.
+00:51:31,660 --> 00:51:38,660
+The eighth god.
 
 667
-00:44:29,660 --> 00:44:33,660
- Let's go.
+00:51:38,660 --> 00:52:04,660
+Who attacked you?
 
 668
-00:44:33,660 --> 00:44:35,660
- Don't waste time with him.
+00:52:05,660 --> 00:52:29,660
+Tell me.
 
 669
-00:44:35,660 --> 00:44:42,660
- Let's go with him.
+00:52:29,660 --> 00:53:26,660
+To be continued...
 
 670
-00:44:42,660 --> 00:44:46,660
- Let's go.
+00:53:26,660 --> 00:53:48,660
+Satria, Alva.
 
 671
-00:44:47,660 --> 00:44:52,660
- To be continued...
+00:53:48,660 --> 00:53:50,660
+What's wrong?
 
 672
-00:44:53,660 --> 00:44:58,660
- To be continued...
+00:53:50,660 --> 00:53:56,660
+It's been a long time, Professor Purwa.
 
 673
-00:44:59,660 --> 00:45:04,660
- To be continued...
+00:53:56,660 --> 00:54:00,660
+He hasn't told me anything yet.
 
 674
-00:45:05,660 --> 00:45:10,660
- To be continued...
+00:54:17,660 --> 00:54:19,660
+What's in the letter?
 
 675
-00:45:11,660 --> 00:45:16,660
- To be continued...
+00:54:19,660 --> 00:54:31,660
+We want to ask one of your teachers...
 
 676
-00:45:16,660 --> 00:45:21,660
- To be continued...
+00:54:31,660 --> 00:54:38,660
+to meet us in the snowy forest at the end of the forest.
 
 677
-00:45:21,660 --> 00:45:26,660
- To be continued...
+00:54:38,660 --> 00:54:40,660
+Who is he, Professor?
 
 678
-00:45:26,660 --> 00:45:31,660
- To be continued...
+00:54:40,660 --> 00:54:42,660
+I don't know.
 
 679
-00:45:31,660 --> 00:45:36,660
- To be continued...
+00:54:42,660 --> 00:54:43,660
+But I will go there.
 
 680
-00:45:36,660 --> 00:45:41,660
- To be continued...
+00:54:43,660 --> 00:54:45,660
+I will go with you.
 
 681
-00:45:41,660 --> 00:45:46,660
- To be continued...
+00:54:46,660 --> 00:55:01,660
+To be continued...
 
 682
-00:45:46,660 --> 00:45:51,660
- To be continued...
+00:55:01,660 --> 00:55:17,660
+Satria, Alva.
 
 683
-00:45:51,660 --> 00:45:56,660
- To be continued...
+00:55:17,660 --> 00:55:23,660
+To be continued...
 
 684
-00:45:56,660 --> 00:46:09,660
- Calm down, Elf.
+00:55:23,660 --> 00:55:26,660
+Wait.
 
 685
-00:46:09,660 --> 00:46:12,660
- I don't mean any harm here.
+00:55:26,660 --> 00:55:28,660
+Be patient.
 
 686
-00:46:12,660 --> 00:46:14,660
- Why are you here?
+00:55:28,660 --> 00:55:30,660
+We don't want to cause any trouble.
 
 687
-00:46:14,660 --> 00:46:17,660
- I want to tell you a secret.
+00:55:30,660 --> 00:55:35,660
+Aldebaran.
 
 688
-00:46:17,660 --> 00:46:37,660
- I have bad news and good news.
+00:55:35,660 --> 00:55:39,660
+Is it true that you stole our firecrackers?
 
 689
-00:46:37,660 --> 00:46:39,660
- What is it, sir?
+00:55:39,660 --> 00:55:43,660
+You want to kiss my cheek?
 
 690
-00:46:39,660 --> 00:46:40,660
- Alva.
+00:55:43,660 --> 00:55:45,660
+You're too much.
 
 691
-00:46:40,660 --> 00:46:44,660
- It seems that he has met the eighth prince.
+00:55:46,660 --> 00:55:48,660
+Don't dream.
 
 692
-00:46:44,660 --> 00:46:50,660
- The good news is...
+00:55:48,660 --> 00:55:52,660
+Professor Aldebaran is not a thief.
 
 693
-00:46:50,660 --> 00:46:52,660
- Alva is safe.
+00:55:52,660 --> 00:55:54,660
+Don't lie.
 
 694
-00:46:52,660 --> 00:46:55,660
- Although his face is a little wounded.
+00:55:54,660 --> 00:55:57,660
+The last person who brought the firecrackers...
 
 695
-00:46:55,660 --> 00:46:57,660
- The bad news is...
+00:55:57,660 --> 00:56:00,660
+was our brother, Pancas.
 
 696
-00:46:57,660 --> 00:47:01,660
- The eighth prince has taken Plita away.
+00:56:00,660 --> 00:56:01,660
+Yes.
 
 697
-00:47:01,660 --> 00:47:06,660
- Purwa.
+00:56:01,660 --> 00:56:03,660
+Pancas is my twin brother.
 
 698
-00:47:06,660 --> 00:47:09,660
- I want you to find Plita's whereabouts.
+00:56:03,660 --> 00:56:06,660
+And we heard the news...
 
 699
-00:47:09,660 --> 00:47:12,660
- As soon as you find her, let me know.
+00:56:06,660 --> 00:56:08,660
+that Pancas has passed away.
 
 700
-00:47:12,660 --> 00:47:14,660
- Yes, sir.
+00:56:08,660 --> 00:56:10,660
+Popo is missing.
 
 701
-00:47:14,660 --> 00:47:22,660
- You all can go back to the clinic.
+00:56:10,660 --> 00:56:12,660
+And until now...
 
 702
-00:47:22,660 --> 00:47:24,660
- And stay alert.
+00:56:13,660 --> 00:56:16,660
+we haven't found the firecrackers that Pancas had.
 
 703
-00:47:24,660 --> 00:47:26,660
- I will call Alva.
+00:56:16,660 --> 00:56:19,660
+And someone told us...
 
 704
-00:47:26,660 --> 00:47:28,660
- To train her to be stronger.
+00:56:19,660 --> 00:56:23,660
+that the firecrackers are now at the civil school.
 
 705
-00:47:28,660 --> 00:47:31,660
- Because one day...
+00:56:23,660 --> 00:56:26,660
+And our assistant, Popo...
 
 706
-00:47:31,660 --> 00:47:34,660
- She may meet the eighth prince.
+00:56:26,660 --> 00:56:29,660
+has been made a spy.
 
 707
-00:47:34,660 --> 00:47:36,660
- Yes, sir.
+00:56:29,660 --> 00:56:31,660
+Calm down.
 
 708
-00:47:36,660 --> 00:47:41,660
- To be continued...
+00:56:31,660 --> 00:56:32,660
+Be patient.
 
 709
-00:47:41,660 --> 00:47:46,660
- To be continued...
+00:56:32,660 --> 00:56:36,660
+I will tell you what really happened.
 
 710
-00:47:46,660 --> 00:47:59,660
- It's true what he said.
+00:56:36,660 --> 00:56:37,660
+A few years ago...
 
 711
-00:47:59,660 --> 00:48:05,660
- To be continued...
+00:56:37,660 --> 00:56:39,660
+I met Pancas.
 
 712
-00:48:08,660 --> 00:48:11,660
- Professor is calling me.
+00:56:39,660 --> 00:56:41,660
+At that time...
 
 713
-00:48:11,660 --> 00:48:16,660
- Alva.
+00:56:41,660 --> 00:56:44,660
+Pancas was fighting the 8th Prince.
 
 714
-00:48:16,660 --> 00:48:19,660
- I mean to call you here.
+00:56:44,660 --> 00:56:49,660
+At that time...
 
 715
-00:48:19,660 --> 00:48:22,660
- Because I want to teach you...
+00:56:49,660 --> 00:56:52,660
+I saw that Pancas was exhausted...
 
 716
-00:48:22,660 --> 00:48:24,660
- The Pegasus Mantra.
+00:56:52,660 --> 00:56:54,660
+and almost lost.
 
 717
-00:48:24,660 --> 00:48:26,660
- Pegasus Mantra?
+00:56:54,660 --> 00:56:57,660
+And when I tried to help him...
 
 718
-00:48:26,660 --> 00:48:28,660
- What is that, sir?
+00:56:57,660 --> 00:56:59,660
+his wound was too bad.
 
 719
-00:48:28,660 --> 00:48:30,660
- Pegasus Mantra...
+00:56:59,660 --> 00:57:03,660
+I couldn't save him.
 
 720
-00:48:30,660 --> 00:48:34,660
- Is a mantra that can create friends when you are alone.
+00:57:04,660 --> 01:00:30,660
+[Pancas was attacked by the 8th Prince]
 
 721
-00:48:34,660 --> 00:48:36,660
- And you have to fight a strong enemy.
+01:00:30,660 --> 01:00:34,660
+Altebaran, we give you time until tomorrow morning.
 
 722
-00:48:36,660 --> 00:48:38,660
- Like before.
+01:00:34,660 --> 01:00:36,660
+If our Kris doesn't come back,
 
 723
-00:48:38,660 --> 00:48:41,660
- I will set an example for you.
+01:00:36,660 --> 01:00:39,660
+and our servant Pomo is no longer normal,
 
 724
-00:48:41,660 --> 00:48:44,660
- Pegasus!
+01:00:39,660 --> 01:00:41,660
+we will attack the school of magic.
 
 725
-00:48:44,660 --> 00:48:48,660
- So cool!
+01:00:41,660 --> 01:00:43,660
+And your teacher...
 
 726
-00:48:48,660 --> 00:48:56,660
- Alva.
+01:00:43,660 --> 01:00:47,660
+Your teacher will not come back.
 
 727
-00:48:56,660 --> 00:48:58,660
- Now, you go to me.
-
-728
-00:48:58,660 --> 00:49:00,660
- Yes, sir.
-
-729
-00:49:03,660 --> 00:49:05,660
- Look, Alva.
-
-730
-00:49:05,660 --> 00:49:09,660
- My friend will protect me until the end.
-
-731
-00:49:09,660 --> 00:49:13,660
- And I can pull myself away from the enemy.
-
-732
-00:49:13,660 --> 00:49:15,660
- Or distract the enemy.
-
-733
-00:49:15,660 --> 00:49:22,660
- Pegasus!
-
-734
-00:49:22,660 --> 00:49:25,660
- Alva.
-
-735
-00:49:25,660 --> 00:49:27,660
- What animal do you like the most?
-
-736
-00:49:27,660 --> 00:49:31,660
- Garuda, sir.
-
-737
-00:49:31,660 --> 00:49:33,660
- Very good.
-
-738
-00:49:33,660 --> 00:49:37,660
- Now, you concentrate.
-
-739
-00:49:37,660 --> 00:49:40,660
- And imagine Garuda's feather on your head.
-
-740
-00:49:40,660 --> 00:49:43,660
- Then, say the Pegasus Mantra.
-
-741
-00:49:43,660 --> 00:49:45,660
- Concentrate, Alva.
-
-742
-00:49:45,660 --> 00:49:47,660
- Yes, sir.
-
-743
-00:49:47,660 --> 00:49:50,660
- Pegasus!
-
-744
-00:49:50,660 --> 00:49:53,660
- Why is it a chicken?
-
-745
-00:49:53,660 --> 00:49:55,660
- Alva.
-
-746
-00:49:55,660 --> 00:49:58,660
- Your enemy can't scare a chicken.
-
-747
-00:49:58,660 --> 00:50:00,660
- Come on, try again.
-
-748
-00:50:01,660 --> 00:50:03,660
- Pegasus!
-
-749
-00:50:03,660 --> 00:50:08,660
- Wow, it's a duck.
-
-750
-00:50:08,660 --> 00:50:13,660
- I will be laughed at by the enemy.
-
-751
-00:50:13,660 --> 00:50:17,660
- Alva.
-
-752
-00:50:17,660 --> 00:50:19,660
- That's all for today.
-
-753
-00:50:19,660 --> 00:50:21,660
- Now, you should rest.
-
-754
-00:50:21,660 --> 00:50:23,660
- We will continue tomorrow.
-
-755
-00:50:23,660 --> 00:50:25,660
- Yes, sir.
-
-756
-00:50:25,660 --> 00:50:27,660
- I will go now.
-
-757
-00:50:27,660 --> 00:50:29,660
- I will go now.
-
-758
-00:50:29,660 --> 00:50:35,660
- To be continued...
-
-759
-00:50:36,660 --> 00:50:42,660
- To be continued...
-
-760
-00:50:42,660 --> 00:50:59,660
- Alva.
-
-761
-00:51:03,660 --> 00:51:05,660
- What are you doing there?
-
-762
-00:51:05,660 --> 00:51:07,660
- I was taught a new mantra.
-
-763
-00:51:07,660 --> 00:51:10,660
- A new mantra?
-
-764
-00:51:10,660 --> 00:51:14,660
- Yes, so I can be stronger than the enemy.
-
-765
-00:51:14,660 --> 00:51:17,660
- Who is the enemy you met?
-
-766
-00:51:17,660 --> 00:51:20,660
- I asked the officer.
-
-767
-00:51:20,660 --> 00:51:22,660
- He was so worried.
-
-768
-00:51:22,660 --> 00:51:24,660
- I don't know.
-
-769
-00:51:24,660 --> 00:51:27,660
- I talked to the officer.
-
-770
-00:51:27,660 --> 00:51:30,660
- Don't tell anyone.
-
-771
-00:51:31,660 --> 00:51:33,660
- The eighth god.
-
-772
-00:51:33,660 --> 00:51:35,660
- The eighth god.
-
-773
-00:51:36,660 --> 00:51:38,660
- The eighth god.
-
-774
-00:51:38,660 --> 00:52:04,660
- Who attacked you?
-
-775
-00:52:05,660 --> 00:52:07,660
- Tell me.
-
-776
-00:52:07,660 --> 00:52:09,660
- Tell me.
-
-777
-00:52:09,660 --> 00:52:11,660
- Tell me.
-
-778
-00:52:11,660 --> 00:52:13,660
- Tell me.
-
-779
-00:52:13,660 --> 00:52:15,660
- Tell me.
-
-780
-00:52:16,660 --> 00:52:18,660
- Tell me.
-
-781
-00:52:19,660 --> 00:52:21,660
- Tell me.
-
-782
-00:52:21,660 --> 00:52:23,660
- Tell me.
-
-783
-00:52:23,660 --> 00:52:25,660
- Tell me.
-
-784
-00:52:25,660 --> 00:52:27,660
- Tell me.
-
-785
-00:52:27,660 --> 00:52:29,660
- Tell me.
-
-786
-00:52:29,660 --> 00:52:33,660
- To be continued...
-
-787
-00:52:33,660 --> 00:52:37,660
- To be continued...
-
-788
-00:52:38,660 --> 00:52:43,660
- To be continued...
-
-789
-00:52:44,660 --> 00:52:49,660
- To be continued...
-
-790
-00:52:50,660 --> 00:52:55,660
- To be continued...
-
-791
-00:52:56,660 --> 00:53:01,660
- To be continued...
-
-792
-00:53:01,660 --> 00:53:11,660
- To be continued...
-
-793
-00:53:21,660 --> 00:53:26,660
- To be continued...
-
-794
-00:53:26,660 --> 00:53:48,660
- Satria, Alva.
-
-795
-00:53:48,660 --> 00:53:50,660
- What's wrong?
-
-796
-00:53:50,660 --> 00:53:56,660
- It's been a long time, Professor Purwa.
-
-797
-00:53:56,660 --> 00:54:00,660
- He hasn't told me anything yet.
-
-798
-00:54:17,660 --> 00:54:19,660
- What's in the letter?
-
-799
-00:54:19,660 --> 00:54:31,660
- We want to ask one of your teachers...
-
-800
-00:54:31,660 --> 00:54:38,660
- to meet us in the snowy forest at the end of the forest.
-
-801
-00:54:38,660 --> 00:54:40,660
- Who is he, Professor?
-
-802
-00:54:40,660 --> 00:54:42,660
- I don't know.
-
-803
-00:54:42,660 --> 00:54:43,660
- But I will go there.
-
-804
-00:54:43,660 --> 00:54:45,660
- I will go with you.
-
-805
-00:54:46,660 --> 00:54:50,660
- To be continued...
-
-806
-00:54:50,660 --> 00:54:55,660
- To be continued...
-
-807
-00:54:55,660 --> 00:55:01,660
- To be continued...
-
-808
-00:55:01,660 --> 00:55:17,660
- Satria, Alva.
-
-809
-00:55:17,660 --> 00:55:23,660
- To be continued...
-
-810
-00:55:23,660 --> 00:55:26,660
- Wait.
-
-811
-00:55:26,660 --> 00:55:28,660
- Be patient.
-
-812
-00:55:28,660 --> 00:55:30,660
- We don't want to cause any trouble.
-
-813
-00:55:30,660 --> 00:55:35,660
- Aldebaran.
-
-814
-00:55:35,660 --> 00:55:39,660
- Is it true that you stole our firecrackers?
-
-815
-00:55:39,660 --> 00:55:43,660
- You want to kiss my cheek?
-
-816
-00:55:43,660 --> 00:55:45,660
- You're too much.
-
-817
-00:55:46,660 --> 00:55:48,660
- Don't dream.
-
-818
-00:55:48,660 --> 00:55:52,660
- Professor Aldebaran is not a thief.
-
-819
-00:55:52,660 --> 00:55:54,660
- Don't lie.
-
-820
-00:55:54,660 --> 00:55:57,660
- The last person who brought the firecrackers...
-
-821
-00:55:57,660 --> 00:56:00,660
- was our brother, Pancas.
-
-822
-00:56:00,660 --> 00:56:01,660
- Yes.
-
-823
-00:56:01,660 --> 00:56:03,660
- Pancas is my twin brother.
-
-824
-00:56:03,660 --> 00:56:06,660
- And we heard the news...
-
-825
-00:56:06,660 --> 00:56:08,660
- that Pancas has passed away.
-
-826
-00:56:08,660 --> 00:56:10,660
- Popo is missing.
-
-827
-00:56:10,660 --> 00:56:12,660
- And until now...
-
-828
-00:56:13,660 --> 00:56:16,660
- we haven't found the firecrackers that Pancas had.
-
-829
-00:56:16,660 --> 00:56:19,660
- And someone told us...
-
-830
-00:56:19,660 --> 00:56:23,660
- that the firecrackers are now at the civil school.
-
-831
-00:56:23,660 --> 00:56:26,660
- And our assistant, Popo...
-
-832
-00:56:26,660 --> 00:56:29,660
- has been made a spy.
-
-833
-00:56:29,660 --> 00:56:31,660
- Calm down.
-
-834
-00:56:31,660 --> 00:56:32,660
- Be patient.
-
-835
-00:56:32,660 --> 00:56:36,660
- I will tell you what really happened.
-
-836
-00:56:36,660 --> 00:56:37,660
- A few years ago...
-
-837
-00:56:37,660 --> 00:56:39,660
- I met Pancas.
-
-838
-00:56:39,660 --> 00:56:41,660
- At that time...
-
-839
-00:56:41,660 --> 00:56:44,660
- Pancas was fighting the 8th Prince.
-
-840
-00:56:44,660 --> 00:56:49,660
- At that time...
-
-841
-00:56:49,660 --> 00:56:52,660
- I saw that Pancas was exhausted...
-
-842
-00:56:52,660 --> 00:56:54,660
- and almost lost.
-
-843
-00:56:54,660 --> 00:56:57,660
- And when I tried to help him...
-
-844
-00:56:57,660 --> 00:56:59,660
- his wound was too bad.
-
-845
-00:56:59,660 --> 00:57:03,660
- I couldn't save him.
-
-846
-00:57:04,660 --> 00:57:06,660
- [Pancas was attacked by the 8th Prince]
-
-847
-00:57:06,660 --> 00:57:08,660
- [Pancas was attacked by the 8th Prince]
-
-848
-00:57:08,660 --> 00:57:10,660
- [Pancas was attacked by the 8th Prince]
-
-849
-00:57:10,660 --> 00:57:12,660
- [Pancas was attacked by the 8th Prince]
-
-850
-00:57:12,660 --> 00:57:14,660
- [Pancas was attacked by the 8th Prince]
-
-851
-00:57:14,660 --> 00:57:16,660
- [Pancas was attacked by the 8th Prince]
-
-852
-00:57:16,660 --> 00:57:18,660
- [Pancas was attacked by the 8th Prince]
-
-853
-00:57:18,660 --> 00:57:20,660
- [Pancas was attacked by the 8th Prince]
-
-854
-00:57:20,660 --> 00:57:22,660
- [Pancas was attacked by the 8th Prince]
-
-855
-00:57:22,660 --> 00:57:24,660
- [Pancas was attacked by the 8th Prince]
-
-856
-00:57:24,660 --> 00:57:26,660
- [Pancas was attacked by the 8th Prince]
-
-857
-00:57:26,660 --> 00:57:28,660
- [Pancas was attacked by the 8th Prince]
-
-858
-00:57:28,660 --> 00:57:30,660
- [Pancas was attacked by the 8th Prince]
-
-859
-00:57:30,660 --> 00:57:32,660
- [Pancas was attacked by the 8th Prince]
-
-860
-00:57:32,660 --> 00:57:34,660
- [Pancas was attacked by the 8th Prince]
-
-861
-00:57:34,660 --> 00:57:36,660
- [Pancas was attacked by the 8th Prince]
-
-862
-00:57:36,660 --> 00:57:38,660
- [Pancas was attacked by the 8th Prince]
-
-863
-00:57:38,660 --> 00:57:40,660
- [Pancas was attacked by the 8th Prince]
-
-864
-00:57:40,660 --> 00:57:42,660
- [Pancas was attacked by the 8th Prince]
-
-865
-00:57:42,660 --> 00:57:44,660
- [Pancas was attacked by the 8th Prince]
-
-866
-00:57:44,660 --> 00:57:46,660
- [Pancas was attacked by the 8th Prince]
-
-867
-00:57:46,660 --> 00:57:48,660
- [Pancas was attacked by the 8th Prince]
-
-868
-00:57:48,660 --> 00:57:50,660
- [Pancas was attacked by the 8th Prince]
-
-869
-00:57:50,660 --> 00:57:52,660
- [Pancas was attacked by the 8th Prince]
-
-870
-00:57:52,660 --> 00:57:54,660
- [Pancas was attacked by the 8th Prince]
-
-871
-00:57:54,660 --> 00:57:56,660
- [Pancas was attacked by the 8th Prince]
-
-872
-00:57:56,660 --> 00:57:58,660
- [Pancas was attacked by the 8th Prince]
-
-873
-00:57:58,660 --> 00:58:00,660
- [Pancas was attacked by the 8th Prince]
-
-874
-00:58:00,660 --> 00:58:02,660
- [Pancas was attacked by the 8th Prince]
-
-875
-00:58:02,660 --> 00:58:04,660
- [Pancas was attacked by the 8th Prince]
-
-876
-00:58:04,660 --> 00:58:06,660
- [Pancas was attacked by the 8th Prince]
-
-877
-00:58:06,660 --> 00:58:08,660
- [Pancas was attacked by the 8th Prince]
-
-878
-00:58:08,660 --> 00:58:10,660
- [Pancas was attacked by the 8th Prince]
-
-879
-00:58:10,660 --> 00:58:12,660
- [Pancas was attacked by the 8th Prince]
-
-880
-00:58:12,660 --> 00:58:14,660
- [Pancas was attacked by the 8th Prince]
-
-881
-00:58:14,660 --> 00:58:16,660
- [Pancas was attacked by the 8th Prince]
-
-882
-00:58:16,660 --> 00:58:18,660
- [Pancas was attacked by the 8th Prince]
-
-883
-00:58:18,660 --> 00:58:20,660
- [Pancas was attacked by the 8th Prince]
-
-884
-00:58:20,660 --> 00:58:22,660
- [Pancas was attacked by the 8th Prince]
-
-885
-00:58:22,660 --> 00:58:24,660
- [Pancas was attacked by the 8th Prince]
-
-886
-00:58:24,660 --> 00:58:26,660
- [Pancas was attacked by the 8th Prince]
-
-887
-00:58:26,660 --> 00:58:28,660
- [Pancas was attacked by the 8th Prince]
-
-888
-00:58:28,660 --> 00:58:30,660
- [Pancas was attacked by the 8th Prince]
-
-889
-00:58:30,660 --> 00:58:32,660
- [Pancas was attacked by the 8th Prince]
-
-890
-00:58:32,660 --> 00:58:34,660
- [Pancas was attacked by the 8th Prince]
-
-891
-00:58:34,660 --> 00:58:36,660
- [Pancas was attacked by the 8th Prince]
-
-892
-00:58:36,660 --> 00:58:38,660
- [Pancas was attacked by the 8th Prince]
-
-893
-00:58:38,660 --> 00:58:40,660
- [Pancas was attacked by the 8th Prince]
-
-894
-00:58:40,660 --> 00:58:42,660
- [Pancas was attacked by the 8th Prince]
-
-895
-00:58:42,660 --> 00:58:44,660
- [Pancas was attacked by the 8th Prince]
-
-896
-00:58:44,660 --> 00:58:46,660
- [Pancas was attacked by the 8th Prince]
-
-897
-00:58:46,660 --> 00:58:48,660
- [Pancas was attacked by the 8th Prince]
-
-898
-00:58:48,660 --> 00:58:50,660
- [Pancas was attacked by the 8th Prince]
-
-899
-00:58:50,660 --> 00:58:52,660
- [Pancas was attacked by the 8th Prince]
-
-900
-00:58:52,660 --> 00:58:54,660
- [Pancas was attacked by the 8th Prince]
-
-901
-00:58:54,660 --> 00:58:56,660
- [Pancas was attacked by the 8th Prince]
-
-902
-00:58:56,660 --> 00:58:58,660
- [Pancas was attacked by the 8th Prince]
-
-903
-00:58:58,660 --> 00:59:00,660
- [Pancas was attacked by the 8th Prince]
-
-904
-00:59:00,660 --> 00:59:02,660
- [Pancas was attacked by the 8th Prince]
-
-905
-00:59:02,660 --> 00:59:04,660
- [Pancas was attacked by the 8th Prince]
-
-906
-00:59:04,660 --> 00:59:06,660
- [Pancas was attacked by the 8th Prince]
-
-907
-00:59:06,660 --> 00:59:08,660
- [Pancas was attacked by the 8th Prince]
-
-908
-00:59:08,660 --> 00:59:10,660
- [Pancas was attacked by the 8th Prince]
-
-909
-00:59:10,660 --> 00:59:12,660
- [Pancas was attacked by the 8th Prince]
-
-910
-00:59:12,660 --> 00:59:14,660
- [Pancas was attacked by the 8th Prince]
-
-911
-00:59:14,660 --> 00:59:16,660
- [Pancas was attacked by the 8th Prince]
-
-912
-00:59:16,660 --> 00:59:18,660
- [Pancas was attacked by the 8th Prince]
-
-913
-00:59:18,660 --> 00:59:20,660
- [Pancas was attacked by the 8th Prince]
-
-914
-00:59:20,660 --> 00:59:22,660
- [Pancas was attacked by the 8th Prince]
-
-915
-00:59:22,660 --> 00:59:24,660
- [Pancas was attacked by the 8th Prince]
-
-916
-00:59:24,660 --> 00:59:26,660
- [Pancas was attacked by the 8th Prince]
-
-917
-00:59:26,660 --> 00:59:28,660
- [Pancas was attacked by the 8th Prince]
-
-918
-00:59:28,660 --> 00:59:30,660
- [Pancas was attacked by the 8th Prince]
-
-919
-00:59:30,660 --> 00:59:32,660
- [Pancas was attacked by the 8th Prince]
-
-920
-00:59:32,660 --> 00:59:34,660
- [Pancas was attacked by the 8th Prince]
-
-921
-00:59:34,660 --> 00:59:36,660
- [Pancas was attacked by the 8th Prince]
-
-922
-00:59:36,660 --> 00:59:38,660
- [Pancas was attacked by the 8th Prince]
-
-923
-00:59:38,660 --> 00:59:40,660
- [Pancas was attacked by the 8th Prince]
-
-924
-00:59:40,660 --> 00:59:42,660
- [Pancas was attacked by the 8th Prince]
-
-925
-00:59:42,660 --> 00:59:44,660
- [Pancas was attacked by the 8th Prince]
-
-926
-00:59:44,660 --> 00:59:46,660
- [Pancas was attacked by the 8th Prince]
-
-927
-00:59:46,660 --> 00:59:48,660
- [Pancas was attacked by the 8th Prince]
-
-928
-00:59:48,660 --> 00:59:50,660
- [Pancas was attacked by the 8th Prince]
-
-929
-00:59:50,660 --> 00:59:52,660
- [Pancas was attacked by the 8th Prince]
-
-930
-00:59:52,660 --> 00:59:54,660
- [Pancas was attacked by the 8th Prince]
-
-931
-00:59:54,660 --> 00:59:56,660
- [Pancas was attacked by the 8th Prince]
-
-932
-00:59:56,660 --> 00:59:58,660
- [Pancas was attacked by the 8th Prince]
-
-933
-00:59:58,660 --> 01:00:00,660
- [Pancas was attacked by the 8th Prince]
-
-934
-01:00:00,660 --> 01:00:02,660
- [Pancas was attacked by the 8th Prince]
-
-935
-01:00:02,660 --> 01:00:04,660
- [Pancas was attacked by the 8th Prince]
-
-936
-01:00:04,660 --> 01:00:06,660
- [Pancas was attacked by the 8th Prince]
-
-937
-01:00:06,660 --> 01:00:08,660
- [Pancas was attacked by the 8th Prince]
-
-938
-01:00:08,660 --> 01:00:10,660
- [Pancas was attacked by the 8th Prince]
-
-939
-01:00:10,660 --> 01:00:12,660
- [Pancas was attacked by the 8th Prince]
-
-940
-01:00:12,660 --> 01:00:14,660
- [Pancas was attacked by the 8th Prince]
-
-941
-01:00:14,660 --> 01:00:16,660
- [Pancas was attacked by the 8th Prince]
-
-942
-01:00:16,660 --> 01:00:18,660
- [Pancas was attacked by the 8th Prince]
-
-943
-01:00:18,660 --> 01:00:20,660
- [Pancas was attacked by the 8th Prince]
-
-944
-01:00:20,660 --> 01:00:22,660
- [Pancas was attacked by the 8th Prince]
-
-945
-01:00:22,660 --> 01:00:24,660
- [Pancas was attacked by the 8th Prince]
-
-946
-01:00:24,660 --> 01:00:26,660
- [Pancas was attacked by the 8th Prince]
-
-947
-01:00:26,660 --> 01:00:28,660
- [Pancas was attacked by the 8th Prince]
-
-948
-01:00:28,660 --> 01:00:30,660
- [Pancas was attacked by the 8th Prince]
-
-949
-01:00:30,660 --> 01:00:34,660
- Altebaran, we give you time until tomorrow morning.
-
-950
-01:00:34,660 --> 01:00:36,660
- If our Kris doesn't come back,
-
-951
-01:00:36,660 --> 01:00:39,660
- and our servant Pomo is no longer normal,
-
-952
-01:00:39,660 --> 01:00:41,660
- we will attack the school of magic.
-
-953
-01:00:41,660 --> 01:00:43,660
- And your teacher...
-
-954
-01:00:43,660 --> 01:00:47,660
- Your teacher will not come back.
-
-955
-01:00:48,660 --> 01:00:50,660
- [Pancas was attacked by the 8th Prince]
-
-956
-01:00:50,660 --> 01:00:52,660
- [Pancas was attacked by the 8th Prince]
-
-957
-01:00:52,660 --> 01:00:54,660
- [Pancas was attacked by the 8th Prince]
-
-958
-01:00:54,660 --> 01:00:56,660
- [Pancas was attacked by the 8th Prince]
-
-959
-01:00:56,660 --> 01:00:58,660
- [Pancas was attacked by the 8th Prince]
-
-960
-01:00:58,660 --> 01:01:00,660
- [Pancas was attacked by the 8th Prince]
-
-961
-01:01:00,660 --> 01:01:02,660
- [Pancas was attacked by the 8th Prince]
-
-962
-01:01:02,660 --> 01:01:04,660
- [Pancas was attacked by the 8th Prince]
-
-963
-01:01:04,660 --> 01:01:06,660
- [Pancas was attacked by the 8th Prince]
-
-964
-01:01:06,660 --> 01:01:08,660
- [Pancas was attacked by the 8th Prince]
-
-965
-01:01:08,660 --> 01:01:10,660
- [Pancas was attacked by the 8th Prince]
-
-966
-01:01:10,660 --> 01:01:12,660
- [Pancas was attacked by the 8th Prince]
-
-967
-01:01:12,660 --> 01:01:14,660
- [Pancas was attacked by the 8th Prince]
-
-968
-01:01:14,660 --> 01:01:16,660
- [Pancas was attacked by the 8th Prince]
-
-969
-01:01:16,660 --> 01:01:18,660
- [Pancas was attacked by the 8th Prince]
-
-970
-01:01:18,660 --> 01:01:20,660
- [Pancas was attacked by the 8th Prince]
-
-971
-01:01:20,660 --> 01:01:22,660
- [Pancas was attacked by the 8th Prince]
-
-972
-01:01:22,660 --> 01:01:24,660
- [Pancas was attacked by the 8th Prince]
-
-973
-01:01:24,660 --> 01:01:26,660
- [Pancas was attacked by the 8th Prince]
-
-974
-01:01:26,660 --> 01:01:28,660
- [Pancas was attacked by the 8th Prince]
-
-975
-01:01:28,660 --> 01:01:30,660
- [Pancas was attacked by the 8th Prince]
-
-976
-01:01:30,660 --> 01:01:32,660
- [Pancas was attacked by the 8th Prince]
-
-977
-01:01:32,660 --> 01:01:34,660
- [Pancas was attacked by the 8th Prince]
-
-978
-01:01:34,660 --> 01:01:36,660
- [Pancas was attacked by the 8th Prince]
-
-979
-01:01:36,660 --> 01:01:38,660
- [Pancas was attacked by the 8th Prince]
-
-980
-01:01:38,660 --> 01:01:40,660
- [Pancas was attacked by the 8th Prince]
-
-981
-01:01:40,660 --> 01:01:42,660
- [Pancas was attacked by the 8th Prince]
-
-982
-01:01:42,660 --> 01:01:44,660
- [Pancas was attacked by the 8th Prince]
-
-983
-01:01:44,660 --> 01:01:46,660
- [Pancas was attacked by the 8th Prince]
-
-984
-01:01:46,660 --> 01:01:48,660
- [Pancas was attacked by the 8th Prince]
-
-985
-01:01:48,660 --> 01:01:50,660
- [Pancas was attacked by the 8th Prince]
-
-986
-01:01:50,660 --> 01:01:52,660
- [Pancas was attacked by the 8th Prince]
-
-987
-01:01:52,660 --> 01:01:54,660
- [Pancas was attacked by the 8th Prince]
-
-988
-01:01:54,660 --> 01:01:56,660
- [Pancas was attacked by the 8th Prince]
-
-989
-01:01:56,660 --> 01:01:58,660
- [Pancas was attacked by the 8th Prince]
-
-990
-01:01:58,660 --> 01:02:00,660
- [Pancas was attacked by the 8th Prince]
-
-991
-01:02:00,660 --> 01:02:02,660
- [Pancas was attacked by the 8th Prince]
-
-992
-01:02:02,660 --> 01:02:04,660
- [Pancas was attacked by the 8th Prince]
-
-993
-01:02:04,660 --> 01:02:06,660
- [Pancas was attacked by the 8th Prince]
-
-994
-01:02:06,660 --> 01:02:08,660
- [Pancas was attacked by the 8th Prince]
-
-995
-01:02:08,660 --> 01:02:10,660
- [Pancas was attacked by the 8th Prince]
-
-996
-01:02:10,660 --> 01:02:12,660
- [Pancas was attacked by the 8th Prince]
-
-997
-01:02:12,660 --> 01:02:14,660
- [Pancas was attacked by the 8th Prince]
-
-998
-01:02:14,660 --> 01:02:16,660
- [Pancas was attacked by the 8th Prince]
-
-999
-01:02:16,660 --> 01:02:18,660
- [Pancas was attacked by the 8th Prince]
-
-1000
-01:02:18,660 --> 01:02:20,660
- [Pancas was attacked by the 8th Prince]
-
-1001
-01:02:20,660 --> 01:02:22,660
- [Pancas was attacked by the 8th Prince]
-
-1002
-01:02:22,660 --> 01:02:24,660
- [Pancas was attacked by the 8th Prince]
-
-1003
-01:02:24,660 --> 01:02:26,660
- [Pancas was attacked by the 8th Prince]
-
-1004
-01:02:26,660 --> 01:02:28,660
- [Pancas was attacked by the 8th Prince]
-
-1005
-01:02:28,660 --> 01:02:30,660
- [Pancas was attacked by the 8th Prince]
-
-1006
-01:02:30,660 --> 01:02:32,660
- [Pancas was attacked by the 8th Prince]
-
-1007
-01:02:32,660 --> 01:02:34,660
- [Pancas was attacked by the 8th Prince]
-
-1008
-01:02:34,660 --> 01:02:36,660
- [Pancas was attacked by the 8th Prince]
-
-1009
-01:02:36,660 --> 01:02:38,660
- [Pancas was attacked by the 8th Prince]
-
-1010
-01:02:38,660 --> 01:02:40,660
- [Pancas was attacked by the 8th Prince]
-
-1011
-01:02:40,660 --> 01:02:42,660
- [Pancas was attacked by the 8th Prince]
-
-1012
-01:02:42,660 --> 01:02:44,660
- [Pancas was attacked by the 8th Prince]
-
-1013
-01:02:44,660 --> 01:02:46,660
- [Pancas was attacked by the 8th Prince]
-
-1014
-01:02:46,660 --> 01:02:48,660
- [Pancas was attacked by the 8th Prince]
-
-1015
-01:02:48,660 --> 01:02:50,660
- [Pancas was attacked by the 8th Prince]
-
-1016
-01:02:50,660 --> 01:02:52,660
- [Pancas was attacked by the 8th Prince]
-
-1017
-01:02:52,660 --> 01:02:54,660
- [Pancas was attacked by the 8th Prince]
-
-1018
-01:02:54,660 --> 01:02:56,660
- [Pancas was attacked by the 8th Prince]
-
-1019
-01:02:56,660 --> 01:02:58,660
- [Pancas was attacked by the 8th Prince]
-
-1020
-01:02:58,660 --> 01:03:00,660
- [Pancas was attacked by the 8th Prince]
-
-1021
-01:03:00,660 --> 01:03:02,660
- [Pancas was attacked by the 8th Prince]
+01:00:48,660 --> 01:03:02,660
+[Pancas was attacked by the 8th Prince]
 

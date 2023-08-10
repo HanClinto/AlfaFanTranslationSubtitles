@@ -1,5132 +1,3440 @@
 1
-00:00:00,000 --> 00:00:02,000
- To be continued...
+00:00:00,000 --> 00:00:20,000
+To be continued...
 
 2
-00:00:03,000 --> 00:00:07,000
- To be continued...
+00:00:20,000 --> 00:00:24,000
+Show your spirit, get ready to find friends
 
 3
-00:00:07,000 --> 00:00:11,000
- To be continued...
+00:00:24,000 --> 00:00:31,000
+Run, run, jump, climb, climb the tower
 
 4
-00:00:11,000 --> 00:00:14,000
- To be continued...
+00:00:31,000 --> 00:00:39,000
+Be brave, don't give up
 
 5
-00:00:14,000 --> 00:00:17,000
- To be continued...
+00:00:39,000 --> 00:00:46,000
+Chase your dreams and hopes
 
 6
-00:00:17,000 --> 00:00:20,000
- To be continued...
+00:00:48,000 --> 00:00:51,000
+Go, go, go, achieve all your dreams
 
 7
-00:00:20,000 --> 00:00:24,000
- Show your spirit, get ready to find friends
+00:00:51,000 --> 00:00:54,000
+Go, go, go, never stop
 
 8
-00:00:24,000 --> 00:00:31,000
- Run, run, jump, climb, climb the tower
+00:00:54,000 --> 00:01:00,000
+Go, go, go, fight with your heart
 
 9
-00:00:31,000 --> 00:00:39,000
- Be brave, don't give up
+00:01:00,000 --> 00:01:04,000
+Go, go, go, make yourself proud
 
 10
-00:00:39,000 --> 00:00:46,000
- Chase your dreams and hopes
+00:01:04,000 --> 00:01:08,000
+Go, go, go, let's dream
 
 11
-00:00:48,000 --> 00:00:51,000
- Go, go, go, achieve all your dreams
+00:01:08,000 --> 00:01:15,000
+Go, go, go, we can do it
 
 12
-00:00:51,000 --> 00:00:54,000
- Go, go, go, never stop
+00:01:15,000 --> 00:01:27,000
+There is no name, this is just a lie, this is a trap, the evil spirits only want my sweat, tears and blood
 
 13
-00:00:54,000 --> 00:01:00,000
- Go, go, go, fight with your heart
+00:01:27,000 --> 00:01:37,000
+You promised me, you will not forget, your promise is only one, if that promise is broken from you
 
 14
-00:01:00,000 --> 00:01:04,000
- Go, go, go, make yourself proud
+00:01:38,000 --> 00:01:53,000
+Alva
 
 15
-00:01:04,000 --> 00:01:08,000
- Go, go, go, let's dream
+00:01:53,000 --> 00:02:03,000
+We can't give up Alva to them
 
 16
-00:01:08,000 --> 00:01:15,000
- Go, go, go, we can do it
+00:02:03,000 --> 00:02:11,000
+So it's better if there is someone among us to disguise as Alva
 
 17
-00:01:15,000 --> 00:01:27,000
- There is no name, this is just a lie, this is a trap, the evil spirits only want my sweat, tears and blood
+00:02:11,000 --> 00:02:13,000
+Who is this person?
 
 18
-00:01:27,000 --> 00:01:37,000
- You promised me, you will not forget, your promise is only one, if that promise is broken from you
+00:02:13,000 --> 00:02:15,000
+Myself
 
 19
-00:01:38,000 --> 00:01:40,000
- Alva
+00:02:15,000 --> 00:02:17,000
+Who is it?
 
 20
-00:01:40,000 --> 00:01:51,000
- Alva
+00:02:17,000 --> 00:02:19,000
+Who is handsome?
 
 21
-00:01:51,000 --> 00:01:53,000
- Alva
+00:02:19,000 --> 00:02:21,000
+Hi
 
 22
-00:01:53,000 --> 00:02:03,000
- We can't give up Alva to them
+00:02:21,000 --> 00:02:41,000
+Come on, let's gather
 
 23
-00:02:03,000 --> 00:02:11,000
- So it's better if there is someone among us to disguise as Alva
+00:02:41,000 --> 00:02:43,000
+What's going on?
 
 24
-00:02:11,000 --> 00:02:13,000
- Who is this person?
+00:02:43,000 --> 00:02:45,000
+Why are we gathered here?
 
 25
-00:02:13,000 --> 00:02:15,000
- Myself
+00:02:45,000 --> 00:02:47,000
+I deliberately gathered you all
 
 26
-00:02:15,000 --> 00:02:17,000
- Who is it?
+00:02:47,000 --> 00:02:52,000
+I want to tell you, if professor Aldebaran is kidnapped by the evil spirits
 
 27
-00:02:17,000 --> 00:02:19,000
- Who is handsome?
+00:02:52,000 --> 00:02:54,000
+Kidnapped?
 
 28
-00:02:19,000 --> 00:02:21,000
- Hi
+00:02:54,000 --> 00:02:59,000
+So we have to save the professor and we have to defeat the evil spirits
 
 29
-00:02:21,000 --> 00:02:41,000
- Come on, let's gather
+00:02:59,000 --> 00:03:01,000
+But how?
 
 30
-00:02:41,000 --> 00:02:43,000
- What's going on?
+00:03:01,000 --> 00:03:04,000
+The monster is strong, the professor is more powerful than the monster
 
 31
-00:02:43,000 --> 00:02:45,000
- Why are we gathered here?
+00:03:04,000 --> 00:03:07,000
+Calm down, I know how
 
 32
-00:02:45,000 --> 00:02:47,000
- I deliberately gathered you all
+00:03:07,000 --> 00:03:13,000
+Actually, the one being targeted is Alva, not the professor
 
 33
-00:02:47,000 --> 00:02:52,000
- I want to tell you, if professor Aldebaran is kidnapped by the evil spirits
+00:03:13,000 --> 00:03:18,000
+So if we want our professor to be safe, we have to surrender Alva
 
 34
-00:02:52,000 --> 00:02:54,000
- Kidnapped?
+00:03:18,000 --> 00:03:21,000
+Let's go find Alva now
 
 35
-00:02:54,000 --> 00:02:59,000
- So we have to save the professor and we have to defeat the evil spirits
+00:03:21,000 --> 00:03:23,000
+Professor is safe
 
 36
-00:02:59,000 --> 00:03:01,000
- But how?
+00:03:23,000 --> 00:03:28,000
+Where are you?
 
 37
-00:03:01,000 --> 00:03:04,000
- The monster is strong, the professor is more powerful than the monster
+00:03:28,000 --> 00:03:32,000
+Alva
 
 38
-00:03:04,000 --> 00:03:07,000
- Calm down, I know how
+00:03:32,000 --> 00:03:37,000
+Have you met Alva?
 
 39
-00:03:07,000 --> 00:03:13,000
- Actually, the one being targeted is Alva, not the professor
+00:03:37,000 --> 00:03:40,000
+Not yet, she's not in the library
 
 40
-00:03:13,000 --> 00:03:18,000
- So if we want our professor to be safe, we have to surrender Alva
+00:03:40,000 --> 00:03:43,000
+Where is she?
 
 41
-00:03:18,000 --> 00:03:21,000
- Let's go find Alva now
+00:03:43,000 --> 00:03:45,000
+Have you met Alva?
 
 42
-00:03:21,000 --> 00:03:23,000
- Professor is safe
+00:03:45,000 --> 00:03:47,000
+No, she's not in the library either
 
 43
-00:03:23,000 --> 00:03:28,000
- Where are you?
+00:03:47,000 --> 00:03:49,000
+Where is she?
 
 44
-00:03:28,000 --> 00:03:32,000
- Alva
+00:03:49,000 --> 00:03:52,000
+She's not in the library either
 
 45
-00:03:32,000 --> 00:03:37,000
- Have you met Alva?
+00:03:52,000 --> 00:03:54,000
+Where is Alva?
 
 46
-00:03:37,000 --> 00:03:40,000
- Not yet, she's not in the library
+00:03:54,000 --> 00:04:00,000
+Where is she?
 
 47
-00:03:40,000 --> 00:03:43,000
- Where is she?
+00:04:00,000 --> 00:04:02,000
+Where is Alva?
 
 48
-00:03:43,000 --> 00:03:45,000
- Have you met Alva?
+00:04:02,000 --> 00:04:04,000
+We're looking for her
 
 49
-00:03:45,000 --> 00:03:47,000
- No, she's not in the library either
+00:04:04,000 --> 00:04:10,000
+She was with us when we attacked the evil spirits, but now she's gone
 
 50
-00:03:47,000 --> 00:03:49,000
- Where is she?
+00:04:10,000 --> 00:04:12,000
+Maybe Alva is hiding
 
 51
-00:03:49,000 --> 00:03:52,000
- She's not in the library either
+00:04:12,000 --> 00:04:15,000
+Maybe she's running away
 
 52
-00:03:52,000 --> 00:03:54,000
- Where is Alva?
+00:04:15,000 --> 00:04:18,000
+Maybe she's in the library
 
 53
-00:03:54,000 --> 00:04:00,000
- Where is she?
+00:04:18,000 --> 00:04:27,000
+Alva is not like that
 
 54
-00:04:00,000 --> 00:04:02,000
- Where is Alva?
+00:04:30,000 --> 00:04:32,000
+Where is Alva?
 
 55
-00:04:02,000 --> 00:04:04,000
- We're looking for her
+00:04:32,000 --> 00:04:34,000
+What should we use?
 
 56
-00:04:04,000 --> 00:04:10,000
- She was with us when we attacked the evil spirits, but now she's gone
+00:04:34,000 --> 00:04:36,000
+Let's use the kite
 
 57
-00:04:10,000 --> 00:04:12,000
- Maybe Alva is hiding
+00:04:36,000 --> 00:04:41,000
+That's right, we should use the kite
 
 58
-00:04:12,000 --> 00:04:15,000
- Maybe she's running away
+00:04:41,000 --> 00:04:46,000
+I'm going to find Alva
 
 59
-00:04:15,000 --> 00:04:18,000
- Maybe she's in the library
+00:04:59,000 --> 00:05:03,000
+I won't let the evil spirits take the professor away
 
 60
-00:04:18,000 --> 00:04:27,000
- Alva is not like that
+00:05:03,000 --> 00:05:26,000
+Gawat, it's really you
 
 61
-00:04:30,000 --> 00:04:32,000
- Where is Alva?
+00:05:26,000 --> 00:05:27,000
+What's wrong?
 
 62
-00:04:32,000 --> 00:04:34,000
- What should we use?
+00:05:27,000 --> 00:05:29,000
+Alva was kidnapped by the evil spirits
 
 63
-00:04:34,000 --> 00:04:36,000
- Let's use the kite
+00:05:29,000 --> 00:05:31,000
+She's in the hallway
 
 64
-00:04:36,000 --> 00:04:41,000
- That's right, we should use the kite
+00:05:31,000 --> 00:05:33,000
+Oh no
 
 65
-00:04:41,000 --> 00:04:46,000
- I'm going to find Alva
+00:05:33,000 --> 00:05:35,000
+What should we do?
 
 66
-00:04:59,000 --> 00:05:03,000
- I won't let the evil spirits take the professor away
+00:05:35,000 --> 00:05:36,000
+We're in trouble
 
 67
-00:05:03,000 --> 00:05:26,000
- Gawat, it's really you
+00:05:36,000 --> 00:05:38,000
+What happened?
 
 68
-00:05:26,000 --> 00:05:27,000
- What's wrong?
+00:05:38,000 --> 00:05:40,000
+Alva was kidnapped
 
 69
-00:05:27,000 --> 00:05:29,000
- Alva was kidnapped by the evil spirits
+00:05:40,000 --> 00:05:43,000
+Let's go tell the professor
 
 70
-00:05:29,000 --> 00:05:31,000
- She's in the hallway
+00:05:43,000 --> 00:05:45,000
+Let's go
 
 71
-00:05:31,000 --> 00:05:33,000
- Oh no
+00:05:45,000 --> 00:05:53,000
+I got you
 
 72
-00:05:33,000 --> 00:05:35,000
- What should we do?
+00:05:53,000 --> 00:05:55,000
+You're lying
 
 73
-00:05:35,000 --> 00:05:36,000
- We're in trouble
+00:05:56,000 --> 00:05:58,000
+I'm going to find Alva
 
 74
-00:05:36,000 --> 00:05:38,000
- What happened?
+00:05:58,000 --> 00:06:02,000
+I won't let the evil spirits take the professor away
 
 75
-00:05:38,000 --> 00:05:40,000
- Alva was kidnapped
+00:06:03,000 --> 00:06:05,000
+I'm going to find Alva
 
 76
-00:05:40,000 --> 00:05:43,000
- Let's go tell the professor
+00:06:05,000 --> 00:06:16,000
+I won't let the evil spirits take the professor away
 
 77
-00:05:43,000 --> 00:05:45,000
- Let's go
+00:06:17,000 --> 00:06:24,000
+I'm going to find Alva
 
 78
-00:05:45,000 --> 00:05:53,000
- I got you
+00:06:25,000 --> 00:07:02,000
+Alva
 
 79
-00:05:53,000 --> 00:05:55,000
- You're lying
+00:07:02,000 --> 00:07:04,000
+I'm going to find the professor
 
 80
-00:05:56,000 --> 00:05:58,000
- I'm going to find Alva
+00:07:04,000 --> 00:07:08,000
+I won't let the evil spirits take the professor away
 
 81
-00:05:58,000 --> 00:06:02,000
- I won't let the evil spirits take the professor away
+00:07:08,000 --> 00:07:10,000
+I'm going to find the professor
 
 82
-00:06:03,000 --> 00:06:05,000
- I'm going to find Alva
+00:07:10,000 --> 00:07:22,000
+Professor Langni
 
 83
-00:06:05,000 --> 00:06:16,000
- I won't let the evil spirits take the professor away
+00:07:22,000 --> 00:07:26,000
+Professor Langni is not here
 
 84
-00:06:17,000 --> 00:06:20,000
- I'm going to find Alva
+00:07:26,000 --> 00:07:29,000
+Where is he?
 
 85
-00:06:21,000 --> 00:06:24,000
- I'm going to find Alva
+00:07:29,000 --> 00:07:31,000
+He's in the hallway
 
 86
-00:06:25,000 --> 00:06:27,000
- Alva
+00:07:31,000 --> 00:07:33,000
+I'm scared
 
 87
-00:06:27,000 --> 00:06:30,000
- Alva
+00:07:33,000 --> 00:07:35,000
+He's not here
 
 88
-00:06:31,000 --> 00:06:33,000
- Alva
+00:07:35,000 --> 00:07:38,000
+Professor Purwocoki is not here either
 
 89
-00:06:33,000 --> 00:06:36,000
- Alva
+00:07:38,000 --> 00:07:40,000
+What about him?
 
 90
-00:06:36,000 --> 00:06:39,000
- Alva
+00:07:40,000 --> 00:07:42,000
+Yasmin is not here either
 
 91
-00:06:40,000 --> 00:06:42,000
- Alva
+00:07:42,000 --> 00:07:45,000
+What should we do?
 
 92
-00:06:42,000 --> 00:06:44,000
- Alva
+00:07:45,000 --> 00:07:47,000
+I'm scared
 
 93
-00:06:44,000 --> 00:06:46,000
- Alva
+00:07:47,000 --> 00:07:50,000
+It's weird, how can they be together?
 
 94
-00:06:46,000 --> 00:06:48,000
- Alva
+00:07:50,000 --> 00:07:53,000
+What are you doing here?
 
 95
-00:06:48,000 --> 00:06:50,000
- Alva
+00:07:53,000 --> 00:07:56,000
+We're looking for Professor Agni
 
 96
-00:06:50,000 --> 00:06:52,000
- Alva
+00:07:56,000 --> 00:08:02,000
+Professor Agni and all teachers are on their way
 
 97
-00:06:52,000 --> 00:06:54,000
- Alva
+00:08:02,000 --> 00:08:04,000
+Where are they?
 
 98
-00:06:54,000 --> 00:06:56,000
- Alva
+00:08:04,000 --> 00:08:11,000
+They're going to the place where the dark spirits help the professor
 
 99
-00:06:56,000 --> 00:06:58,000
- Alva
+00:08:11,000 --> 00:08:15,000
+But we're asking for Alva
 
 100
-00:06:58,000 --> 00:07:00,000
- Alva
+00:08:15,000 --> 00:08:19,000
+Don't worry, be happy
 
 101
-00:07:00,000 --> 00:07:02,000
- Alva
+00:08:19,000 --> 00:08:21,000
+Megantarate is eager to be Alva
 
 102
-00:07:02,000 --> 00:07:04,000
- I'm going to find the professor
+00:08:21,000 --> 00:08:24,000
+So they're going there with a fake Alva
 
 103
-00:07:04,000 --> 00:07:08,000
- I won't let the evil spirits take the professor away
+00:08:24,000 --> 00:08:26,000
+Isn't it amazing?
 
 104
-00:07:08,000 --> 00:07:10,000
- I'm going to find the professor
+00:08:26,000 --> 00:08:30,000
+But it's even worse
 
 105
-00:07:10,000 --> 00:07:22,000
- Professor Langni
+00:08:30,000 --> 00:08:32,000
+And then?
 
 106
-00:07:22,000 --> 00:07:26,000
- Professor Langni is not here
+00:08:33,000 --> 00:08:37,000
+We should ask for help from others
 
 107
-00:07:26,000 --> 00:07:29,000
- Where is he?
+00:08:37,000 --> 00:08:39,000
+Let's go
 
 108
-00:07:29,000 --> 00:07:31,000
- He's in the hallway
+00:08:39,000 --> 00:08:42,000
+Oh my god, they're so childish
 
 109
-00:07:31,000 --> 00:07:33,000
- I'm scared
+00:08:42,000 --> 00:08:44,000
+Wait for me, don't go
 
 110
-00:07:33,000 --> 00:07:35,000
- He's not here
+00:08:44,000 --> 00:09:00,000
+I have to defeat Barga before we get to the place where the dark spirits help
 
 111
-00:07:35,000 --> 00:07:38,000
- Professor Purwocoki is not here either
+00:09:01,000 --> 00:15:42,000
+We're going to the dark spirit's house
 
 112
-00:07:38,000 --> 00:07:40,000
- What about him?
+00:15:42,000 --> 00:15:44,000
+There must be a clue here
 
 113
-00:07:40,000 --> 00:07:42,000
- Yasmin is not here either
+00:15:44,000 --> 00:15:46,000
+I'm going to look for it
 
 114
-00:07:42,000 --> 00:07:45,000
- What should we do?
+00:15:46,000 --> 00:15:58,000
+The dark spirit's house has a ring
 
 115
-00:07:45,000 --> 00:07:47,000
- I'm scared
+00:15:58,000 --> 00:16:00,000
+That's very magical
 
 116
-00:07:47,000 --> 00:07:50,000
- It's weird, how can they be together?
+00:16:00,000 --> 00:16:04,000
+And it can make monsters stronger
 
 117
-00:07:50,000 --> 00:07:53,000
- What are you doing here?
+00:16:04,000 --> 00:16:22,000
+I know how to do it
 
 118
-00:07:53,000 --> 00:07:56,000
- We're looking for Professor Agni
+00:16:22,000 --> 00:16:28,000
+Guys!
 
 119
-00:07:56,000 --> 00:08:02,000
- Professor Agni and all teachers are on their way
+00:16:28,000 --> 00:16:42,000
+I can't do it
 
 120
-00:08:02,000 --> 00:08:04,000
- Where are they?
+00:16:42,000 --> 00:16:44,000
+Guys!
 
 121
-00:08:04,000 --> 00:08:11,000
- They're going to the place where the dark spirits help the professor
+00:17:10,000 --> 00:17:40,000
+I'm going to find the weak point
 
 122
-00:08:11,000 --> 00:08:15,000
- But we're asking for Alva
+00:17:40,000 --> 00:18:20,000
+I'm going to break it
 
 123
-00:08:15,000 --> 00:08:19,000
- Don't worry, be happy
+00:18:20,000 --> 00:18:38,000
+My legs are aching
 
 124
-00:08:19,000 --> 00:08:21,000
- Megantarate is eager to be Alva
+00:18:38,000 --> 00:18:40,000
+I can't stand up
 
 125
-00:08:21,000 --> 00:08:24,000
- So they're going there with a fake Alva
+00:18:40,000 --> 00:18:42,000
+What should I do?
 
 126
-00:08:24,000 --> 00:08:26,000
- Isn't it amazing?
+00:18:42,000 --> 00:18:47,000
+It's up to you
 
 127
-00:08:26,000 --> 00:08:30,000
- But it's even worse
+00:18:47,000 --> 00:18:49,000
+With your blood
 
 128
-00:08:30,000 --> 00:08:32,000
- And then?
+00:18:49,000 --> 00:18:51,000
+I can perfect your power
 
 129
-00:08:33,000 --> 00:08:37,000
- We should ask for help from others
+00:18:51,000 --> 00:19:08,000
+Professor Aldi Baharan
 
 130
-00:08:37,000 --> 00:08:39,000
- Let's go
+00:19:08,000 --> 00:19:11,000
+Where is he?
 
 131
-00:08:39,000 --> 00:08:42,000
- Oh my god, they're so childish
+00:19:11,000 --> 00:19:13,000
+Where is Professor Aldi?
 
 132
-00:08:42,000 --> 00:08:44,000
- Wait for me, don't go
+00:19:13,000 --> 00:19:15,000
+Shut up!
 
 133
-00:08:44,000 --> 00:09:00,000
- I have to defeat Barga before we get to the place where the dark spirits help
+00:19:15,000 --> 00:19:17,000
+Don't ask questions
 
 134
-00:09:01,000 --> 00:09:03,000
- We're going to the dark spirit's house
+00:19:17,000 --> 00:19:31,000
+How is it? Are we ready?
 
 135
-00:09:04,000 --> 00:09:06,000
- We're going to the dark spirit's house
+00:19:31,000 --> 00:19:33,000
+Yes
 
 136
-00:09:07,000 --> 00:09:09,000
- We're going to the dark spirit's house
+00:19:33,000 --> 00:19:35,000
+Now, let's go
 
 137
-00:09:10,000 --> 00:09:12,000
- We're going to the dark spirit's house
+00:19:36,000 --> 00:19:38,000
+How is it? Are we ready?
 
 138
-00:09:12,000 --> 00:09:14,000
- We're going to the dark spirit's house
+00:19:38,000 --> 00:19:40,000
+Yes
 
 139
-00:09:14,000 --> 00:09:16,000
- We're going to the dark spirit's house
+00:19:40,000 --> 00:19:42,000
+Now, let's go
 
 140
-00:09:16,000 --> 00:09:18,000
- We're going to the dark spirit's house
+00:19:42,000 --> 00:19:52,000
+Let's go
 
 141
-00:09:18,000 --> 00:09:20,000
- We're going to the dark spirit's house
+00:19:52,000 --> 00:19:54,000
+We have to help Alva
 
 142
-00:09:20,000 --> 00:09:22,000
- We're going to the dark spirit's house
+00:19:54,000 --> 00:19:56,000
+One, two, three
 
 143
-00:09:22,000 --> 00:09:24,000
- We're going to the dark spirit's house
+00:19:56,000 --> 00:19:58,000
+Let's go!
 
 144
-00:09:24,000 --> 00:09:26,000
- We're going to the dark spirit's house
+00:19:59,000 --> 00:20:07,000
+[The power of the universe]
 
 145
-00:09:26,000 --> 00:09:28,000
- We're going to the dark spirit's house
+00:20:07,000 --> 00:20:20,000
+What is it?
 
 146
-00:09:28,000 --> 00:09:30,000
- We're going to the dark spirit's house
+00:20:20,000 --> 00:20:22,000
+[The power of the universe]
 
 147
-00:09:30,000 --> 00:09:32,000
- We're going to the dark spirit's house
+00:20:22,000 --> 00:20:42,000
+Brother!
 
 148
-00:09:32,000 --> 00:09:34,000
- We're going to the dark spirit's house
+00:20:42,000 --> 00:20:47,000
+Brother, I can't stand it anymore!
 
 149
-00:09:34,000 --> 00:09:36,000
- We're going to the dark spirit's house
+00:20:47,000 --> 00:20:49,000
+I'm going to die!
 
 150
-00:09:36,000 --> 00:09:38,000
- We're going to the dark spirit's house
+00:20:49,000 --> 00:20:51,000
+Brother!
 
 151
-00:09:38,000 --> 00:09:40,000
- We're going to the dark spirit's house
+00:20:51,000 --> 00:20:58,000
+Hold on, sister!
 
 152
-00:09:40,000 --> 00:09:42,000
- We're going to the dark spirit's house
+00:20:58,000 --> 00:21:00,000
+Thank you, Brita
 
 153
-00:09:42,000 --> 00:09:44,000
- We're going to the dark spirit's house
+00:21:00,000 --> 00:21:02,000
+You're welcome
 
 154
-00:09:44,000 --> 00:09:46,000
- We're going to the dark spirit's house
+00:21:02,000 --> 00:21:06,000
+Alva!
 
 155
-00:09:46,000 --> 00:09:48,000
- We're going to the dark spirit's house
+00:21:06,000 --> 00:21:14,000
+Hi, friends
 
 156
-00:09:48,000 --> 00:09:50,000
- We're going to the dark spirit's house
+00:21:14,000 --> 00:21:16,000
+How did you know I'm here?
 
 157
-00:09:50,000 --> 00:09:52,000
- We're going to the dark spirit's house
+00:21:16,000 --> 00:21:19,000
+I'm here because you're flying!
 
 158
-00:09:52,000 --> 00:09:54,000
- We're going to the dark spirit's house
+00:21:19,000 --> 00:21:21,000
+Yes, you're so used to it
 
 159
-00:09:54,000 --> 00:09:56,000
- We're going to the dark spirit's house
+00:21:21,000 --> 00:21:23,000
+You're making yourself a burden
 
 160
-00:09:56,000 --> 00:09:58,000
- We're going to the dark spirit's house
+00:21:23,000 --> 00:21:25,000
+You!
 
 161
-00:09:58,000 --> 00:10:00,000
- We're going to the dark spirit's house
+00:21:25,000 --> 00:21:26,000
+Yes, sister
 
 162
-00:10:00,000 --> 00:10:02,000
- We're going to the dark spirit's house
+00:21:26,000 --> 00:21:28,000
+We're all worried
 
 163
-00:10:02,000 --> 00:10:04,000
- We're going to the dark spirit's house
+00:21:28,000 --> 00:21:30,000
+Well, then
 
 164
-00:10:04,000 --> 00:10:06,000
- We're going to the dark spirit's house
+00:21:30,000 --> 00:21:32,000
+You have no other choice
 
 165
-00:10:06,000 --> 00:10:08,000
- We're going to the dark spirit's house
+00:21:32,000 --> 00:21:35,000
+I'm the only one
 
 166
-00:10:08,000 --> 00:10:10,000
- We're going to the dark spirit's house
+00:21:35,000 --> 00:21:37,000
+Who can help Professor Aldi Baharan
 
 167
-00:10:10,000 --> 00:10:12,000
- We're going to the dark spirit's house
+00:21:37,000 --> 00:21:40,000
+So, I'm chasing after him
 
 168
-00:10:12,000 --> 00:10:14,000
- We're going to the dark spirit's house
+00:21:40,000 --> 00:21:43,000
+Thank you all
 
 169
-00:10:14,000 --> 00:10:16,000
- We're going to the dark spirit's house
+00:21:43,000 --> 00:21:45,000
+For helping me
 
 170
-00:10:16,000 --> 00:10:18,000
- We're going to the dark spirit's house
+00:21:45,000 --> 00:21:47,000
+I'm so proud of you
 
 171
-00:10:18,000 --> 00:10:20,000
- We're going to the dark spirit's house
+00:21:47,000 --> 00:21:50,000
+But, Barga can't be defeated
 
 172
-00:10:20,000 --> 00:10:22,000
- We're going to the dark spirit's house
+00:21:50,000 --> 00:21:52,000
+Alva, the ring!
 
 173
-00:10:22,000 --> 00:10:24,000
- We're going to the dark spirit's house
+00:21:52,000 --> 00:21:55,000
+Barga's ring has a weakness
 
 174
-00:10:24,000 --> 00:10:26,000
- We're going to the dark spirit's house
+00:21:55,000 --> 00:21:58,000
+If he wears it, he'll be strong
 
 175
-00:10:26,000 --> 00:10:28,000
- We're going to the dark spirit's house
+00:21:58,000 --> 00:22:00,000
+So, the weakness is in the ring?
 
 176
-00:10:28,000 --> 00:10:30,000
- We're going to the dark spirit's house
+00:22:00,000 --> 00:22:02,000
+We'll make a plan
 
 177
-00:10:30,000 --> 00:10:32,000
- We're going to the dark spirit's house
+00:22:02,000 --> 00:22:04,000
+But, before that
 
 178
-00:10:32,000 --> 00:10:34,000
- We're going to the dark spirit's house
+00:22:04,000 --> 00:22:13,000
+Catch him!
 
 179
-00:10:34,000 --> 00:10:36,000
- We're going to the dark spirit's house
+00:22:14,000 --> 00:22:16,000
+You have to eat first
 
 180
-00:10:36,000 --> 00:10:38,000
- We're going to the dark spirit's house
+00:22:16,000 --> 00:22:18,000
+If you eat, your energy will be full
 
 181
-00:10:38,000 --> 00:10:40,000
- We're going to the dark spirit's house
+00:22:18,000 --> 00:22:20,000
+And your leg won't hurt anymore
 
 182
-00:10:40,000 --> 00:10:42,000
- We're going to the dark spirit's house
+00:22:20,000 --> 00:22:22,000
+Okay
 
 183
-00:10:42,000 --> 00:10:44,000
- We're going to the dark spirit's house
+00:22:22,000 --> 00:22:32,000
+My leg doesn't hurt anymore!
 
 184
-00:10:44,000 --> 00:10:46,000
- We're going to the dark spirit's house
+00:22:32,000 --> 00:22:34,000
+You're right, sister!
 
 185
-00:10:46,000 --> 00:10:48,000
- We're going to the dark spirit's house
+00:22:34,000 --> 00:22:39,000
+Let's make a plan!
 
 186
-00:10:48,000 --> 00:10:50,000
- We're going to the dark spirit's house
+00:22:39,000 --> 00:22:41,000
+Alva, the ring!
 
 187
-00:10:50,000 --> 00:10:52,000
- We're going to the dark spirit's house
+00:22:41,000 --> 00:22:52,000
+Why is it so dark?
 
 188
-00:10:52,000 --> 00:10:54,000
- We're going to the dark spirit's house
+00:22:52,000 --> 00:22:58,000
+Alva
 
 189
-00:10:54,000 --> 00:10:56,000
- We're going to the dark spirit's house
+00:22:58,000 --> 00:23:01,000
+I'm going to take your blood
 
 190
-00:10:56,000 --> 00:10:58,000
- We're going to the dark spirit's house
+00:23:01,000 --> 00:23:05,000
+Okay
 
 191
-00:10:58,000 --> 00:11:00,000
- We're going to the dark spirit's house
+00:23:05,000 --> 00:23:07,000
+Take the blood
 
 192
-00:11:00,000 --> 00:11:02,000
- We're going to the dark spirit's house
+00:23:07,000 --> 00:23:09,000
+Take it
 
 193
-00:11:02,000 --> 00:11:04,000
- We're going to the dark spirit's house
+00:23:09,000 --> 00:23:13,000
+Alva
 
 194
-00:11:04,000 --> 00:11:06,000
- We're going to the dark spirit's house
+00:23:13,000 --> 00:23:15,000
+Why are you a murderer?
 
 195
-00:11:06,000 --> 00:11:08,000
- We're going to the dark spirit's house
+00:23:15,000 --> 00:23:17,000
+I don't know
 
 196
-00:11:08,000 --> 00:11:10,000
- We're going to the dark spirit's house
+00:23:17,000 --> 00:23:20,000
+Maybe he's very curious
 
 197
-00:11:10,000 --> 00:11:12,000
- We're going to the dark spirit's house
+00:23:20,000 --> 00:23:23,000
+Because he's the only one who can help Professor Aldi Baharan
 
 198
-00:11:12,000 --> 00:11:14,000
- We're going to the dark spirit's house
+00:23:23,000 --> 00:23:25,000
+Wear the ring
 
 199
-00:11:14,000 --> 00:11:16,000
- We're going to the dark spirit's house
+00:23:25,000 --> 00:23:27,000
+Take the hair
 
 200
-00:11:16,000 --> 00:11:18,000
- We're going to the dark spirit's house
+00:23:27,000 --> 00:23:29,000
+If you want to take the blood
 
 201
-00:11:18,000 --> 00:11:20,000
- We're going to the dark spirit's house
+00:23:29,000 --> 00:23:31,000
+Hurry up
 
 202
-00:11:20,000 --> 00:11:22,000
- We're going to the dark spirit's house
+00:23:31,000 --> 00:23:33,000
+You can wear the shawl
 
 203
-00:11:22,000 --> 00:11:24,000
- We're going to the dark spirit's house
+00:23:33,000 --> 00:23:35,000
+You're lazy
 
 204
-00:11:24,000 --> 00:11:26,000
- We're going to the dark spirit's house
+00:23:35,000 --> 00:23:37,000
+Anggara
 
 205
-00:11:26,000 --> 00:11:28,000
- We're going to the dark spirit's house
+00:23:37,000 --> 00:23:39,000
+I think there's something wrong with Alva
 
 206
-00:11:28,000 --> 00:11:30,000
- We're going to the dark spirit's house
+00:23:39,000 --> 00:23:42,000
+Maybe she's stressed
 
 207
-00:11:30,000 --> 00:11:32,000
- We're going to the dark spirit's house
+00:23:42,000 --> 00:23:47,000
+It doesn't matter what you do
 
 208
-00:11:32,000 --> 00:11:34,000
- We're going to the dark spirit's house
+00:23:47,000 --> 00:23:49,000
+It doesn't matter
 
 209
-00:11:34,000 --> 00:11:36,000
- We're going to the dark spirit's house
+00:23:49,000 --> 00:23:51,000
+What matters is your blood
 
 210
-00:11:36,000 --> 00:11:38,000
- We're going to the dark spirit's house
+00:23:51,000 --> 00:23:53,000
+With your blood
 
 211
-00:11:38,000 --> 00:11:40,000
- We're going to the dark spirit's house
+00:23:53,000 --> 00:23:55,000
+I can perfect my power
 
 212
-00:11:40,000 --> 00:11:42,000
- We're going to the dark spirit's house
+00:23:55,000 --> 00:24:01,000
+Take the blood
 
 213
-00:11:42,000 --> 00:11:44,000
- We're going to the dark spirit's house
+00:24:01,000 --> 00:24:03,000
+Take it
 
 214
-00:11:44,000 --> 00:11:46,000
- We're going to the dark spirit's house
+00:24:03,000 --> 00:24:18,000
+Is that all?
 
 215
-00:11:46,000 --> 00:11:48,000
- We're going to the dark spirit's house
+00:24:18,000 --> 00:24:21,000
+Have a good time, Alva
 
 216
-00:11:48,000 --> 00:11:50,000
- We're going to the dark spirit's house
+00:24:21,000 --> 00:24:26,000
+Okay, Professor
 
 217
-00:11:50,000 --> 00:11:52,000
- We're going to the dark spirit's house
+00:24:27,000 --> 00:24:29,000
+I'm going to take the blood
 
 218
-00:11:52,000 --> 00:11:54,000
- We're going to the dark spirit's house
+00:24:29,000 --> 00:24:39,000
+You got it
 
 219
-00:11:54,000 --> 00:11:56,000
- We're going to the dark spirit's house
+00:24:39,000 --> 00:24:41,000
+You're so weak
 
 220
-00:11:56,000 --> 00:11:58,000
- We're going to the dark spirit's house
+00:24:41,000 --> 00:24:44,000
+I feel sorry for you
 
 221
-00:11:58,000 --> 00:12:00,000
- We're going to the dark spirit's house
+00:24:54,000 --> 00:24:58,000
+Attack!
 
 222
-00:12:00,000 --> 00:12:02,000
- We're going to the dark spirit's house
+00:24:58,000 --> 00:25:12,000
+I'm going to take the blood
 
 223
-00:12:02,000 --> 00:12:04,000
- We're going to the dark spirit's house
+00:25:12,000 --> 00:25:27,000
+Attack!
 
 224
-00:12:04,000 --> 00:12:06,000
- We're going to the dark spirit's house
+00:25:27,000 --> 00:25:34,000
+Rita, that's his ring
 
 225
-00:12:06,000 --> 00:12:08,000
- We're going to the dark spirit's house
+00:25:34,000 --> 00:25:36,000
+Get closer
 
 226
-00:12:08,000 --> 00:12:10,000
- We're going to the dark spirit's house
+00:25:36,000 --> 00:25:38,000
+Okay
 
 227
-00:12:10,000 --> 00:12:12,000
- We're going to the dark spirit's house
+00:25:38,000 --> 00:26:08,000
+Attack!
 
 228
-00:12:12,000 --> 00:12:14,000
- We're going to the dark spirit's house
+00:26:08,000 --> 00:26:34,000
+Alva, are you okay?
 
 229
-00:12:14,000 --> 00:12:16,000
- We're going to the dark spirit's house
+00:26:34,000 --> 00:26:36,000
+I'm okay
 
 230
-00:12:16,000 --> 00:12:18,000
- We're going to the dark spirit's house
+00:26:36,000 --> 00:26:39,000
+My hand is so big
 
 231
-00:12:18,000 --> 00:12:20,000
- We're going to the dark spirit's house
+00:26:39,000 --> 00:26:41,000
+It's hard to get the ring
 
 232
-00:12:20,000 --> 00:12:22,000
- We're going to the dark spirit's house
+00:26:41,000 --> 00:26:49,000
+What should I do?
 
 233
-00:12:22,000 --> 00:12:24,000
- We're going to the dark spirit's house
+00:26:49,000 --> 00:26:56,000
+I have an idea
 
 234
-00:12:24,000 --> 00:12:26,000
- We're going to the dark spirit's house
+00:26:56,000 --> 00:27:01,000
+Get the oil
 
 235
-00:12:26,000 --> 00:12:28,000
- We're going to the dark spirit's house
+00:27:03,000 --> 00:27:05,000
+I'm going to use it
 
 236
-00:12:28,000 --> 00:12:30,000
- We're going to the dark spirit's house
+00:27:05,000 --> 00:27:08,000
+I hope it works
 
 237
-00:12:30,000 --> 00:12:32,000
- We're going to the dark spirit's house
+00:27:08,000 --> 00:27:10,000
+Okay, guys
 
 238
-00:12:32,000 --> 00:12:34,000
- We're going to the dark spirit's house
+00:27:10,000 --> 00:27:12,000
+Let's attack him
 
 239
-00:12:34,000 --> 00:12:36,000
- We're going to the dark spirit's house
+00:27:12,000 --> 00:27:14,000
+Let's go
 
 240
-00:12:36,000 --> 00:12:38,000
- We're going to the dark spirit's house
+00:27:14,000 --> 00:27:22,000
+Attack!
 
 241
-00:12:38,000 --> 00:12:40,000
- We're going to the dark spirit's house
+00:27:22,000 --> 00:27:27,000
+Rita, get closer
 
 242
-00:12:40,000 --> 00:12:42,000
- We're going to the dark spirit's house
+00:27:27,000 --> 00:27:29,000
+Okay
 
 243
-00:12:42,000 --> 00:12:44,000
- We're going to the dark spirit's house
+00:27:29,000 --> 00:27:48,000
+Attack!
 
 244
-00:12:44,000 --> 00:12:46,000
- We're going to the dark spirit's house
+00:27:48,000 --> 00:28:08,000
+I'm going to take the blood
 
 245
-00:12:46,000 --> 00:12:48,000
- We're going to the dark spirit's house
+00:28:08,000 --> 00:28:13,000
+Attack!
 
 246
-00:12:48,000 --> 00:12:50,000
- We're going to the dark spirit's house
+00:28:13,000 --> 00:28:25,000
+Get the ring!
 
 247
-00:12:50,000 --> 00:12:52,000
- We're going to the dark spirit's house
+00:28:25,000 --> 00:28:27,000
+Attack!
 
 248
-00:12:52,000 --> 00:12:54,000
- We're going to the dark spirit's house
+00:28:53,000 --> 00:28:55,000
+How is it, brother?
 
 249
-00:12:54,000 --> 00:12:56,000
- We're going to the dark spirit's house
+00:28:55,000 --> 00:29:00,000
+The blood is ready
 
 250
-00:12:56,000 --> 00:12:58,000
- We're going to the dark spirit's house
+00:29:00,000 --> 00:29:03,000
+Good
 
 251
-00:12:58,000 --> 00:13:00,000
- We're going to the dark spirit's house
+00:29:03,000 --> 00:29:05,000
+With this blood
 
 252
-00:13:00,000 --> 00:13:02,000
- We're going to the dark spirit's house
+00:29:05,000 --> 00:29:08,000
+My knowledge will be perfect
 
 253
-00:13:02,000 --> 00:13:04,000
- We're going to the dark spirit's house
+00:29:08,000 --> 00:29:11,000
+And I won't be defeated
 
 254
-00:13:04,000 --> 00:13:06,000
- We're going to the dark spirit's house
+00:29:11,000 --> 00:29:13,000
+Hahaha
 
 255
-00:13:06,000 --> 00:13:08,000
- We're going to the dark spirit's house
+00:29:13,000 --> 00:29:39,000
+I'm going to take the blood
 
 256
-00:13:08,000 --> 00:13:10,000
- We're going to the dark spirit's house
+00:29:40,000 --> 00:29:42,000
+Anggar!
 
 257
-00:13:10,000 --> 00:13:12,000
- We're going to the dark spirit's house
+00:29:42,000 --> 00:29:45,000
+Why don't you react to me?
 
 258
-00:13:12,000 --> 00:13:14,000
- We're going to the dark spirit's house
+00:29:45,000 --> 00:29:49,000
+I don't know, sir
 
 259
-00:13:14,000 --> 00:13:16,000
- We're going to the dark spirit's house
+00:29:49,000 --> 00:29:51,000
+Is it a misunderstanding?
 
 260
-00:13:16,000 --> 00:13:18,000
- We're going to the dark spirit's house
+00:29:51,000 --> 00:30:00,000
+I bought a meatball
 
 261
-00:13:18,000 --> 00:13:20,000
- We're going to the dark spirit's house
+00:30:00,000 --> 00:30:04,000
+I threw it wrong
 
 262
-00:13:20,000 --> 00:13:22,000
- We're going to the dark spirit's house
+00:30:04,000 --> 00:30:08,000
+Why did you do that, Anggar?
 
 263
-00:13:22,000 --> 00:13:24,000
- We're going to the dark spirit's house
+00:30:09,000 --> 00:30:11,000
+I was fooled
 
 264
-00:13:24,000 --> 00:13:26,000
- We're going to the dark spirit's house
+00:30:11,000 --> 00:30:20,000
+It's time
 
 265
-00:13:26,000 --> 00:13:28,000
- We're going to the dark spirit's house
+00:30:20,000 --> 00:30:22,000
+I'm going to take care of the rest
 
 266
-00:13:28,000 --> 00:13:30,000
- We're going to the dark spirit's house
+00:30:22,000 --> 00:30:26,000
+Let's go, Ma
 
 267
-00:13:30,000 --> 00:13:32,000
- We're going to the dark spirit's house
+00:30:26,000 --> 00:30:28,000
+I want to go to Tara
 
 268
-00:13:32,000 --> 00:13:34,000
- We're going to the dark spirit's house
+00:30:28,000 --> 00:30:30,000
+You can use Tongsis
 
 269
-00:13:34,000 --> 00:13:36,000
- We're going to the dark spirit's house
+00:30:30,000 --> 00:30:32,000
+Or you can use Tongsis
 
 270
-00:13:36,000 --> 00:13:38,000
- We're going to the dark spirit's house
+00:30:32,000 --> 00:30:34,000
+It's up to you
 
 271
-00:13:38,000 --> 00:13:40,000
- We're going to the dark spirit's house
+00:30:34,000 --> 00:30:37,000
+It's easy
 
 272
-00:13:40,000 --> 00:13:42,000
- We're going to the dark spirit's house
+00:30:37,000 --> 00:30:39,000
+I'm going to use Tongsis
 
 273
-00:13:42,000 --> 00:13:44,000
- We're going to the dark spirit's house
+00:30:39,000 --> 00:30:45,000
+It's fast
 
 274
-00:13:44,000 --> 00:13:46,000
- We're going to the dark spirit's house
+00:30:45,000 --> 00:30:54,000
+Let's go together
 
 275
-00:13:46,000 --> 00:13:48,000
- We're going to the dark spirit's house
+00:30:54,000 --> 00:31:08,000
+Ouch! It hurts!
 
 276
-00:13:48,000 --> 00:13:50,000
- We're going to the dark spirit's house
+00:31:08,000 --> 00:31:16,000
+It's so hot
 
 277
-00:13:50,000 --> 00:13:52,000
- We're going to the dark spirit's house
+00:31:16,000 --> 00:31:18,000
+I'm hungry
 
 278
-00:13:52,000 --> 00:13:54,000
- We're going to the dark spirit's house
+00:31:18,000 --> 00:31:26,000
+Let's go to the village
 
 279
-00:13:54,000 --> 00:13:56,000
- We're going to the dark spirit's house
+00:31:26,000 --> 00:31:30,000
+Let's go
 
 280
-00:13:56,000 --> 00:13:58,000
- We're going to the dark spirit's house
+00:31:30,000 --> 00:31:32,000
+Don't eat me
 
 281
-00:13:58,000 --> 00:14:00,000
- We're going to the dark spirit's house
+00:31:32,000 --> 00:31:34,000
+I'm hungry
 
 282
-00:14:00,000 --> 00:14:02,000
- We're going to the dark spirit's house
+00:31:34,000 --> 00:31:36,000
+Let's go
 
 283
-00:14:02,000 --> 00:14:04,000
- We're going to the dark spirit's house
+00:31:36,000 --> 00:31:38,000
+We have to be hungry
 
 284
-00:14:04,000 --> 00:14:06,000
- We're going to the dark spirit's house
+00:31:38,000 --> 00:31:40,000
+Don't you know that?
 
 285
-00:14:06,000 --> 00:14:08,000
- We're going to the dark spirit's house
+00:31:40,000 --> 00:31:42,000
+I know
 
 286
-00:14:08,000 --> 00:14:10,000
- We're going to the dark spirit's house
+00:31:42,000 --> 00:31:44,000
+I'm hungry
 
 287
-00:14:10,000 --> 00:14:12,000
- We're going to the dark spirit's house
+00:31:44,000 --> 00:31:46,000
+But I don't want to eat you
 
 288
-00:14:12,000 --> 00:14:14,000
- We're going to the dark spirit's house
+00:31:46,000 --> 00:31:48,000
+You're so mean
 
 289
-00:14:14,000 --> 00:14:16,000
- We're going to the dark spirit's house
+00:31:48,000 --> 00:31:50,000
+But it's not a normal meatball
 
 290
-00:14:16,000 --> 00:14:18,000
- We're going to the dark spirit's house
+00:31:50,000 --> 00:31:52,000
+It's a meatball that has been castrated
 
 291
-00:14:18,000 --> 00:14:20,000
- We're going to the dark spirit's house
+00:31:52,000 --> 00:31:54,000
+Don't you remember Professor Agni?
 
 292
-00:14:20,000 --> 00:14:22,000
- We're going to the dark spirit's house
+00:31:54,000 --> 00:32:02,000
+Now we're going to learn about castration
 
 293
-00:14:22,000 --> 00:14:24,000
- We're going to the dark spirit's house
+00:32:02,000 --> 00:32:04,000
+Which is a magic bean
 
 294
-00:14:24,000 --> 00:14:26,000
- We're going to the dark spirit's house
+00:32:04,000 --> 00:32:08,000
+Now you have a bean in front of you
 
 295
-00:14:26,000 --> 00:14:28,000
- We're going to the dark spirit's house
+00:32:08,000 --> 00:32:11,000
+You plant it in the ground
 
 296
-00:14:28,000 --> 00:14:30,000
- We're going to the dark spirit's house
+00:32:11,000 --> 00:32:13,000
+But be careful
 
 297
-00:14:30,000 --> 00:14:32,000
- We're going to the dark spirit's house
+00:32:13,000 --> 00:32:15,000
+Don't let it get wet
 
 298
-00:14:32,000 --> 00:14:34,000
- We're going to the dark spirit's house
+00:32:15,000 --> 00:32:17,000
+Okay, ma'am
 
 299
-00:14:34,000 --> 00:14:36,000
- We're going to the dark spirit's house
+00:32:18,000 --> 00:32:20,000
+The bean is castrated
 
 300
-00:14:36,000 --> 00:14:38,000
- We're going to the dark spirit's house
+00:32:20,000 --> 00:32:38,000
+Can I?
 
 301
-00:14:38,000 --> 00:14:40,000
- We're going to the dark spirit's house
+00:32:38,000 --> 00:32:40,000
+Please help me, ma'am
 
 302
-00:14:40,000 --> 00:14:42,000
- We're going to the dark spirit's house
+00:32:40,000 --> 00:32:42,000
+You can't
 
 303
-00:14:42,000 --> 00:14:44,000
- We're going to the dark spirit's house
+00:32:42,000 --> 00:32:44,000
+I told you from the beginning
 
 304
-00:14:44,000 --> 00:14:46,000
- We're going to the dark spirit's house
+00:32:44,000 --> 00:32:46,000
+You can't let the bean get wet
 
 305
-00:14:46,000 --> 00:14:48,000
- We're going to the dark spirit's house
+00:32:46,000 --> 00:32:48,000
+Now you'll see what happens
 
 306
-00:14:48,000 --> 00:14:50,000
- We're going to the dark spirit's house
+00:32:48,000 --> 00:32:50,000
+Please help me, ma'am
 
 307
-00:14:50,000 --> 00:14:52,000
- We're going to the dark spirit's house
+00:32:50,000 --> 00:32:54,000
+Remember
 
 308
-00:14:52,000 --> 00:14:54,000
- We're going to the dark spirit's house
+00:32:54,000 --> 00:32:58,000
+Imagine
 
 309
-00:14:54,000 --> 00:14:56,000
- We're going to the dark spirit's house
+00:32:58,000 --> 00:33:00,000
+You want to eat this bean
 
 310
-00:14:56,000 --> 00:14:58,000
- We're going to the dark spirit's house
+00:33:00,000 --> 00:33:02,000
+And if you eat it
 
 311
-00:14:58,000 --> 00:15:00,000
- We're going to the dark spirit's house
+00:33:02,000 --> 00:33:04,000
+You'll get a sting
 
 312
-00:15:00,000 --> 00:15:02,000
- We're going to the dark spirit's house
+00:33:04,000 --> 00:33:08,000
+And you'll get a sting
 
 313
-00:15:02,000 --> 00:15:04,000
- We're going to the dark spirit's house
+00:33:08,000 --> 00:33:10,000
+It's so fun
 
 314
-00:15:04,000 --> 00:15:06,000
- We're going to the dark spirit's house
+00:33:10,000 --> 00:33:12,000
+I can't do it
 
 315
-00:15:06,000 --> 00:15:08,000
- We're going to the dark spirit's house
+00:33:12,000 --> 00:33:14,000
+I don't want to do it anymore
 
 316
-00:15:08,000 --> 00:15:10,000
- We're going to the dark spirit's house
+00:33:14,000 --> 00:33:16,000
+I'm going to the class
 
 317
-00:15:10,000 --> 00:15:12,000
- We're going to the dark spirit's house
+00:33:16,000 --> 00:33:20,000
+Guys
 
 318
-00:15:12,000 --> 00:15:14,000
- We're going to the dark spirit's house
+00:33:20,000 --> 00:33:22,000
+I have an idea
 
 319
-00:15:14,000 --> 00:15:16,000
- We're going to the dark spirit's house
+00:33:22,000 --> 00:33:34,000
+One, two, three
 
 320
-00:15:16,000 --> 00:15:18,000
- We're going to the dark spirit's house
+00:33:34,000 --> 00:33:36,000
+Sting!
 
 321
-00:15:18,000 --> 00:15:20,000
- We're going to the dark spirit's house
+00:33:36,000 --> 00:33:38,000
+Okay
 
 322
-00:15:20,000 --> 00:15:22,000
- We're going to the dark spirit's house
+00:33:38,000 --> 00:33:40,000
+Let's take the bean
 
 323
-00:15:22,000 --> 00:15:24,000
- We're going to the dark spirit's house
+00:33:40,000 --> 00:33:42,000
+Ouch
 
 324
-00:15:24,000 --> 00:15:26,000
- We're going to the dark spirit's house
+00:33:42,000 --> 00:33:48,000
+Sting!
 
 325
-00:15:26,000 --> 00:15:28,000
- We're going to the dark spirit's house
+00:33:48,000 --> 00:33:54,000
+I'm
 
 326
-00:15:28,000 --> 00:15:30,000
- We're going to the dark spirit's house
+00:33:54,000 --> 00:33:56,000
+Sting
 
 327
-00:15:30,000 --> 00:15:32,000
- We're going to the dark spirit's house
+00:33:56,000 --> 00:33:58,000
+Ouch
 
 328
-00:15:32,000 --> 00:15:34,000
- We're going to the dark spirit's house
+00:33:58,000 --> 00:34:16,000
+Guys
 
 329
-00:15:34,000 --> 00:15:36,000
- We're going to the dark spirit's house
+00:34:16,000 --> 00:34:18,000
+Throw the bean
 
 330
-00:15:36,000 --> 00:15:38,000
- We're going to the dark spirit's house
+00:34:18,000 --> 00:34:20,000
+Up
 
 331
-00:15:38,000 --> 00:15:40,000
- We're going to the dark spirit's house
+00:34:20,000 --> 00:34:40,000
+Guys
 
 332
-00:15:40,000 --> 00:15:42,000
- We're going to the dark spirit's house
+00:34:40,000 --> 00:34:42,000
+Count down
 
 333
-00:15:42,000 --> 00:15:44,000
- There must be a clue here
+00:34:42,000 --> 00:34:44,000
+To the sky
 
 334
-00:15:44,000 --> 00:15:46,000
- I'm going to look for it
+00:34:46,000 --> 00:34:58,000
+Sting!
 
 335
-00:15:46,000 --> 00:15:56,000
- The dark spirit's house has a ring
+00:34:58,000 --> 00:35:48,000
+Ouch
 
 336
-00:15:56,000 --> 00:15:58,000
- The dark spirit's house has a ring
+00:35:48,000 --> 00:35:54,000
+Guys!
 
 337
-00:15:58,000 --> 00:16:00,000
- That's very magical
+00:35:54,000 --> 00:35:56,000
+Professor fell!
 
 338
-00:16:00,000 --> 00:16:02,000
- And it can make monsters stronger
+00:35:56,000 --> 00:35:58,000
+Guys!
 
 339
-00:16:02,000 --> 00:16:04,000
- And it can make monsters stronger
+00:35:58,000 --> 00:36:00,000
+Help professor!
 
 340
-00:16:04,000 --> 00:16:22,000
- I know how to do it
+00:36:00,000 --> 00:36:02,000
+Let's go!
 
 341
-00:16:22,000 --> 00:16:26,000
- Guys!
+00:36:02,000 --> 00:36:56,000
+[Music]
 
 342
-00:16:26,000 --> 00:16:28,000
- Guys!
+00:36:56,000 --> 00:37:00,000
+Yeah! We made it!
 
 343
-00:16:28,000 --> 00:16:38,000
- I can't do it
+00:37:00,000 --> 00:37:20,000
+[Music]
 
 344
-00:16:38,000 --> 00:16:40,000
- I can't do it
+00:37:20,000 --> 00:37:24,000
+Yeah!
 
 345
-00:16:40,000 --> 00:16:42,000
- I can't do it
+00:37:24,000 --> 00:37:26,000
+What the Simpsons
 
 346
-00:16:42,000 --> 00:16:44,000
- Guys!
+00:37:26,000 --> 00:37:28,000
+Doesn't Joke!
 
 347
-00:17:10,000 --> 00:17:12,000
- I'm going to find the weak point
+00:37:28,000 --> 00:37:30,000
+[Laugh]
 
 348
-00:17:12,000 --> 00:17:14,000
- I'm going to find the weak point
+00:37:30,000 --> 00:37:32,000
+Yeah!
 
 349
-00:17:14,000 --> 00:17:16,000
- I'm going to find the weak point
+00:37:32,000 --> 00:37:34,000
+I'm so happy!
 
 350
-00:17:16,000 --> 00:17:18,000
- I'm going to find the weak point
+00:37:34,000 --> 00:37:36,000
+Thank you, guys!
 
 351
-00:17:18,000 --> 00:17:20,000
- I'm going to find the weak point
+00:37:36,000 --> 00:37:38,000
+Now, I'm a champion!
 
 352
-00:17:20,000 --> 00:17:22,000
- I'm going to find the weak point
+00:37:38,000 --> 00:37:40,000
+[Laugh]
 
 353
-00:17:22,000 --> 00:17:24,000
- I'm going to find the weak point
+00:37:40,000 --> 00:37:42,000
+Of course you are!
 
 354
-00:17:24,000 --> 00:17:26,000
- I'm going to find the weak point
+00:37:42,000 --> 00:37:44,000
+Don't!
 
 355
-00:17:26,000 --> 00:17:28,000
- I'm going to find the weak point
+00:37:44,000 --> 00:37:46,000
+[Laugh]
 
 356
-00:17:28,000 --> 00:17:30,000
- I'm going to find the weak point
+00:37:46,000 --> 00:37:48,000
+Stop!
 
 357
-00:17:30,000 --> 00:17:32,000
- I'm going to find the weak point
+00:37:48,000 --> 00:37:50,000
+[Laugh]
 
 358
-00:17:32,000 --> 00:17:34,000
- I'm going to find the weak point
+00:37:50,000 --> 00:37:52,000
+It's better to go to school!
 
 359
-00:17:34,000 --> 00:17:36,000
- I'm going to find the weak point
+00:37:52,000 --> 00:37:54,000
+[Laugh]
 
 360
-00:17:36,000 --> 00:17:38,000
- I'm going to find the weak point
+00:37:54,000 --> 00:38:22,000
+[Music]
 
 361
-00:17:38,000 --> 00:17:40,000
- I'm going to find the weak point
+00:38:22,000 --> 00:38:24,000
+I think there's something
 
 362
-00:17:40,000 --> 00:17:49,000
- I'm going to break it
+00:38:24,000 --> 00:38:48,000
+[Music]
 
 363
-00:17:49,000 --> 00:18:01,000
- I'm going to break it
+00:38:48,000 --> 00:38:50,000
+Anggar, look at that!
 
 364
-00:18:02,000 --> 00:18:04,000
- I'm going to break it
+00:38:50,000 --> 00:38:52,000
+There's Alva!
 
 365
-00:18:04,000 --> 00:18:18,000
- I'm going to break it
+00:38:52,000 --> 00:38:54,000
+[Music]
 
 366
-00:18:18,000 --> 00:18:20,000
- I'm going to break it
+00:38:54,000 --> 00:38:56,000
+It means he's with us!
 
 367
-00:18:20,000 --> 00:18:38,000
- My legs are aching
+00:38:56,000 --> 00:39:10,000
+[Music]
 
 368
-00:18:38,000 --> 00:18:40,000
- I can't stand up
+00:39:10,000 --> 00:39:12,000
+Anggar...
 
 369
-00:18:40,000 --> 00:18:42,000
- What should I do?
+00:39:12,000 --> 00:39:14,000
+I mean...
 
 370
-00:18:42,000 --> 00:18:47,000
- It's up to you
+00:39:14,000 --> 00:39:16,000
+Professor Anggar...
 
 371
-00:18:47,000 --> 00:18:49,000
- With your blood
+00:39:16,000 --> 00:39:18,000
+Yes, Professor Anggar...
 
 372
-00:18:49,000 --> 00:18:51,000
- I can perfect your power
+00:39:18,000 --> 00:39:20,000
+I'm sorry, I...
 
 373
-00:18:51,000 --> 00:19:08,000
- Professor Aldi Baharan
+00:39:20,000 --> 00:39:22,000
+I'm just walking around...
 
 374
-00:19:08,000 --> 00:19:11,000
- Where is he?
+00:39:22,000 --> 00:39:24,000
+I'm actually really hungry...
 
 375
-00:19:11,000 --> 00:19:13,000
- Where is Professor Aldi?
+00:39:24,000 --> 00:39:42,000
+[Music]
 
 376
-00:19:13,000 --> 00:19:15,000
- Shut up!
+00:39:42,000 --> 00:39:44,000
+I've been hurt...
 
 377
-00:19:15,000 --> 00:19:17,000
- Don't ask questions
+00:39:44,000 --> 00:39:46,000
+You're really Megantara!
 
 378
-00:19:17,000 --> 00:19:31,000
- How is it? Are we ready?
+00:39:46,000 --> 00:39:48,000
+[Music]
 
 379
-00:19:31,000 --> 00:19:33,000
- Yes
+00:39:48,000 --> 00:39:50,000
+You're really lucky...
 
 380
-00:19:33,000 --> 00:19:35,000
- Now, let's go
+00:39:50,000 --> 00:39:52,000
+It's really nice...
 
 381
-00:19:36,000 --> 00:19:38,000
- How is it? Are we ready?
+00:39:52,000 --> 00:39:54,000
+To be fooled by Megantara...
 
 382
-00:19:38,000 --> 00:19:40,000
- Yes
+00:39:54,000 --> 00:39:56,000
+[Music]
 
 383
-00:19:40,000 --> 00:19:42,000
- Now, let's go
+00:39:56,000 --> 00:39:58,000
+You're so rude!
 
 384
-00:19:42,000 --> 00:19:52,000
- Let's go
+00:39:58,000 --> 00:40:04,000
+[Music]
 
 385
-00:19:52,000 --> 00:19:54,000
- We have to help Alva
+00:40:04,000 --> 00:40:06,000
+Emotions will never help...
 
 386
-00:19:54,000 --> 00:19:56,000
- One, two, three
+00:40:06,000 --> 00:40:08,000
+[Music]
 
 387
-00:19:56,000 --> 00:19:58,000
- Let's go!
+00:40:08,000 --> 00:40:10,000
+I'm sorry...
 
 388
-00:19:59,000 --> 00:20:01,000
- [The power of the universe]
+00:40:10,000 --> 00:40:12,000
+Is this an attack?
 
 389
-00:20:02,000 --> 00:20:04,000
- [The power of the universe]
+00:40:12,000 --> 00:40:14,000
+Why?
 
 390
-00:20:05,000 --> 00:20:07,000
- [The power of the universe]
+00:40:14,000 --> 00:40:16,000
+You must be scared...
 
 391
-00:20:07,000 --> 00:20:20,000
- What is it?
+00:40:16,000 --> 00:40:28,000
+[Music]
 
 392
-00:20:20,000 --> 00:20:22,000
- [The power of the universe]
+00:40:28,000 --> 00:40:30,000
+What's wrong?
 
 393
-00:20:22,000 --> 00:20:42,000
- Brother!
+00:40:30,000 --> 00:40:32,000
+Are we fighting?
 
 394
-00:20:42,000 --> 00:20:47,000
- Brother, I can't stand it anymore!
+00:40:32,000 --> 00:40:34,000
+There's a lot of discussion...
 
 395
-00:20:47,000 --> 00:20:49,000
- I'm going to die!
+00:40:34,000 --> 00:40:36,000
+Megantara...
 
 396
-00:20:49,000 --> 00:20:51,000
- Brother!
+00:40:36,000 --> 00:40:38,000
+I admit defeat...
 
 397
-00:20:51,000 --> 00:20:58,000
- Hold on, sister!
+00:40:38,000 --> 00:40:40,000
+It's no use to fight...
 
 398
-00:20:58,000 --> 00:21:00,000
- Thank you, Brita
+00:40:40,000 --> 00:40:42,000
+What did you say?
 
 399
-00:21:00,000 --> 00:21:02,000
- You're welcome
+00:40:42,000 --> 00:40:44,000
+Admit defeat?
 
 400
-00:21:02,000 --> 00:21:06,000
- Alva!
+00:40:44,000 --> 00:40:46,000
+[Music]
 
 401
-00:21:06,000 --> 00:21:14,000
- Hi, friends
+00:40:46,000 --> 00:40:48,000
+Please take Aldebaran...
 
 402
-00:21:14,000 --> 00:21:16,000
- How did you know I'm here?
+00:40:48,000 --> 00:40:50,000
+And leave!
 
 403
-00:21:16,000 --> 00:21:19,000
- I'm here because you're flying!
+00:40:50,000 --> 00:40:52,000
+He's in the next room...
 
 404
-00:21:19,000 --> 00:21:21,000
- Yes, you're so used to it
+00:40:52,000 --> 00:40:54,000
+Are you serious?
 
 405
-00:21:21,000 --> 00:21:23,000
- You're making yourself a burden
+00:40:54,000 --> 00:40:56,000
+Bro!
 
 406
-00:21:23,000 --> 00:21:25,000
- You!
+00:40:56,000 --> 00:40:58,000
+Before we fight...
 
 407
-00:21:25,000 --> 00:21:26,000
- Yes, sister
+00:40:58,000 --> 00:41:02,000
+[Music]
 
 408
-00:21:26,000 --> 00:21:28,000
- We're all worried
+00:41:02,000 --> 00:41:04,000
+Okay...
 
 409
-00:21:28,000 --> 00:21:30,000
- Well, then
+00:41:04,000 --> 00:41:06,000
+Excuse me...
 
 410
-00:21:30,000 --> 00:21:32,000
- You have no other choice
+00:41:06,000 --> 00:41:08,000
+Watch your fingers...
 
 411
-00:21:32,000 --> 00:21:35,000
- I'm the only one
+00:41:08,000 --> 00:41:32,000
+[Music]
 
 412
-00:21:35,000 --> 00:21:37,000
- Who can help Professor Aldi Baharan
+00:41:32,000 --> 00:41:34,000
+Guys, this is Aldebaran's office...
 
 413
-00:21:37,000 --> 00:21:40,000
- So, I'm chasing after him
+00:41:34,000 --> 00:41:36,000
+I want to see Aldebaran...
 
 414
-00:21:40,000 --> 00:21:43,000
- Thank you all
+00:41:36,000 --> 00:41:38,000
+Guys, Aldebaran's office is upside down...
 
 415
-00:21:43,000 --> 00:21:45,000
- For helping me
+00:41:38,000 --> 00:41:40,000
+Guys, come here...
 
 416
-00:21:45,000 --> 00:21:47,000
- I'm so proud of you
+00:41:40,000 --> 00:41:42,000
+Aldebaran's office is upside down...
 
 417
-00:21:47,000 --> 00:21:50,000
- But, Barga can't be defeated
+00:41:42,000 --> 00:41:46,000
+[Music]
 
 418
-00:21:50,000 --> 00:21:52,000
- Alva, the ring!
+00:41:46,000 --> 00:41:48,000
+You guys have succeeded...
 
 419
-00:21:52,000 --> 00:21:55,000
- Barga's ring has a weakness
+00:41:48,000 --> 00:41:50,000
+You're the monsters...
 
 420
-00:21:55,000 --> 00:21:58,000
- If he wears it, he'll be strong
+00:41:50,000 --> 00:41:52,000
+I don't believe it...
 
 421
-00:21:58,000 --> 00:22:00,000
- So, the weakness is in the ring?
+00:41:52,000 --> 00:41:54,000
+Well, it worked...
 
 422
-00:22:00,000 --> 00:22:02,000
- We'll make a plan
+00:41:54,000 --> 00:41:56,000
+It's all thanks to Alva...
 
 423
-00:22:02,000 --> 00:22:04,000
- But, before that
+00:41:56,000 --> 00:41:58,000
+You guys are so awesome...
 
 424
-00:22:04,000 --> 00:22:13,000
- Catch him!
+00:41:58,000 --> 00:42:02,000
+[Laughter]
 
 425
-00:22:14,000 --> 00:22:16,000
- You have to eat first
+00:42:02,000 --> 00:42:10,000
+Alva is awesome!
 
 426
-00:22:16,000 --> 00:22:18,000
- If you eat, your energy will be full
+00:42:10,000 --> 00:42:14,000
+Oh my God...
 
 427
-00:22:18,000 --> 00:22:20,000
- And your leg won't hurt anymore
+00:42:14,000 --> 00:42:16,000
+You guys have brought...
 
 428
-00:22:20,000 --> 00:22:22,000
- Okay
+00:42:16,000 --> 00:42:18,000
+Professor Aldebaran back here...
 
 429
-00:22:22,000 --> 00:22:32,000
- My leg doesn't hurt anymore!
+00:42:18,000 --> 00:42:20,000
+It's a new grip...
 
 430
-00:22:32,000 --> 00:22:34,000
- You're right, sister!
+00:42:20,000 --> 00:42:22,000
+You guys are awesome...
 
 431
-00:22:34,000 --> 00:22:39,000
- Let's make a plan!
+00:42:22,000 --> 00:42:24,000
+Amazing...
 
 432
-00:22:39,000 --> 00:22:41,000
- Alva, the ring!
+00:42:24,000 --> 00:42:26,000
+I have to tell the other professors...
 
 433
-00:22:41,000 --> 00:22:52,000
- Why is it so dark?
+00:42:26,000 --> 00:42:30,000
+[Music]
 
 434
-00:22:52,000 --> 00:22:58,000
- Alva
+00:42:30,000 --> 00:42:32,000
+Professor Aldebaran is back...
 
 435
-00:22:58,000 --> 00:23:01,000
- I'm going to take your blood
+00:42:32,000 --> 00:42:34,000
+He's saved by...
 
 436
-00:23:01,000 --> 00:23:05,000
- Okay
+00:42:34,000 --> 00:42:36,000
+Alva, Vega, Ray, Tole and Pelita...
 
 437
-00:23:05,000 --> 00:23:07,000
- Take the blood
+00:42:36,000 --> 00:42:56,000
+[Music]
 
 438
-00:23:07,000 --> 00:23:09,000
- Take it
+00:42:56,000 --> 00:42:58,000
+Where's Megantar?
 
 439
-00:23:09,000 --> 00:23:13,000
- Alva
+00:42:58,000 --> 00:43:00,000
+Why is he so late?
 
 440
-00:23:13,000 --> 00:23:15,000
- Why are you a murderer?
+00:43:00,000 --> 00:43:02,000
+How's Professor Aldebaran?
 
 441
-00:23:15,000 --> 00:23:17,000
- I don't know
+00:43:02,000 --> 00:43:14,000
+[Music]
 
 442
-00:23:17,000 --> 00:23:20,000
- Maybe he's very curious
+00:43:14,000 --> 00:43:16,000
+Professor Aldebaran is safe...
 
 443
-00:23:20,000 --> 00:23:23,000
- Because he's the only one who can help Professor Aldi Baharan
+00:43:16,000 --> 00:43:18,000
+He's saved by...
 
 444
-00:23:23,000 --> 00:23:25,000
- Wear the ring
+00:43:18,000 --> 00:43:20,000
+Alva, Vega, Tole, Ray and Pelita...
 
 445
-00:23:25,000 --> 00:23:27,000
- Take the hair
+00:43:20,000 --> 00:43:22,000
+[Music]
 
 446
-00:23:27,000 --> 00:23:29,000
- If you want to take the blood
+00:43:22,000 --> 00:43:24,000
+Thank God...
 
 447
-00:23:29,000 --> 00:23:31,000
- Hurry up
+00:43:24,000 --> 00:43:26,000
+We were right to educate them...
 
 448
-00:23:31,000 --> 00:23:33,000
- You can wear the shawl
+00:43:26,000 --> 00:43:28,000
+They're now...
 
 449
-00:23:33,000 --> 00:23:35,000
- You're lazy
+00:43:28,000 --> 00:43:30,000
+Our best students...
 
 450
-00:23:35,000 --> 00:23:37,000
- Anggara
+00:43:30,000 --> 00:43:32,000
+[Music]
 
 451
-00:23:37,000 --> 00:23:39,000
- I think there's something wrong with Alva
+00:43:32,000 --> 00:43:34,000
+They're now...
 
 452
-00:23:39,000 --> 00:23:42,000
- Maybe she's stressed
+00:43:34,000 --> 00:43:36,000
+Very brave and brave...
 
 453
-00:23:42,000 --> 00:23:47,000
- It doesn't matter what you do
+00:43:36,000 --> 00:43:38,000
+Yes, very good...
 
 454
-00:23:47,000 --> 00:23:49,000
- It doesn't matter
+00:43:38,000 --> 00:43:40,000
+Come on...
 
 455
-00:23:49,000 --> 00:23:51,000
- What matters is your blood
+00:43:40,000 --> 00:43:42,000
+Now we go back to the school...
 
 456
-00:23:51,000 --> 00:23:53,000
- With your blood
+00:43:42,000 --> 00:43:44,000
+Professor Purwa...
 
 457
-00:23:53,000 --> 00:23:55,000
- I can perfect my power
+00:43:44,000 --> 00:43:46,000
+How about Megantara now?
 
 458
-00:23:55,000 --> 00:24:01,000
- Take the blood
+00:43:46,000 --> 00:43:48,000
+[Music]
 
 459
-00:24:01,000 --> 00:24:03,000
- Take it
+00:43:48,000 --> 00:43:50,000
+Professor Agni...
 
 460
-00:24:03,000 --> 00:24:18,000
- Is that all?
+00:43:50,000 --> 00:43:52,000
+Since the beginning, Megantara told me...
 
 461
-00:24:18,000 --> 00:24:21,000
- Have a good time, Alva
+00:43:52,000 --> 00:43:54,000
+The most important thing...
 
 462
-00:24:21,000 --> 00:24:26,000
- Okay, Professor
+00:43:54,000 --> 00:43:56,000
+Is the safety of Professor Aldebaran...
 
 463
-00:24:27,000 --> 00:24:29,000
- I'm going to take the blood
+00:43:56,000 --> 00:43:58,000
+[Music]
 
 464
-00:24:29,000 --> 00:24:39,000
- You got it
+00:43:58,000 --> 00:44:00,000
+He can protect himself...
 
 465
-00:24:39,000 --> 00:24:41,000
- You're so weak
+00:44:00,000 --> 00:44:02,000
+And now...
 
 466
-00:24:41,000 --> 00:24:44,000
- I feel sorry for you
+00:44:02,000 --> 00:44:04,000
+After we've come this far...
 
 467
-00:24:54,000 --> 00:24:56,000
- Attack!
+00:44:04,000 --> 00:44:06,000
+You want to leave Megantara just like that?
 
 468
-00:24:56,000 --> 00:24:58,000
- Attack!
+00:44:06,000 --> 00:44:08,000
+Megantara herself offered herself...
 
 469
-00:24:58,000 --> 00:25:10,000
- I'm going to take the blood
+00:44:08,000 --> 00:44:10,000
+To disguise as Alva...
 
 470
-00:25:10,000 --> 00:25:12,000
- I'm going to take the blood
+00:44:10,000 --> 00:44:12,000
+She knows what the risk is...
 
 471
-00:25:12,000 --> 00:25:15,000
- Attack!
+00:44:12,000 --> 00:44:14,000
+Right...
 
 472
-00:25:15,000 --> 00:25:17,000
- Attack!
+00:44:14,000 --> 00:44:16,000
+Megantara's knowledge is already high enough...
 
 473
-00:25:17,000 --> 00:25:27,000
- Attack!
+00:44:16,000 --> 00:44:18,000
+And she can handle it herself...
 
 474
-00:25:27,000 --> 00:25:34,000
- Rita, that's his ring
+00:44:18,000 --> 00:44:20,000
+No...
 
 475
-00:25:34,000 --> 00:25:36,000
- Get closer
+00:44:20,000 --> 00:44:22,000
+I won't go back...
 
 476
-00:25:36,000 --> 00:25:38,000
- Okay
+00:44:22,000 --> 00:44:24,000
+If you want to go home...
 
 477
-00:25:38,000 --> 00:25:40,000
- Attack!
+00:44:24,000 --> 00:44:26,000
+You're welcome...
 
 478
-00:25:40,000 --> 00:25:47,000
- Attack!
+00:44:26,000 --> 00:44:28,000
+I'll wait here...
 
 479
-00:25:47,000 --> 00:26:01,000
- Attack!
+00:44:28,000 --> 00:44:30,000
+[Music]
 
 480
-00:26:01,000 --> 00:26:06,000
- Attack!
+00:44:30,000 --> 00:44:32,000
+It's up to you, Professor Agni...
 
 481
-00:26:06,000 --> 00:26:08,000
- Attack!
+00:44:32,000 --> 00:44:34,000
+You're welcome, Lolip...
 
 482
-00:26:08,000 --> 00:26:34,000
- Alva, are you okay?
+00:44:34,000 --> 00:44:40,000
+[Music]
 
 483
-00:26:34,000 --> 00:26:36,000
- I'm okay
+00:44:40,000 --> 00:44:42,000
+If there's anything...
 
 484
-00:26:36,000 --> 00:26:39,000
- My hand is so big
+00:44:42,000 --> 00:44:44,000
+Let me know...
 
 485
-00:26:39,000 --> 00:26:41,000
- It's hard to get the ring
+00:44:44,000 --> 00:44:56,000
+[Music]
 
 486
-00:26:41,000 --> 00:26:49,000
- What should I do?
+00:44:56,000 --> 00:44:57,000
+So...
 
 487
-00:26:49,000 --> 00:26:56,000
- I have an idea
+00:44:57,000 --> 00:44:59,000
+How's Professor Aldebaran?
 
 488
-00:26:56,000 --> 00:27:01,000
- Get the oil
+00:44:59,000 --> 00:45:00,000
+It's okay...
 
 489
-00:27:03,000 --> 00:27:05,000
- I'm going to use it
+00:45:00,000 --> 00:45:01,000
+Professor Aldebaran...
 
 490
-00:27:05,000 --> 00:27:08,000
- I hope it works
+00:45:01,000 --> 00:45:02,000
+In a few hours...
 
 491
-00:27:08,000 --> 00:27:10,000
- Okay, guys
+00:45:02,000 --> 00:45:04,000
+Will wake up...
 
 492
-00:27:10,000 --> 00:27:12,000
- Let's attack him
+00:45:04,000 --> 00:45:06,000
+[Music]
 
 493
-00:27:12,000 --> 00:27:14,000
- Let's go
+00:45:06,000 --> 00:45:08,000
+Good...
 
 494
-00:27:14,000 --> 00:27:22,000
- Attack!
+00:45:08,000 --> 00:45:10,000
+[Music]
 
 495
-00:27:22,000 --> 00:27:27,000
- Rita, get closer
+00:45:10,000 --> 00:45:11,000
+Wait...
 
 496
-00:27:27,000 --> 00:27:29,000
- Okay
+00:45:11,000 --> 00:45:13,000
+Why is it just the two of you?
 
 497
-00:27:29,000 --> 00:27:31,000
- Attack!
+00:45:13,000 --> 00:45:14,000
+Professor Agni...
 
 498
-00:27:31,000 --> 00:27:46,000
- Attack!
+00:45:14,000 --> 00:45:16,000
+And Megantara...
 
 499
-00:27:46,000 --> 00:27:48,000
- Attack!
+00:45:16,000 --> 00:45:18,000
+Where is...?
 
 500
-00:27:48,000 --> 00:28:08,000
- I'm going to take the blood
+00:45:18,000 --> 00:45:20,000
+Megantara is now at the palace...
 
 501
-00:28:08,000 --> 00:28:10,000
- Attack!
+00:45:20,000 --> 00:45:22,000
+Of the dark wizard...
 
 502
-00:28:11,000 --> 00:28:13,000
- Attack!
+00:45:22,000 --> 00:45:25,000
+And Professor Agni is waiting for him to return...
 
 503
-00:28:13,000 --> 00:28:25,000
- Get the ring!
+00:45:25,000 --> 00:45:26,000
+What?
 
 504
-00:28:25,000 --> 00:28:27,000
- Attack!
+00:45:26,000 --> 00:45:27,000
+[Music]
 
 505
-00:28:53,000 --> 00:28:55,000
- How is it, brother?
+00:45:27,000 --> 00:45:28,000
+Megantara...
 
 506
-00:28:55,000 --> 00:29:00,000
- The blood is ready
+00:45:28,000 --> 00:45:30,000
+Is there a place for the dark wizard?
 
 507
-00:29:00,000 --> 00:29:03,000
- Good
+00:45:30,000 --> 00:45:32,000
+[Music]
 
 508
-00:29:03,000 --> 00:29:05,000
- With this blood
+00:45:32,000 --> 00:45:33,000
+Yes...
 
 509
-00:29:05,000 --> 00:29:08,000
- My knowledge will be perfect
+00:45:33,000 --> 00:45:34,000
+He's comfortable...
 
 510
-00:29:08,000 --> 00:29:11,000
- And I won't be defeated
+00:45:34,000 --> 00:45:36,000
+So, what about you?
 
 511
-00:29:11,000 --> 00:29:13,000
- Hahaha
+00:45:36,000 --> 00:45:38,000
+You didn't say...
 
 512
-00:29:13,000 --> 00:29:39,000
- I'm going to take the blood
+00:45:38,000 --> 00:45:40,000
+Yes...
 
 513
-00:29:40,000 --> 00:29:42,000
- Anggar!
+00:45:40,000 --> 00:45:42,000
+Because I forgot...
 
 514
-00:29:42,000 --> 00:29:45,000
- Why don't you react to me?
+00:45:42,000 --> 00:45:45,000
+I was thinking about how to fight the wizard...
 
 515
-00:29:45,000 --> 00:29:49,000
- I don't know, sir
+00:45:45,000 --> 00:45:46,000
+[Music]
 
 516
-00:29:49,000 --> 00:29:51,000
- Is it a misunderstanding?
+00:45:46,000 --> 00:45:47,000
+Okay...
 
 517
-00:29:51,000 --> 00:30:00,000
- I bought a meatball
+00:45:47,000 --> 00:45:52,000
+[Music]
 
 518
-00:30:00,000 --> 00:30:04,000
- I threw it wrong
+00:45:52,000 --> 00:45:53,000
+What are you doing?
 
 519
-00:30:04,000 --> 00:30:08,000
- Why did you do that, Anggar?
+00:45:53,000 --> 00:45:55,000
+[Music]
 
 520
-00:30:09,000 --> 00:30:11,000
- I was fooled
+00:45:55,000 --> 00:45:57,000
+Megantara has been captured...
 
 521
-00:30:11,000 --> 00:30:20,000
- It's time
+00:45:57,000 --> 00:46:00,000
+And will be destroyed by the dark wizard...
 
 522
-00:30:20,000 --> 00:30:22,000
- I'm going to take care of the rest
+00:46:00,000 --> 00:46:06,000
+[Music]
 
 523
-00:30:22,000 --> 00:30:26,000
- Let's go, Ma
+00:46:06,000 --> 00:46:07,000
+Be careful...
 
 524
-00:30:26,000 --> 00:30:28,000
- I want to go to Tara
+00:46:07,000 --> 00:46:09,000
+To come...
 
 525
-00:30:28,000 --> 00:30:30,000
- You can use Tongsis
+00:46:09,000 --> 00:46:10,000
+And you...
 
 526
-00:30:30,000 --> 00:30:32,000
- Or you can use Tongsis
+00:46:10,000 --> 00:46:13,000
+Don't be late again...
 
 527
-00:30:32,000 --> 00:30:34,000
- It's up to you
+00:46:13,000 --> 00:46:16,000
+Or Megantara will not forgive you...
 
 528
-00:30:34,000 --> 00:30:37,000
- It's easy
+00:46:16,000 --> 00:46:25,000
+[Music]
 
 529
-00:30:37,000 --> 00:30:39,000
- I'm going to use Tongsis
+00:46:25,000 --> 00:46:28,000
+I won't let the dark wizard hurt Tara...
 
 530
-00:30:39,000 --> 00:30:45,000
- It's fast
+00:46:28,000 --> 00:46:29,000
+[Music]
 
 531
-00:30:45,000 --> 00:30:50,000
- Let's go together
+00:46:29,000 --> 00:46:30,000
+Alpha...
 
 532
-00:30:50,000 --> 00:30:52,000
- Let's go together
+00:46:30,000 --> 00:46:31,000
+Where are you going?
 
 533
-00:30:52,000 --> 00:30:54,000
- Let's go together
+00:46:31,000 --> 00:46:32,000
+What is that?
 
 534
-00:30:54,000 --> 00:31:01,000
- Ouch! It hurts!
+00:46:32,000 --> 00:46:35,000
+[Music]
 
 535
-00:31:01,000 --> 00:31:03,000
- Ouch! It hurts!
+00:46:35,000 --> 00:46:36,000
+Mega...
 
 536
-00:31:03,000 --> 00:31:05,000
- Ouch! It hurts!
+00:46:36,000 --> 00:46:38,000
+[Music]
 
 537
-00:31:06,000 --> 00:31:08,000
- Ouch! It hurts!
+00:46:38,000 --> 00:46:39,000
+Why are you here?
 
 538
-00:31:08,000 --> 00:31:16,000
- It's so hot
+00:46:39,000 --> 00:46:40,000
+[Music]
 
 539
-00:31:16,000 --> 00:31:18,000
- I'm hungry
+00:46:40,000 --> 00:46:41,000
+What's up?
 
 540
-00:31:18,000 --> 00:31:26,000
- Let's go to the village
+00:46:41,000 --> 00:46:42,000
+Alpha...
 
 541
-00:31:26,000 --> 00:31:30,000
- Let's go
+00:46:42,000 --> 00:46:43,000
+Heard the words of the bird...
 
 542
-00:31:30,000 --> 00:31:32,000
- Don't eat me
+00:46:43,000 --> 00:46:44,000
+He was startled...
 
 543
-00:31:32,000 --> 00:31:34,000
- I'm hungry
+00:46:44,000 --> 00:46:46,000
+And he wants to attack Tara...
 
 544
-00:31:34,000 --> 00:31:36,000
- Let's go
+00:46:46,000 --> 00:46:47,000
+[Music]
 
 545
-00:31:36,000 --> 00:31:38,000
- We have to be hungry
+00:46:47,000 --> 00:46:48,000
+Alpha...
 
 546
-00:31:38,000 --> 00:31:40,000
- Don't you know that?
+00:46:48,000 --> 00:46:49,000
+You're a stubborn child...
 
 547
-00:31:40,000 --> 00:31:42,000
- I know
+00:46:49,000 --> 00:46:50,000
+Stubborn...
 
 548
-00:31:42,000 --> 00:31:44,000
- I'm hungry
+00:46:50,000 --> 00:46:51,000
+Please, Alpha...
 
 549
-00:31:44,000 --> 00:31:46,000
- But I don't want to eat you
+00:46:51,000 --> 00:46:54,000
+He will be attacked by the dark wizard...
 
 550
-00:31:46,000 --> 00:31:48,000
- You're so mean
+00:46:54,000 --> 00:47:03,000
+[Music]
 
 551
-00:31:48,000 --> 00:31:50,000
- But it's not a normal meatball
+00:47:03,000 --> 00:47:04,000
+Alpha...
 
 552
-00:31:50,000 --> 00:31:52,000
- It's a meatball that has been castrated
+00:47:04,000 --> 00:47:06,000
+What are you doing here?
 
 553
-00:31:52,000 --> 00:31:54,000
- Don't you remember Professor Agni?
+00:47:06,000 --> 00:47:08,000
+I want to meet the dark wizard...
 
 554
-00:31:54,000 --> 00:32:02,000
- Now we're going to learn about castration
+00:47:08,000 --> 00:47:10,000
+Come back...
 
 555
-00:32:02,000 --> 00:32:04,000
- Which is a magic bean
+00:47:10,000 --> 00:47:12,000
+[Music]
 
 556
-00:32:04,000 --> 00:32:08,000
- Now you have a bean in front of you
+00:47:12,000 --> 00:47:13,000
+Alpha...
 
 557
-00:32:08,000 --> 00:32:11,000
- You plant it in the ground
+00:47:13,000 --> 00:47:14,000
+Don't be stubborn...
 
 558
-00:32:11,000 --> 00:32:13,000
- But be careful
+00:47:14,000 --> 00:47:15,000
+You have to go home now...
 
 559
-00:32:13,000 --> 00:32:15,000
- Don't let it get wet
+00:47:15,000 --> 00:47:16,000
+No, professor...
 
 560
-00:32:15,000 --> 00:32:17,000
- Okay, ma'am
+00:47:16,000 --> 00:47:17,000
+I can't go home...
 
 561
-00:32:18,000 --> 00:32:20,000
- The bean is castrated
+00:47:17,000 --> 00:47:20,000
+If Tara is still in the dark wizard's castle...
 
 562
-00:32:20,000 --> 00:32:38,000
- Can I?
+00:47:20,000 --> 00:47:22,000
+Alpha, I order you to go home now...
 
 563
-00:32:38,000 --> 00:32:40,000
- Please help me, ma'am
+00:47:22,000 --> 00:47:24,000
+I can't, professor...
 
 564
-00:32:40,000 --> 00:32:42,000
- You can't
+00:47:24,000 --> 00:47:26,000
+I don't want to see anyone...
 
 565
-00:32:42,000 --> 00:32:44,000
- I told you from the beginning
+00:47:26,000 --> 00:47:28,000
+Be a victim because of me...
 
 566
-00:32:44,000 --> 00:32:46,000
- You can't let the bean get wet
+00:47:28,000 --> 00:47:31,000
+[Music]
 
 567
-00:32:46,000 --> 00:32:48,000
- Now you'll see what happens
+00:47:31,000 --> 00:47:33,000
+Dark wizard...
 
 568
-00:32:48,000 --> 00:32:50,000
- Please help me, ma'am
+00:47:33,000 --> 00:47:34,000
+[Music]
 
 569
-00:32:50,000 --> 00:32:54,000
- Remember
+00:47:34,000 --> 00:47:35,000
+I'm here...
 
 570
-00:32:54,000 --> 00:32:58,000
- Imagine
+00:47:35,000 --> 00:47:36,000
+Come out...
 
 571
-00:32:58,000 --> 00:33:00,000
- You want to eat this bean
+00:47:36,000 --> 00:47:37,000
+Dark wizard...
 
 572
-00:33:00,000 --> 00:33:02,000
- And if you eat it
+00:47:37,000 --> 00:47:39,000
+What are you doing, Alpha?
 
 573
-00:33:02,000 --> 00:33:04,000
- You'll get a sting
+00:47:39,000 --> 00:47:41,000
+Now I order you to go home...
 
 574
-00:33:04,000 --> 00:33:06,000
- And you'll get a sting
+00:47:41,000 --> 00:47:43,000
+Or you will be punished...
 
 575
-00:33:06,000 --> 00:33:08,000
- And you'll get a sting
+00:47:43,000 --> 00:47:46,000
+[Music]
 
 576
-00:33:08,000 --> 00:33:10,000
- It's so fun
+00:47:46,000 --> 00:47:47,000
+Alpha...
 
 577
-00:33:10,000 --> 00:33:12,000
- I can't do it
+00:47:47,000 --> 00:47:48,000
+You go home now...
 
 578
-00:33:12,000 --> 00:33:14,000
- I don't want to do it anymore
+00:47:48,000 --> 00:47:51,000
+Or I will kick you out of the school...
 
 579
-00:33:14,000 --> 00:33:16,000
- I'm going to the class
+00:47:51,000 --> 00:47:53,000
+I don't want to be kicked out...
 
 580
-00:33:16,000 --> 00:33:20,000
- Guys
+00:47:53,000 --> 00:47:56,000
+I want to see Tara safe...
 
 581
-00:33:20,000 --> 00:33:22,000
- I have an idea
+00:47:56,000 --> 00:48:05,000
+[Music]
 
 582
-00:33:22,000 --> 00:33:34,000
- One, two, three
+00:48:05,000 --> 00:48:07,000
+Welcome, Alpha...
 
 583
-00:33:34,000 --> 00:33:36,000
- Sting!
+00:48:07,000 --> 00:48:08,000
+[Music]
 
 584
-00:33:36,000 --> 00:33:38,000
- Okay
+00:48:08,000 --> 00:48:09,000
+Dark wizard...
 
 585
-00:33:38,000 --> 00:33:40,000
- Let's take the bean
+00:48:09,000 --> 00:48:13,000
+[Music]
 
 586
-00:33:40,000 --> 00:33:42,000
- Ouch
+00:48:13,000 --> 00:48:14,000
+Dark wizard...
 
 587
-00:33:42,000 --> 00:33:48,000
- Sting!
+00:48:14,000 --> 00:48:16,000
+What have you done?
 
 588
-00:33:48,000 --> 00:33:54,000
- I'm
+00:48:16,000 --> 00:48:18,000
+[Music]
 
 589
-00:33:54,000 --> 00:33:56,000
- Sting
+00:48:18,000 --> 00:48:21,000
+It turns out this time is really Alpha...
 
 590
-00:33:56,000 --> 00:33:58,000
- Ouch
+00:48:21,000 --> 00:48:24,000
+If we are together now, it's for me, Alpha...
 
 591
-00:33:58,000 --> 00:34:16,000
- Guys
+00:48:24,000 --> 00:48:25,000
+[Music]
 
 592
-00:34:16,000 --> 00:34:18,000
- Throw the bean
+00:48:25,000 --> 00:48:26,000
+No, Alpha...
 
 593
-00:34:18,000 --> 00:34:20,000
- Up
+00:48:26,000 --> 00:48:27,000
+You can't go...
 
 594
-00:34:20,000 --> 00:34:40,000
- Guys
+00:48:27,000 --> 00:48:30,000
+[Music]
 
 595
-00:34:40,000 --> 00:34:42,000
- Count down
+00:48:30,000 --> 00:48:31,000
+I want to go, professor...
 
 596
-00:34:42,000 --> 00:34:44,000
- To the sky
+00:48:31,000 --> 00:48:33,000
+I can take care of myself...
 
 597
-00:34:46,000 --> 00:34:48,000
- Sting!
+00:48:33,000 --> 00:48:34,000
+No, Alpha...
 
 598
-00:34:48,000 --> 00:34:52,000
- Sting!
+00:48:34,000 --> 00:48:35,000
+You have to stay here, Alpha...
 
 599
-00:34:52,000 --> 00:34:56,000
- Sting!
+00:48:35,000 --> 00:48:36,000
+Let me go, Alpha...
 
 600
-00:34:56,000 --> 00:34:58,000
- Sting!
+00:48:36,000 --> 00:48:38,000
+No, Ankara...
 
 601
-00:34:58,000 --> 00:35:02,000
- Ouch
+00:48:38,000 --> 00:48:40,000
+It's better if you take me away...
 
 602
-00:35:02,000 --> 00:35:04,000
- Ouch
+00:48:40,000 --> 00:48:42,000
+You have no rights...
 
 603
-00:35:04,000 --> 00:35:06,000
- Ouch
+00:48:42,000 --> 00:48:43,000
+Let me go, Alpha...
 
 604
-00:35:06,000 --> 00:35:10,000
- Ouch
+00:48:43,000 --> 00:48:44,000
+No...
 
 605
-00:35:10,000 --> 00:35:12,000
- Ouch
+00:48:44,000 --> 00:48:46,000
+I will not let you go, Alpha...
 
 606
-00:35:12,000 --> 00:35:16,000
- Ouch
+00:48:46,000 --> 00:48:57,000
+[Music]
 
 607
-00:35:16,000 --> 00:35:18,000
- Ouch
+00:48:57,000 --> 00:48:58,000
+Come on, Alpha...
 
 608
-00:35:18,000 --> 00:35:20,000
- Ouch
+00:48:58,000 --> 00:49:10,000
+[Music]
 
 609
-00:35:20,000 --> 00:35:22,000
- Ouch
+00:49:10,000 --> 00:49:12,000
+Alpha...
 
 610
-00:35:22,000 --> 00:35:24,000
- Ouch
+00:49:12,000 --> 00:49:18,000
+[Music]
 
 611
-00:35:24,000 --> 00:35:26,000
- Ouch
+00:49:18,000 --> 00:49:19,000
+Let's go, Tiffy...
 
 612
-00:35:26,000 --> 00:35:28,000
- Ouch
+00:49:19,000 --> 00:49:46,000
+[Music]
 
 613
-00:35:28,000 --> 00:35:30,000
- Ouch
+00:49:46,000 --> 00:49:47,000
+Soldier...
 
 614
-00:35:30,000 --> 00:35:34,000
- Ouch
+00:49:47,000 --> 00:49:50,000
+[Music]
 
 615
-00:35:34,000 --> 00:35:36,000
- Ouch
+00:49:50,000 --> 00:49:51,000
+Soldier...
 
 616
-00:35:36,000 --> 00:35:38,000
- Ouch
+00:49:51,000 --> 00:49:53,000
+Soldier, wake up...
 
 617
-00:35:38,000 --> 00:35:40,000
- Ouch
+00:49:53,000 --> 00:49:55,000
+[Music]
 
 618
-00:35:40,000 --> 00:35:42,000
- Ouch
+00:49:55,000 --> 00:49:56,000
+Soldier...
 
 619
-00:35:42,000 --> 00:35:44,000
- Ouch
+00:49:56,000 --> 00:49:59,000
+[Music]
 
 620
-00:35:44,000 --> 00:35:46,000
- Ouch
+00:49:59,000 --> 00:50:00,000
+Soldier...
 
 621
-00:35:46,000 --> 00:35:48,000
- Ouch
+00:50:00,000 --> 00:50:01,000
+[Music]
 
 622
-00:35:48,000 --> 00:35:50,000
- Guys!
+00:50:01,000 --> 00:50:02,000
+Soldier, wake up...
 
 623
-00:35:52,000 --> 00:35:54,000
- Guys!
+00:50:02,000 --> 00:50:03,000
+[Music]
 
 624
-00:35:54,000 --> 00:35:56,000
- Professor fell!
+00:50:03,000 --> 00:50:05,000
+Soldier, let's go...
 
 625
-00:35:56,000 --> 00:35:58,000
- Guys!
+00:50:05,000 --> 00:50:06,000
+Come here...
 
 626
-00:35:58,000 --> 00:36:00,000
- Help professor!
+00:50:06,000 --> 00:50:08,000
+[Music]
 
 627
-00:36:00,000 --> 00:36:02,000
- Let's go!
+00:50:08,000 --> 00:50:09,000
+Soldier...
 
 628
-00:36:02,000 --> 00:36:04,000
- [Music]
+00:50:09,000 --> 00:50:12,000
+[Music]
 
 629
-00:36:04,000 --> 00:36:06,000
- [Music]
+00:50:12,000 --> 00:50:13,000
+Soldier...
 
 630
-00:36:06,000 --> 00:36:24,000
- [Music]
+00:50:13,000 --> 00:50:29,000
+[Music]
 
 631
-00:36:32,000 --> 00:36:34,000
- [Music]
+00:50:29,000 --> 00:50:30,000
+Good, soldier...
 
 632
-00:36:34,000 --> 00:36:36,000
- [Music]
+00:50:30,000 --> 00:50:31,000
+[Music]
 
 633
-00:36:36,000 --> 00:36:38,000
- [Music]
+00:50:31,000 --> 00:50:32,000
+Good...
 
 634
-00:36:38,000 --> 00:36:40,000
- [Music]
+00:50:32,000 --> 00:50:35,000
+[Music]
 
 635
-00:36:40,000 --> 00:36:42,000
- [Music]
+00:50:35,000 --> 00:50:36,000
+Professor Ankara...
 
 636
-00:36:42,000 --> 00:36:44,000
- [Music]
+00:50:36,000 --> 00:50:37,000
+[Music]
 
 637
-00:36:44,000 --> 00:36:46,000
- [Music]
+00:50:37,000 --> 00:50:39,000
+What are you doing, soldier?
 
 638
-00:36:46,000 --> 00:36:48,000
- [Music]
+00:50:39,000 --> 00:50:40,000
+[Music]
 
 639
-00:36:48,000 --> 00:36:50,000
- [Music]
+00:50:40,000 --> 00:50:41,000
+Why, Alpha?
 
 640
-00:36:50,000 --> 00:36:52,000
- [Music]
+00:50:41,000 --> 00:50:42,000
+[Music]
 
 641
-00:36:52,000 --> 00:36:54,000
- [Music]
+00:50:42,000 --> 00:50:43,000
+You must not have thought...
 
 642
-00:36:54,000 --> 00:36:56,000
- [Music]
+00:50:43,000 --> 00:50:44,000
+[Music]
 
 643
-00:36:56,000 --> 00:36:58,000
- Yeah! We made it!
+00:50:44,000 --> 00:50:45,000
+If Megantara...
 
 644
-00:36:58,000 --> 00:37:00,000
- Yeah! We made it!
+00:50:45,000 --> 00:50:46,000
+[Music]
 
 645
-00:37:00,000 --> 00:37:02,000
- [Music]
+00:50:46,000 --> 00:50:48,000
+Has become my son...
 
 646
-00:37:02,000 --> 00:37:04,000
- [Music]
+00:50:48,000 --> 00:50:50,000
+[Music]
 
 647
-00:37:04,000 --> 00:37:06,000
- [Music]
+00:50:50,000 --> 00:50:51,000
+My son...
 
 648
-00:37:06,000 --> 00:37:08,000
- [Music]
+00:50:51,000 --> 00:50:52,000
+[Music]
 
 649
-00:37:08,000 --> 00:37:10,000
- [Music]
+00:50:52,000 --> 00:50:57,000
+[Laughter]
 
 650
-00:37:10,000 --> 00:37:12,000
- [Music]
+00:50:57,000 --> 00:50:58,000
+[Music]
 
 651
-00:37:12,000 --> 00:37:14,000
- [Music]
+00:50:58,000 --> 00:50:59,000
+Megantara...
 
 652
-00:37:14,000 --> 00:37:16,000
- [Music]
+00:50:59,000 --> 00:51:00,000
+[Music]
 
 653
-00:37:16,000 --> 00:37:18,000
- [Music]
+00:51:00,000 --> 00:51:02,000
+Now, you take my son's blood...
 
 654
-00:37:18,000 --> 00:37:20,000
- [Music]
+00:51:02,000 --> 00:51:03,000
+[Music]
 
 655
-00:37:20,000 --> 00:37:22,000
- Yeah!
+00:51:03,000 --> 00:51:05,000
+[Laughter]
 
 656
-00:37:22,000 --> 00:37:24,000
- Yeah!
+00:51:05,000 --> 00:51:19,000
+[Music]
 
 657
-00:37:24,000 --> 00:37:26,000
- What the Simpsons
+00:51:19,000 --> 00:51:20,000
+Don't, soldier...
 
 658
-00:37:26,000 --> 00:37:28,000
- Doesn't Joke!
+00:51:20,000 --> 00:51:21,000
+[Music]
 
 659
-00:37:28,000 --> 00:37:30,000
- [Laugh]
+00:51:21,000 --> 00:51:23,000
+Soldier, don't...
 
 660
-00:37:30,000 --> 00:37:32,000
- Yeah!
+00:51:23,000 --> 00:51:45,000
+[Music]
 
 661
-00:37:32,000 --> 00:37:34,000
- I'm so happy!
+00:51:45,000 --> 00:51:46,000
+Megantara, hurry up...
 
 662
-00:37:34,000 --> 00:37:36,000
- Thank you, guys!
+00:51:46,000 --> 00:51:47,000
+Do what you must...
 
 663
-00:37:36,000 --> 00:37:38,000
- Now, I'm a champion!
+00:51:47,000 --> 00:51:55,000
+[Music]
 
 664
-00:37:38,000 --> 00:37:40,000
- [Laugh]
+00:51:55,000 --> 00:51:57,000
+Attack him, Alpha...
 
 665
-00:37:40,000 --> 00:37:42,000
- Of course you are!
+00:51:57,000 --> 00:51:58,000
+Attack him...
 
 666
-00:37:42,000 --> 00:37:44,000
- Don't!
+00:51:58,000 --> 00:52:04,000
+[Music]
 
 667
-00:37:44,000 --> 00:37:46,000
- [Laugh]
+00:52:04,000 --> 00:52:05,000
+Defend him...
 
 668
-00:37:46,000 --> 00:37:48,000
- Stop!
+00:52:05,000 --> 00:52:09,000
+[Music]
 
 669
-00:37:48,000 --> 00:37:50,000
- [Laugh]
+00:52:09,000 --> 00:52:10,000
+Yeah...
 
 670
-00:37:50,000 --> 00:37:52,000
- It's better to go to school!
+00:52:10,000 --> 00:52:12,000
+[Laughter]
 
 671
-00:37:52,000 --> 00:37:54,000
- [Laugh]
+00:52:12,000 --> 00:52:18,000
+[Music]
 
 672
-00:37:54,000 --> 00:37:56,000
- [Music]
+00:52:18,000 --> 00:52:19,000
+Megantara...
 
 673
-00:37:56,000 --> 00:37:58,000
- [Music]
+00:52:19,000 --> 00:52:20,000
+[Music]
 
 674
-00:37:58,000 --> 00:38:00,000
- [Music]
+00:52:20,000 --> 00:52:22,000
+How could I hypnotize you?
 
 675
-00:38:00,000 --> 00:38:02,000
- [Music]
+00:52:22,000 --> 00:52:23,000
+[Music]
 
 676
-00:38:02,000 --> 00:38:04,000
- [Music]
+00:52:23,000 --> 00:52:24,000
+Ankara...
 
 677
-00:38:04,000 --> 00:38:06,000
- [Music]
+00:52:24,000 --> 00:52:25,000
+[Music]
 
 678
-00:38:06,000 --> 00:38:08,000
- [Music]
+00:52:25,000 --> 00:52:27,000
+The sky won't fall for the second time...
 
 679
-00:38:08,000 --> 00:38:10,000
- [Music]
+00:52:27,000 --> 00:52:30,000
+[Music]
 
 680
-00:38:10,000 --> 00:38:12,000
- [Music]
+00:52:30,000 --> 00:52:31,000
+Professor Agni...
 
 681
-00:38:12,000 --> 00:38:14,000
- [Music]
+00:52:31,000 --> 00:52:32,000
+[Music]
 
 682
-00:38:14,000 --> 00:38:16,000
- [Music]
+00:52:32,000 --> 00:52:33,000
+You successfully hypnotized...
 
 683
-00:38:16,000 --> 00:38:18,000
- [Music]
+00:52:33,000 --> 00:52:34,000
+[Music]
 
 684
-00:38:18,000 --> 00:38:20,000
- [Music]
+00:52:34,000 --> 00:52:35,000
+Doctor Pertiwi...
 
 685
-00:38:20,000 --> 00:38:22,000
- [Music]
+00:52:35,000 --> 00:52:36,000
+[Music]
 
 686
-00:38:22,000 --> 00:38:24,000
- I think there's something
+00:52:36,000 --> 00:52:37,000
+You hypnotized...
 
 687
-00:38:24,000 --> 00:38:26,000
- [Music]
+00:52:37,000 --> 00:52:38,000
+[Music]
 
 688
-00:38:26,000 --> 00:38:28,000
- [Music]
+00:52:38,000 --> 00:52:39,000
+But, I, Megantara...
 
 689
-00:38:28,000 --> 00:38:30,000
- [Music]
+00:52:39,000 --> 00:52:40,000
+[Music]
 
 690
-00:38:30,000 --> 00:38:32,000
- [Music]
+00:52:40,000 --> 00:52:42,000
+Can't hypnotize you...
 
 691
-00:38:32,000 --> 00:38:34,000
- [Music]
+00:52:42,000 --> 00:52:45,000
+[Laughter]
 
 692
-00:38:34,000 --> 00:38:36,000
- [Music]
+00:52:45,000 --> 00:52:53,000
+[Music]
 
 693
-00:38:36,000 --> 00:38:38,000
- [Music]
+00:52:53,000 --> 00:52:56,000
+This disguise is very dangerous for you, Megantara...
 
 694
-00:38:38,000 --> 00:38:40,000
- [Music]
+00:52:56,000 --> 00:52:57,000
+[Music]
 
 695
-00:38:40,000 --> 00:38:42,000
- [Music]
+00:52:57,000 --> 00:52:59,000
+You must be very careful...
 
 696
-00:38:42,000 --> 00:38:44,000
- [Music]
+00:52:59,000 --> 00:53:00,000
+[Music]
 
 697
-00:38:44,000 --> 00:38:46,000
- [Music]
+00:53:00,000 --> 00:53:01,000
+That's right...
 
 698
-00:38:46,000 --> 00:38:48,000
- [Music]
+00:53:01,000 --> 00:53:04,000
+If Megantara finds out...
 
 699
-00:38:48,000 --> 00:38:50,000
- Anggar, look at that!
+00:53:04,000 --> 00:53:06,000
+She will definitely be hypnotized...
 
 700
-00:38:50,000 --> 00:38:52,000
- There's Alva!
+00:53:06,000 --> 00:53:09,000
+And she will definitely become their spy...
 
 701
-00:38:52,000 --> 00:38:54,000
- [Music]
+00:53:09,000 --> 00:53:13,000
+[Music]
 
 702
-00:38:54,000 --> 00:38:56,000
- It means he's with us!
+00:53:13,000 --> 00:53:14,000
+Umm...
 
 703
-00:38:56,000 --> 00:38:58,000
- [Music]
+00:53:14,000 --> 00:53:16,000
+[Music]
 
 704
-00:38:58,000 --> 00:39:00,000
- [Music]
+00:53:16,000 --> 00:53:17,000
+How about...
 
 705
-00:39:00,000 --> 00:39:02,000
- [Music]
+00:53:17,000 --> 00:53:20,000
+We learn...
 
 706
-00:39:02,000 --> 00:39:04,000
- [Music]
+00:53:20,000 --> 00:53:24,000
+The anti-hypnotism mantra...
 
 707
-00:39:04,000 --> 00:39:06,000
- [Music]
+00:53:24,000 --> 00:53:26,000
+[Music]
 
 708
-00:39:06,000 --> 00:39:08,000
- [Music]
+00:53:26,000 --> 00:53:27,000
+Agree...
 
 709
-00:39:08,000 --> 00:39:10,000
- [Music]
+00:53:27,000 --> 00:53:28,000
+[Music]
 
 710
-00:39:10,000 --> 00:39:12,000
- Anggar...
+00:53:28,000 --> 00:53:29,000
+Let's go...
 
 711
-00:39:12,000 --> 00:39:14,000
- I mean...
+00:53:29,000 --> 00:53:31,000
+[Music]
 
 712
-00:39:14,000 --> 00:39:16,000
- Professor Anggar...
+00:53:31,000 --> 00:53:33,000
+What is the anti-hypnotism mantra that I remember...
 
 713
-00:39:16,000 --> 00:39:18,000
- Yes, Professor Anggar...
+00:53:33,000 --> 00:53:34,000
+Your Dhotis...
 
 714
-00:39:18,000 --> 00:39:20,000
- I'm sorry, I...
+00:53:34,000 --> 00:53:43,000
+[Music]
 
 715
-00:39:20,000 --> 00:39:22,000
- I'm just walking around...
+00:53:43,000 --> 00:53:44,000
+How is this...
 
 716
-00:39:22,000 --> 00:39:24,000
- I'm actually really hungry...
+00:53:44,000 --> 00:53:46,000
+[Music]
 
 717
-00:39:24,000 --> 00:39:26,000
- [Music]
+00:53:46,000 --> 00:53:49,000
+It seems like the anti-hypnotism mantra didn't work...
 
 718
-00:39:26,000 --> 00:39:28,000
- [Music]
+00:53:49,000 --> 00:53:50,000
+It seems like...
 
 719
-00:39:28,000 --> 00:39:30,000
- [Music]
+00:53:50,000 --> 00:53:58,000
+[Music]
 
 720
-00:39:30,000 --> 00:39:32,000
- [Music]
+00:53:58,000 --> 00:54:00,000
+Finally...
 
 721
-00:39:32,000 --> 00:39:34,000
- [Music]
+00:54:00,000 --> 00:54:01,000
+[Music]
 
 722
-00:39:34,000 --> 00:39:36,000
- [Music]
+00:54:01,000 --> 00:54:03,000
+Professor Agni has returned...
 
 723
-00:39:36,000 --> 00:39:38,000
- [Music]
+00:54:03,000 --> 00:54:04,000
+Yes...
 
 724
-00:39:38,000 --> 00:39:40,000
- [Music]
+00:54:04,000 --> 00:54:05,000
+Finally...
 
 725
-00:39:40,000 --> 00:39:42,000
- [Music]
+00:54:05,000 --> 00:54:06,000
+Like that...
 
 726
-00:39:42,000 --> 00:39:44,000
- I've been hurt...
+00:54:06,000 --> 00:54:07,000
+Now you, Megantara...
 
 727
-00:39:44,000 --> 00:39:46,000
- You're really Megantara!
+00:54:07,000 --> 00:54:08,000
+Me?
 
 728
-00:39:46,000 --> 00:39:48,000
- [Music]
+00:54:08,000 --> 00:54:09,000
+Hypnotized?
 
 729
-00:39:48,000 --> 00:39:50,000
- You're really lucky...
+00:54:09,000 --> 00:54:10,000
+Yes...
 
 730
-00:39:50,000 --> 00:39:52,000
- It's really nice...
+00:54:10,000 --> 00:54:11,000
+Who's afraid?
 
 731
-00:39:52,000 --> 00:39:54,000
- To be fooled by Megantara...
+00:54:11,000 --> 00:54:12,000
+Try it...
 
 732
-00:39:54,000 --> 00:39:56,000
- [Music]
+00:54:12,000 --> 00:54:23,000
+[Music]
 
 733
-00:39:56,000 --> 00:39:58,000
- You're so rude!
+00:54:23,000 --> 00:54:26,000
+Megantara...
 
 734
-00:39:58,000 --> 00:40:00,000
- [Music]
+00:54:26,000 --> 00:54:29,000
+[Laughter]
 
 735
-00:40:00,000 --> 00:40:02,000
- [Music]
+00:54:29,000 --> 00:54:30,000
+Finally...
 
 736
-00:40:02,000 --> 00:40:04,000
- [Music]
+00:54:30,000 --> 00:54:33,000
+Finally what?
 
 737
-00:40:04,000 --> 00:40:06,000
- Emotions will never help...
+00:54:33,000 --> 00:54:35,000
+Gravure Chobra...
 
 738
-00:40:06,000 --> 00:40:08,000
- [Music]
+00:54:35,000 --> 00:54:38,000
+The servant lifts the stone...
 
 739
-00:40:08,000 --> 00:40:10,000
- I'm sorry...
+00:54:38,000 --> 00:54:41,000
+You got money to play...
 
 740
-00:40:10,000 --> 00:40:12,000
- Is this an attack?
+00:54:41,000 --> 00:54:43,000
+You all got fooled...
 
 741
-00:40:12,000 --> 00:40:14,000
- Why?
+00:54:43,000 --> 00:54:45,000
+You're all in luck...
 
 742
-00:40:14,000 --> 00:40:16,000
- You must be scared...
+00:54:45,000 --> 00:54:47,000
+[Laughter]
 
 743
-00:40:16,000 --> 00:40:18,000
- [Music]
+00:54:47,000 --> 00:54:49,000
+Angkara...
 
 744
-00:40:18,000 --> 00:40:20,000
- [Music]
+00:54:49,000 --> 00:54:51,000
+You're a cunning human...
 
 745
-00:40:20,000 --> 00:40:22,000
- [Music]
+00:54:51,000 --> 00:54:53,000
+A cunning human like you...
 
 746
-00:40:22,000 --> 00:40:24,000
- [Music]
+00:54:53,000 --> 00:54:55,000
+Must be faced with...
 
 747
-00:40:24,000 --> 00:40:26,000
- [Music]
+00:54:55,000 --> 00:54:57,000
+A way that is no less cunning...
 
 748
-00:40:26,000 --> 00:40:28,000
- [Music]
+00:54:58,000 --> 00:54:59,000
+Okay, Megantara...
 
 749
-00:40:28,000 --> 00:40:30,000
- What's wrong?
+00:54:59,000 --> 00:55:00,000
+Let's attack...
 
 750
-00:40:30,000 --> 00:40:32,000
- Are we fighting?
+00:55:00,000 --> 00:55:01,000
+Alva...
 
 751
-00:40:32,000 --> 00:40:34,000
- There's a lot of discussion...
+00:55:01,000 --> 00:55:03,000
+Now is the time...
 
 752
-00:40:34,000 --> 00:40:36,000
- Megantara...
+00:55:03,000 --> 00:55:05,000
+We destroy him...
 
 753
-00:40:36,000 --> 00:40:38,000
- I admit defeat...
+00:55:05,000 --> 00:55:06,000
+Come on...
 
 754
-00:40:38,000 --> 00:40:40,000
- It's no use to fight...
+00:55:06,000 --> 00:55:08,000
+TV Go!
 
 755
-00:40:40,000 --> 00:40:42,000
- What did you say?
+00:55:08,000 --> 00:55:25,000
+[Music]
 
 756
-00:40:42,000 --> 00:40:44,000
- Admit defeat?
+00:55:25,000 --> 00:55:26,000
+Get ready, Alva...
 
 757
-00:40:44,000 --> 00:40:46,000
- [Music]
+00:55:26,000 --> 00:55:27,000
+He's awake again...
 
 758
-00:40:46,000 --> 00:40:48,000
- Please take Aldebaran...
+00:55:27,000 --> 00:55:38,000
+[Music]
 
 759
-00:40:48,000 --> 00:40:50,000
- And leave!
+00:55:38,000 --> 00:55:39,000
+This is Miran...
 
 760
-00:40:50,000 --> 00:40:52,000
- He's in the next room...
+00:55:39,000 --> 00:55:40,000
+Enough...
 
 761
-00:40:52,000 --> 00:40:54,000
- Are you serious?
+00:55:40,000 --> 00:55:50,000
+[Music]
 
 762
-00:40:54,000 --> 00:40:56,000
- Bro!
+00:55:50,000 --> 00:55:59,000
+I haven't lost...
 
 763
-00:40:56,000 --> 00:40:58,000
- Before we fight...
+00:55:59,000 --> 00:56:16,000
+[Music]
 
 764
-00:40:58,000 --> 00:41:00,000
- [Music]
+00:56:16,000 --> 00:56:18,000
+Yes...
 
 765
-00:41:00,000 --> 00:41:02,000
- [Music]
+00:56:18,000 --> 00:56:22,000
+[Multiple voices]
 
 766
-00:41:02,000 --> 00:41:04,000
- Okay...
+00:56:22,000 --> 00:56:23,000
+[Laughter]
 
 767
-00:41:04,000 --> 00:41:06,000
- Excuse me...
+00:56:23,000 --> 00:56:26,000
+[Music]
 
 768
-00:41:06,000 --> 00:41:08,000
- Watch your fingers...
+00:56:26,000 --> 00:56:28,000
+Let's do it this way...
 
 769
-00:41:08,000 --> 00:41:10,000
- [Music]
+00:56:28,000 --> 00:56:30,000
+We have to check...
 
 770
-00:41:10,000 --> 00:41:12,000
- [Music]
+00:56:30,000 --> 00:56:31,000
+Angkara...
 
 771
-00:41:12,000 --> 00:41:14,000
- [Music]
+00:56:31,000 --> 00:56:33,000
+Is he insane...
 
 772
-00:41:14,000 --> 00:41:16,000
- [Music]
+00:56:33,000 --> 00:56:34,000
+To die...
 
 773
-00:41:16,000 --> 00:41:18,000
- [Music]
+00:56:34,000 --> 00:56:35,000
+Or maybe...
 
 774
-00:41:18,000 --> 00:41:20,000
- [Music]
+00:56:35,000 --> 00:56:36,000
+Just pretend...
 
 775
-00:41:20,000 --> 00:41:22,000
- [Music]
+00:56:36,000 --> 00:56:37,000
+Umm...
 
 776
-00:41:22,000 --> 00:41:24,000
- [Music]
+00:56:37,000 --> 00:57:00,000
+[Music]
 
 777
-00:41:24,000 --> 00:41:26,000
- [Music]
+00:57:00,000 --> 00:57:01,000
+Alva...
 
 778
-00:41:26,000 --> 00:41:28,000
- [Music]
+00:57:01,000 --> 00:57:02,000
+I know...
 
 779
-00:41:28,000 --> 00:41:30,000
- [Music]
+00:57:02,000 --> 00:57:04,000
+How to find out...
 
 780
-00:41:30,000 --> 00:41:32,000
- [Music]
+00:57:04,000 --> 00:57:07,000
+If he's insane or just pretending...
 
 781
-00:41:32,000 --> 00:41:34,000
- Guys, this is Aldebaran's office...
+00:57:07,000 --> 00:57:11,000
+[Music]
 
 782
-00:41:34,000 --> 00:41:36,000
- I want to see Aldebaran...
+00:57:11,000 --> 00:57:12,000
+Look...
 
 783
-00:41:36,000 --> 00:41:38,000
- Guys, Aldebaran's office is upside down...
+00:57:12,000 --> 00:57:21,000
+[Music]
 
 784
-00:41:38,000 --> 00:41:40,000
- Guys, come here...
+00:57:21,000 --> 00:57:22,000
+Eh...
 
 785
-00:41:40,000 --> 00:41:42,000
- Aldebaran's office is upside down...
+00:57:22,000 --> 00:57:24,000
+Wow...
 
 786
-00:41:42,000 --> 00:41:44,000
- [Music]
+00:57:24,000 --> 00:57:39,000
+[Music]
 
 787
-00:41:44,000 --> 00:41:46,000
- [Music]
+00:57:39,000 --> 00:57:40,000
+He's dead...
 
 788
-00:41:46,000 --> 00:41:48,000
- You guys have succeeded...
+00:57:40,000 --> 00:57:41,000
+Dead...
 
 789
-00:41:48,000 --> 00:41:50,000
- You're the monsters...
+00:57:41,000 --> 00:57:42,000
+[Music]
 
 790
-00:41:50,000 --> 00:41:52,000
- I don't believe it...
+00:57:42,000 --> 00:57:43,000
+Yes...
 
 791
-00:41:52,000 --> 00:41:54,000
- Well, it worked...
+00:57:43,000 --> 00:57:45,000
+[Music]
 
 792
-00:41:54,000 --> 00:41:56,000
- It's all thanks to Alva...
+00:57:45,000 --> 00:57:46,000
+Yes...
 
 793
-00:41:56,000 --> 00:41:58,000
- You guys are so awesome...
+00:57:46,000 --> 00:57:47,000
+A great army...
 
 794
-00:41:58,000 --> 00:42:00,000
- [Laughter]
+00:57:47,000 --> 00:57:48,000
+Can fight...
 
 795
-00:42:00,000 --> 00:42:02,000
- [Laughter]
+00:57:48,000 --> 00:57:50,000
+Professor Angkara's hypnotism...
 
 796
-00:42:02,000 --> 00:42:04,000
- Alva is awesome!
+00:57:50,000 --> 00:57:51,000
+[Music]
 
 797
-00:42:04,000 --> 00:42:06,000
- Alva is awesome!
+00:57:51,000 --> 00:57:52,000
+Alva...
 
 798
-00:42:06,000 --> 00:42:08,000
- Alva is awesome!
+00:57:52,000 --> 00:57:53,000
+[Music]
 
 799
-00:42:08,000 --> 00:42:10,000
- Alva is awesome!
+00:57:53,000 --> 00:57:55,000
+This is all because of you...
 
 800
-00:42:10,000 --> 00:42:12,000
- Oh my God...
+00:57:55,000 --> 00:57:57,000
+Because of me?
 
 801
-00:42:12,000 --> 00:42:14,000
- Oh my God...
+00:57:57,000 --> 00:57:58,000
+Yes...
 
 802
-00:42:14,000 --> 00:42:16,000
- You guys have brought...
+00:57:58,000 --> 00:58:00,000
+I...
 
 803
-00:42:16,000 --> 00:42:18,000
- Professor Aldebaran back here...
+00:58:00,000 --> 00:58:03,000
+Can control hypnotism...
 
 804
-00:42:18,000 --> 00:42:20,000
- It's a new grip...
+00:58:03,000 --> 00:58:07,000
+That's because I have the confidence and the strong will to save you...
 
 805
-00:42:20,000 --> 00:42:22,000
- You guys are awesome...
+00:58:07,000 --> 00:58:10,000
+Because of the confidence and the confidence...
 
 806
-00:42:22,000 --> 00:42:24,000
- Amazing...
+00:58:10,000 --> 00:58:11,000
+That's why...
 
 807
-00:42:24,000 --> 00:42:26,000
- I have to tell the other professors...
+00:58:11,000 --> 00:58:13,000
+We succeeded...
 
 808
-00:42:26,000 --> 00:42:28,000
- [Music]
+00:58:13,000 --> 00:58:16,000
+Because I don't want...
 
 809
-00:42:28,000 --> 00:42:30,000
- [Music]
+00:58:16,000 --> 00:58:20,000
+Someone to harm you...
 
 810
-00:42:30,000 --> 00:42:32,000
- Professor Aldebaran is back...
+00:58:20,000 --> 00:58:22,000
+Because of you...
 
 811
-00:42:32,000 --> 00:42:34,000
- He's saved by...
+00:58:23,000 --> 00:58:25,000
+You're my favorite student, Alva...
 
 812
-00:42:34,000 --> 00:42:36,000
- Alva, Vega, Ray, Tole and Pelita...
+00:58:25,000 --> 00:58:27,000
+Thank you, soldier...
 
 813
-00:42:36,000 --> 00:42:38,000
- [Music]
+00:58:27,000 --> 00:58:31,000
+[Laughter]
 
 814
-00:42:38,000 --> 00:42:40,000
- [Music]
+00:58:31,000 --> 00:58:36,000
+[Music]
 
 815
-00:42:40,000 --> 00:42:42,000
- [Music]
+00:58:36,000 --> 00:58:37,000
+Oh, soldier...
 
 816
-00:42:42,000 --> 00:42:44,000
- [Music]
+00:58:37,000 --> 00:58:38,000
+Later...
 
 817
-00:42:44,000 --> 00:42:46,000
- [Music]
+00:58:38,000 --> 00:58:40,000
+Teach me hypnotism, okay?
 
 818
-00:42:46,000 --> 00:42:48,000
- [Music]
+00:58:40,000 --> 00:58:44,000
+You want to be able to hypnotize?
 
 819
-00:42:48,000 --> 00:42:50,000
- [Music]
+00:58:44,000 --> 00:58:49,000
+[Music]
 
 820
-00:42:50,000 --> 00:42:52,000
- [Music]
+00:58:49,000 --> 00:58:50,000
+For you...
 
 821
-00:42:52,000 --> 00:42:54,000
- [Music]
+00:58:50,000 --> 00:58:52,000
+What do I give you?
 
 822
-00:42:54,000 --> 00:42:56,000
- [Music]
+00:58:52,000 --> 00:58:55,000
+Don't give me a mantra about hypnotism...
 
 823
-00:42:56,000 --> 00:42:58,000
- Where's Megantar?
+00:58:55,000 --> 00:58:58,000
+Mantra about the smell of butt...
 
 824
-00:42:58,000 --> 00:43:00,000
- Why is he so late?
+00:58:58,000 --> 00:59:01,000
+Mantra about the smell of pussy...
 
 825
-00:43:00,000 --> 00:43:02,000
- How's Professor Aldebaran?
+00:59:01,000 --> 00:59:03,000
+I'll definitely give you something...
 
 826
-00:43:02,000 --> 00:43:04,000
- [Music]
+00:59:03,000 --> 00:59:05,000
+Later, you can...
 
 827
-00:43:04,000 --> 00:43:06,000
- [Music]
+00:59:05,000 --> 00:59:07,000
+Ouch...
 
 828
-00:43:06,000 --> 00:43:08,000
- [Music]
+00:59:07,000 --> 00:59:09,000
+[Laughter]
 
 829
-00:43:08,000 --> 00:43:10,000
- [Music]
+00:59:09,000 --> 00:59:13,000
+It's better...
 
 830
-00:43:10,000 --> 00:43:12,000
- [Music]
+00:59:13,000 --> 00:59:15,000
+We get out of here quickly...
 
 831
-00:43:12,000 --> 00:43:14,000
- [Music]
+00:59:15,000 --> 00:59:16,000
+Come on...
 
 832
-00:43:14,000 --> 00:43:16,000
- Professor Aldebaran is safe...
+00:59:16,000 --> 00:59:17,000
+Later...
 
 833
-00:43:16,000 --> 00:43:18,000
- He's saved by...
+00:59:17,000 --> 00:59:18,000
+What else?
 
 834
-00:43:18,000 --> 00:43:20,000
- Alva, Vega, Tole, Ray and Pelita...
+00:59:18,000 --> 00:59:20,000
+Let's run...
 
 835
-00:43:20,000 --> 00:43:22,000
- [Music]
+00:59:20,000 --> 00:59:21,000
+Okay...
 
 836
-00:43:22,000 --> 00:43:24,000
- Thank God...
+00:59:21,000 --> 00:59:23,000
+My backpack...
 
 837
-00:43:24,000 --> 00:43:26,000
- We were right to educate them...
+00:59:23,000 --> 00:59:25,000
+You're always carrying your backpack...
 
 838
-00:43:26,000 --> 00:43:28,000
- They're now...
+00:59:25,000 --> 00:59:28,000
+I'm not a person...
 
 839
-00:43:28,000 --> 00:43:30,000
- Our best students...
+00:59:28,000 --> 00:59:30,000
+I'm running while carrying my backpack...
 
 840
-00:43:30,000 --> 00:43:32,000
- [Music]
+00:59:30,000 --> 00:59:32,000
+I'm a coward...
 
 841
-00:43:32,000 --> 00:43:34,000
- They're now...
+00:59:32,000 --> 00:59:34,000
+But it's okay...
 
 842
-00:43:34,000 --> 00:43:36,000
- Very brave and brave...
+00:59:34,000 --> 00:59:35,000
+Let's go, Nek...
 
 843
-00:43:36,000 --> 00:43:38,000
- Yes, very good...
+00:59:35,000 --> 00:59:40,000
+[Laughter]
 
 844
-00:43:38,000 --> 00:43:40,000
- Come on...
+00:59:40,000 --> 00:59:42,000
+I'm going to hypnotize you...
 
 845
-00:43:40,000 --> 00:43:42,000
- Now we go back to the school...
+00:59:42,000 --> 00:59:43,000
+Ready...
 
 846
-00:43:42,000 --> 00:43:44,000
- Professor Purwa...
+00:59:43,000 --> 00:59:53,000
+[Music]
 
 847
-00:43:44,000 --> 00:43:46,000
- How about Megantara now?
+00:59:53,000 --> 00:59:54,000
+Alva...
 
 848
-00:43:46,000 --> 00:43:48,000
- [Music]
+00:59:54,000 --> 00:59:58,000
+You won't get away with this, Alva...
 
 849
-00:43:48,000 --> 00:43:50,000
- Professor Agni...
+00:59:58,000 --> 01:00:02,000
+Help, sir...
 
 850
-00:43:50,000 --> 00:43:52,000
- Since the beginning, Megantara told me...
+01:00:02,000 --> 01:00:10,000
+Help...
 
 851
-00:43:52,000 --> 00:43:54,000
- The most important thing...
+01:00:10,000 --> 01:00:12,000
+Poor Alva...
 
 852
-00:43:54,000 --> 00:43:56,000
- Is the safety of Professor Aldebaran...
+01:00:12,000 --> 01:00:14,000
+Yes, that's right, Sir...
 
 853
-00:43:56,000 --> 00:43:58,000
- [Music]
+01:00:14,000 --> 01:00:16,000
+So, you don't want to come with us?
 
 854
-00:43:58,000 --> 00:44:00,000
- He can protect himself...
+01:00:16,000 --> 01:00:18,000
+No...
 
 855
-00:44:00,000 --> 00:44:02,000
- And now...
+01:00:18,000 --> 01:00:20,000
+Professor Abel Barante, forget...
 
 856
-00:44:02,000 --> 00:44:04,000
- After we've come this far...
+01:00:20,000 --> 01:00:22,000
+Professor Teng, fainted...
 
 857
-00:44:04,000 --> 00:44:06,000
- You want to leave Megantara just like that?
+01:00:22,000 --> 01:00:24,000
+He was attacked by a dark wizard...
 
 858
-00:44:06,000 --> 00:44:08,000
- Megantara herself offered herself...
+01:00:24,000 --> 01:00:27,000
+I'm very, very hurt...
 
 859
-00:44:08,000 --> 00:44:10,000
- To disguise as Alva...
+01:00:27,000 --> 01:00:29,000
+Alva...
 
 860
-00:44:10,000 --> 00:44:12,000
- She knows what the risk is...
-
-861
-00:44:12,000 --> 00:44:14,000
- Right...
-
-862
-00:44:14,000 --> 00:44:16,000
- Megantara's knowledge is already high enough...
-
-863
-00:44:16,000 --> 00:44:18,000
- And she can handle it herself...
-
-864
-00:44:18,000 --> 00:44:20,000
- No...
-
-865
-00:44:20,000 --> 00:44:22,000
- I won't go back...
-
-866
-00:44:22,000 --> 00:44:24,000
- If you want to go home...
-
-867
-00:44:24,000 --> 00:44:26,000
- You're welcome...
-
-868
-00:44:26,000 --> 00:44:28,000
- I'll wait here...
-
-869
-00:44:28,000 --> 00:44:30,000
- [Music]
-
-870
-00:44:30,000 --> 00:44:32,000
- It's up to you, Professor Agni...
-
-871
-00:44:32,000 --> 00:44:34,000
- You're welcome, Lolip...
-
-872
-00:44:34,000 --> 00:44:40,000
- [Music]
-
-873
-00:44:40,000 --> 00:44:42,000
- If there's anything...
-
-874
-00:44:42,000 --> 00:44:44,000
- Let me know...
-
-875
-00:44:44,000 --> 00:44:46,000
- [Music]
-
-876
-00:44:46,000 --> 00:44:50,000
- [Music]
-
-877
-00:44:50,000 --> 00:44:56,000
- [Music]
-
-878
-00:44:56,000 --> 00:44:57,000
- So...
-
-879
-00:44:57,000 --> 00:44:59,000
- How's Professor Aldebaran?
-
-880
-00:44:59,000 --> 00:45:00,000
- It's okay...
-
-881
-00:45:00,000 --> 00:45:01,000
- Professor Aldebaran...
-
-882
-00:45:01,000 --> 00:45:02,000
- In a few hours...
-
-883
-00:45:02,000 --> 00:45:04,000
- Will wake up...
-
-884
-00:45:04,000 --> 00:45:06,000
- [Music]
-
-885
-00:45:06,000 --> 00:45:08,000
- Good...
-
-886
-00:45:08,000 --> 00:45:10,000
- [Music]
-
-887
-00:45:10,000 --> 00:45:11,000
- Wait...
-
-888
-00:45:11,000 --> 00:45:13,000
- Why is it just the two of you?
-
-889
-00:45:13,000 --> 00:45:14,000
- Professor Agni...
-
-890
-00:45:14,000 --> 00:45:16,000
- And Megantara...
-
-891
-00:45:16,000 --> 00:45:18,000
- Where is...?
-
-892
-00:45:18,000 --> 00:45:20,000
- Megantara is now at the palace...
-
-893
-00:45:20,000 --> 00:45:22,000
- Of the dark wizard...
-
-894
-00:45:22,000 --> 00:45:25,000
- And Professor Agni is waiting for him to return...
-
-895
-00:45:25,000 --> 00:45:26,000
- What?
-
-896
-00:45:26,000 --> 00:45:27,000
- [Music]
-
-897
-00:45:27,000 --> 00:45:28,000
- Megantara...
-
-898
-00:45:28,000 --> 00:45:30,000
- Is there a place for the dark wizard?
-
-899
-00:45:30,000 --> 00:45:32,000
- [Music]
-
-900
-00:45:32,000 --> 00:45:33,000
- Yes...
-
-901
-00:45:33,000 --> 00:45:34,000
- He's comfortable...
-
-902
-00:45:34,000 --> 00:45:36,000
- So, what about you?
-
-903
-00:45:36,000 --> 00:45:38,000
- You didn't say...
-
-904
-00:45:38,000 --> 00:45:40,000
- Yes...
-
-905
-00:45:40,000 --> 00:45:42,000
- Because I forgot...
-
-906
-00:45:42,000 --> 00:45:45,000
- I was thinking about how to fight the wizard...
-
-907
-00:45:45,000 --> 00:45:46,000
- [Music]
-
-908
-00:45:46,000 --> 00:45:47,000
- Okay...
-
-909
-00:45:47,000 --> 00:45:52,000
- [Music]
-
-910
-00:45:52,000 --> 00:45:53,000
- What are you doing?
-
-911
-00:45:53,000 --> 00:45:55,000
- [Music]
-
-912
-00:45:55,000 --> 00:45:57,000
- Megantara has been captured...
-
-913
-00:45:57,000 --> 00:46:00,000
- And will be destroyed by the dark wizard...
-
-914
-00:46:00,000 --> 00:46:06,000
- [Music]
-
-915
-00:46:06,000 --> 00:46:07,000
- Be careful...
-
-916
-00:46:07,000 --> 00:46:09,000
- To come...
-
-917
-00:46:09,000 --> 00:46:10,000
- And you...
-
-918
-00:46:10,000 --> 00:46:13,000
- Don't be late again...
-
-919
-00:46:13,000 --> 00:46:16,000
- Or Megantara will not forgive you...
-
-920
-00:46:16,000 --> 00:46:21,000
- [Music]
-
-921
-00:46:21,000 --> 00:46:25,000
- [Music]
-
-922
-00:46:25,000 --> 00:46:28,000
- I won't let the dark wizard hurt Tara...
-
-923
-00:46:28,000 --> 00:46:29,000
- [Music]
-
-924
-00:46:29,000 --> 00:46:30,000
- Alpha...
-
-925
-00:46:30,000 --> 00:46:31,000
- Where are you going?
-
-926
-00:46:31,000 --> 00:46:32,000
- What is that?
-
-927
-00:46:32,000 --> 00:46:35,000
- [Music]
-
-928
-00:46:35,000 --> 00:46:36,000
- Mega...
-
-929
-00:46:36,000 --> 00:46:38,000
- [Music]
-
-930
-00:46:38,000 --> 00:46:39,000
- Why are you here?
-
-931
-00:46:39,000 --> 00:46:40,000
- [Music]
-
-932
-00:46:40,000 --> 00:46:41,000
- What's up?
-
-933
-00:46:41,000 --> 00:46:42,000
- Alpha...
-
-934
-00:46:42,000 --> 00:46:43,000
- Heard the words of the bird...
-
-935
-00:46:43,000 --> 00:46:44,000
- He was startled...
-
-936
-00:46:44,000 --> 00:46:46,000
- And he wants to attack Tara...
-
-937
-00:46:46,000 --> 00:46:47,000
- [Music]
-
-938
-00:46:47,000 --> 00:46:48,000
- Alpha...
-
-939
-00:46:48,000 --> 00:46:49,000
- You're a stubborn child...
-
-940
-00:46:49,000 --> 00:46:50,000
- Stubborn...
-
-941
-00:46:50,000 --> 00:46:51,000
- Please, Alpha...
-
-942
-00:46:51,000 --> 00:46:54,000
- He will be attacked by the dark wizard...
-
-943
-00:46:54,000 --> 00:46:59,000
- [Music]
-
-944
-00:46:59,000 --> 00:47:03,000
- [Music]
-
-945
-00:47:03,000 --> 00:47:04,000
- Alpha...
-
-946
-00:47:04,000 --> 00:47:06,000
- What are you doing here?
-
-947
-00:47:06,000 --> 00:47:08,000
- I want to meet the dark wizard...
-
-948
-00:47:08,000 --> 00:47:10,000
- Come back...
-
-949
-00:47:10,000 --> 00:47:12,000
- [Music]
-
-950
-00:47:12,000 --> 00:47:13,000
- Alpha...
-
-951
-00:47:13,000 --> 00:47:14,000
- Don't be stubborn...
-
-952
-00:47:14,000 --> 00:47:15,000
- You have to go home now...
-
-953
-00:47:15,000 --> 00:47:16,000
- No, professor...
-
-954
-00:47:16,000 --> 00:47:17,000
- I can't go home...
-
-955
-00:47:17,000 --> 00:47:20,000
- If Tara is still in the dark wizard's castle...
-
-956
-00:47:20,000 --> 00:47:22,000
- Alpha, I order you to go home now...
-
-957
-00:47:22,000 --> 00:47:24,000
- I can't, professor...
-
-958
-00:47:24,000 --> 00:47:26,000
- I don't want to see anyone...
-
-959
-00:47:26,000 --> 00:47:28,000
- Be a victim because of me...
-
-960
-00:47:28,000 --> 00:47:31,000
- [Music]
-
-961
-00:47:31,000 --> 00:47:33,000
- Dark wizard...
-
-962
-00:47:33,000 --> 00:47:34,000
- [Music]
-
-963
-00:47:34,000 --> 00:47:35,000
- I'm here...
-
-964
-00:47:35,000 --> 00:47:36,000
- Come out...
-
-965
-00:47:36,000 --> 00:47:37,000
- Dark wizard...
-
-966
-00:47:37,000 --> 00:47:39,000
- What are you doing, Alpha?
-
-967
-00:47:39,000 --> 00:47:41,000
- Now I order you to go home...
-
-968
-00:47:41,000 --> 00:47:43,000
- Or you will be punished...
-
-969
-00:47:43,000 --> 00:47:46,000
- [Music]
-
-970
-00:47:46,000 --> 00:47:47,000
- Alpha...
-
-971
-00:47:47,000 --> 00:47:48,000
- You go home now...
-
-972
-00:47:48,000 --> 00:47:51,000
- Or I will kick you out of the school...
-
-973
-00:47:51,000 --> 00:47:53,000
- I don't want to be kicked out...
-
-974
-00:47:53,000 --> 00:47:56,000
- I want to see Tara safe...
-
-975
-00:47:56,000 --> 00:48:00,000
- [Music]
-
-976
-00:48:00,000 --> 00:48:05,000
- [Music]
-
-977
-00:48:05,000 --> 00:48:07,000
- Welcome, Alpha...
-
-978
-00:48:07,000 --> 00:48:08,000
- [Music]
-
-979
-00:48:08,000 --> 00:48:09,000
- Dark wizard...
-
-980
-00:48:09,000 --> 00:48:13,000
- [Music]
-
-981
-00:48:13,000 --> 00:48:14,000
- Dark wizard...
-
-982
-00:48:14,000 --> 00:48:16,000
- What have you done?
-
-983
-00:48:16,000 --> 00:48:18,000
- [Music]
-
-984
-00:48:18,000 --> 00:48:21,000
- It turns out this time is really Alpha...
-
-985
-00:48:21,000 --> 00:48:24,000
- If we are together now, it's for me, Alpha...
-
-986
-00:48:24,000 --> 00:48:25,000
- [Music]
-
-987
-00:48:25,000 --> 00:48:26,000
- No, Alpha...
-
-988
-00:48:26,000 --> 00:48:27,000
- You can't go...
-
-989
-00:48:27,000 --> 00:48:30,000
- [Music]
-
-990
-00:48:30,000 --> 00:48:31,000
- I want to go, professor...
-
-991
-00:48:31,000 --> 00:48:33,000
- I can take care of myself...
-
-992
-00:48:33,000 --> 00:48:34,000
- No, Alpha...
-
-993
-00:48:34,000 --> 00:48:35,000
- You have to stay here, Alpha...
-
-994
-00:48:35,000 --> 00:48:36,000
- Let me go, Alpha...
-
-995
-00:48:36,000 --> 00:48:38,000
- No, Ankara...
-
-996
-00:48:38,000 --> 00:48:40,000
- It's better if you take me away...
-
-997
-00:48:40,000 --> 00:48:42,000
- You have no rights...
-
-998
-00:48:42,000 --> 00:48:43,000
- Let me go, Alpha...
-
-999
-00:48:43,000 --> 00:48:44,000
- No...
-
-1000
-00:48:44,000 --> 00:48:46,000
- I will not let you go, Alpha...
-
-1001
-00:48:46,000 --> 00:48:57,000
- [Music]
-
-1002
-00:48:57,000 --> 00:48:58,000
- Come on, Alpha...
-
-1003
-00:48:58,000 --> 00:49:10,000
- [Music]
-
-1004
-00:49:10,000 --> 00:49:12,000
- Alpha...
-
-1005
-00:49:12,000 --> 00:49:18,000
- [Music]
-
-1006
-00:49:18,000 --> 00:49:19,000
- Let's go, Tiffy...
-
-1007
-00:49:19,000 --> 00:49:26,000
- [Music]
-
-1008
-00:49:26,000 --> 00:49:36,000
- [Music]
-
-1009
-00:49:36,000 --> 00:49:46,000
- [Music]
-
-1010
-00:49:46,000 --> 00:49:47,000
- Soldier...
-
-1011
-00:49:47,000 --> 00:49:50,000
- [Music]
-
-1012
-00:49:50,000 --> 00:49:51,000
- Soldier...
-
-1013
-00:49:51,000 --> 00:49:53,000
- Soldier, wake up...
-
-1014
-00:49:53,000 --> 00:49:55,000
- [Music]
-
-1015
-00:49:55,000 --> 00:49:56,000
- Soldier...
-
-1016
-00:49:56,000 --> 00:49:59,000
- [Music]
-
-1017
-00:49:59,000 --> 00:50:00,000
- Soldier...
-
-1018
-00:50:00,000 --> 00:50:01,000
- [Music]
-
-1019
-00:50:01,000 --> 00:50:02,000
- Soldier, wake up...
-
-1020
-00:50:02,000 --> 00:50:03,000
- [Music]
-
-1021
-00:50:03,000 --> 00:50:05,000
- Soldier, let's go...
-
-1022
-00:50:05,000 --> 00:50:06,000
- Come here...
-
-1023
-00:50:06,000 --> 00:50:08,000
- [Music]
-
-1024
-00:50:08,000 --> 00:50:09,000
- Soldier...
-
-1025
-00:50:09,000 --> 00:50:12,000
- [Music]
-
-1026
-00:50:12,000 --> 00:50:13,000
- Soldier...
-
-1027
-00:50:13,000 --> 00:50:20,000
- [Music]
-
-1028
-00:50:20,000 --> 00:50:23,000
- [Music]
-
-1029
-00:50:23,000 --> 00:50:29,000
- [Music]
-
-1030
-00:50:29,000 --> 00:50:30,000
- Good, soldier...
-
-1031
-00:50:30,000 --> 00:50:31,000
- [Music]
-
-1032
-00:50:31,000 --> 00:50:32,000
- Good...
-
-1033
-00:50:32,000 --> 00:50:35,000
- [Music]
-
-1034
-00:50:35,000 --> 00:50:36,000
- Professor Ankara...
-
-1035
-00:50:36,000 --> 00:50:37,000
- [Music]
-
-1036
-00:50:37,000 --> 00:50:39,000
- What are you doing, soldier?
-
-1037
-00:50:39,000 --> 00:50:40,000
- [Music]
-
-1038
-00:50:40,000 --> 00:50:41,000
- Why, Alpha?
-
-1039
-00:50:41,000 --> 00:50:42,000
- [Music]
-
-1040
-00:50:42,000 --> 00:50:43,000
- You must not have thought...
-
-1041
-00:50:43,000 --> 00:50:44,000
- [Music]
-
-1042
-00:50:44,000 --> 00:50:45,000
- If Megantara...
-
-1043
-00:50:45,000 --> 00:50:46,000
- [Music]
-
-1044
-00:50:46,000 --> 00:50:48,000
- Has become my son...
-
-1045
-00:50:48,000 --> 00:50:50,000
- [Music]
-
-1046
-00:50:50,000 --> 00:50:51,000
- My son...
-
-1047
-00:50:51,000 --> 00:50:52,000
- [Music]
-
-1048
-00:50:52,000 --> 00:50:57,000
- [Laughter]
-
-1049
-00:50:57,000 --> 00:50:58,000
- [Music]
-
-1050
-00:50:58,000 --> 00:50:59,000
- Megantara...
-
-1051
-00:50:59,000 --> 00:51:00,000
- [Music]
-
-1052
-00:51:00,000 --> 00:51:02,000
- Now, you take my son's blood...
-
-1053
-00:51:02,000 --> 00:51:03,000
- [Music]
-
-1054
-00:51:03,000 --> 00:51:05,000
- [Laughter]
-
-1055
-00:51:05,000 --> 00:51:19,000
- [Music]
-
-1056
-00:51:19,000 --> 00:51:20,000
- Don't, soldier...
-
-1057
-00:51:20,000 --> 00:51:21,000
- [Music]
-
-1058
-00:51:21,000 --> 00:51:23,000
- Soldier, don't...
-
-1059
-00:51:23,000 --> 00:51:45,000
- [Music]
-
-1060
-00:51:45,000 --> 00:51:46,000
- Megantara, hurry up...
-
-1061
-00:51:46,000 --> 00:51:47,000
- Do what you must...
-
-1062
-00:51:47,000 --> 00:51:55,000
- [Music]
-
-1063
-00:51:55,000 --> 00:51:56,000
- Attack him, Alpha...
-
-1064
-00:51:56,000 --> 00:51:57,000
- Attack him, Alpha...
-
-1065
-00:51:57,000 --> 00:51:58,000
- Attack him...
-
-1066
-00:51:58,000 --> 00:52:04,000
- [Music]
-
-1067
-00:52:04,000 --> 00:52:05,000
- Defend him...
-
-1068
-00:52:05,000 --> 00:52:09,000
- [Music]
-
-1069
-00:52:09,000 --> 00:52:10,000
- Yeah...
-
-1070
-00:52:10,000 --> 00:52:12,000
- [Laughter]
-
-1071
-00:52:12,000 --> 00:52:13,000
- [Music]
-
-1072
-00:52:13,000 --> 00:52:14,000
- [Music]
-
-1073
-00:52:14,000 --> 00:52:15,000
- [Music]
-
-1074
-00:52:15,000 --> 00:52:16,000
- [Music]
-
-1075
-00:52:16,000 --> 00:52:17,000
- [Music]
-
-1076
-00:52:17,000 --> 00:52:18,000
- [Music]
-
-1077
-00:52:18,000 --> 00:52:19,000
- Megantara...
-
-1078
-00:52:19,000 --> 00:52:20,000
- [Music]
-
-1079
-00:52:20,000 --> 00:52:22,000
- How could I hypnotize you?
-
-1080
-00:52:22,000 --> 00:52:23,000
- [Music]
-
-1081
-00:52:23,000 --> 00:52:24,000
- Ankara...
-
-1082
-00:52:24,000 --> 00:52:25,000
- [Music]
-
-1083
-00:52:25,000 --> 00:52:27,000
- The sky won't fall for the second time...
-
-1084
-00:52:27,000 --> 00:52:30,000
- [Music]
-
-1085
-00:52:30,000 --> 00:52:31,000
- Professor Agni...
-
-1086
-00:52:31,000 --> 00:52:32,000
- [Music]
-
-1087
-00:52:32,000 --> 00:52:33,000
- You successfully hypnotized...
-
-1088
-00:52:33,000 --> 00:52:34,000
- [Music]
-
-1089
-00:52:34,000 --> 00:52:35,000
- Doctor Pertiwi...
-
-1090
-00:52:35,000 --> 00:52:36,000
- [Music]
-
-1091
-00:52:36,000 --> 00:52:37,000
- You hypnotized...
-
-1092
-00:52:37,000 --> 00:52:38,000
- [Music]
-
-1093
-00:52:38,000 --> 00:52:39,000
- But, I, Megantara...
-
-1094
-00:52:39,000 --> 00:52:40,000
- [Music]
-
-1095
-00:52:40,000 --> 00:52:42,000
- Can't hypnotize you...
-
-1096
-00:52:42,000 --> 00:52:45,000
- [Laughter]
-
-1097
-00:52:45,000 --> 00:52:53,000
- [Music]
-
-1098
-00:52:53,000 --> 00:52:56,000
- This disguise is very dangerous for you, Megantara...
-
-1099
-00:52:56,000 --> 00:52:57,000
- [Music]
-
-1100
-00:52:57,000 --> 00:52:59,000
- You must be very careful...
-
-1101
-00:52:59,000 --> 00:53:00,000
- [Music]
-
-1102
-00:53:00,000 --> 00:53:01,000
- That's right...
-
-1103
-00:53:01,000 --> 00:53:04,000
- If Megantara finds out...
-
-1104
-00:53:04,000 --> 00:53:06,000
- She will definitely be hypnotized...
-
-1105
-00:53:06,000 --> 00:53:09,000
- And she will definitely become their spy...
-
-1106
-00:53:09,000 --> 00:53:13,000
- [Music]
-
-1107
-00:53:13,000 --> 00:53:14,000
- Umm...
-
-1108
-00:53:14,000 --> 00:53:16,000
- [Music]
-
-1109
-00:53:16,000 --> 00:53:17,000
- How about...
-
-1110
-00:53:17,000 --> 00:53:20,000
- We learn...
-
-1111
-00:53:20,000 --> 00:53:24,000
- The anti-hypnotism mantra...
-
-1112
-00:53:24,000 --> 00:53:26,000
- [Music]
-
-1113
-00:53:26,000 --> 00:53:27,000
- Agree...
-
-1114
-00:53:27,000 --> 00:53:28,000
- [Music]
-
-1115
-00:53:28,000 --> 00:53:29,000
- Let's go...
-
-1116
-00:53:29,000 --> 00:53:31,000
- [Music]
-
-1117
-00:53:31,000 --> 00:53:33,000
- What is the anti-hypnotism mantra that I remember...
-
-1118
-00:53:33,000 --> 00:53:34,000
- Your Dhotis...
-
-1119
-00:53:34,000 --> 00:53:43,000
- [Music]
-
-1120
-00:53:43,000 --> 00:53:44,000
- How is this...
-
-1121
-00:53:44,000 --> 00:53:46,000
- [Music]
-
-1122
-00:53:46,000 --> 00:53:49,000
- It seems like the anti-hypnotism mantra didn't work...
-
-1123
-00:53:49,000 --> 00:53:50,000
- It seems like...
-
-1124
-00:53:50,000 --> 00:53:58,000
- [Music]
-
-1125
-00:53:58,000 --> 00:54:00,000
- Finally...
-
-1126
-00:54:00,000 --> 00:54:01,000
- [Music]
-
-1127
-00:54:01,000 --> 00:54:03,000
- Professor Agni has returned...
-
-1128
-00:54:03,000 --> 00:54:04,000
- Yes...
-
-1129
-00:54:04,000 --> 00:54:05,000
- Finally...
-
-1130
-00:54:05,000 --> 00:54:06,000
- Like that...
-
-1131
-00:54:06,000 --> 00:54:07,000
- Now you, Megantara...
-
-1132
-00:54:07,000 --> 00:54:08,000
- Me?
-
-1133
-00:54:08,000 --> 00:54:09,000
- Hypnotized?
-
-1134
-00:54:09,000 --> 00:54:10,000
- Yes...
-
-1135
-00:54:10,000 --> 00:54:11,000
- Who's afraid?
-
-1136
-00:54:11,000 --> 00:54:12,000
- Try it...
-
-1137
-00:54:12,000 --> 00:54:23,000
- [Music]
-
-1138
-00:54:23,000 --> 00:54:24,000
- Megantara...
-
-1139
-00:54:24,000 --> 00:54:25,000
- Megantara...
-
-1140
-00:54:25,000 --> 00:54:26,000
- Megantara...
-
-1141
-00:54:26,000 --> 00:54:29,000
- [Laughter]
-
-1142
-00:54:29,000 --> 00:54:30,000
- Finally...
-
-1143
-00:54:30,000 --> 00:54:33,000
- Finally what?
-
-1144
-00:54:33,000 --> 00:54:35,000
- Gravure Chobra...
-
-1145
-00:54:35,000 --> 00:54:38,000
- The servant lifts the stone...
-
-1146
-00:54:38,000 --> 00:54:41,000
- You got money to play...
-
-1147
-00:54:41,000 --> 00:54:43,000
- You all got fooled...
-
-1148
-00:54:43,000 --> 00:54:45,000
- You're all in luck...
-
-1149
-00:54:45,000 --> 00:54:47,000
- [Laughter]
-
-1150
-00:54:47,000 --> 00:54:49,000
- Angkara...
-
-1151
-00:54:49,000 --> 00:54:51,000
- You're a cunning human...
-
-1152
-00:54:51,000 --> 00:54:53,000
- A cunning human like you...
-
-1153
-00:54:53,000 --> 00:54:55,000
- Must be faced with...
-
-1154
-00:54:55,000 --> 00:54:57,000
- A way that is no less cunning...
-
-1155
-00:54:58,000 --> 00:54:59,000
- Okay, Megantara...
-
-1156
-00:54:59,000 --> 00:55:00,000
- Let's attack...
-
-1157
-00:55:00,000 --> 00:55:01,000
- Alva...
-
-1158
-00:55:01,000 --> 00:55:03,000
- Now is the time...
-
-1159
-00:55:03,000 --> 00:55:05,000
- We destroy him...
-
-1160
-00:55:05,000 --> 00:55:06,000
- Come on...
-
-1161
-00:55:06,000 --> 00:55:08,000
- TV Go!
-
-1162
-00:55:08,000 --> 00:55:25,000
- [Music]
-
-1163
-00:55:25,000 --> 00:55:26,000
- Get ready, Alva...
-
-1164
-00:55:26,000 --> 00:55:27,000
- He's awake again...
-
-1165
-00:55:27,000 --> 00:55:38,000
- [Music]
-
-1166
-00:55:38,000 --> 00:55:39,000
- This is Miran...
-
-1167
-00:55:39,000 --> 00:55:40,000
- Enough...
-
-1168
-00:55:40,000 --> 00:55:50,000
- [Music]
-
-1169
-00:55:50,000 --> 00:55:52,000
- I haven't lost...
-
-1170
-00:55:52,000 --> 00:55:54,000
- I haven't lost...
-
-1171
-00:55:54,000 --> 00:55:56,000
- I haven't lost...
-
-1172
-00:55:56,000 --> 00:55:59,000
- I haven't lost...
-
-1173
-00:55:59,000 --> 00:56:16,000
- [Music]
-
-1174
-00:56:16,000 --> 00:56:17,000
- Yes...
-
-1175
-00:56:17,000 --> 00:56:18,000
- Yes...
-
-1176
-00:56:18,000 --> 00:56:22,000
- [Multiple voices]
-
-1177
-00:56:22,000 --> 00:56:23,000
- [Laughter]
-
-1178
-00:56:23,000 --> 00:56:26,000
- [Music]
-
-1179
-00:56:26,000 --> 00:56:28,000
- Let's do it this way...
-
-1180
-00:56:28,000 --> 00:56:30,000
- We have to check...
-
-1181
-00:56:30,000 --> 00:56:31,000
- Angkara...
-
-1182
-00:56:31,000 --> 00:56:33,000
- Is he insane...
-
-1183
-00:56:33,000 --> 00:56:34,000
- To die...
-
-1184
-00:56:34,000 --> 00:56:35,000
- Or maybe...
-
-1185
-00:56:35,000 --> 00:56:36,000
- Just pretend...
-
-1186
-00:56:36,000 --> 00:56:37,000
- Umm...
-
-1187
-00:56:37,000 --> 00:57:00,000
- [Music]
-
-1188
-00:57:00,000 --> 00:57:01,000
- Alva...
-
-1189
-00:57:01,000 --> 00:57:02,000
- I know...
-
-1190
-00:57:02,000 --> 00:57:04,000
- How to find out...
-
-1191
-00:57:04,000 --> 00:57:07,000
- If he's insane or just pretending...
-
-1192
-00:57:07,000 --> 00:57:11,000
- [Music]
-
-1193
-00:57:11,000 --> 00:57:12,000
- Look...
-
-1194
-00:57:12,000 --> 00:57:21,000
- [Music]
-
-1195
-00:57:21,000 --> 00:57:22,000
- Eh...
-
-1196
-00:57:22,000 --> 00:57:23,000
- Wow...
-
-1197
-00:57:23,000 --> 00:57:24,000
- Wow...
-
-1198
-00:57:24,000 --> 00:57:39,000
- [Music]
-
-1199
-00:57:39,000 --> 00:57:40,000
- He's dead...
-
-1200
-00:57:40,000 --> 00:57:41,000
- Dead...
-
-1201
-00:57:41,000 --> 00:57:42,000
- [Music]
-
-1202
-00:57:42,000 --> 00:57:43,000
- Yes...
-
-1203
-00:57:43,000 --> 00:57:45,000
- [Music]
-
-1204
-00:57:45,000 --> 00:57:46,000
- Yes...
-
-1205
-00:57:46,000 --> 00:57:47,000
- A great army...
-
-1206
-00:57:47,000 --> 00:57:48,000
- Can fight...
-
-1207
-00:57:48,000 --> 00:57:50,000
- Professor Angkara's hypnotism...
-
-1208
-00:57:50,000 --> 00:57:51,000
- [Music]
-
-1209
-00:57:51,000 --> 00:57:52,000
- Alva...
-
-1210
-00:57:52,000 --> 00:57:53,000
- [Music]
-
-1211
-00:57:53,000 --> 00:57:55,000
- This is all because of you...
-
-1212
-00:57:55,000 --> 00:57:57,000
- Because of me?
-
-1213
-00:57:57,000 --> 00:57:58,000
- Yes...
-
-1214
-00:57:58,000 --> 00:58:00,000
- I...
-
-1215
-00:58:00,000 --> 00:58:03,000
- Can control hypnotism...
-
-1216
-00:58:03,000 --> 00:58:07,000
- That's because I have the confidence and the strong will to save you...
-
-1217
-00:58:07,000 --> 00:58:10,000
- Because of the confidence and the confidence...
-
-1218
-00:58:10,000 --> 00:58:11,000
- That's why...
-
-1219
-00:58:11,000 --> 00:58:13,000
- We succeeded...
-
-1220
-00:58:13,000 --> 00:58:16,000
- Because I don't want...
-
-1221
-00:58:16,000 --> 00:58:20,000
- Someone to harm you...
-
-1222
-00:58:20,000 --> 00:58:22,000
- Because of you...
-
-1223
-00:58:23,000 --> 00:58:25,000
- You're my favorite student, Alva...
-
-1224
-00:58:25,000 --> 00:58:27,000
- Thank you, soldier...
-
-1225
-00:58:27,000 --> 00:58:31,000
- [Laughter]
-
-1226
-00:58:31,000 --> 00:58:36,000
- [Music]
-
-1227
-00:58:36,000 --> 00:58:37,000
- Oh, soldier...
-
-1228
-00:58:37,000 --> 00:58:38,000
- Later...
-
-1229
-00:58:38,000 --> 00:58:40,000
- Teach me hypnotism, okay?
-
-1230
-00:58:40,000 --> 00:58:44,000
- You want to be able to hypnotize?
-
-1231
-00:58:44,000 --> 00:58:49,000
- [Music]
-
-1232
-00:58:49,000 --> 00:58:50,000
- For you...
-
-1233
-00:58:50,000 --> 00:58:52,000
- What do I give you?
-
-1234
-00:58:52,000 --> 00:58:55,000
- Don't give me a mantra about hypnotism...
-
-1235
-00:58:55,000 --> 00:58:58,000
- Mantra about the smell of butt...
-
-1236
-00:58:58,000 --> 00:59:01,000
- Mantra about the smell of pussy...
-
-1237
-00:59:01,000 --> 00:59:03,000
- I'll definitely give you something...
-
-1238
-00:59:03,000 --> 00:59:05,000
- Later, you can...
-
-1239
-00:59:05,000 --> 00:59:07,000
- Ouch...
-
-1240
-00:59:07,000 --> 00:59:09,000
- [Laughter]
-
-1241
-00:59:09,000 --> 00:59:13,000
- It's better...
-
-1242
-00:59:13,000 --> 00:59:15,000
- We get out of here quickly...
-
-1243
-00:59:15,000 --> 00:59:16,000
- Come on...
-
-1244
-00:59:16,000 --> 00:59:17,000
- Later...
-
-1245
-00:59:17,000 --> 00:59:18,000
- What else?
-
-1246
-00:59:18,000 --> 00:59:19,000
- Let's run...
-
-1247
-00:59:19,000 --> 00:59:20,000
- Let's run...
-
-1248
-00:59:20,000 --> 00:59:21,000
- Okay...
-
-1249
-00:59:21,000 --> 00:59:23,000
- My backpack...
-
-1250
-00:59:23,000 --> 00:59:25,000
- You're always carrying your backpack...
-
-1251
-00:59:25,000 --> 00:59:28,000
- I'm not a person...
-
-1252
-00:59:28,000 --> 00:59:30,000
- I'm running while carrying my backpack...
-
-1253
-00:59:30,000 --> 00:59:32,000
- I'm a coward...
-
-1254
-00:59:32,000 --> 00:59:34,000
- But it's okay...
-
-1255
-00:59:34,000 --> 00:59:35,000
- Let's go, Nek...
-
-1256
-00:59:35,000 --> 00:59:40,000
- [Laughter]
-
-1257
-00:59:40,000 --> 00:59:42,000
- I'm going to hypnotize you...
-
-1258
-00:59:42,000 --> 00:59:43,000
- Ready...
-
-1259
-00:59:43,000 --> 00:59:53,000
- [Music]
-
-1260
-00:59:53,000 --> 00:59:54,000
- Alva...
-
-1261
-00:59:54,000 --> 00:59:58,000
- You won't get away with this, Alva...
-
-1262
-00:59:58,000 --> 01:00:02,000
- Help, sir...
-
-1263
-01:00:02,000 --> 01:00:03,000
- Help...
-
-1264
-01:00:03,000 --> 01:00:10,000
- Help...
-
-1265
-01:00:10,000 --> 01:00:12,000
- Poor Alva...
-
-1266
-01:00:12,000 --> 01:00:14,000
- Yes, that's right, Sir...
-
-1267
-01:00:14,000 --> 01:00:16,000
- So, you don't want to come with us?
-
-1268
-01:00:16,000 --> 01:00:18,000
- No...
-
-1269
-01:00:18,000 --> 01:00:20,000
- Professor Abel Barante, forget...
-
-1270
-01:00:20,000 --> 01:00:22,000
- Professor Teng, fainted...
-
-1271
-01:00:22,000 --> 01:00:24,000
- He was attacked by a dark wizard...
-
-1272
-01:00:24,000 --> 01:00:27,000
- I'm very, very hurt...
-
-1273
-01:00:27,000 --> 01:00:29,000
- Alva...
-
-1274
-01:00:29,000 --> 01:00:35,000
- [Music]
-
-1275
-01:00:36,000 --> 01:00:41,000
- [Music]
-
-1276
-01:00:41,000 --> 01:00:47,000
- [Music]
-
-1277
-01:00:47,000 --> 01:00:53,000
- [Music]
-
-1278
-01:00:53,000 --> 01:00:59,000
- [Music]
-
-1279
-01:00:59,000 --> 01:01:04,000
- [Music]
-
-1280
-01:01:04,000 --> 01:01:10,000
- [Music]
-
-1281
-01:01:10,000 --> 01:01:15,000
- [Music]
-
-1282
-01:01:15,000 --> 01:01:20,000
- [Music]
-
-1283
-01:01:20,000 --> 01:01:23,000
- [Music]
+01:00:29,000 --> 01:01:23,000
+[Music]
 
