@@ -632,7 +632,7 @@ So, it's like this.
 
 159
 00:18:20,400 --> 00:18:23,400
-Alva said...
+Alfa said...
 
 160
 00:18:23,400 --> 00:18:27,400
@@ -652,7 +652,7 @@ This is so annoying.
 
 164
 00:18:40,400 --> 00:18:43,400
-Alva doesn't need that stone.
+Alfa doesn't need that stone.
 
 165
 00:18:43,400 --> 00:18:45,400
@@ -660,7 +660,7 @@ What is he doing?
 
 166
 00:18:45,400 --> 00:18:48,400
-Where is Alva now?
+Where is Alfa now?
 
 167
 00:18:48,400 --> 00:19:25,400
@@ -684,7 +684,7 @@ What are you doing in there?
 
 172
 00:19:33,400 --> 00:19:37,400
-Alva.
+Alfa.
 
 173
 00:19:37,400 --> 00:19:40,400
@@ -692,7 +692,7 @@ Ma'am.
 
 174
 00:19:40,400 --> 00:19:41,400
-How is it, Alva?
+How is it, Alfa?
 
 175
 00:19:41,400 --> 00:19:46,400
@@ -748,7 +748,7 @@ So, this school is safe, right?
 
 188
 00:21:49,400 --> 00:21:51,400
-What do you mean, Alva?
+What do you mean, Alfa?
 
 189
 00:21:51,400 --> 00:21:53,400
@@ -768,7 +768,7 @@ I never asked you to do that.
 
 193
 00:22:01,400 --> 00:22:02,400
-Alva.
+Alfa.
 
 194
 00:22:02,400 --> 00:22:04,400
@@ -788,7 +788,7 @@ Only that stone can save this school.
 
 198
 00:22:12,400 --> 00:22:15,400
-Alva, I never asked you to take that stone.
+Alfa, I never asked you to take that stone.
 
 199
 00:22:15,400 --> 00:22:19,400
@@ -796,7 +796,7 @@ But yesterday afternoon, Professor Agni asked me to take the Stone of Eternity.
 
 200
 00:22:19,400 --> 00:22:23,400
-No, Alva. I never asked you to take that stone.
+No, Alfa. I never asked you to take that stone.
 
 201
 00:22:23,400 --> 00:22:27,400
@@ -824,7 +824,7 @@ The three heads of the dragon are all fighting.
 
 207
 00:22:48,400 --> 00:22:49,400
-Alva.
+Alfa.
 
 208
 00:22:49,400 --> 00:22:52,400
@@ -844,7 +844,7 @@ And Professor Agni also told me about the food of the three heads of the dragon.
 
 212
 00:23:03,400 --> 00:23:04,400
-Alva.
+Alfa.
 
 213
 00:23:04,400 --> 00:23:08,400
@@ -864,7 +864,7 @@ Yes, Professor.
 
 217
 00:23:41,400 --> 00:23:45,400
-Alva.
+Alfa.
 
 218
 00:23:45,400 --> 00:23:47,400
@@ -888,7 +888,7 @@ It seems like someone chased me until I fainted.
 
 223
 00:23:56,400 --> 00:23:58,400
-I never received anything from you, Alva.
+I never received anything from you, Alfa.
 
 224
 00:23:58,400 --> 00:23:59,400
@@ -900,7 +900,7 @@ I can't be lying.
 
 226
 00:24:00,400 --> 00:24:02,400
-Here's the thing, Alva.
+Here's the thing, Alfa.
 
 227
 00:24:02,400 --> 00:24:05,400
@@ -976,7 +976,7 @@ I'm sorry, Professor.
 
 245
 00:24:55,400 --> 00:24:58,400
-This time, you're really naughty, Alva.
+This time, you're really naughty, Alfa.
 
 246
 00:24:58,400 --> 00:25:00,400
@@ -1008,7 +1008,7 @@ How can you believe it?
 
 253
 00:25:12,400 --> 00:25:17,400
-Professor Agni has been a teacher at this school for decades, Alva.
+Professor Agni has been a teacher at this school for decades, Alfa.
 
 254
 00:25:17,400 --> 00:25:20,400
@@ -1036,11 +1036,11 @@ That Dark Lord?
 
 260
 00:25:34,400 --> 00:25:39,400
-You don't know the time yet, Alva.
+You don't know the time yet, Alfa.
 
 261
 00:25:39,400 --> 00:25:46,400
-What's clear is that this Dark Lord is very dangerous, Alva.
+What's clear is that this Dark Lord is very dangerous, Alfa.
 
 262
 00:25:46,400 --> 00:25:50,400
@@ -1184,7 +1184,7 @@ You've heard it, right?
 
 297
 00:27:33,400 --> 00:27:35,400
-Alva is a thief.
+Alfa is a thief.
 
 298
 00:27:35,400 --> 00:27:38,400
@@ -1276,7 +1276,7 @@ Right.
 
 320
 00:29:18,400 --> 00:29:37,400
-Alva.
+Alfa.
 
 321
 00:29:37,400 --> 00:29:38,400
@@ -1304,15 +1304,15 @@ What are you doing?
 
 327
 00:29:52,400 --> 00:29:54,400
-You're so annoying, Alva.
+You're so annoying, Alfa.
 
 328
 00:29:54,400 --> 00:29:56,400
-Alva has betrayed us.
+Alfa has betrayed us.
 
 329
 00:29:56,400 --> 00:29:58,400
-Alva is a good person.
+Alfa is a good person.
 
 330
 00:29:58,400 --> 00:30:01,400
@@ -1320,7 +1320,7 @@ The proof is that he saved me from the thieves.
 
 331
 00:30:01,400 --> 00:30:05,400
-A good person like Alva can't do that.
+A good person like Alfa can't do that.
 
 332
 00:30:05,400 --> 00:30:08,400
@@ -1344,7 +1344,7 @@ I don't want to be poisoned anymore.
 
 337
 00:30:15,400 --> 00:30:18,400
-If you want to help Alva, go there.
+If you want to help Alfa, go there.
 
 338
 00:30:18,400 --> 00:30:20,400
@@ -1356,7 +1356,7 @@ Hey.
 
 340
 00:30:23,400 --> 00:30:36,400
-Alva said he was trapped in front of the forbidden room.
+Alfa said he was trapped in front of the forbidden room.
 
 341
 00:30:36,400 --> 00:30:39,400
@@ -1408,7 +1408,7 @@ It wasn't like this yesterday.
 
 353
 00:31:47,400 --> 00:31:51,400
-Yes, because Alva was in this room yesterday.
+Yes, because Alfa was in this room yesterday.
 
 354
 00:31:51,400 --> 00:31:54,400
@@ -1620,7 +1620,7 @@ Javangan Pantung.
 
 406
 00:35:48,400 --> 00:35:56,400
-Alva.
+Alfa.
 
 407
 00:35:56,400 --> 00:36:01,400
@@ -1644,7 +1644,7 @@ Repeat the spell.
 
 412
 00:36:16,400 --> 00:36:28,400
-You're insulting me, Alva.
+You're insulting me, Alfa.
 
 413
 00:36:28,400 --> 00:36:36,400
@@ -1652,7 +1652,7 @@ Shut up!
 
 414
 00:36:36,400 --> 00:36:40,400
-You're too much, Alva.
+You're too much, Alfa.
 
 415
 00:36:42,400 --> 00:36:44,400
@@ -1684,7 +1684,7 @@ All students, gather in the classroom.
 
 422
 00:37:03,400 --> 00:37:05,400
-Alva's School
+Alfa's School
 
 423
 00:37:05,400 --> 00:37:18,400
@@ -1696,7 +1696,7 @@ until I have to leave my class?
 
 425
 00:37:21,400 --> 00:37:25,400
-What steps should we take against Alva?
+What steps should we take against Alfa?
 
 426
 00:37:25,400 --> 00:37:28,400
@@ -1704,11 +1704,11 @@ I think that should not be discussed anymore.
 
 427
 00:37:28,400 --> 00:37:31,400
-Alva should be expelled.
+Alfa should be expelled.
 
 428
 00:37:31,400 --> 00:37:34,400
-Alva's School
+Alfa's School
 
 429
 00:37:34,400 --> 00:37:43,400
@@ -1724,7 +1724,7 @@ But, Professor.
 
 432
 00:37:48,400 --> 00:37:50,400
-What Alva has done...
+What Alfa has done...
 
 433
 00:37:50,400 --> 00:37:52,400
@@ -1768,7 +1768,7 @@ that will destroy this world.
 
 443
 00:38:19,400 --> 00:38:25,400
-And all of that will happen to Alva.
+And all of that will happen to Alfa.
 
 444
 00:38:26,400 --> 00:38:27,400
@@ -1792,7 +1792,7 @@ all the students in this school...
 
 449
 00:38:40,400 --> 00:38:44,400
-agree to expel Alva from this school.
+agree to expel Alfa from this school.
 
 450
 00:38:44,400 --> 00:38:47,400
@@ -1804,7 +1804,7 @@ we have no other choice, Professor.
 
 452
 00:38:50,400 --> 00:38:56,400
-Alva has to be expelled from this school.
+Alfa has to be expelled from this school.
 
 453
 00:38:56,400 --> 00:39:08,400
@@ -1812,7 +1812,7 @@ Megantara.
 
 454
 00:39:08,400 --> 00:39:09,400
-Call Alva.
+Call Alfa.
 
 455
 00:39:09,400 --> 00:39:11,400
@@ -1904,7 +1904,7 @@ Rolf.
 
 477
 00:41:31,400 --> 00:41:36,400
-Did Alva...
+Did Alfa...
 
 478
 00:41:36,400 --> 00:41:38,400
@@ -1920,7 +1920,7 @@ The child is innocent.
 
 481
 00:41:43,400 --> 00:41:46,400
-If it's not Alva...
+If it's not Alfa...
 
 482
 00:41:46,400 --> 00:41:49,400
@@ -2260,15 +2260,15 @@ There!
 
 566
 00:46:59,400 --> 00:47:00,400
-Where's Alva?
+Where's Alfa?
 
 567
 00:47:00,400 --> 00:47:02,400
-Do you see Alva?
+Do you see Alfa?
 
 568
 00:47:02,400 --> 00:47:05,400
-Alva was kicked out of the school.
+Alfa was kicked out of the school.
 
 569
 00:47:05,400 --> 00:47:06,400
@@ -2312,11 +2312,11 @@ What's wrong?
 
 579
 00:47:33,400 --> 00:47:35,400
-Alva, Ri!
+Alfa, Ri!
 
 580
 00:47:35,400 --> 00:47:37,400
-Alva was kicked out of the school.
+Alfa was kicked out of the school.
 
 581
 00:47:37,400 --> 00:47:39,400
@@ -2324,7 +2324,7 @@ Come on, hurry up!
 
 582
 00:47:39,400 --> 00:47:41,400
-Alva was kicked out?
+Alfa was kicked out?
 
 583
 00:47:41,400 --> 00:47:44,400
@@ -2340,7 +2340,7 @@ The news you heard is true.
 
 586
 00:47:51,400 --> 00:47:56,400
-Alva is being taken to the lake by the school's police.
+Alfa is being taken to the lake by the school's police.
 
 587
 00:47:56,400 --> 00:47:58,400
@@ -2348,7 +2348,7 @@ I'm the one who's wrong.
 
 588
 00:47:58,400 --> 00:48:00,400
-I was mean to Alva.
+I was mean to Alfa.
 
 589
 00:48:00,400 --> 00:48:04,400
@@ -2380,7 +2380,7 @@ Why?
 
 596
 00:48:22,400 --> 00:48:26,400
-But, Alva is innocent.
+But, Alfa is innocent.
 
 597
 00:48:26,400 --> 00:48:29,400
@@ -2404,7 +2404,7 @@ But we have to investigate it together.
 
 602
 00:48:38,400 --> 00:48:41,400
-And Alva is a soldier's friend.
+And Alfa is a soldier's friend.
 
 603
 00:48:41,400 --> 00:48:43,400
@@ -2420,7 +2420,7 @@ How can a soldier be so confident...
 
 606
 00:48:49,400 --> 00:48:52,400
-Alva, you're in charge now.
+Alfa, you're in charge now.
 
 607
 00:48:52,400 --> 00:48:56,400
@@ -2428,7 +2428,7 @@ This boat will take you back.
 
 608
 00:48:57,400 --> 00:48:59,400
-Alva, you're in charge now.
+Alfa, you're in charge now.
 
 609
 00:48:59,400 --> 00:49:03,400

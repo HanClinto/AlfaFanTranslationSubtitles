@@ -84,11 +84,11 @@ The chocolate is in my hand
 
 22
 00:02:08,000 --> 00:02:11,000
-And you tell Alva
+And you tell Alfa
 
 23
 00:02:11,000 --> 00:02:15,000
-If Alva still wants this child to live
+If Alfa still wants this child to live
 
 24
 00:02:15,000 --> 00:02:18,000
@@ -132,11 +132,11 @@ What's wrong, Vega?
 
 34
 00:02:47,000 --> 00:02:49,000
-Alva went back to the village
+Alfa went back to the village
 
 35
 00:02:49,000 --> 00:02:56,000
-What's wrong with Alva?
+What's wrong with Alfa?
 
 36
 00:02:56,000 --> 00:03:00,000
@@ -144,7 +144,7 @@ Because the news said Professor Ankara kidnapped her
 
 37
 00:03:00,000 --> 00:03:04,000
-And Professor Ankara said Alva has to go there
+And Professor Ankara said Alfa has to go there
 
 38
 00:03:04,000 --> 00:03:07,000
@@ -156,11 +156,11 @@ If not, the news will be spoiled
 
 40
 00:03:09,000 --> 00:03:12,000
-I'm in a hurry, I'll go after Alva
+I'm in a hurry, I'll go after Alfa
 
 41
 00:03:12,000 --> 00:03:15,000
-I won't let Ankara take Alva
+I won't let Ankara take Alfa
 
 42
 00:03:15,000 --> 00:03:17,000
@@ -168,7 +168,7 @@ I'll go too, Prof
 
 43
 00:03:17,000 --> 00:03:19,000
-I have to go save Alva
+I have to go save Alfa
 
 44
 00:03:19,000 --> 00:03:21,000
@@ -176,7 +176,7 @@ If Ankara gets there
 
 45
 00:03:21,000 --> 00:03:25,000
-If Alva gets a single hair on her head
+If Alfa gets a single hair on her head
 
 46
 00:03:25,000 --> 00:03:28,000
@@ -380,7 +380,7 @@ Ouch!
 
 96
 00:06:58,000 --> 00:07:00,000
-Not like that, Alva!
+Not like that, Alfa!
 
 97
 00:07:00,000 --> 00:07:02,000
@@ -1060,7 +1060,7 @@ Where are you, Prita?
 
 266
 00:22:00,000 --> 00:22:01,000
-Alvas!
+Alfas!
 
 267
 00:22:01,000 --> 00:22:03,000
@@ -1076,7 +1076,7 @@ I have to go in.
 
 270
 00:22:39,000 --> 00:22:49,000
-Welcome, Alva.
+Welcome, Alfa.
 
 271
 00:22:49,000 --> 00:22:53,000
@@ -1108,7 +1108,7 @@ I'm scared, Kak.
 
 278
 00:23:21,000 --> 00:23:25,000
-No one can help you now, Alva.
+No one can help you now, Alfa.
 
 279
 00:23:25,000 --> 00:23:27,000
@@ -1160,7 +1160,7 @@ Dad, wake up!
 
 291
 00:26:37,000 --> 00:26:39,000
-Wake up, Alva!
+Wake up, Alfa!
 
 292
 00:26:39,000 --> 00:27:16,000
@@ -1176,7 +1176,7 @@ Dad, wake up!
 
 295
 00:27:28,000 --> 00:27:30,000
-I'm scared, Alva!
+I'm scared, Alfa!
 
 296
 00:27:30,000 --> 00:27:37,000
@@ -1204,7 +1204,7 @@ Thank you, Popo, for helping us.
 
 302
 00:28:06,000 --> 00:28:08,000
-Kak Alva, are you okay?
+Kak Alfa, are you okay?
 
 303
 00:28:08,000 --> 00:28:10,000
@@ -1296,11 +1296,11 @@ Dad, wake up!
 
 325
 00:30:05,000 --> 00:30:07,000
-Alva, wake up!
+Alfa, wake up!
 
 326
 00:30:07,000 --> 00:30:09,000
-Alva!
+Alfa!
 
 327
 00:30:09,000 --> 00:30:10,000
@@ -1324,11 +1324,11 @@ Wake up!
 
 332
 00:30:17,000 --> 00:30:19,000
-Alva!
+Alfa!
 
 333
 00:30:19,000 --> 00:30:22,000
-It seems Alva was hit by a shell.
+It seems Alfa was hit by a shell.
 
 334
 00:30:22,000 --> 00:30:33,000
@@ -1408,7 +1408,7 @@ Why is the door so strong?
 
 353
 00:31:52,000 --> 00:31:54,000
-You try, Alva.
+You try, Alfa.
 
 354
 00:31:54,000 --> 00:31:55,000
@@ -1416,11 +1416,11 @@ Sorry, Prof.
 
 355
 00:31:55,000 --> 00:32:00,000
-But it seems Alva's condition is not possible for her.
+But it seems Alfa's condition is not possible for her.
 
 356
 00:32:00,000 --> 00:32:04,000
-Alva, why don't you try?
+Alfa, why don't you try?
 
 357
 00:32:04,000 --> 00:32:18,000
@@ -1448,11 +1448,11 @@ Kurufung!
 
 363
 00:32:56,000 --> 00:33:00,000
-Alva is so cool!
+Alfa is so cool!
 
 364
 00:33:00,000 --> 00:33:02,000
-You're amazing, Alva.
+You're amazing, Alfa.
 
 365
 00:33:02,000 --> 00:33:05,000
@@ -1460,15 +1460,15 @@ Maybe my guess is right.
 
 366
 00:33:05,000 --> 00:33:07,000
-If Alva is...
+If Alfa is...
 
 367
 00:33:07,000 --> 00:33:11,000
-Alva!
+Alfa!
 
 368
 00:33:11,000 --> 00:33:12,000
-Alva, wake up!
+Alfa, wake up!
 
 369
 00:33:12,000 --> 00:33:14,000
@@ -1476,7 +1476,7 @@ Wake up!
 
 370
 00:33:14,000 --> 00:33:15,000
-Alva!
+Alfa!
 
 371
 00:33:15,000 --> 00:33:25,000
@@ -1500,7 +1500,7 @@ Vega, Rey, Adara.
 
 376
 00:34:14,000 --> 00:34:18,000
-Welcome, Alva.
+Welcome, Alfa.
 
 377
 00:34:18,000 --> 00:34:21,000
@@ -1676,7 +1676,7 @@ I'll die.
 
 420
 00:37:48,000 --> 00:37:50,000
-Alva,
+Alfa,
 
 421
 00:37:50,000 --> 00:37:52,000
@@ -1756,7 +1756,7 @@ I'm free!
 
 440
 00:38:54,000 --> 00:38:57,000
-Thank you, Alva.
+Thank you, Alfa.
 
 441
 00:38:57,000 --> 00:39:01,000
@@ -1900,7 +1900,7 @@ I don't feel hungry.
 
 476
 00:40:55,000 --> 00:40:56,000
-Alva.
+Alfa.
 
 477
 00:40:56,000 --> 00:40:58,000
@@ -1948,7 +1948,7 @@ Do you want to try?
 
 488
 00:41:22,000 --> 00:41:23,000
-Alva.
+Alfa.
 
 489
 00:41:23,000 --> 00:41:25,000
@@ -1960,7 +1960,7 @@ What's wrong?
 
 491
 00:41:27,000 --> 00:41:29,000
-Alva.
+Alfa.
 
 492
 00:41:29,000 --> 00:41:30,000
@@ -1968,7 +1968,7 @@ What's wrong?
 
 493
 00:41:30,000 --> 00:41:41,000
-Alva.
+Alfa.
 
 494
 00:41:41,000 --> 00:41:44,000
@@ -1976,7 +1976,7 @@ Help.
 
 495
 00:41:44,000 --> 00:41:49,000
-Alva.
+Alfa.
 
 496
 00:41:49,000 --> 00:41:53,000
@@ -1984,7 +1984,7 @@ Help.
 
 497
 00:41:53,000 --> 00:41:54,000
-Alva.
+Alfa.
 
 498
 00:41:54,000 --> 00:41:57,000
@@ -1996,7 +1996,7 @@ Help.
 
 500
 00:42:11,000 --> 00:42:18,000
-Alva.
+Alfa.
 
 501
 00:42:18,000 --> 00:42:20,000
@@ -2012,7 +2012,7 @@ I'm dizzy.
 
 504
 00:42:24,000 --> 00:42:27,000
-Alva T got poisoned by a snake.
+Alfa T got poisoned by a snake.
 
 505
 00:42:27,000 --> 00:42:31,000
@@ -2024,7 +2024,7 @@ If not, in three days...
 
 507
 00:42:35,000 --> 00:42:39,000
-Alva T will become a snake.
+Alfa T will become a snake.
 
 508
 00:42:39,000 --> 00:42:41,000
@@ -2148,7 +2148,7 @@ without our brother.
 
 538
 00:44:04,000 --> 00:44:10,000
-But we can't let Alva become a snake.
+But we can't let Alfa become a snake.
 
 539
 00:44:10,000 --> 00:44:11,000
@@ -2332,7 +2332,7 @@ the magic will turn against you.
 
 584
 00:48:41,000 --> 00:48:43,000
-Alva, Vega, Ray
+Alfa, Vega, Ray
 
 585
 00:48:43,000 --> 00:49:01,000
@@ -2964,7 +2964,7 @@ Because that's the only way I can live again
 
 742
 00:59:57,480 --> 01:00:00,480
-You're so cool, Alva
+You're so cool, Alfa
 
 743
 01:00:00,480 --> 01:00:56,480

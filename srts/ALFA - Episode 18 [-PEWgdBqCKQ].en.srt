@@ -812,7 +812,7 @@ Thank you
 
 204
 00:15:22,000 --> 00:15:23,000
-Alva
+Alfa
 
 205
 00:15:23,000 --> 00:15:25,000
@@ -836,7 +836,7 @@ I don't know where it's called
 
 210
 00:15:32,000 --> 00:15:37,000
-You're great, Alva!
+You're great, Alfa!
 
 211
 00:15:37,000 --> 00:15:40,000
@@ -852,7 +852,7 @@ I won't let the Dark Lab hurt my teachers
 
 214
 00:15:47,000 --> 00:15:48,000
-Thank you, Alva
+Thank you, Alfa
 
 215
 00:15:49,000 --> 00:15:51,000
@@ -864,7 +864,7 @@ We have to go in
 
 217
 00:16:03,000 --> 00:16:04,000
-We have to help Alva
+We have to help Alfa
 
 218
 00:16:04,000 --> 00:16:05,000
@@ -872,11 +872,11 @@ Let's go
 
 219
 00:16:05,000 --> 00:16:11,000
-Alva
+Alfa
 
 220
 00:16:11,000 --> 00:16:13,000
-Alva, you're safe!
+Alfa, you're safe!
 
 221
 00:16:15,000 --> 00:16:16,000
@@ -1552,7 +1552,7 @@ and the first name that comes out is
 
 389
 00:27:51,100 --> 00:27:53,100
-Alva
+Alfa
 
 390
 00:27:53,100 --> 00:27:56,100
@@ -1584,7 +1584,7 @@ enter Tommy's name, Pi
 
 397
 00:28:11,100 --> 00:28:14,100
-don't put Alva and Vega's names
+don't put Alfa and Vega's names
 
 398
 00:28:14,100 --> 00:28:17,100
@@ -1764,7 +1764,7 @@ the last name
 
 442
 00:30:24,100 --> 00:30:26,100
-Alva
+Alfa
 
 443
 00:30:26,100 --> 00:30:32,100
@@ -1812,7 +1812,7 @@ we promised Tommy
 
 454
 00:31:18,100 --> 00:31:20,100
-we won't put Alva's name
+we won't put Alfa's name
 
 455
 00:31:20,100 --> 00:31:22,100
@@ -1828,7 +1828,7 @@ I don't understand either
 
 458
 00:31:25,100 --> 00:31:27,100
-why suddenly Alva's name came out
+why suddenly Alfa's name came out
 
 459
 00:31:27,100 --> 00:31:29,100
@@ -1844,7 +1844,7 @@ there is a mysterious person
 
 462
 00:31:32,100 --> 00:31:34,100
-who silently wants to enter Alva's name
+who silently wants to enter Alfa's name
 
 463
 00:31:34,100 --> 00:31:36,100
@@ -1852,7 +1852,7 @@ okay, just let it be
 
 464
 00:31:36,100 --> 00:31:39,100
-but we won't let Alva
+but we won't let Alfa
 
 465
 00:31:39,100 --> 00:31:41,100
@@ -1876,7 +1876,7 @@ what is the first task
 
 470
 00:31:58,100 --> 00:32:00,100
-Rey, Alva
+Rey, Alfa
 
 471
 00:32:00,100 --> 00:32:02,100
@@ -3248,7 +3248,7 @@ boss
 
 813
 00:52:24,100 --> 00:52:27,100
-15 minutes, Alva
+15 minutes, Alfa
 
 814
 00:52:27,100 --> 00:52:29,100
@@ -3284,7 +3284,7 @@ our last contestant
 
 822
 00:52:43,100 --> 00:52:46,100
-Alva, please
+Alfa, please
 
 823
 00:52:46,100 --> 00:52:51,100
@@ -3316,7 +3316,7 @@ give it to me
 
 830
 00:54:19,100 --> 00:54:22,100
-very good, Alva
+very good, Alfa
 
 831
 00:54:22,100 --> 00:54:25,100
@@ -3336,7 +3336,7 @@ so, the winner of this first contest is
 
 835
 00:54:39,100 --> 00:54:41,100
-Alva
+Alfa
 
 836
 00:54:41,100 --> 00:54:42,100
@@ -3388,7 +3388,7 @@ the contestant
 
 848
 00:55:08,100 --> 00:55:10,100
-this is me, Alva
+this is me, Alfa
 
 849
 00:55:10,100 --> 00:55:13,100
@@ -3408,7 +3408,7 @@ Prof. Titan
 
 853
 00:55:21,100 --> 00:55:23,100
-this is me, Alva
+this is me, Alfa
 
 854
 00:55:23,100 --> 00:55:38,100
@@ -3448,7 +3448,7 @@ I'm the one who's noisy
 
 863
 00:56:13,100 --> 00:56:16,100
-hey, Alva
+hey, Alfa
 
 864
 00:56:16,100 --> 00:56:18,100
@@ -3488,7 +3488,7 @@ I won the first contest
 
 873
 00:56:36,100 --> 00:56:38,100
-you won, Alva
+you won, Alfa
 
 874
 00:56:38,100 --> 00:56:39,100
@@ -3496,7 +3496,7 @@ you won, Alva
 
 875
 00:56:39,100 --> 00:56:41,100
-congratulations, Alva
+congratulations, Alfa
 
 876
 00:56:41,100 --> 00:56:43,100
@@ -3524,7 +3524,7 @@ why is this shaking?
 
 882
 00:56:54,100 --> 00:56:57,100
-Alva, you don't have to be afraid
+Alfa, you don't have to be afraid
 
 883
 00:56:57,100 --> 00:56:59,100
@@ -3556,7 +3556,7 @@ can produce a very powerful poison
 
 890
 00:57:13,100 --> 00:57:16,100
-and Alva, you don't have to be surprised
+and Alfa, you don't have to be surprised
 
 891
 00:57:16,100 --> 00:57:18,100
@@ -3568,7 +3568,7 @@ if you find weird creatures
 
 893
 00:57:20,100 --> 00:57:23,100
-in this room, Alva
+in this room, Alfa
 
 894
 00:57:23,100 --> 00:57:26,100
@@ -3592,7 +3592,7 @@ oh yes
 
 899
 00:57:33,100 --> 00:57:35,100
-be careful, Alva
+be careful, Alfa
 
 900
 00:57:35,100 --> 00:57:49,100
@@ -3604,7 +3604,7 @@ I lost again
 
 902
 00:57:51,100 --> 00:57:53,100
-I lost to Alva again
+I lost to Alfa again
 
 903
 00:57:53,100 --> 00:57:56,100
@@ -3612,7 +3612,7 @@ I have to think
 
 904
 00:57:56,100 --> 00:57:59,100
-how can I beat Alva
+how can I beat Alfa
 
 905
 00:57:59,100 --> 00:58:01,100
@@ -3728,7 +3728,7 @@ oh my God
 
 933
 01:00:09,100 --> 01:00:10,100
-Alva
+Alfa
 
 934
 01:00:10,100 --> 01:00:12,100
@@ -3740,7 +3740,7 @@ but you have to trust us
 
 936
 01:00:14,100 --> 01:00:15,100
-yes, Alva
+yes, Alfa
 
 937
 01:00:15,100 --> 01:00:16,100
@@ -3748,7 +3748,7 @@ you can't lose
 
 938
 01:00:16,100 --> 01:00:17,100
-yes, Alva
+yes, Alfa
 
 939
 01:00:17,100 --> 01:00:19,100
@@ -3756,7 +3756,7 @@ if you lose, I'll replace you
 
 940
 01:00:19,100 --> 01:00:21,100
-Ray and Alva don't know
+Ray and Alfa don't know
 
 941
 01:00:21,100 --> 01:00:23,100

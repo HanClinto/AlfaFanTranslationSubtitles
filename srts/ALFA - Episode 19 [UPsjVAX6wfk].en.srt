@@ -56,11 +56,11 @@ Favorite, give it to me
 
 15
 00:01:31,000 --> 00:01:41,000
-It means that for this first match, the winner is Alva
+It means that for this first match, the winner is Alfa
 
 16
 00:01:43,000 --> 00:01:48,000
-I have to think about how I can beat Alva
+I have to think about how I can beat Alfa
 
 17
 00:01:48,000 --> 00:01:52,000
@@ -112,31 +112,31 @@ For the participants, gather at the school's playground as soon as possible
 
 29
 00:02:53,000 --> 00:02:59,000
-Where is Alva? Why is he missing?
+Where is Alfa? Why is he missing?
 
 30
 00:02:59,000 --> 00:03:02,000
-Where is Alva? It's been a long time
+Where is Alfa? It's been a long time
 
 31
 00:03:02,000 --> 00:03:04,000
-He must be eliminated, Alva
+He must be eliminated, Alfa
 
 32
 00:03:04,000 --> 00:03:07,000
-If Alva doesn't come, what should I do?
+If Alfa doesn't come, what should I do?
 
 33
 00:03:07,000 --> 00:03:09,000
-Alva must come
+Alfa must come
 
 34
 00:03:09,000 --> 00:03:11,000
-Hey, I'll look for Alva for a moment
+Hey, I'll look for Alfa for a moment
 
 35
 00:03:11,000 --> 00:03:15,000
-Where is Alva?
+Where is Alfa?
 
 36
 00:03:15,000 --> 00:03:17,000
@@ -144,7 +144,7 @@ I want to fight him
 
 37
 00:03:17,000 --> 00:03:19,000
-Where is Alva?
+Where is Alfa?
 
 38
 00:03:19,000 --> 00:03:26,000
@@ -368,7 +368,7 @@ Help, don't eat me
 
 93
 00:08:08,000 --> 00:08:10,000
-Alva will be eliminated
+Alfa will be eliminated
 
 94
 00:08:10,000 --> 00:08:12,000
@@ -500,7 +500,7 @@ Instead of thinking about it
 
 126
 00:09:30,000 --> 00:09:33,000
-You should ask Alva
+You should ask Alfa
 
 127
 00:09:34,000 --> 00:09:36,000
@@ -536,7 +536,7 @@ Someone's coming
 
 135
 00:10:05,000 --> 00:10:08,000
-Hey, Alva
+Hey, Alfa
 
 136
 00:10:08,000 --> 00:10:10,000
@@ -636,7 +636,7 @@ This is weird
 
 160
 00:11:26,000 --> 00:11:28,000
-Where is Alva?
+Where is Alfa?
 
 161
 00:11:28,000 --> 00:11:30,000
@@ -684,7 +684,7 @@ One
 
 172
 00:11:58,000 --> 00:12:01,000
-Hurray, Alva is here
+Hurray, Alfa is here
 
 173
 00:12:01,000 --> 00:12:03,000
@@ -748,7 +748,7 @@ She doesn't like men
 
 188
 00:12:35,000 --> 00:12:40,000
-Alva, hold the door
+Alfa, hold the door
 
 189
 00:12:40,000 --> 00:12:48,000
@@ -1048,7 +1048,7 @@ You're disqualified
 
 263
 00:17:21,000 --> 00:17:23,000
-Alva, you have to succeed
+Alfa, you have to succeed
 
 264
 00:17:23,000 --> 00:17:25,000
@@ -1056,7 +1056,7 @@ But, you have to trust us
 
 265
 00:17:25,000 --> 00:17:27,000
-Right, Alva?
+Right, Alfa?
 
 266
 00:17:27,000 --> 00:17:29,000
@@ -1068,7 +1068,7 @@ If you get disqualified, I'll get it
 
 268
 00:17:31,000 --> 00:17:34,000
-Rey and Alva know that I like angsa
+Rey and Alfa know that I like angsa
 
 269
 00:17:34,000 --> 00:17:38,000
@@ -1168,7 +1168,7 @@ You have to be able to do it
 
 293
 00:19:40,000 --> 00:19:42,000
-Alva, you have to win
+Alfa, you have to win
 
 294
 00:19:42,000 --> 00:19:44,000
@@ -1180,11 +1180,11 @@ Now, it's the next contestant's turn
 
 296
 00:19:48,000 --> 00:19:50,000
-Alva, please
+Alfa, please
 
 297
 00:19:50,000 --> 00:19:58,000
-Be careful, Alva
+Be careful, Alfa
 
 298
 00:20:05,000 --> 00:20:07,000
@@ -1200,7 +1200,7 @@ Lucky!
 
 301
 00:20:15,000 --> 00:20:23,000
-That's Alva
+That's Alfa
 
 302
 00:20:23,000 --> 00:20:30,000
@@ -1260,7 +1260,7 @@ We won!
 
 316
 00:21:42,000 --> 00:21:48,000
-But Alva, can you give us more?
+But Alfa, can you give us more?
 
 317
 00:21:48,000 --> 00:21:50,000
@@ -1312,7 +1312,7 @@ We won!
 
 329
 00:23:15,000 --> 00:23:21,000
-Alva
+Alfa
 
 330
 00:23:21,000 --> 00:23:23,000
@@ -1328,7 +1328,7 @@ I only said 3
 
 333
 00:23:27,000 --> 00:23:29,000
-Alva, this is a bonus for you
+Alfa, this is a bonus for you
 
 334
 00:23:29,000 --> 00:23:31,000
@@ -1352,7 +1352,7 @@ Thank you
 
 339
 00:23:39,000 --> 00:23:43,000
-Why isn't Alva here yet?
+Why isn't Alfa here yet?
 
 340
 00:23:43,000 --> 00:23:45,000
@@ -1368,11 +1368,11 @@ I know, it's been so long
 
 343
 00:23:49,000 --> 00:23:52,000
-Wait, Alva will be here soon
+Wait, Alfa will be here soon
 
 344
 00:23:52,000 --> 00:23:54,000
-Alva is great
+Alfa is great
 
 345
 00:23:54,000 --> 00:23:56,000
@@ -1384,7 +1384,7 @@ Trust me
 
 347
 00:23:57,000 --> 00:23:59,000
-Alva won't win this time
+Alfa won't win this time
 
 348
 00:23:59,000 --> 00:24:02,000
@@ -1396,7 +1396,7 @@ We won!
 
 350
 00:24:30,000 --> 00:24:32,000
-How was it, Alva?
+How was it, Alfa?
 
 351
 00:24:32,000 --> 00:24:36,000
@@ -1404,7 +1404,7 @@ I didn't get it, Prof
 
 352
 00:24:36,000 --> 00:24:38,000
-See, Alva didn't do anything
+See, Alfa didn't do anything
 
 353
 00:24:38,000 --> 00:24:40,000
@@ -1444,7 +1444,7 @@ Please
 
 362
 00:25:01,000 --> 00:25:13,000
-Alva! Alva! Alva!
+Alfa! Alfa! Alfa!
 
 363
 00:25:13,000 --> 00:25:17,000
@@ -1480,7 +1480,7 @@ The winner is
 
 371
 00:25:32,000 --> 00:25:34,000
-Alva!
+Alfa!
 
 372
 00:25:34,000 --> 00:25:52,000
@@ -1500,7 +1500,7 @@ So, to the contestants
 
 376
 00:26:00,000 --> 00:26:02,000
-Alva and Tommy
+Alfa and Tommy
 
 377
 00:26:02,000 --> 00:26:04,000
@@ -1512,7 +1512,7 @@ Yes, sir
 
 379
 00:26:22,000 --> 00:26:25,000
-Prof. Alvara, why are you here?
+Prof. Alfara, why are you here?
 
 380
 00:26:25,000 --> 00:26:40,000
@@ -1528,7 +1528,7 @@ Your opponent is me
 
 383
 00:26:46,000 --> 00:26:48,000
-Prof. Alva
+Prof. Alfa
 
 384
 00:26:48,000 --> 00:26:58,000
@@ -1680,7 +1680,7 @@ I would have been a fool
 
 421
 00:28:39,000 --> 00:28:41,000
-Alva
+Alfa
 
 422
 00:28:41,000 --> 00:28:45,000
@@ -1692,7 +1692,7 @@ I'm suspicious of Prof. Titan
 
 424
 00:28:49,000 --> 00:28:53,000
-Why does he help Alva all the time?
+Why does he help Alfa all the time?
 
 425
 00:28:53,000 --> 00:28:55,000
@@ -1700,7 +1700,7 @@ What does he mean?
 
 426
 00:28:55,000 --> 00:29:05,000
-Alva was helped by Prof. Titan
+Alfa was helped by Prof. Titan
 
 427
 00:29:05,000 --> 00:29:07,000
@@ -1716,7 +1716,7 @@ I know
 
 430
 00:29:15,000 --> 00:29:21,000
-I have to make Alva fight with Prof. Titan
+I have to make Alfa fight with Prof. Titan
 
 431
 00:29:21,000 --> 00:29:23,000
@@ -1724,7 +1724,7 @@ Then
 
 432
 00:29:23,000 --> 00:29:25,000
-Alva will get mad at Prof. Titan
+Alfa will get mad at Prof. Titan
 
 433
 00:29:25,000 --> 00:29:27,000
@@ -1732,7 +1732,7 @@ And then
 
 434
 00:29:27,000 --> 00:29:29,000
-Alva will be disqualified
+Alfa will be disqualified
 
 435
 00:29:29,000 --> 00:29:31,000
@@ -1784,7 +1784,7 @@ Tommy
 
 447
 00:30:21,000 --> 00:30:25,000
-Someone wants to talk to me about Alva
+Someone wants to talk to me about Alfa
 
 448
 00:30:27,000 --> 00:30:31,000
@@ -1828,7 +1828,7 @@ I was in the toilet
 
 458
 00:30:57,000 --> 00:31:05,000
-What's wrong with Alva, Tommy?
+What's wrong with Alfa, Tommy?
 
 459
 00:31:05,000 --> 00:31:09,000
@@ -1840,7 +1840,7 @@ Tell me
 
 461
 00:31:11,000 --> 00:31:13,000
-What's wrong with Alva?
+What's wrong with Alfa?
 
 462
 00:31:13,000 --> 00:31:15,000
@@ -1856,7 +1856,7 @@ Using sign language
 
 465
 00:31:19,000 --> 00:31:27,000
-(Alva is trying to say something)
+(Alfa is trying to say something)
 
 466
 00:31:27,000 --> 00:31:29,000
@@ -1952,11 +1952,11 @@ You're cheating
 
 489
 00:32:45,000 --> 00:32:47,000
-You helped Alva
+You helped Alfa
 
 490
 00:32:47,000 --> 00:32:51,000
-I'll tell Alva and you to Albaran
+I'll tell Alfa and you to Albaran
 
 491
 00:32:51,000 --> 00:32:53,000
@@ -2192,7 +2192,7 @@ Yes, I'm confused too
 
 549
 00:37:13,000 --> 00:37:16,000
-Your friend, Alva, must be very smart
+Your friend, Alfa, must be very smart
 
 550
 00:37:16,000 --> 00:37:18,000
@@ -2204,11 +2204,11 @@ But you never win
 
 552
 00:37:20,000 --> 00:37:23,000
-No, Alva is not smart
+No, Alfa is not smart
 
 553
 00:37:23,000 --> 00:37:25,000
-Alva is a coward
+Alfa is a coward
 
 554
 00:37:25,000 --> 00:37:27,000
@@ -3024,7 +3024,7 @@ There's someone at the door
 
 757
 00:49:49,000 --> 00:49:52,000
-Oh, Alva's here
+Oh, Alfa's here
 
 758
 00:49:52,000 --> 00:49:55,000
@@ -3044,11 +3044,11 @@ She'll be mad if she finds out I'm studying her favorite book
 
 762
 00:50:16,000 --> 00:50:19,000
-Alva saw Mari too
+Alfa saw Mari too
 
 763
 00:50:19,000 --> 00:50:24,000
-I'm sure Alva will suspect Mari's secret
+I'm sure Alfa will suspect Mari's secret
 
 764
 00:50:24,000 --> 00:50:31,000
@@ -3092,7 +3092,7 @@ Be patient
 
 774
 00:51:13,000 --> 00:51:16,000
-Hey, Alva
+Hey, Alfa
 
 775
 00:51:16,000 --> 00:51:18,000
@@ -3120,7 +3120,7 @@ He's bored
 
 781
 00:51:32,000 --> 00:51:35,000
-Don't worry, Alva
+Don't worry, Alfa
 
 782
 00:51:35,000 --> 00:51:40,000
@@ -3156,7 +3156,7 @@ No, I've seen one
 
 790
 00:51:59,000 --> 00:52:06,000
-Great, Alva!
+Great, Alfa!
 
 791
 00:52:06,000 --> 00:52:08,000
@@ -3172,7 +3172,7 @@ I can catch them when they're dense
 
 794
 00:52:14,000 --> 00:52:17,000
-That's right, Alva
+That's right, Alfa
 
 795
 00:52:17,000 --> 00:52:22,000
@@ -3180,7 +3180,7 @@ So, Professor will teach you this dense magic
 
 796
 00:52:35,000 --> 00:52:39,000
-Alva, look at this ghost
+Alfa, look at this ghost
 
 797
 00:52:39,000 --> 00:52:44,000
@@ -3192,7 +3192,7 @@ Power of the Dark!
 
 799
 00:52:48,000 --> 00:52:52,000
-Alva, look
+Alfa, look
 
 800
 00:52:52,000 --> 00:52:54,000
@@ -3208,7 +3208,7 @@ Now, you can try
 
 803
 00:53:00,000 --> 00:53:13,000
-Alva, look
+Alfa, look
 
 804
 00:53:13,000 --> 00:53:20,000
@@ -3228,7 +3228,7 @@ Since there's a kid in this room
 
 808
 00:53:29,000 --> 00:53:33,000
-It's okay, Alva
+It's okay, Alfa
 
 809
 00:53:33,000 --> 00:53:36,000
@@ -3276,7 +3276,7 @@ I did it!
 
 820
 00:54:34,000 --> 00:54:37,000
-Good job, Alva
+Good job, Alfa
 
 821
 00:54:37,000 --> 00:54:39,000
@@ -3356,11 +3356,11 @@ It's time for the final match
 
 840
 00:56:35,000 --> 00:56:39,000
-Between Alva and Tommy
+Between Alfa and Tommy
 
 841
 00:56:39,000 --> 00:56:42,000
-Alva! Tommy! Alva!
+Alfa! Tommy! Alfa!
 
 842
 00:56:42,000 --> 00:56:45,000
@@ -3372,7 +3372,7 @@ Wait a minute
 
 844
 00:56:47,000 --> 00:56:50,000
-Alva and Tommy
+Alfa and Tommy
 
 845
 00:56:50,000 --> 00:56:54,000
@@ -3416,7 +3416,7 @@ Will be the winner
 
 855
 00:57:20,000 --> 00:57:22,000
-Alva and Tommy, are you ready?
+Alfa and Tommy, are you ready?
 
 856
 00:57:22,000 --> 00:57:24,000
@@ -3468,11 +3468,11 @@ I'm a coward
 
 868
 00:58:10,000 --> 00:58:18,000
-That's Alva
+That's Alfa
 
 869
 00:58:18,000 --> 00:58:22,000
-Yes, that's Alva
+Yes, that's Alfa
 
 870
 00:58:22,000 --> 00:58:25,000
@@ -3496,7 +3496,7 @@ Don't show up in front of the magic school kid
 
 875
 00:58:39,000 --> 00:58:40,000
-His name is Alva
+His name is Alfa
 
 876
 00:58:40,000 --> 00:58:43,000
@@ -3512,7 +3512,7 @@ One more is okay
 
 879
 00:58:47,000 --> 00:58:49,000
-But the one named Alva
+But the one named Alfa
 
 880
 00:58:49,000 --> 00:58:51,000
@@ -3536,7 +3536,7 @@ No, we don't want to
 
 885
 00:58:57,000 --> 00:58:59,000
-We want to see Alva
+We want to see Alfa
 
 886
 00:58:59,000 --> 00:59:00,000
@@ -3552,7 +3552,7 @@ Over there
 
 889
 00:59:03,000 --> 00:59:12,000
-You're done, Alva
+You're done, Alfa
 
 890
 00:59:12,000 --> 00:59:14,000
@@ -3564,7 +3564,7 @@ And you will lose
 
 892
 00:59:17,000 --> 00:59:19,000
-Alva, I'll go right, you go left
+Alfa, I'll go right, you go left
 
 893
 00:59:19,000 --> 00:59:22,000
@@ -3612,7 +3612,7 @@ He's a fake
 
 904
 00:59:55,000 --> 00:59:58,000
-Bye, Alva
+Bye, Alfa
 
 905
 00:59:58,000 --> 01:00:01,000
@@ -3620,7 +3620,7 @@ Don't come in
 
 906
 01:00:01,000 --> 01:00:07,000
-You're done, Alva
+You're done, Alfa
 
 907
 01:00:07,000 --> 01:00:10,000

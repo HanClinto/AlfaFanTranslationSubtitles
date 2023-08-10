@@ -80,7 +80,7 @@ Let me go
 
 21
 00:01:47,000 --> 00:01:52,000
-I want to remember Alva
+I want to remember Alfa
 
 22
 00:01:52,000 --> 00:01:56,000
@@ -88,11 +88,11 @@ Vega, Ray, Soleh, have you got the sword?
 
 23
 00:01:56,000 --> 00:02:00,000
-Not yet, bro, now Alva is the one who is wrong to be the sword
+Not yet, bro, now Alfa is the one who is wrong to be the sword
 
 24
 00:02:00,000 --> 00:02:02,000
-Alva?
+Alfa?
 
 25
 00:02:02,000 --> 00:02:04,000
@@ -100,7 +100,7 @@ They will definitely meet
 
 26
 00:02:04,000 --> 00:02:09,000
-If the dark lord will catch and finish Alva
+If the dark lord will catch and finish Alfa
 
 27
 00:02:09,000 --> 00:02:14,000
@@ -144,11 +144,11 @@ I need help
 
 37
 00:02:47,000 --> 00:03:12,000
-Alva, wake up Alva
+Alfa, wake up Alfa
 
 38
 00:03:13,000 --> 00:03:15,000
-Alva, wake up
+Alfa, wake up
 
 39
 00:03:15,000 --> 00:03:28,000
@@ -160,7 +160,7 @@ Why do you come to my dream?
 
 41
 00:03:31,000 --> 00:03:34,000
-Alva, do you know who that kid is?
+Alfa, do you know who that kid is?
 
 42
 00:03:34,000 --> 00:03:36,000
@@ -172,7 +172,7 @@ That kid is you
 
 44
 00:03:39,000 --> 00:03:42,000
-Alva, you are the one who has been missing for two years
+Alfa, you are the one who has been missing for two years
 
 45
 00:03:42,000 --> 00:03:44,000
@@ -756,11 +756,11 @@ Will be back
 
 190
 00:15:44,000 --> 00:15:47,000
-And it's all because of you, Alva
+And it's all because of you, Alfa
 
 191
 00:15:47,000 --> 00:15:56,000
-Please go home, Alva
+Please go home, Alfa
 
 192
 00:15:56,000 --> 00:15:58,000
@@ -776,7 +776,7 @@ Come back!
 
 195
 00:16:11,000 --> 00:16:19,000
-You've made me so angry, Alva
+You've made me so angry, Alfa
 
 196
 00:16:35,000 --> 00:16:37,000
@@ -1152,7 +1152,7 @@ and go back to school.
 
 289
 00:24:35,640 --> 00:24:41,640
-Why did you come here, Alva?
+Why did you come here, Alfa?
 
 290
 00:24:41,640 --> 00:24:43,640
@@ -1196,7 +1196,7 @@ You're a bad person!
 
 300
 00:25:07,640 --> 00:25:09,640
-Enough, Alva!
+Enough, Alfa!
 
 301
 00:25:09,640 --> 00:25:11,640
@@ -1232,7 +1232,7 @@ You're a murderer!
 
 309
 00:25:29,640 --> 00:25:31,640
-You're so rude, Alva!
+You're so rude, Alfa!
 
 310
 00:25:31,640 --> 00:25:34,640
@@ -1264,7 +1264,7 @@ It hurts!
 
 317
 00:26:22,640 --> 00:26:24,640
-I'm Alva.
+I'm Alfa.
 
 318
 00:26:24,640 --> 00:26:26,640
@@ -1292,19 +1292,19 @@ Help!
 
 324
 00:26:58,640 --> 00:27:00,640
-I think I hear Alva's voice.
+I think I hear Alfa's voice.
 
 325
 00:27:00,640 --> 00:27:05,640
-Alva, please show yourself to me.
+Alfa, please show yourself to me.
 
 326
 00:27:05,640 --> 00:27:20,640
-Alva?
+Alfa?
 
 327
 00:27:21,640 --> 00:27:22,640
-Enough, Alva!
+Enough, Alfa!
 
 328
 00:27:22,640 --> 00:27:24,640
@@ -1348,7 +1348,7 @@ Right?
 
 338
 00:28:02,640 --> 00:28:05,640
-Open your eyes, Alva.
+Open your eyes, Alfa.
 
 339
 00:28:05,640 --> 00:28:08,640
@@ -1396,7 +1396,7 @@ My eyes!
 
 350
 00:28:45,640 --> 00:28:50,640
-Alva, let's get out of here.
+Alfa, let's get out of here.
 
 351
 00:28:50,640 --> 00:28:52,640
@@ -1408,7 +1408,7 @@ Run!
 
 353
 00:28:54,640 --> 00:29:12,640
-Alva!
+Alfa!
 
 354
 00:29:12,640 --> 00:29:16,640
@@ -1420,15 +1420,15 @@ We can do it!
 
 356
 00:29:32,640 --> 00:29:39,640
-It's Alva!
+It's Alfa!
 
 357
 00:29:39,640 --> 00:29:42,640
-Alva!
+Alfa!
 
 358
 00:29:42,640 --> 00:29:44,640
-Alva, fly!
+Alfa, fly!
 
 359
 00:29:44,640 --> 00:29:46,640
@@ -1436,7 +1436,7 @@ Alva, fly!
 
 360
 00:29:46,640 --> 00:29:56,640
-Alva, fly!
+Alfa, fly!
 
 361
 00:29:56,640 --> 00:30:05,640
@@ -1496,7 +1496,7 @@ Wow.
 
 375
 00:30:54,640 --> 00:30:56,640
-Goodbye, Alva.
+Goodbye, Alfa.
 
 376
 00:30:56,640 --> 00:30:58,640
@@ -1508,7 +1508,7 @@ Goodbye, Vega and Ray.
 
 378
 00:31:07,640 --> 00:31:11,640
-I know Vega and Alva, Ray.
+I know Vega and Alfa, Ray.
 
 379
 00:31:11,640 --> 00:31:13,640
@@ -1540,7 +1540,7 @@ The dust is separated by the sun.
 
 386
 00:31:59,640 --> 00:32:03,640
-Thank God, Alva is safe now.
+Thank God, Alfa is safe now.
 
 387
 00:32:03,640 --> 00:32:07,640
@@ -1756,7 +1756,7 @@ Why does he always come to me?
 
 440
 00:35:44,640 --> 00:35:48,640
-Alva, do you know who that baby is?
+Alfa, do you know who that baby is?
 
 441
 00:35:48,640 --> 00:35:50,640
@@ -1776,7 +1776,7 @@ Why are you crying?
 
 445
 00:36:08,640 --> 00:36:11,640
-Alva, what's wrong?
+Alfa, what's wrong?
 
 446
 00:36:11,640 --> 00:36:13,640
@@ -1836,7 +1836,7 @@ I don't know why there's an evil person in this world.
 
 460
 00:37:17,640 --> 00:37:38,640
-Alva, not everything in this world can be understood.
+Alfa, not everything in this world can be understood.
 
 461
 00:37:41,640 --> 00:37:45,640
@@ -1904,7 +1904,7 @@ It's useless, sir.
 
 477
 00:39:26,640 --> 00:39:29,640
-Because Alva knows how to defeat Varga.
+Because Alfa knows how to defeat Varga.
 
 478
 00:39:29,640 --> 00:39:34,640
@@ -2084,7 +2084,7 @@ Divinjo!
 
 522
 00:43:31,640 --> 00:43:34,640
-Alva,
+Alfa,
 
 523
 00:43:34,640 --> 00:43:36,640
@@ -2124,7 +2124,7 @@ Divinjo!
 
 532
 00:44:55,640 --> 00:44:59,640
-Very good, Alva.
+Very good, Alfa.
 
 533
 00:44:59,640 --> 00:45:03,640
@@ -2164,7 +2164,7 @@ We have to find him.
 
 542
 00:46:13,120 --> 00:46:16,120
-Alva, Alva, where are you going? Sit down.
+Alfa, Alfa, where are you going? Sit down.
 
 543
 00:46:16,120 --> 00:46:19,120
@@ -2416,7 +2416,7 @@ I'm going to faint.
 
 605
 00:50:55,120 --> 00:50:59,120
-You can't beat Barga, Alva.
+You can't beat Barga, Alfa.
 
 606
 00:50:59,120 --> 00:51:01,120
@@ -2848,23 +2848,23 @@ Professor.
 
 713
 00:56:36,120 --> 00:56:39,120
-Where's Alva?
+Where's Alfa?
 
 714
 00:56:39,120 --> 00:56:42,120
-Alva.
+Alfa.
 
 715
 00:56:42,120 --> 00:56:45,120
-Alva, where are you?
+Alfa, where are you?
 
 716
 00:56:45,120 --> 00:56:46,120
-Alva.
+Alfa.
 
 717
 00:56:46,120 --> 00:56:48,120
-Alva is near the other team.
+Alfa is near the other team.
 
 718
 00:56:48,120 --> 00:56:49,120
@@ -2884,7 +2884,7 @@ Let's go this way.
 
 722
 00:56:56,120 --> 00:57:04,120
-Alva.
+Alfa.
 
 723
 00:57:04,120 --> 00:57:05,120
@@ -2920,7 +2920,7 @@ Alva.
 
 731
 00:58:01,120 --> 00:58:03,120
-Alva.
+Alfa.
 
 732
 00:58:03,120 --> 00:59:31,120

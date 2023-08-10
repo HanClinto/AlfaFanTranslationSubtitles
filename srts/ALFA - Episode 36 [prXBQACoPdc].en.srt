@@ -712,11 +712,11 @@ The first task for you
 
 179
 00:11:22,000 --> 00:11:24,000
-Be careful, Alva
+Be careful, Alfa
 
 180
 00:11:24,000 --> 00:11:27,000
-If Alva gets the soul stone
+If Alfa gets the soul stone
 
 181
 00:11:27,000 --> 00:11:29,000
@@ -728,7 +728,7 @@ You must protect the soul stone
 
 183
 00:11:32,000 --> 00:11:34,000
-Don't let Alva destroy it
+Don't let Alfa destroy it
 
 184
 00:11:34,000 --> 00:11:35,000
@@ -1408,7 +1408,7 @@ Who turned a horse's painting into a monkey's
 
 353
 00:20:25,000 --> 00:20:29,000
-Yes, Alva, I think it's him
+Yes, Alfa, I think it's him
 
 354
 00:20:29,000 --> 00:20:33,000
@@ -1416,7 +1416,7 @@ But he's not caught yet
 
 355
 00:20:33,000 --> 00:20:35,000
-Not yet, Alva
+Not yet, Alfa
 
 356
 00:20:35,000 --> 00:20:37,000
@@ -1440,7 +1440,7 @@ Maybe the thief can seduce the parents
 
 361
 00:20:47,000 --> 00:20:49,000
-Yes, Alva
+Yes, Alfa
 
 362
 00:20:49,000 --> 00:20:50,000
@@ -2180,7 +2180,7 @@ I hope it's useful.
 
 546
 00:36:49,180 --> 00:36:52,180
-Alva, we have to be very careful.
+Alfa, we have to be very careful.
 
 547
 00:36:52,180 --> 00:36:55,180
@@ -2212,7 +2212,7 @@ You're a grown up now.
 
 554
 00:37:34,180 --> 00:37:37,180
-I miss you, Alva.
+I miss you, Alfa.
 
 555
 00:37:37,180 --> 00:37:41,180
@@ -3280,7 +3280,7 @@ Why is the black color of the ring...
 
 821
 00:52:42,180 --> 00:52:44,180
-Alva.
+Alfa.
 
 822
 00:52:44,180 --> 00:52:46,180
@@ -3336,7 +3336,7 @@ Any report today?
 
 835
 00:53:31,180 --> 00:53:34,180
-Alva hasn't found the soul stone yet, Sir.
+Alfa hasn't found the soul stone yet, Sir.
 
 836
 00:53:34,180 --> 00:53:38,180
@@ -3348,7 +3348,7 @@ There's more.
 
 838
 00:53:40,180 --> 00:53:45,180
-When we took the report, there was Alva and a woman.
+When we took the report, there was Alfa and a woman.
 
 839
 00:53:45,180 --> 00:53:48,180
@@ -3360,7 +3360,7 @@ Yes, it's her mother.
 
 841
 00:53:50,180 --> 00:53:52,180
-Alva's mother?
+Alfa's mother?
 
 842
 00:53:52,180 --> 00:53:54,180
@@ -3424,11 +3424,11 @@ You'd better stay here tonight.
 
 857
 00:54:47,180 --> 00:54:52,180
-Because Alva will miss you.
+Because Alfa will miss you.
 
 858
 00:54:52,180 --> 00:54:53,180
-Right, Alva?
+Right, Alfa?
 
 859
 00:54:53,180 --> 00:54:57,180
@@ -3436,7 +3436,7 @@ Yes, I miss my mother too.
 
 860
 00:54:57,180 --> 00:54:59,180
-Alva.
+Alfa.
 
 861
 00:54:59,180 --> 00:55:03,180
@@ -3564,7 +3564,7 @@ I want you to stay in your house tonight.
 
 892
 00:56:12,180 --> 00:56:18,180
-Alva.
+Alfa.
 
 893
 00:56:18,180 --> 00:56:20,180
@@ -3592,11 +3592,11 @@ Because...
 
 899
 00:56:33,180 --> 00:56:34,180
-Alva.
+Alfa.
 
 900
 00:56:34,180 --> 00:56:36,180
-Alva has to sleep in the dormitory.
+Alfa has to sleep in the dormitory.
 
 901
 00:56:36,180 --> 00:56:38,180
@@ -3648,7 +3648,7 @@ I'll ask for permission from Professor Aldebaran.
 
 913
 00:56:54,180 --> 00:56:56,180
-To let Alva stay in the dormitory.
+To let Alfa stay in the dormitory.
 
 914
 00:56:56,180 --> 00:56:57,180
@@ -3676,7 +3676,7 @@ Purwa.
 
 920
 00:57:14,180 --> 00:57:17,180
-I still miss Alva.
+I still miss Alfa.
 
 921
 00:57:17,180 --> 00:57:20,180
@@ -3704,7 +3704,7 @@ Let's go.
 
 927
 00:57:33,180 --> 00:57:34,180
-Let's go, Alva.
+Let's go, Alfa.
 
 928
 00:57:34,180 --> 00:57:35,180
@@ -3740,7 +3740,7 @@ To be continued...
 
 936
 00:58:03,180 --> 00:58:10,180
-Both of Alva's parents are gone.
+Both of Alfa's parents are gone.
 
 937
 00:58:10,180 --> 00:58:11,180
@@ -3780,7 +3780,7 @@ Enough.
 
 946
 00:58:26,180 --> 00:58:28,180
-Now, investigate and watch Alva.
+Now, investigate and watch Alfa.
 
 947
 00:58:28,180 --> 00:58:30,180
@@ -3848,7 +3848,7 @@ Akhila.
 
 963
 00:59:02,180 --> 00:59:05,180
-Your room is over there with Alva.
+Your room is over there with Alfa.
 
 964
 00:59:05,180 --> 00:59:07,180
@@ -3888,7 +3888,7 @@ Come.
 
 973
 00:59:32,180 --> 00:59:46,180
-Where is Alva?
+Where is Alfa?
 
 974
 00:59:46,180 --> 00:59:48,180
@@ -3912,7 +3912,7 @@ Don't tell me.
 
 979
 00:59:57,180 --> 00:59:58,180
-Alva...
+Alfa...
 
 980
 00:59:59,180 --> 01:00:04,180
@@ -3936,7 +3936,7 @@ We'll wait until tomorrow.
 
 985
 01:00:14,180 --> 01:00:20,180
-If Alva doesn't come tomorrow, we'll report to the Professor.
+If Alfa doesn't come tomorrow, we'll report to the Professor.
 
 986
 01:00:20,180 --> 01:00:21,180
@@ -3964,7 +3964,7 @@ And he finally saved the princess he loved.
 
 992
 01:00:43,180 --> 01:00:50,180
-Alva.
+Alfa.
 
 993
 01:00:50,180 --> 01:00:52,180
@@ -4016,7 +4016,7 @@ When can I meet my friends?
 
 1005
 01:01:37,180 --> 01:01:40,180
-Not yet, Alva.
+Not yet, Alfa.
 
 1006
 01:01:40,180 --> 01:01:44,180
@@ -4036,7 +4036,7 @@ Mom.
 
 1010
 01:01:58,180 --> 01:02:07,180
-(Alva's room)
+(Alfa's room)
 
 1011
 01:02:32,180 --> 01:02:35,180
@@ -4076,7 +4076,7 @@ I won't give up.
 
 1020
 01:03:11,180 --> 01:03:14,180
-(Alva's room)
+(Alfa's room)
 
 1021
 01:03:14,180 --> 01:03:36,180
@@ -4112,7 +4112,7 @@ Good morning, Sir.
 
 1029
 01:03:55,180 --> 01:03:58,180
-Alva.
+Alfa.
 
 1030
 01:03:58,180 --> 01:03:59,180
@@ -4156,7 +4156,7 @@ It's okay.
 
 1040
 01:05:02,180 --> 01:05:05,180
-(Alva's room)
+(Alfa's room)
 
 1041
 01:05:05,180 --> 01:05:15,180
@@ -4180,7 +4180,7 @@ Eat properly.
 
 1046
 01:05:30,180 --> 01:05:33,180
-(Alva's room)
+(Alfa's room)
 
 1047
 01:05:33,180 --> 01:05:38,180
@@ -4188,7 +4188,7 @@ Kids, calm down.
 
 1048
 01:05:38,180 --> 01:05:41,180
-Alva is in a safe place.
+Alfa is in a safe place.
 
 1049
 01:05:41,180 --> 01:05:46,180
@@ -4208,7 +4208,7 @@ You always think of your friends.
 
 1053
 01:05:54,180 --> 01:05:57,180
-But Alva is not sad.
+But Alfa is not sad.
 
 1054
 01:05:57,180 --> 01:05:59,180
@@ -4224,7 +4224,7 @@ Calm down.
 
 1057
 01:06:09,180 --> 01:06:11,180
-Alva is fine.
+Alfa is fine.
 
 1058
 01:06:11,180 --> 01:06:15,180
@@ -4276,7 +4276,7 @@ It's a sign of good news.
 
 1070
 01:06:40,180 --> 01:06:43,180
-Alva is happy.
+Alfa is happy.
 
 1071
 01:06:43,180 --> 01:06:45,180
@@ -4284,11 +4284,11 @@ What is it?
 
 1072
 01:06:45,180 --> 01:06:47,180
-Alva.
+Alfa.
 
 1073
 01:06:47,180 --> 01:06:49,180
-Alva, where are you?
+Alfa, where are you?
 
 1074
 01:06:49,180 --> 01:06:51,180
@@ -4400,7 +4400,7 @@ Okay.
 
 1101
 01:07:46,180 --> 01:07:50,180
-Alva, I have good news.
+Alfa, I have good news.
 
 1102
 01:07:50,180 --> 01:07:53,180
@@ -4460,7 +4460,7 @@ Who did it?
 
 1116
 01:08:33,180 --> 01:08:40,180
-I have to educate Alva again.
+I have to educate Alfa again.
 
 1117
 01:08:40,180 --> 01:08:43,180

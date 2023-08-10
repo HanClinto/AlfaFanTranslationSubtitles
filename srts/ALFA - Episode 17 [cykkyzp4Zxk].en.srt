@@ -52,15 +52,15 @@ You promised me, you will not forget, your promise is only one, if that promise 
 
 14
 00:01:38,000 --> 00:01:53,000
-Alva
+Alfa
 
 15
 00:01:53,000 --> 00:02:03,000
-We can't give up Alva to them
+We can't give up Alfa to them
 
 16
 00:02:03,000 --> 00:02:11,000
-So it's better if there is someone among us to disguise as Alva
+So it's better if there is someone among us to disguise as Alfa
 
 17
 00:02:11,000 --> 00:02:13,000
@@ -124,15 +124,15 @@ Calm down, I know how
 
 32
 00:03:07,000 --> 00:03:13,000
-Actually, the one being targeted is Alva, not the professor
+Actually, the one being targeted is Alfa, not the professor
 
 33
 00:03:13,000 --> 00:03:18,000
-So if we want our professor to be safe, we have to surrender Alva
+So if we want our professor to be safe, we have to surrender Alfa
 
 34
 00:03:18,000 --> 00:03:21,000
-Let's go find Alva now
+Let's go find Alfa now
 
 35
 00:03:21,000 --> 00:03:23,000
@@ -144,11 +144,11 @@ Where are you?
 
 37
 00:03:28,000 --> 00:03:32,000
-Alva
+Alfa
 
 38
 00:03:32,000 --> 00:03:37,000
-Have you met Alva?
+Have you met Alfa?
 
 39
 00:03:37,000 --> 00:03:40,000
@@ -160,7 +160,7 @@ Where is she?
 
 41
 00:03:43,000 --> 00:03:45,000
-Have you met Alva?
+Have you met Alfa?
 
 42
 00:03:45,000 --> 00:03:47,000
@@ -176,7 +176,7 @@ She's not in the library either
 
 45
 00:03:52,000 --> 00:03:54,000
-Where is Alva?
+Where is Alfa?
 
 46
 00:03:54,000 --> 00:04:00,000
@@ -184,7 +184,7 @@ Where is she?
 
 47
 00:04:00,000 --> 00:04:02,000
-Where is Alva?
+Where is Alfa?
 
 48
 00:04:02,000 --> 00:04:04,000
@@ -196,7 +196,7 @@ She was with us when we attacked the evil spirits, but now she's gone
 
 50
 00:04:10,000 --> 00:04:12,000
-Maybe Alva is hiding
+Maybe Alfa is hiding
 
 51
 00:04:12,000 --> 00:04:15,000
@@ -208,11 +208,11 @@ Maybe she's in the library
 
 53
 00:04:18,000 --> 00:04:27,000
-Alva is not like that
+Alfa is not like that
 
 54
 00:04:30,000 --> 00:04:32,000
-Where is Alva?
+Where is Alfa?
 
 55
 00:04:32,000 --> 00:04:34,000
@@ -228,7 +228,7 @@ That's right, we should use the kite
 
 58
 00:04:41,000 --> 00:04:46,000
-I'm going to find Alva
+I'm going to find Alfa
 
 59
 00:04:59,000 --> 00:05:03,000
@@ -244,7 +244,7 @@ What's wrong?
 
 62
 00:05:27,000 --> 00:05:29,000
-Alva was kidnapped by the evil spirits
+Alfa was kidnapped by the evil spirits
 
 63
 00:05:29,000 --> 00:05:31,000
@@ -268,7 +268,7 @@ What happened?
 
 68
 00:05:38,000 --> 00:05:40,000
-Alva was kidnapped
+Alfa was kidnapped
 
 69
 00:05:40,000 --> 00:05:43,000
@@ -288,7 +288,7 @@ You're lying
 
 73
 00:05:56,000 --> 00:05:58,000
-I'm going to find Alva
+I'm going to find Alfa
 
 74
 00:05:58,000 --> 00:06:02,000
@@ -296,7 +296,7 @@ I won't let the evil spirits take the professor away
 
 75
 00:06:03,000 --> 00:06:05,000
-I'm going to find Alva
+I'm going to find Alfa
 
 76
 00:06:05,000 --> 00:06:16,000
@@ -304,11 +304,11 @@ I won't let the evil spirits take the professor away
 
 77
 00:06:17,000 --> 00:06:24,000
-I'm going to find Alva
+I'm going to find Alfa
 
 78
 00:06:25,000 --> 00:07:02,000
-Alva
+Alfa
 
 79
 00:07:02,000 --> 00:07:04,000
@@ -392,7 +392,7 @@ They're going to the place where the dark spirits help the professor
 
 99
 00:08:11,000 --> 00:08:15,000
-But we're asking for Alva
+But we're asking for Alfa
 
 100
 00:08:15,000 --> 00:08:19,000
@@ -400,11 +400,11 @@ Don't worry, be happy
 
 101
 00:08:19,000 --> 00:08:21,000
-Megantarate is eager to be Alva
+Megantarate is eager to be Alfa
 
 102
 00:08:21,000 --> 00:08:24,000
-So they're going there with a fake Alva
+So they're going there with a fake Alfa
 
 103
 00:08:24,000 --> 00:08:26,000
@@ -560,7 +560,7 @@ Let's go
 
 141
 00:19:52,000 --> 00:19:54,000
-We have to help Alva
+We have to help Alfa
 
 142
 00:19:54,000 --> 00:19:56,000
@@ -612,7 +612,7 @@ You're welcome
 
 154
 00:21:02,000 --> 00:21:06,000
-Alva!
+Alfa!
 
 155
 00:21:06,000 --> 00:21:14,000
@@ -684,7 +684,7 @@ But, Barga can't be defeated
 
 172
 00:21:50,000 --> 00:21:52,000
-Alva, the ring!
+Alfa, the ring!
 
 173
 00:21:52,000 --> 00:21:55,000
@@ -740,7 +740,7 @@ Let's make a plan!
 
 186
 00:22:39,000 --> 00:22:41,000
-Alva, the ring!
+Alfa, the ring!
 
 187
 00:22:41,000 --> 00:22:52,000
@@ -748,7 +748,7 @@ Why is it so dark?
 
 188
 00:22:52,000 --> 00:22:58,000
-Alva
+Alfa
 
 189
 00:22:58,000 --> 00:23:01,000
@@ -768,7 +768,7 @@ Take it
 
 193
 00:23:09,000 --> 00:23:13,000
-Alva
+Alfa
 
 194
 00:23:13,000 --> 00:23:15,000
@@ -816,7 +816,7 @@ Anggara
 
 205
 00:23:37,000 --> 00:23:39,000
-I think there's something wrong with Alva
+I think there's something wrong with Alfa
 
 206
 00:23:39,000 --> 00:23:42,000
@@ -856,7 +856,7 @@ Is that all?
 
 215
 00:24:18,000 --> 00:24:21,000
-Have a good time, Alva
+Have a good time, Alfa
 
 216
 00:24:21,000 --> 00:24:26,000
@@ -908,7 +908,7 @@ Attack!
 
 228
 00:26:08,000 --> 00:26:34,000
-Alva, are you okay?
+Alfa, are you okay?
 
 229
 00:26:34,000 --> 00:26:36,000
@@ -1452,7 +1452,7 @@ Anggar, look at that!
 
 364
 00:38:50,000 --> 00:38:52,000
-There's Alva!
+There's Alfa!
 
 365
 00:38:52,000 --> 00:38:54,000
@@ -1684,7 +1684,7 @@ Well, it worked...
 
 422
 00:41:54,000 --> 00:41:56,000
-It's all thanks to Alva...
+It's all thanks to Alfa...
 
 423
 00:41:56,000 --> 00:41:58,000
@@ -1696,7 +1696,7 @@ You guys are so awesome...
 
 425
 00:42:02,000 --> 00:42:10,000
-Alva is awesome!
+Alfa is awesome!
 
 426
 00:42:10,000 --> 00:42:14,000
@@ -1740,7 +1740,7 @@ He's saved by...
 
 436
 00:42:34,000 --> 00:42:36,000
-Alva, Vega, Ray, Tole and Pelita...
+Alfa, Vega, Ray, Tole and Pelita...
 
 437
 00:42:36,000 --> 00:42:56,000
@@ -1772,7 +1772,7 @@ He's saved by...
 
 444
 00:43:18,000 --> 00:43:20,000
-Alva, Vega, Tole, Ray and Pelita...
+Alfa, Vega, Tole, Ray and Pelita...
 
 445
 00:43:20,000 --> 00:43:22,000
@@ -1872,7 +1872,7 @@ Megantara herself offered herself...
 
 469
 00:44:08,000 --> 00:44:10,000
-To disguise as Alva...
+To disguise as Alfa...
 
 470
 00:44:10,000 --> 00:44:12,000
@@ -2996,7 +2996,7 @@ Let's attack...
 
 750
 00:55:00,000 --> 00:55:01,000
-Alva...
+Alfa...
 
 751
 00:55:01,000 --> 00:55:03,000
@@ -3020,7 +3020,7 @@ TV Go!
 
 756
 00:55:25,000 --> 00:55:26,000
-Get ready, Alva...
+Get ready, Alfa...
 
 757
 00:55:26,000 --> 00:55:27,000
@@ -3104,7 +3104,7 @@ Umm...
 
 777
 00:57:00,000 --> 00:57:01,000
-Alva...
+Alfa...
 
 778
 00:57:01,000 --> 00:57:02,000
@@ -3184,7 +3184,7 @@ Professor Angkara's hypnotism...
 
 797
 00:57:51,000 --> 00:57:52,000
-Alva...
+Alfa...
 
 798
 00:57:52,000 --> 00:57:53,000
@@ -3240,7 +3240,7 @@ Because of you...
 
 811
 00:58:23,000 --> 00:58:25,000
-You're my favorite student, Alva...
+You're my favorite student, Alfa...
 
 812
 00:58:25,000 --> 00:58:27,000
@@ -3384,11 +3384,11 @@ Ready...
 
 847
 00:59:53,000 --> 00:59:54,000
-Alva...
+Alfa...
 
 848
 00:59:54,000 --> 00:59:58,000
-You won't get away with this, Alva...
+You won't get away with this, Alfa...
 
 849
 00:59:58,000 --> 01:00:02,000
@@ -3400,7 +3400,7 @@ Help...
 
 851
 01:00:10,000 --> 01:00:12,000
-Poor Alva...
+Poor Alfa...
 
 852
 01:00:12,000 --> 01:00:14,000
@@ -3432,7 +3432,7 @@ I'm very, very hurt...
 
 859
 01:00:27,000 --> 01:00:29,000
-Alva...
+Alfa...
 
 860
 01:00:29,000 --> 01:01:23,000

@@ -132,15 +132,15 @@ But there's only one problem, sir
 
 34
 00:02:55,000 --> 00:02:58,000
-Alva stole Leon, sir
+Alfa stole Leon, sir
 
 35
 00:02:58,000 --> 00:03:05,000
-I'm worried that Alva can disrupt our plan, sir
+I'm worried that Alfa can disrupt our plan, sir
 
 36
 00:03:06,000 --> 00:03:20,000
-Alva
+Alfa
 
 37
 00:03:20,000 --> 00:03:21,000
@@ -160,7 +160,7 @@ Whoever drinks this potion, he will be loyal and be with Leon
 
 41
 00:03:31,000 --> 00:03:33,000
-Including Alva
+Including Alfa
 
 42
 00:03:34,000 --> 00:03:37,000
@@ -1204,7 +1204,7 @@ So, they'll be aware
 
 302
 00:21:57,000 --> 00:22:10,000
-I think Alva is going to be suspicious
+I think Alfa is going to be suspicious
 
 303
 00:22:11,000 --> 00:22:13,000
@@ -1856,7 +1856,7 @@ Ruined
 
 465
 00:35:14,000 --> 00:35:16,000
-The party is ruined because of Alva
+The party is ruined because of Alfa
 
 466
 00:35:16,000 --> 00:35:18,000
@@ -1864,7 +1864,7 @@ She ruined our party
 
 467
 00:35:18,000 --> 00:35:20,000
-Who's Alva?
+Who's Alfa?
 
 468
 00:35:20,000 --> 00:35:22,000
@@ -1904,7 +1904,7 @@ Usually she's not that angry
 
 477
 00:35:46,000 --> 00:35:48,000
-With Alva
+With Alfa
 
 478
 00:35:48,000 --> 00:35:54,000
@@ -1952,7 +1952,7 @@ What's wrong?
 
 489
 00:36:28,000 --> 00:36:30,000
-That's a punishment for you Alva
+That's a punishment for you Alfa
 
 490
 00:36:30,000 --> 00:36:32,000
@@ -1992,7 +1992,7 @@ Let's go
 
 499
 00:37:04,000 --> 00:37:10,000
-Poor Alva
+Poor Alfa
 
 500
 00:37:10,000 --> 00:37:14,000
@@ -2004,7 +2004,7 @@ What's wrong
 
 502
 00:37:16,000 --> 00:37:18,000
-With Alva or Sirio
+With Alfa or Sirio
 
 503
 00:37:18,000 --> 00:37:20,000
@@ -2336,7 +2336,7 @@ Let's go
 
 585
 00:41:10,000 --> 00:41:22,000
-Alva
+Alfa
 
 586
 00:41:22,000 --> 00:41:24,000
@@ -3712,7 +3712,7 @@ Why is he so like that?
 
 929
 00:59:58,000 --> 01:00:00,000
-With Alva
+With Alfa
 
 930
 01:00:00,000 --> 01:00:02,000
@@ -3720,7 +3720,7 @@ Yes, are you still angry?
 
 931
 01:00:02,000 --> 01:00:04,000
-With Alva because of the order
+With Alfa because of the order
 
 932
 01:00:04,000 --> 01:00:06,000
@@ -3820,7 +3820,7 @@ I'll answer your question
 
 956
 01:00:58,000 --> 01:01:00,000
-What's wrong with you and Alva?
+What's wrong with you and Alfa?
 
 957
 01:01:00,000 --> 01:01:02,000
@@ -3868,7 +3868,7 @@ To make us look bad
 
 968
 01:01:22,000 --> 01:01:24,000
-He's been friends with Alva for a long time
+He's been friends with Alfa for a long time
 
 969
 01:01:24,000 --> 01:01:26,000
@@ -3884,7 +3884,7 @@ I'm confused
 
 972
 01:01:36,000 --> 01:01:38,000
-Alva is a good person
+Alfa is a good person
 
 973
 01:01:38,000 --> 01:01:40,000
@@ -3892,7 +3892,7 @@ As long as you know
 
 974
 01:01:40,000 --> 01:01:42,000
-Alva is a good person
+Alfa is a good person
 
 975
 01:01:42,000 --> 01:01:44,000
@@ -3912,7 +3912,7 @@ He's so bad
 
 979
 01:02:02,000 --> 01:02:04,000
-Alva is a bad person
+Alfa is a bad person
 
 980
 01:02:04,000 --> 01:02:06,000
@@ -3920,7 +3920,7 @@ But you're right
 
 981
 01:02:06,000 --> 01:02:10,000
-Alva is a bad person
+Alfa is a bad person
 
 982
 01:02:10,000 --> 01:02:12,000
@@ -3952,7 +3952,7 @@ You're just following him
 
 989
 01:02:24,000 --> 01:02:26,000
-You said Alva is a good person
+You said Alfa is a good person
 
 990
 01:02:26,000 --> 01:02:28,000
@@ -3964,7 +3964,7 @@ Rio is a good person
 
 992
 01:02:30,000 --> 01:02:32,000
-Not like Alva
+Not like Alfa
 
 993
 01:02:32,000 --> 01:02:34,000
@@ -4084,7 +4084,7 @@ Who did this?
 
 1022
 01:04:24,000 --> 01:04:32,000
-Alva
+Alfa
 
 1023
 01:04:32,000 --> 01:04:34,000
@@ -4208,7 +4208,7 @@ I drank coffee
 
 1053
 01:05:32,000 --> 01:05:34,000
-My favorite coffee, Alva
+My favorite coffee, Alfa
 
 1054
 01:05:34,000 --> 01:05:36,000
@@ -4220,7 +4220,7 @@ I can fall asleep
 
 1056
 01:05:38,000 --> 01:05:40,000
-Alva, this is a child
+Alfa, this is a child
 
 1057
 01:05:40,000 --> 01:05:42,000
@@ -4236,7 +4236,7 @@ Impossible
 
 1060
 01:05:46,000 --> 01:05:48,000
-Alva, because he has
+Alfa, because he has
 
 1061
 01:05:48,000 --> 01:05:50,000
@@ -4256,7 +4256,7 @@ The password I made to protect this tomb
 
 1065
 01:05:56,000 --> 01:05:58,000
-Alva, so it's impossible
+Alfa, so it's impossible
 
 1066
 01:05:58,000 --> 01:06:00,000
@@ -4296,7 +4296,7 @@ I want to talk about the prosperity of Angkara
 
 1075
 01:06:16,000 --> 01:06:18,000
-What is it, Alva?
+What is it, Alfa?
 
 1076
 01:06:18,000 --> 01:06:22,000
@@ -4364,7 +4364,7 @@ Miss, I don't want to
 
 1092
 01:07:28,000 --> 01:07:30,000
-Be friends with Alva
+Be friends with Alfa
 
 1093
 01:07:30,000 --> 01:07:34,000
@@ -4388,11 +4388,11 @@ Where is Rio?
 
 1098
 01:07:44,000 --> 01:07:46,000
-Alva
+Alfa
 
 1099
 01:07:46,000 --> 01:07:48,000
-Where is Alva?
+Where is Alfa?
 
 1100
 01:07:48,000 --> 01:07:50,000
@@ -4400,11 +4400,11 @@ Classroom is not here
 
 1101
 01:07:50,000 --> 01:07:52,000
-Where is Alva?
+Where is Alfa?
 
 1102
 01:07:52,000 --> 01:08:08,000
-Alva
+Alfa
 
 1103
 01:08:08,000 --> 01:08:12,000
@@ -4432,7 +4432,7 @@ Maybe
 
 1109
 01:08:30,000 --> 01:08:32,000
-Alva is right
+Alfa is right
 
 1110
 01:08:32,000 --> 01:08:34,000

@@ -80,7 +80,7 @@ And from now on, the school has decided
 
 21
 00:02:02,000 --> 00:02:07,000
-If Alva is not expelled from the school
+If Alfa is not expelled from the school
 
 22
 00:02:16,000 --> 00:02:17,000
@@ -472,7 +472,7 @@ Who knows if I save Tole
 
 119
 00:10:20,000 --> 00:10:22,000
-I can be a hero like Alva
+I can be a hero like Alfa
 
 120
 00:10:22,000 --> 00:10:25,000
@@ -2820,7 +2820,7 @@ Sorry, professor, I didn't mean to
 
 706
 00:42:33,000 --> 00:42:35,000
-It's okay, Alva
+It's okay, Alfa
 
 707
 00:42:35,000 --> 00:42:37,000
@@ -2848,7 +2848,7 @@ Eremata Duyung
 
 713
 00:42:48,000 --> 00:42:52,000
-Okay, Alva
+Okay, Alfa
 
 714
 00:42:52,000 --> 00:42:53,000
@@ -2868,7 +2868,7 @@ So Vega can be saved quickly
 
 718
 00:43:13,000 --> 00:43:16,000
-Alva, let me call the Duyung
+Alfa, let me call the Duyung
 
 719
 00:43:16,000 --> 00:43:17,000
@@ -2932,7 +2932,7 @@ Daffa, hold on tight
 
 734
 00:44:26,000 --> 00:44:30,000
-Alva, put it here
+Alfa, put it here
 
 735
 00:44:30,000 --> 00:44:48,000
@@ -2992,7 +2992,7 @@ Hurry
 
 749
 00:45:21,000 --> 00:45:26,000
-Alva, you better bring the Eremata now
+Alfa, you better bring the Eremata now
 
 750
 00:45:26,000 --> 00:45:28,000
@@ -3148,7 +3148,7 @@ Tommy
 
 788
 00:48:26,000 --> 00:48:30,000
-Alva and Vega will be kidnapped by Duyung
+Alfa and Vega will be kidnapped by Duyung
 
 789
 00:48:30,000 --> 00:48:32,000
@@ -3320,11 +3320,11 @@ One of those children...
 
 831
 00:51:00,000 --> 00:51:03,000
-must be named Alva.
+must be named Alfa.
 
 832
 00:51:09,000 --> 00:51:11,000
-Alva.
+Alfa.
 
 833
 00:51:11,000 --> 00:51:33,000
@@ -3344,7 +3344,7 @@ Yes, it's so weird.
 
 837
 00:51:40,000 --> 00:51:42,000
-Why does that person know Alva?
+Why does that person know Alfa?
 
 838
 00:51:42,000 --> 00:51:44,000
@@ -3352,7 +3352,7 @@ Who is he?
 
 839
 00:51:45,000 --> 00:51:47,000
-Alva.
+Alfa.
 
 840
 00:52:13,000 --> 00:52:16,000
@@ -3360,7 +3360,7 @@ You're wrong if you think I'm going to lose.
 
 841
 00:52:16,000 --> 00:52:19,000
-I will never lose, Alvaro.
+I will never lose, Alfaro.
 
 842
 00:52:19,000 --> 00:52:22,000
@@ -3368,7 +3368,7 @@ I will never lose.
 
 843
 00:52:22,000 --> 00:52:24,000
-Alvaro's voice.
+Alfaro's voice.
 
 844
 00:52:24,000 --> 00:52:48,000
@@ -3376,11 +3376,11 @@ Where is he?
 
 845
 00:52:48,000 --> 00:52:50,000
-Alvaro's voice.
+Alfaro's voice.
 
 846
 00:52:50,000 --> 00:53:15,000
-Alvaro.
+Alfaro.
 
 847
 00:53:16,000 --> 00:53:18,000
@@ -3576,7 +3576,7 @@ They are going to attack the castle.
 
 895
 00:56:44,000 --> 00:56:50,000
-Alva, let's go to the lake.
+Alfa, let's go to the lake.
 
 896
 00:56:50,000 --> 00:56:52,000
@@ -3584,7 +3584,7 @@ Okay.
 
 897
 00:56:52,000 --> 00:56:54,000
-Alva.
+Alfa.
 
 898
 00:56:54,000 --> 00:56:56,000
@@ -3616,7 +3616,7 @@ Professor Purwoh.
 
 905
 00:57:12,000 --> 00:57:14,000
-Did you hear what Alva said?
+Did you hear what Alfa said?
 
 906
 00:57:14,000 --> 00:57:16,000
@@ -3648,7 +3648,7 @@ Because he has ruined my life.
 
 913
 00:57:34,000 --> 00:57:38,000
-Alva must have been brainwashed by Duyung.
+Alfa must have been brainwashed by Duyung.
 
 914
 00:57:38,000 --> 00:57:45,000
@@ -3668,7 +3668,7 @@ Okay.
 
 918
 00:57:51,000 --> 00:57:52,000
-Alva.
+Alfa.
 
 919
 00:57:52,000 --> 00:57:53,000
@@ -3824,7 +3824,7 @@ You are a swine.
 
 957
 01:00:14,000 --> 01:00:16,000
-Alva, it's dangerous.
+Alfa, it's dangerous.
 
 958
 01:00:16,000 --> 01:00:18,000

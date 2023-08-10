@@ -416,7 +416,7 @@ I was so happy just now
 
 105
 00:07:41,000 --> 00:07:43,000
-Because I got to be in Alva's session
+Because I got to be in Alfa's session
 
 106
 00:07:43,000 --> 00:07:45,000
@@ -428,7 +428,7 @@ Now everyone can see
 
 108
 00:07:48,000 --> 00:07:50,000
-That I'm better than Alva
+That I'm better than Alfa
 
 109
 00:07:50,000 --> 00:07:51,000
@@ -440,7 +440,7 @@ Wait
 
 111
 00:07:52,000 --> 00:07:56,000
-I want to see Alva's session
+I want to see Alfa's session
 
 112
 00:07:56,000 --> 00:07:57,000
@@ -496,11 +496,11 @@ Okay, sir
 
 125
 00:08:18,000 --> 00:08:25,000
-Alva
+Alfa
 
 126
 00:08:25,000 --> 00:08:28,000
-Alva is better
+Alfa is better
 
 127
 00:08:28,000 --> 00:08:29,000
@@ -516,7 +516,7 @@ Starting today
 
 130
 00:08:34,000 --> 00:08:38,000
-You will monitor every move of Alva
+You will monitor every move of Alfa
 
 131
 00:08:38,000 --> 00:08:40,000
@@ -564,7 +564,7 @@ You can't be the number one student
 
 142
 00:09:05,000 --> 00:09:08,000
-Because he's too biased to Alva
+Because he's too biased to Alfa
 
 143
 00:09:08,000 --> 00:09:12,000
@@ -576,7 +576,7 @@ You can be the number one student in this magic school
 
 145
 00:09:18,000 --> 00:09:31,000
-Alva
+Alfa
 
 146
 00:09:31,000 --> 00:09:33,000
@@ -596,7 +596,7 @@ You can come back to the dorm
 
 150
 00:09:39,000 --> 00:09:40,000
-Okay, Alva?
+Okay, Alfa?
 
 151
 00:09:40,000 --> 00:09:42,000
@@ -616,7 +616,7 @@ Bye-bye
 
 155
 00:09:47,000 --> 00:09:54,000
-Alva
+Alfa
 
 156
 00:09:54,000 --> 00:09:56,000
@@ -636,7 +636,7 @@ With Tommy
 
 160
 00:10:05,000 --> 00:10:06,000
-Yes, Alva
+Yes, Alfa
 
 161
 00:10:06,000 --> 00:10:07,000
@@ -696,7 +696,7 @@ Mr. Adi
 
 175
 00:10:34,000 --> 00:10:42,000
-Alva
+Alfa
 
 176
 00:10:42,000 --> 00:10:43,000
@@ -1536,11 +1536,11 @@ Ontel
 
 385
 00:24:46,000 --> 00:24:48,000
-Tell Alva
+Tell Alfa
 
 386
 00:24:48,000 --> 00:24:51,000
-Alva, please prepare
+Alfa, please prepare
 
 387
 00:24:51,000 --> 00:24:53,000
@@ -3040,7 +3040,7 @@ So, Professor Angkara deliberately kept it a secret from us?
 
 761
 00:58:20,000 --> 00:58:21,000
-Yes, Alva.
+Yes, Alfa.
 
 762
 00:58:21,000 --> 00:58:23,000
@@ -3060,7 +3060,7 @@ I have a better idea.
 
 766
 00:58:34,000 --> 00:58:36,000
-What is it, Alva?
+What is it, Alfa?
 
 767
 00:58:36,000 --> 00:58:40,000

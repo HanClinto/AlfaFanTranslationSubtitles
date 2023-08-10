@@ -592,7 +592,7 @@ I'm scared
 
 149
 00:11:13,000 --> 00:11:35,000
-Alva, wake up!
+Alfa, wake up!
 
 150
 00:11:35,000 --> 00:11:39,000
@@ -636,7 +636,7 @@ We're here to win the match
 
 160
 00:11:56,000 --> 00:11:58,000
-For Alva
+For Alfa
 
 161
 00:11:58,000 --> 00:12:04,000
@@ -1572,7 +1572,7 @@ He's so rude
 
 394
 00:26:33,000 --> 00:26:36,000
-He's just like his friends, Alva, Vega, and Ray
+He's just like his friends, Alfa, Vega, and Ray
 
 395
 00:26:36,000 --> 00:26:38,000
@@ -1580,7 +1580,7 @@ They're both rude
 
 396
 00:26:38,000 --> 00:26:47,000
-Don't call them Alva, Vega, and Ray
+Don't call them Alfa, Vega, and Ray
 
 397
 00:26:47,000 --> 00:26:49,000
@@ -1844,7 +1844,7 @@ Poor him. He's already a ghost.
 
 462
 00:32:33,400 --> 00:32:36,400
-He's gone, Alva. It's useless to help him.
+He's gone, Alfa. It's useless to help him.
 
 463
 00:32:36,400 --> 00:32:40,400
@@ -1868,7 +1868,7 @@ Wait here. I won't be long.
 
 468
 00:32:52,400 --> 00:32:54,400
-Alva. / Raya.
+Alfa. / Raya.
 
 469
 00:32:54,400 --> 00:32:56,400
@@ -1896,7 +1896,7 @@ Come on, hold my hand.
 
 475
 00:33:22,400 --> 00:33:27,400
-Thank you, Alva. If you don't help me, I will fail.
+Thank you, Alfa. If you don't help me, I will fail.
 
 476
 00:33:27,400 --> 00:33:29,400
@@ -1908,11 +1908,11 @@ You're welcome, Raya.
 
 478
 00:33:35,400 --> 00:33:41,400
-Alva, what's wrong?
+Alfa, what's wrong?
 
 479
 00:33:41,400 --> 00:33:45,400
-Alva.
+Alfa.
 
 480
 00:33:45,400 --> 00:33:47,400
@@ -1920,7 +1920,7 @@ It's because of you, Raya.
 
 481
 00:33:47,400 --> 00:33:49,400
-Alva.
+Alfa.
 
 482
 00:33:49,400 --> 00:33:51,400
@@ -2652,11 +2652,11 @@ Ray.
 
 664
 00:47:20,400 --> 00:47:23,400
-How about Alva?
+How about Alfa?
 
 665
 00:47:23,400 --> 00:47:25,400
-Alva has been in a coma twice.
+Alfa has been in a coma twice.
 
 666
 00:47:25,400 --> 00:47:38,400

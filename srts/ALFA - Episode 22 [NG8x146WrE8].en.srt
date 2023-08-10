@@ -100,7 +100,7 @@ You have to tell me
 
 26
 00:01:56,000 --> 00:01:59,000
-Alva
+Alfa
 
 27
 00:01:59,000 --> 00:02:04,000
@@ -128,7 +128,7 @@ Panji
 
 33
 00:02:29,000 --> 00:02:56,000
-Alva
+Alfa
 
 34
 00:02:56,000 --> 00:03:01,000
@@ -196,7 +196,7 @@ I'm not
 
 50
 00:03:51,000 --> 00:03:53,000
-Alva, Donya, Cik, Benk
+Alfa, Donya, Cik, Benk
 
 51
 00:03:53,000 --> 00:03:55,000
@@ -1100,11 +1100,11 @@ Ray, don't give up
 
 276
 00:22:37,000 --> 00:22:39,000
-This is for our friend, Alva
+This is for our friend, Alfa
 
 277
 00:22:39,000 --> 00:22:41,000
-I won't give up for Alva
+I won't give up for Alfa
 
 278
 00:22:41,000 --> 00:22:43,000
@@ -1500,7 +1500,7 @@ The telescope is fixed
 
 376
 00:30:44,000 --> 00:30:46,000
-I can find Alva
+I can find Alfa
 
 377
 00:30:53,000 --> 00:30:55,000
@@ -1592,7 +1592,7 @@ Let's go
 
 399
 00:31:49,000 --> 00:31:51,000
-Alva is here
+Alfa is here
 
 400
 00:31:51,000 --> 00:31:53,000
@@ -1608,7 +1608,7 @@ Stop fighting
 
 403
 00:32:01,000 --> 00:32:03,000
-Let's go find Alva
+Let's go find Alfa
 
 404
 00:32:03,000 --> 00:32:05,000
@@ -2488,7 +2488,7 @@ You're ridiculous.
 
 623
 00:46:38,000 --> 00:46:40,000
-I'm Alva.
+I'm Alfa.
 
 624
 00:46:40,000 --> 00:46:42,000
@@ -2500,7 +2500,7 @@ They're my parents.
 
 626
 00:46:54,000 --> 00:46:56,000
-You're Alva.
+You're Alfa.
 
 627
 00:46:56,000 --> 00:47:02,000
@@ -2508,7 +2508,7 @@ You're Alva.
 
 628
 00:47:02,000 --> 00:47:05,000
-You're Alva.
+You're Alfa.
 
 629
 00:47:05,000 --> 00:47:07,000
@@ -2516,7 +2516,7 @@ Yes.
 
 630
 00:47:07,000 --> 00:47:10,000
-I'm Alva.
+I'm Alfa.
 
 631
 00:47:10,000 --> 00:47:13,000
@@ -2532,7 +2532,7 @@ Why did you kidnap them?
 
 634
 00:47:24,000 --> 00:47:26,000
-Alva.
+Alfa.
 
 635
 00:47:26,000 --> 00:47:29,000
@@ -2584,7 +2584,7 @@ I'll change.
 
 647
 00:48:01,000 --> 00:48:03,000
-Alva.
+Alfa.
 
 648
 00:48:03,000 --> 00:48:05,000
@@ -2688,7 +2688,7 @@ Vipinksan.
 
 673
 00:50:14,000 --> 00:50:17,000
-Where is Alva?
+Where is Alfa?
 
 674
 00:50:17,000 --> 00:50:18,000
@@ -2708,7 +2708,7 @@ We're attacked.
 
 678
 00:50:23,000 --> 00:50:27,000
-Alva, you should let your parents go now.
+Alfa, you should let your parents go now.
 
 679
 00:50:27,000 --> 00:50:29,000
@@ -2720,7 +2720,7 @@ Don't touch me.
 
 681
 00:50:31,000 --> 00:50:33,000
-What if Alva asks?
+What if Alfa asks?
 
 682
 00:50:33,000 --> 00:50:34,000
@@ -3196,7 +3196,7 @@ Now I can save Mr. Panji.
 
 800
 01:00:04,000 --> 01:00:13,000
-Where are you, Alva?
+Where are you, Alfa?
 
 801
 01:00:13,000 --> 01:00:15,000
@@ -3216,7 +3216,7 @@ Because your power is not as good as mine.
 
 805
 01:00:22,000 --> 01:00:26,000
-Where are you, Alva?
+Where are you, Alfa?
 
 806
 01:00:27,000 --> 01:00:32,000
@@ -3244,11 +3244,11 @@ I'm not angry.
 
 812
 01:01:01,000 --> 01:01:04,000
-This must be Alva's trick.
+This must be Alfa's trick.
 
 813
 01:01:04,000 --> 01:01:16,000
-Alva, come out!
+Alfa, come out!
 
 814
 01:01:16,000 --> 01:01:26,000
@@ -3268,7 +3268,7 @@ I'm sorry, sir.
 
 818
 01:01:37,000 --> 01:01:40,000
-Alva and Srika are dead.
+Alfa and Srika are dead.
 
 819
 01:01:40,000 --> 01:01:42,000
@@ -3312,7 +3312,7 @@ I was told to shut up.
 
 829
 01:02:04,000 --> 01:02:17,000
-Alva, come out!
+Alfa, come out!
 
 830
 01:02:17,000 --> 01:02:20,000
@@ -3500,15 +3500,15 @@ I know you're using the eighth wave.
 
 876
 01:05:31,000 --> 01:05:33,000
-Alva, where are you?
+Alfa, where are you?
 
 877
 01:05:33,000 --> 01:05:35,000
-Alva!
+Alfa!
 
 878
 01:05:35,000 --> 01:05:37,000
-Alva, come out!
+Alfa, come out!
 
 879
 01:05:37,000 --> 01:05:40,000
@@ -3532,7 +3532,7 @@ That's a lizard.
 
 884
 01:05:52,000 --> 01:05:55,000
-Alva, why did you bring the lizard here?
+Alfa, why did you bring the lizard here?
 
 885
 01:05:55,000 --> 01:05:57,000

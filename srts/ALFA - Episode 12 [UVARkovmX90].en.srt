@@ -88,7 +88,7 @@ I can't freeze.
 
 23
 00:01:44,000 --> 00:01:46,000
-Alva is safe,
+Alfa is safe,
 
 24
 00:01:46,000 --> 00:01:49,000
@@ -280,7 +280,7 @@ It's cold.
 
 71
 00:06:05,000 --> 00:06:09,000
-Alva, try to find her using the telescope.
+Alfa, try to find her using the telescope.
 
 72
 00:06:09,000 --> 00:06:11,000
@@ -496,7 +496,7 @@ Why did I get left behind?
 
 125
 00:15:00,000 --> 00:15:05,000
-Alva!
+Alfa!
 
 126
 00:15:05,000 --> 00:15:07,000
@@ -504,7 +504,7 @@ Vega!
 
 127
 00:15:07,000 --> 00:15:10,000
-Alva!
+Alfa!
 
 128
 00:15:10,000 --> 00:15:15,000
@@ -524,7 +524,7 @@ This hole is the only thing I want!
 
 132
 00:15:31,000 --> 00:15:34,000
-I want to see Alva and Vega
+I want to see Alfa and Vega
 
 133
 00:15:34,000 --> 00:15:51,000
@@ -536,7 +536,7 @@ Where are they?
 
 135
 00:15:54,000 --> 00:15:58,000
-Alva!
+Alfa!
 
 136
 00:15:58,000 --> 00:16:00,000
@@ -596,11 +596,11 @@ I know
 
 150
 00:16:38,000 --> 00:16:40,000
-We also had to help you, Alva
+We also had to help you, Alfa
 
 151
 00:16:40,000 --> 00:16:46,000
-We also helped you because we had to, Alva
+We also helped you because we had to, Alfa
 
 152
 00:16:48,000 --> 00:16:50,000
@@ -640,7 +640,7 @@ Hi!
 
 161
 00:17:08,000 --> 00:17:21,000
-Hi, Alva! Vega!
+Hi, Alfa! Vega!
 
 162
 00:17:21,000 --> 00:17:23,000
@@ -1000,7 +1000,7 @@ Because he's thinking about the other soldiers
 
 251
 00:24:02,000 --> 00:24:08,000
-And I have to keep Ray, Vega, and Alva safe
+And I have to keep Ray, Vega, and Alfa safe
 
 252
 00:24:08,000 --> 00:24:12,000
@@ -1560,7 +1560,7 @@ You have to train yourself so you can be cured
 
 391
 00:35:17,000 --> 00:35:27,000
-Goodbye, Vega, Alva, and Kare
+Goodbye, Vega, Alfa, and Kare
 
 392
 00:35:27,000 --> 00:35:30,000
@@ -2424,7 +2424,7 @@ Let's go, Prita.
 
 607
 00:58:22,860 --> 00:58:31,860
-Alva?
+Alfa?
 
 608
 00:58:31,860 --> 00:58:32,860
@@ -2432,7 +2432,7 @@ Oh no,
 
 609
 00:58:32,860 --> 00:58:34,860
-where is Alva?
+where is Alfa?
 
 610
 00:58:34,860 --> 00:58:35,860
@@ -2444,7 +2444,7 @@ the ghost is gone.
 
 612
 00:58:36,860 --> 00:58:37,860
-Alva is attacked.
+Alfa is attacked.
 
 613
 00:58:37,860 --> 00:58:41,860
@@ -2460,11 +2460,11 @@ you stay here.
 
 616
 00:58:44,860 --> 00:58:46,860
-I will look for Rey and Alva.
+I will look for Rey and Alfa.
 
 617
 00:58:46,860 --> 00:58:48,860
-Alva!
+Alfa!
 
 618
 00:58:48,860 --> 00:58:51,860
@@ -2472,7 +2472,7 @@ Rey!
 
 619
 00:58:51,860 --> 00:58:56,860
-Alva!
+Alfa!
 
 620
 00:58:56,860 --> 00:58:57,860
@@ -2484,7 +2484,7 @@ Where are you guys?
 
 622
 00:59:00,860 --> 00:59:04,860
-Alva!
+Alfa!
 
 623
 00:59:04,860 --> 00:59:05,860
@@ -2492,7 +2492,7 @@ Rey!
 
 624
 00:59:05,860 --> 00:59:09,860
-Alva!
+Alfa!
 
 625
 00:59:09,860 --> 00:59:10,860
@@ -2500,7 +2500,7 @@ Rey!
 
 626
 00:59:10,860 --> 00:59:12,860
-Alva!
+Alfa!
 
 627
 00:59:12,860 --> 00:59:13,860
@@ -2572,7 +2572,7 @@ Rey,
 
 644
 01:00:36,860 --> 01:00:37,860
-and Alva
+and Alfa
 
 645
 01:00:37,860 --> 01:00:39,860

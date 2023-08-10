@@ -84,7 +84,7 @@ Hi, Ranggara
 
 22
 00:01:51,000 --> 00:01:53,000
-Alva!
+Alfa!
 
 23
 00:01:53,000 --> 00:01:56,000
@@ -176,7 +176,7 @@ That's enough
 
 45
 00:03:19,000 --> 00:03:23,000
-My plan has been ruined by Alva and Aldebaran
+My plan has been ruined by Alfa and Aldebaran
 
 46
 00:03:23,000 --> 00:03:28,000
@@ -184,7 +184,7 @@ Prince, you should be more careful with him
 
 47
 00:03:28,000 --> 00:03:33,000
-Because, he's in love with Alva
+Because, he's in love with Alfa
 
 48
 00:03:34,000 --> 00:03:36,000
@@ -492,7 +492,7 @@ Where are you going?
 
 124
 00:08:51,580 --> 00:08:53,580
-Alva, quick.
+Alfa, quick.
 
 125
 00:08:53,580 --> 00:08:55,080
@@ -884,7 +884,7 @@ Hold this.
 
 222
 00:15:04,580 --> 00:15:06,580
-Call Alva.
+Call Alfa.
 
 223
 00:15:06,580 --> 00:15:08,580
@@ -1024,7 +1024,7 @@ So, you can't go back to school.
 
 257
 00:17:39,580 --> 00:17:42,580
-And tell everyone that Alva is a traitor.
+And tell everyone that Alfa is a traitor.
 
 258
 00:17:42,580 --> 00:17:46,580
@@ -1040,7 +1040,7 @@ TRIO
 
 261
 00:17:50,580 --> 00:17:52,580
-ALVA
+ALFA
 
 262
 00:17:52,580 --> 00:17:54,580
@@ -1052,7 +1052,7 @@ TRIO
 
 264
 00:17:56,580 --> 00:17:58,580
-ALVA
+ALFA
 
 265
 00:17:58,580 --> 00:18:00,580
@@ -1064,7 +1064,7 @@ TRIO
 
 267
 00:18:02,580 --> 00:18:04,580
-ALVA
+ALFA
 
 268
 00:18:04,580 --> 00:18:06,580
@@ -1120,7 +1120,7 @@ If the prince can't do it, why me?
 
 281
 00:18:38,580 --> 00:18:39,580
-Alva.
+Alfa.
 
 282
 00:18:39,580 --> 00:18:43,580
@@ -1140,11 +1140,11 @@ Because of that, I'm sure...
 
 286
 00:18:58,580 --> 00:19:07,580
-Let's go, Alva.
+Let's go, Alfa.
 
 287
 00:19:07,580 --> 00:19:09,580
-ALVA
+ALFA
 
 288
 00:19:09,580 --> 00:19:11,580
@@ -1156,7 +1156,7 @@ TRIO
 
 290
 00:19:13,580 --> 00:19:15,580
-ALVA
+ALFA
 
 291
 00:19:15,580 --> 00:19:17,580
@@ -1180,7 +1180,7 @@ JAHAMUT
 
 296
 00:19:25,580 --> 00:19:27,580
-What are you doing, Alva?
+What are you doing, Alfa?
 
 297
 00:19:27,580 --> 00:19:29,580
@@ -1216,7 +1216,7 @@ Yes!
 
 305
 00:19:43,580 --> 00:19:47,580
-Alva.
+Alfa.
 
 306
 00:19:47,580 --> 00:20:02,580
@@ -2272,7 +2272,7 @@ Who else could it be?
 
 569
 00:38:38,580 --> 00:38:43,580
-Why does it take so long for Alva and Vega to come?
+Why does it take so long for Alfa and Vega to come?
 
 570
 00:38:43,580 --> 00:38:44,580
@@ -2344,7 +2344,7 @@ It's so sour.
 
 587
 00:39:24,580 --> 00:39:28,580
-Why does it take so long for Alva and Vega to come?
+Why does it take so long for Alfa and Vega to come?
 
 588
 00:39:28,580 --> 00:39:30,580
@@ -3364,7 +3364,7 @@ yes, that's right
 
 842
 00:54:52,380 --> 00:54:55,380
-it's not Alva who saved you, Vega
+it's not Alfa who saved you, Vega
 
 843
 00:54:55,380 --> 00:55:00,380
@@ -3980,7 +3980,7 @@ yes, that's right
 
 996
 01:05:28,380 --> 01:05:30,380
-Alva
+Alfa
 
 997
 01:05:30,380 --> 01:05:32,380
@@ -4180,7 +4180,7 @@ He's turning.
 
 1046
 01:10:00,960 --> 01:10:04,960
-Alva.
+Alfa.
 
 1047
 01:10:08,960 --> 01:10:10,960
@@ -4204,7 +4204,7 @@ The enemy is gone.
 
 1052
 01:10:21,960 --> 01:10:25,960
-Alva.
+Alfa.
 
 1053
 01:10:25,960 --> 01:10:27,960
@@ -4228,7 +4228,7 @@ No.
 
 1058
 01:10:51,960 --> 01:10:54,960
-Alva will be mad at me if I put her in the dark room.
+Alfa will be mad at me if I put her in the dark room.
 
 1059
 01:10:54,960 --> 01:10:55,960

@@ -52,7 +52,7 @@ You're friends with the person who kidnapped me in the cave, right?
 
 14
 00:01:23,000 --> 00:01:26,000
-Then you want to harm Fega and Alva, right?
+Then you want to harm Fega and Alfa, right?
 
 15
 00:01:26,000 --> 00:01:28,000
@@ -192,7 +192,7 @@ I'm going first, bye
 
 49
 00:03:48,000 --> 00:03:49,000
-Alva
+Alfa
 
 50
 00:03:49,000 --> 00:03:52,000
@@ -224,7 +224,7 @@ Wake up
 
 57
 00:04:09,000 --> 00:04:12,000
-I'm sleepy, Alva
+I'm sleepy, Alfa
 
 58
 00:04:12,000 --> 00:04:15,000
@@ -268,7 +268,7 @@ Is there a problem?
 
 68
 00:04:49,000 --> 00:05:00,000
-Alva
+Alfa
 
 69
 00:05:00,000 --> 00:05:05,000
@@ -436,7 +436,7 @@ I will try
 
 110
 00:08:31,000 --> 00:08:32,000
-Alva
+Alfa
 
 111
 00:08:32,000 --> 00:08:34,000
@@ -488,7 +488,7 @@ That's why I was like that
 
 123
 00:09:10,000 --> 00:09:14,000
-Alva
+Alfa
 
 124
 00:09:14,000 --> 00:09:16,000
@@ -512,7 +512,7 @@ Tomorrow we will start again
 
 129
 00:09:45,000 --> 00:09:46,000
-Alva
+Alfa
 
 130
 00:09:46,000 --> 00:09:48,000
@@ -820,7 +820,7 @@ that I'm Putri Bintang Jatuh
 
 206
 00:14:25,600 --> 00:14:29,600
-because only you and Alva know
+because only you and Alfa know
 
 207
 00:14:29,600 --> 00:14:34,600
@@ -1064,7 +1064,7 @@ Dantara
 
 267
 00:18:15,600 --> 00:18:17,600
-have you seen Alva?
+have you seen Alfa?
 
 268
 00:18:17,600 --> 00:18:19,600
@@ -1160,7 +1160,7 @@ we can do it
 
 291
 00:19:37,600 --> 00:19:39,600
-Alva, I'm afraid too
+Alfa, I'm afraid too
 
 292
 00:19:39,600 --> 00:19:41,600
@@ -1424,7 +1424,7 @@ it's bad, we need to attack Ankara
 
 357
 00:23:40,600 --> 00:23:42,600
-how can I be in Alva's body?
+how can I be in Alfa's body?
 
 358
 00:23:42,600 --> 00:23:44,600
@@ -1432,7 +1432,7 @@ it's weird
 
 359
 00:23:44,600 --> 00:23:46,600
-I'm not Alva
+I'm not Alfa
 
 360
 00:23:46,600 --> 00:23:48,600
@@ -1440,7 +1440,7 @@ what should I do?
 
 361
 00:23:48,600 --> 00:23:49,600
-I'm not Alva
+I'm not Alfa
 
 362
 00:23:49,600 --> 00:24:01,600
@@ -1448,7 +1448,7 @@ I'm not Alva
 
 363
 00:24:01,600 --> 00:24:02,600
-Alva
+Alfa
 
 364
 00:24:02,600 --> 00:24:04,600
@@ -1460,15 +1460,15 @@ we've been looking for you
 
 366
 00:24:06,600 --> 00:24:07,600
-I'm not Alva
+I'm not Alfa
 
 367
 00:24:07,600 --> 00:24:10,600
-Alva, are you sick?
+Alfa, are you sick?
 
 368
 00:24:10,600 --> 00:24:12,600
-I'm not Alva
+I'm not Alfa
 
 369
 00:24:12,600 --> 00:24:14,600
@@ -1508,7 +1508,7 @@ let me go
 
 378
 00:24:29,600 --> 00:24:30,600
-it's Alva
+it's Alfa
 
 379
 00:24:30,600 --> 00:24:31,600
@@ -1516,7 +1516,7 @@ it's Alva
 
 380
 00:24:31,600 --> 00:24:33,600
-Alva, you must be sick
+Alfa, you must be sick
 
 381
 00:24:33,600 --> 00:24:35,600
@@ -1536,7 +1536,7 @@ I want to go back
 
 385
 00:24:41,600 --> 00:24:43,600
-Alva, you must be sick
+Alfa, you must be sick
 
 386
 00:24:43,600 --> 00:24:45,600
@@ -1560,7 +1560,7 @@ let me go
 
 391
 00:24:57,600 --> 00:24:58,600
-I'm not Alva
+I'm not Alfa
 
 392
 00:24:58,600 --> 00:25:00,600
@@ -1568,11 +1568,11 @@ do you know?
 
 393
 00:25:00,600 --> 00:25:02,600
-I'm not Alva
+I'm not Alfa
 
 394
 00:25:02,600 --> 00:25:04,600
-Alva, be patient
+Alfa, be patient
 
 395
 00:25:04,600 --> 00:25:06,600
@@ -1784,7 +1784,7 @@ okay, welcome beautiful
 
 447
 00:28:31,600 --> 00:28:34,600
-Alva, don't get sick
+Alfa, don't get sick
 
 448
 00:28:34,600 --> 00:28:36,600
@@ -1832,7 +1832,7 @@ I have to wait for the full moon next month
 
 459
 00:28:57,600 --> 00:28:59,600
-okay Alva
+okay Alfa
 
 460
 00:28:59,600 --> 00:29:01,600
@@ -1868,7 +1868,7 @@ no no no
 
 468
 00:29:17,600 --> 00:29:19,600
-Alva, don't be naughty
+Alfa, don't be naughty
 
 469
 00:29:19,600 --> 00:29:22,600
@@ -1892,7 +1892,7 @@ until tomorrow
 
 474
 00:29:30,600 --> 00:29:32,600
-okay Alva
+okay Alfa
 
 475
 00:29:32,600 --> 00:29:33,600
@@ -1924,7 +1924,7 @@ that's right baby
 
 482
 00:29:44,600 --> 00:29:45,600
-okay Alva
+okay Alfa
 
 483
 00:29:45,600 --> 00:29:46,600
@@ -1940,11 +1940,11 @@ no no no
 
 486
 00:29:50,600 --> 00:29:55,600
-Alva
+Alfa
 
 487
 00:29:55,600 --> 00:29:57,600
-Alva is so naughty
+Alfa is so naughty
 
 488
 00:29:57,600 --> 00:29:59,600
@@ -2148,7 +2148,7 @@ Rita, help me
 
 538
 00:34:32,600 --> 00:34:34,600
-I'm not Alva
+I'm not Alfa
 
 539
 00:34:34,600 --> 00:34:35,600
@@ -2156,11 +2156,11 @@ help me
 
 540
 00:34:35,600 --> 00:34:36,600
-you're not Alva?
+you're not Alfa?
 
 541
 00:34:36,600 --> 00:34:39,600
-if you're not Alva, who are you?
+if you're not Alfa, who are you?
 
 542
 00:34:39,600 --> 00:34:41,600
@@ -2288,7 +2288,7 @@ I don't believe you
 
 573
 00:35:41,600 --> 00:35:43,600
-you're Alva
+you're Alfa
 
 574
 00:35:43,600 --> 00:35:45,600
@@ -2304,7 +2304,7 @@ I don't know
 
 577
 00:35:49,600 --> 00:35:51,600
-I'm in Alva's body
+I'm in Alfa's body
 
 578
 00:35:51,600 --> 00:35:53,600
@@ -2312,7 +2312,7 @@ maybe
 
 579
 00:35:53,600 --> 00:35:55,600
-you're Alva's body
+you're Alfa's body
 
 580
 00:35:55,600 --> 00:35:57,600
@@ -2332,11 +2332,11 @@ when I realized
 
 584
 00:36:01,600 --> 00:36:03,600
-I was trapped in Alva's body
+I was trapped in Alfa's body
 
 585
 00:36:03,600 --> 00:36:06,600
-Alva's body
+Alfa's body
 
 586
 00:36:06,600 --> 00:36:08,600
@@ -2408,7 +2408,7 @@ the star fell
 
 603
 00:36:47,600 --> 00:36:49,600
-if he's not Alva
+if he's not Alfa
 
 604
 00:36:49,600 --> 00:36:51,600
@@ -2424,7 +2424,7 @@ we're right
 
 607
 00:37:09,600 --> 00:37:11,600
-Alva's body is Selena's body
+Alfa's body is Selena's body
 
 608
 00:37:11,600 --> 00:37:12,600
@@ -2444,7 +2444,7 @@ let's go
 
 612
 00:37:18,600 --> 00:37:38,600
-Alva is being chased by the robber
+Alfa is being chased by the robber
 
 613
 00:37:38,600 --> 00:37:40,600
@@ -2452,7 +2452,7 @@ what should we do?
 
 614
 00:37:40,600 --> 00:37:42,600
-let's help Alva
+let's help Alfa
 
 615
 00:37:42,600 --> 00:37:44,600
@@ -2536,7 +2536,7 @@ Rey, of course we know you
 
 635
 00:40:09,600 --> 00:40:11,600
-he's Alva's soul
+he's Alfa's soul
 
 636
 00:40:11,600 --> 00:40:13,600
@@ -2776,7 +2776,7 @@ Arjan!
 
 695
 00:43:55,500 --> 00:43:57,500
-Good morning, Alvar.
+Good morning, Alfar.
 
 696
 00:43:57,500 --> 00:43:59,500
@@ -3000,7 +3000,7 @@ she was kidnapped.
 
 751
 00:47:15,500 --> 00:47:18,500
-Why are you hiding this from me, Alva?
+Why are you hiding this from me, Alfa?
 
 752
 00:47:18,500 --> 00:47:21,500
@@ -3136,7 +3136,7 @@ until she returns to the sky.
 
 785
 00:49:13,500 --> 00:49:15,500
-Alright, Alva.
+Alright, Alfa.
 
 786
 00:49:15,500 --> 00:49:16,500
@@ -3228,7 +3228,7 @@ I will fight them for you.
 
 808
 00:51:52,500 --> 00:52:03,500
-Good morning, Alvar.
+Good morning, Alfar.
 
 809
 00:52:03,500 --> 00:52:05,500
@@ -3236,7 +3236,7 @@ Megatara.
 
 810
 00:52:05,500 --> 00:52:08,500
-And also, you, Alva.
+And also, you, Alfa.
 
 811
 00:52:08,500 --> 00:52:18,500
@@ -3248,7 +3248,7 @@ Oh.
 
 813
 00:52:20,500 --> 00:52:22,500
-It's not that easy, Alva.
+It's not that easy, Alfa.
 
 814
 00:52:22,500 --> 00:52:24,500
@@ -3272,7 +3272,7 @@ Let me face them.
 
 819
 00:52:42,500 --> 00:52:44,500
-Alvar, go.
+Alfar, go.
 
 820
 00:52:44,500 --> 00:52:46,500

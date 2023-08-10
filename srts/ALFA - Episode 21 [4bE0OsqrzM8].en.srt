@@ -336,7 +336,7 @@ Why are you still awake?
 
 85
 00:06:27,000 --> 00:06:30,000
-We can't sleep because we're thinking about Alva.
+We can't sleep because we're thinking about Alfa.
 
 86
 00:06:30,000 --> 00:06:32,000
@@ -408,7 +408,7 @@ the important thing is that the telescope can be fixed.
 
 103
 00:07:29,000 --> 00:07:31,000
-Yes, because we want to find Alva.
+Yes, because we want to find Alfa.
 
 104
 00:07:31,000 --> 00:07:35,000
@@ -436,7 +436,7 @@ We'll still fight him.
 
 110
 00:07:49,000 --> 00:07:51,000
-Because we want to save Alva.
+Because we want to save Alfa.
 
 111
 00:07:51,000 --> 00:07:52,000
@@ -1600,7 +1600,7 @@ I'm coming.
 
 401
 00:30:13,000 --> 00:30:15,000
-Alva.
+Alfa.
 
 402
 00:30:15,000 --> 00:30:17,000
@@ -1620,7 +1620,7 @@ Come on, sir.
 
 406
 00:30:24,000 --> 00:30:26,000
-Hurry, Alva.
+Hurry, Alfa.
 
 407
 00:30:26,000 --> 00:30:28,000

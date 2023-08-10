@@ -108,7 +108,7 @@ The letter said I can go to a magic school
 
 28
 00:04:05,000 --> 00:04:17,000
-You are great, Alva
+You are great, Alfa
 
 29
 00:04:17,000 --> 00:04:19,000
@@ -124,7 +124,7 @@ Yes, Pi?
 
 32
 00:04:27,000 --> 00:04:29,000
-Alva was accepted in a magic school
+Alfa was accepted in a magic school
 
 33
 00:04:29,000 --> 00:04:33,000
@@ -152,7 +152,7 @@ He's in the toilet
 
 39
 00:04:56,000 --> 00:04:57,000
-Alva!
+Alfa!
 
 40
 00:04:57,000 --> 00:04:59,000
@@ -268,15 +268,15 @@ Let me introduce myself, I'm Megantara
 
 68
 00:07:20,000 --> 00:07:25,000
-I'm here to pick up Alva
+I'm here to pick up Alfa
 
 69
 00:07:25,000 --> 00:07:26,000
-Alva?
+Alfa?
 
 70
 00:07:26,000 --> 00:07:30,000
-Where are you taking Alva?
+Where are you taking Alfa?
 
 71
 00:07:30,000 --> 00:07:33,000
@@ -296,7 +296,7 @@ Yes, that's right
 
 75
 00:07:42,000 --> 00:07:46,000
-So, let me take Alva
+So, let me take Alfa
 
 76
 00:07:46,000 --> 00:07:47,000
@@ -312,7 +312,7 @@ Hey, listen
 
 79
 00:07:51,000 --> 00:07:53,000
-Alva won't go anywhere
+Alfa won't go anywhere
 
 80
 00:07:53,000 --> 00:07:56,000
@@ -324,7 +324,7 @@ Now, you better leave
 
 82
 00:07:58,000 --> 00:08:02,000
-Don't ever think about taking Alva out of here
+Don't ever think about taking Alfa out of here
 
 83
 00:08:02,000 --> 00:08:03,000
@@ -376,7 +376,7 @@ It means I have to use a less polite way
 
 95
 00:08:34,000 --> 00:08:35,000
-Alva?
+Alfa?
 
 96
 00:08:35,000 --> 00:08:47,000
@@ -396,7 +396,7 @@ What are you doing to my grandma?
 
 100
 00:08:54,000 --> 00:08:55,000
-Hello, Alva
+Hello, Alfa
 
 101
 00:08:55,000 --> 00:08:57,000
@@ -452,11 +452,11 @@ I don't want to leave my grandma
 
 114
 00:09:27,000 --> 00:09:29,000
-She's right, Alva
+She's right, Alfa
 
 115
 00:09:29,000 --> 00:09:44,000
-Alva, you have to go with me
+Alfa, you have to go with me
 
 116
 00:09:44,000 --> 00:09:47,000
@@ -476,7 +476,7 @@ But, Uncle
 
 120
 00:09:55,000 --> 00:09:56,000
-Hurry, Alva
+Hurry, Alfa
 
 121
 00:09:56,000 --> 00:09:58,000
@@ -484,7 +484,7 @@ Before your grandma wakes up
 
 122
 00:09:58,000 --> 00:10:00,000
-Let's go, Alva
+Let's go, Alfa
 
 123
 00:10:00,000 --> 00:10:04,000
@@ -520,7 +520,7 @@ No, he's not
 
 131
 00:11:21,320 --> 00:11:26,320
-Alva, before you enter the sorcerer's school
+Alfa, before you enter the sorcerer's school
 
 132
 00:11:26,320 --> 00:11:29,320
@@ -720,7 +720,7 @@ Cool!
 
 181
 00:14:47,320 --> 00:14:50,320
-How's it, Alva?
+How's it, Alfa?
 
 182
 00:14:50,320 --> 00:14:52,320
@@ -784,7 +784,7 @@ Okay?
 
 197
 00:16:28,320 --> 00:16:31,320
-Only people like you, Alva
+Only people like you, Alfa
 
 198
 00:16:31,320 --> 00:16:34,320
@@ -820,7 +820,7 @@ Okay?
 
 206
 00:16:56,320 --> 00:17:08,320
-Alva!
+Alfa!
 
 207
 00:17:08,320 --> 00:17:13,320
@@ -884,7 +884,7 @@ I'm Rey
 
 222
 00:18:09,320 --> 00:18:10,320
-I'm Alva
+I'm Alfa
 
 223
 00:18:10,320 --> 00:18:11,320
@@ -964,7 +964,7 @@ Don't go!
 
 242
 00:19:22,320 --> 00:19:26,320
-Alva!
+Alfa!
 
 243
 00:19:27,320 --> 00:20:39,320
@@ -1808,7 +1808,7 @@ Using the lollipop
 
 453
 00:36:06,740 --> 00:36:09,740
-Alva, you're right. That's how it is.
+Alfa, you're right. That's how it is.
 
 454
 00:36:09,740 --> 00:36:14,740
@@ -1996,7 +1996,7 @@ You'll be scolded by the professor.
 
 500
 00:41:52,740 --> 00:41:53,740
-Tommy, where's Alva?
+Tommy, where's Alfa?
 
 501
 00:41:53,740 --> 00:41:54,740
@@ -2004,7 +2004,7 @@ I just want to go to the pool.
 
 502
 00:41:54,740 --> 00:41:56,740
-Yes, where's Alva?
+Yes, where's Alfa?
 
 503
 00:41:56,740 --> 00:41:57,740
@@ -2032,7 +2032,7 @@ It's okay.
 
 509
 00:47:05,740 --> 00:47:08,740
-Alva, how can you throw this?
+Alfa, how can you throw this?
 
 510
 00:47:08,740 --> 00:47:11,740
@@ -2044,7 +2044,7 @@ I don't know.
 
 512
 00:47:13,740 --> 00:47:16,740
-Alva was smart.
+Alfa was smart.
 
 513
 00:47:16,740 --> 00:47:17,740
@@ -2160,7 +2160,7 @@ Wait.
 
 541
 00:48:28,740 --> 00:48:29,740
-Alva.
+Alfa.
 
 542
 00:48:29,740 --> 00:48:32,740
@@ -2184,7 +2184,7 @@ No.
 
 547
 00:48:43,740 --> 00:48:46,740
-Alva.
+Alfa.
 
 548
 00:48:46,740 --> 00:48:49,740
@@ -2256,7 +2256,7 @@ Prof.
 
 565
 00:49:46,740 --> 00:49:48,740
-I know Alva.
+I know Alfa.
 
 566
 00:49:48,740 --> 00:49:52,740
@@ -2268,7 +2268,7 @@ I know.
 
 568
 00:49:54,740 --> 00:49:56,740
-Alva went into the secret room.
+Alfa went into the secret room.
 
 569
 00:49:56,740 --> 00:49:59,740

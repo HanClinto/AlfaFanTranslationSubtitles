@@ -52,7 +52,7 @@ That kid...
 
 14
 00:01:20,000 --> 00:01:23,000
-He took my blood, Alva!
+He took my blood, Alfa!
 
 15
 00:01:23,000 --> 00:01:25,000
@@ -3532,15 +3532,15 @@ By the way, who was your name?
 
 884
 00:57:56,360 --> 00:57:58,360
-I'm Alva.
+I'm Alfa.
 
 885
 00:57:58,360 --> 00:58:00,360
-Alva.
+Alfa.
 
 886
 00:58:01,360 --> 00:58:06,360
-Alva and Ryu are twins.
+Alfa and Ryu are twins.
 
 887
 00:58:06,360 --> 00:58:12,360
@@ -3552,7 +3552,7 @@ Which one?
 
 889
 00:58:14,360 --> 00:58:16,360
-I'll choose Alva.
+I'll choose Alfa.
 
 890
 00:58:16,360 --> 00:58:19,360
@@ -4092,7 +4092,7 @@ Oh, this.
 
 1024
 01:07:34,360 --> 01:07:41,360
-I can't tell Alva about this.
+I can't tell Alfa about this.
 
 1025
 01:07:41,360 --> 01:07:43,360
@@ -4164,7 +4164,7 @@ A map.
 
 1042
 01:08:33,360 --> 01:08:37,360
-Alva.
+Alfa.
 
 1043
 01:08:37,360 --> 01:08:40,360

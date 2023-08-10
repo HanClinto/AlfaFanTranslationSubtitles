@@ -188,7 +188,7 @@ Star fairy! Wake up!
 
 48
 00:07:14,000 --> 00:07:18,000
-Alva, I'm with your mother. I'm so scared.
+Alfa, I'm with your mother. I'm so scared.
 
 49
 00:07:18,000 --> 00:07:20,000
@@ -196,7 +196,7 @@ But we have to get out of here.
 
 50
 00:07:20,000 --> 00:07:28,000
-Alva, my hair! My hair is cut!
+Alfa, my hair! My hair is cut!
 
 51
 00:07:28,000 --> 00:07:40,000
@@ -232,7 +232,7 @@ After that, I will become a star.
 
 59
 00:09:17,000 --> 00:09:31,000
-Alva, you have to protect him.
+Alfa, you have to protect him.
 
 60
 00:09:31,000 --> 00:09:35,000
@@ -280,7 +280,7 @@ I've cut your eyelashes.
 
 71
 00:11:06,000 --> 00:11:10,000
-Alva!
+Alfa!
 
 72
 00:11:10,000 --> 00:11:27,000
@@ -288,7 +288,7 @@ Alva!
 
 73
 00:11:27,000 --> 00:11:39,000
-Alva!
+Alfa!
 
 74
 00:11:39,000 --> 00:11:43,000
@@ -300,7 +300,7 @@ He's drinking my eye drops!
 
 76
 00:12:14,000 --> 00:12:25,000
-Alva!
+Alfa!
 
 77
 00:12:25,000 --> 00:12:34,000
@@ -316,7 +316,7 @@ Your eye drops will never be able to hurt me.
 
 80
 00:12:41,000 --> 00:12:43,000
-Alva, it's broken!
+Alfa, it's broken!
 
 81
 00:12:43,000 --> 00:12:58,000
@@ -500,7 +500,7 @@ We're here.
 
 126
 00:18:08,000 --> 00:18:13,000
-Thank you, Alva.
+Thank you, Alfa.
 
 127
 00:18:13,000 --> 00:18:15,000
@@ -516,7 +516,7 @@ And thank you, Megantara, for your help.
 
 130
 00:18:21,000 --> 00:18:23,000
-Goodbye, Alva.
+Goodbye, Alfa.
 
 131
 00:18:23,000 --> 00:18:27,000
@@ -548,7 +548,7 @@ Let's go back to school.
 
 138
 00:19:33,000 --> 00:19:36,000
-Alva, Professor Ade is hurt.
+Alfa, Professor Ade is hurt.
 
 139
 00:19:36,000 --> 00:19:38,000
@@ -564,7 +564,7 @@ I'll face this darkness.
 
 142
 00:19:42,000 --> 00:19:44,000
-Hurry, Alva.
+Hurry, Alfa.
 
 143
 00:19:44,000 --> 00:19:46,000
@@ -588,7 +588,7 @@ They're so strong.
 
 148
 00:20:17,000 --> 00:20:24,000
-Alva, watch out.
+Alfa, watch out.
 
 149
 00:20:24,000 --> 00:20:25,000
@@ -624,7 +624,7 @@ You'll never win.
 
 157
 00:21:05,000 --> 00:21:18,000
-Alva, let's go.
+Alfa, let's go.
 
 158
 00:21:18,000 --> 00:21:20,000
@@ -656,7 +656,7 @@ Megantara.
 
 165
 00:21:52,000 --> 00:21:54,000
-Alva.
+Alfa.
 
 166
 00:21:54,000 --> 00:21:55,000
@@ -664,7 +664,7 @@ Megantara.
 
 167
 00:21:55,000 --> 00:21:57,000
-Alva.
+Alfa.
 
 168
 00:22:17,000 --> 00:22:19,000
@@ -1120,7 +1120,7 @@ So, where is Pedang Kramat Purnama?
 
 281
 00:30:46,000 --> 00:30:47,000
-Alva,
+Alfa,
 
 282
 00:30:47,000 --> 00:30:52,000
@@ -1132,7 +1132,7 @@ Pedang Kramat Purnama is in an old castle in the forest at the end of the school
 
 284
 00:30:59,000 --> 00:31:02,000
-Ask Alva to take the Pedang Pusaka Purnama.
+Ask Alfa to take the Pedang Pusaka Purnama.
 
 285
 00:31:02,000 --> 00:31:03,000
@@ -1140,7 +1140,7 @@ Remember,
 
 286
 00:31:03,000 --> 00:31:05,000
-only Alva.
+only Alfa.
 
 287
 00:31:05,000 --> 00:31:08,000
@@ -1156,7 +1156,7 @@ Do you understand?
 
 290
 00:31:15,000 --> 00:31:16,000
-Alva,
+Alfa,
 
 291
 00:31:16,000 --> 00:31:19,000
@@ -1168,7 +1168,7 @@ so that Professor Aldebaran can be treated immediately.
 
 293
 00:31:22,000 --> 00:31:24,000
-Alva,
+Alfa,
 
 294
 00:31:24,000 --> 00:31:28,000
@@ -1228,7 +1228,7 @@ Okay, we too.
 
 308
 00:31:50,000 --> 00:31:52,000
-Alva,
+Alfa,
 
 309
 00:31:52,000 --> 00:31:54,000
@@ -1240,7 +1240,7 @@ Prof,
 
 311
 00:31:56,000 --> 00:31:58,000
-you don't go, Alva.
+you don't go, Alfa.
 
 312
 00:31:58,000 --> 00:31:59,000
@@ -1360,11 +1360,11 @@ Why are those kids coming?
 
 341
 00:34:11,000 --> 00:34:13,000
-Why not Alva?
+Why not Alfa?
 
 342
 00:34:13,000 --> 00:34:16,000
-Alva should be there.
+Alfa should be there.
 
 343
 00:34:16,000 --> 00:34:26,000

@@ -172,7 +172,7 @@ You're a coward
 
 44
 00:03:06,000 --> 00:03:09,000
-So, Alva and her friends didn't go to class
+So, Alfa and her friends didn't go to class
 
 45
 00:03:09,000 --> 00:03:11,000
@@ -256,7 +256,7 @@ I'm still confused about what the heirloom means
 
 65
 00:04:19,000 --> 00:04:27,000
-Alva, do you understand?
+Alfa, do you understand?
 
 66
 00:04:27,000 --> 00:04:28,000
@@ -396,7 +396,7 @@ Fly!
 
 100
 00:05:59,000 --> 00:06:06,000
-Alva
+Alfa
 
 101
 00:06:06,000 --> 00:06:08,000
@@ -420,7 +420,7 @@ Mr. Panji
 
 106
 00:06:21,000 --> 00:06:27,000
-Alva
+Alfa
 
 107
 00:06:27,000 --> 00:06:31,000
@@ -552,7 +552,7 @@ That's why we don't know
 
 139
 00:08:16,000 --> 00:08:19,000
-Alva, you don't know either?
+Alfa, you don't know either?
 
 140
 00:08:19,000 --> 00:08:20,000
@@ -568,7 +568,7 @@ Okay, you can go back to your class
 
 143
 00:08:30,000 --> 00:08:34,000
-Do you think Alva is suspicious?
+Do you think Alfa is suspicious?
 
 144
 00:08:34,000 --> 00:08:37,000
@@ -1056,7 +1056,7 @@ Aguila
 
 265
 00:17:04,140 --> 00:17:06,140
-Did you see Alva come in?
+Did you see Alfa come in?
 
 266
 00:17:06,140 --> 00:17:08,140
@@ -1080,7 +1080,7 @@ Yes, maybe it's true
 
 271
 00:17:22,140 --> 00:17:24,140
-Alva just came in
+Alfa just came in
 
 272
 00:17:24,140 --> 00:17:28,140
@@ -1088,7 +1088,7 @@ But why did he come to his mother in silence?
 
 273
 00:17:28,140 --> 00:17:36,140
-Did Alva realize that the ring in Aguila's hand is a gift?
+Did Alfa realize that the ring in Aguila's hand is a gift?
 
 274
 00:17:36,140 --> 00:17:56,140
@@ -2172,7 +2172,7 @@ Ouch
 
 544
 00:36:43,140 --> 00:37:01,140
-I'm here, Alva
+I'm here, Alfa
 
 545
 00:37:01,140 --> 00:37:03,140
@@ -2328,7 +2328,7 @@ Now, Ankara's problem is solved
 
 583
 00:39:17,140 --> 00:39:20,140
-We just have to talk to Alva
+We just have to talk to Alfa
 
 584
 00:39:20,140 --> 00:39:22,140
@@ -2336,7 +2336,7 @@ About Jiva's stone
 
 585
 00:39:22,140 --> 00:39:24,140
-Professor Alva
+Professor Alfa
 
 586
 00:39:24,140 --> 00:39:28,140
@@ -2444,7 +2444,7 @@ Don't
 
 612
 00:41:02,140 --> 00:41:05,140
-Alva has taken Akila away from here
+Alfa has taken Akila away from here
 
 613
 00:41:05,140 --> 00:41:08,140
@@ -2508,7 +2508,7 @@ This is my chance
 
 628
 00:41:46,140 --> 00:41:49,140
-I have to find Akila and Alva
+I have to find Akila and Alfa
 
 629
 00:41:49,140 --> 00:41:51,140
@@ -2528,7 +2528,7 @@ She's not here either
 
 633
 00:42:03,140 --> 00:42:08,140
-Alva must have tried to hide Akila
+Alfa must have tried to hide Akila
 
 634
 00:42:08,140 --> 00:42:10,140
@@ -2544,7 +2544,7 @@ Teleportation
 
 637
 00:42:15,140 --> 00:42:22,140
-Alva
+Alfa
 
 638
 00:42:22,140 --> 00:42:24,140
@@ -2592,7 +2592,7 @@ I feel so good
 
 649
 00:42:53,140 --> 00:42:56,140
-Alva
+Alfa
 
 650
 00:42:56,140 --> 00:42:58,140
@@ -2704,7 +2704,7 @@ Let's eat
 
 677
 00:44:13,140 --> 00:44:16,140
-We have to feed Alva
+We have to feed Alfa
 
 678
 00:44:16,140 --> 00:44:22,140
@@ -2876,7 +2876,7 @@ Teleportation!
 
 720
 00:47:00,140 --> 00:47:07,140
-How can your mother use that ring, Alva?
+How can your mother use that ring, Alfa?
 
 721
 00:47:07,140 --> 00:47:10,140
@@ -2908,7 +2908,7 @@ Don't!
 
 728
 00:47:23,140 --> 00:47:25,140
-Why not, Alva?
+Why not, Alfa?
 
 729
 00:47:25,140 --> 00:47:29,140
@@ -2924,7 +2924,7 @@ So the power of darkness will be reduced
 
 732
 00:47:34,140 --> 00:47:35,140
-Yes, Alva
+Yes, Alfa
 
 733
 00:47:35,140 --> 00:47:37,140
@@ -2972,7 +2972,7 @@ Professor, what are you doing here?
 
 744
 00:48:20,140 --> 00:48:28,140
-I'm here to find your mother, Alva
+I'm here to find your mother, Alfa
 
 745
 00:48:28,140 --> 00:48:31,140
@@ -3000,7 +3000,7 @@ Don't, Professor
 
 751
 00:48:40,140 --> 00:48:42,140
-What are you talking about, Alva?
+What are you talking about, Alfa?
 
 752
 00:48:42,140 --> 00:48:45,140
@@ -3020,7 +3020,7 @@ Or when I came here
 
 756
 00:48:52,140 --> 00:48:54,140
-To take that ring from your mother, Alva
+To take that ring from your mother, Alfa
 
 757
 00:48:54,140 --> 00:48:58,140
@@ -3056,7 +3056,7 @@ Of course, Sir
 
 765
 00:49:12,140 --> 00:49:15,140
-You should meet your mother, Alva
+You should meet your mother, Alfa
 
 766
 00:49:15,140 --> 00:49:18,140
@@ -3076,7 +3076,7 @@ We don't want to make you sad
 
 770
 00:49:28,140 --> 00:49:32,140
-I'll do anything to save your mother, Alva
+I'll do anything to save your mother, Alfa
 
 771
 00:49:33,140 --> 00:49:35,140
@@ -3140,7 +3140,7 @@ But, I'm not sure if what we're doing is right
 
 786
 00:50:39,140 --> 00:50:42,140
-Aquila, this is all for Alva
+Aquila, this is all for Alfa
 
 787
 00:50:42,140 --> 00:50:43,140
@@ -3160,7 +3160,7 @@ Hurry up
 
 791
 00:50:50,140 --> 00:50:58,140
-Alva, take your mother away
+Alfa, take your mother away
 
 792
 00:50:58,140 --> 00:51:00,140
@@ -3176,7 +3176,7 @@ I don't want to leave you, honey
 
 795
 00:51:25,140 --> 00:51:34,140
-Alva and her mother are gone
+Alfa and her mother are gone
 
 796
 00:51:34,140 --> 00:51:37,140
@@ -3184,7 +3184,7 @@ Where are they?
 
 797
 00:51:38,140 --> 00:51:41,140
-I think Alva is trying to hide her child
+I think Alfa is trying to hide her child
 
 798
 00:51:41,140 --> 00:51:44,140
@@ -3216,7 +3216,7 @@ Teleportation
 
 805
 00:52:07,140 --> 00:52:15,140
-Alva and her child are not here
+Alfa and her child are not here
 
 806
 00:52:15,140 --> 00:52:21,140
@@ -3252,7 +3252,7 @@ Food delivery
 
 814
 00:52:53,140 --> 00:52:58,140
-I think Alva and her child are here
+I think Alfa and her child are here
 
 815
 00:52:59,140 --> 00:53:01,140
@@ -3312,7 +3312,7 @@ Agela, what are you talking about?
 
 829
 00:54:10,140 --> 00:54:16,140
-Don't you think Alva can lose you?
+Don't you think Alfa can lose you?
 
 830
 00:54:17,140 --> 00:54:23,140
@@ -3340,7 +3340,7 @@ Don't leave me
 
 836
 00:54:47,140 --> 00:54:50,140
-[Alva's mother is in danger]
+[Alfa's mother is in danger]
 
 837
 00:54:50,140 --> 00:54:59,140
@@ -3360,11 +3360,11 @@ I don't want to leave you
 
 841
 00:55:12,140 --> 00:55:15,140
-[Alva's mother is in danger]
+[Alfa's mother is in danger]
 
 842
 00:55:15,140 --> 00:55:20,140
-Alva, you have to listen to me
+Alfa, you have to listen to me
 
 843
 00:55:20,140 --> 00:55:22,140
@@ -3376,7 +3376,7 @@ But, Mom
 
 845
 00:55:24,140 --> 00:55:27,140
-No, Alva
+No, Alfa
 
 846
 00:55:27,140 --> 00:55:30,140
@@ -3412,7 +3412,7 @@ Dad, I heard something
 
 854
 00:56:01,140 --> 00:56:05,140
-Yes, I heard Alva's voice too
+Yes, I heard Alfa's voice too
 
 855
 00:56:05,140 --> 00:56:07,140
@@ -3440,11 +3440,11 @@ Yes, we don't want to lose you either
 
 861
 00:56:18,140 --> 00:56:21,140
-Alva, I'm sorry
+Alfa, I'm sorry
 
 862
 00:56:21,140 --> 00:56:23,140
-Alva is crying
+Alfa is crying
 
 863
 00:56:23,140 --> 00:56:25,140
@@ -3456,7 +3456,7 @@ I don't want to leave you either
 
 865
 00:56:35,140 --> 00:56:39,140
-[Alva's mother is in danger]
+[Alfa's mother is in danger]
 
 866
 00:56:39,140 --> 00:56:45,140
@@ -3716,7 +3716,7 @@ Enough
 
 930
 00:59:51,140 --> 00:59:54,140
-Alva
+Alfa
 
 931
 00:59:54,140 --> 00:59:57,140
@@ -3740,7 +3740,7 @@ But, Professor
 
 936
 01:00:07,140 --> 01:00:12,140
-But, Alva
+But, Alfa
 
 937
 01:00:12,140 --> 01:00:15,140
@@ -3780,7 +3780,7 @@ Let's get out of here
 
 946
 01:00:51,140 --> 01:00:52,140
-Alva
+Alfa
 
 947
 01:00:52,140 --> 01:00:54,140
@@ -3820,11 +3820,11 @@ Come on, everyone
 
 956
 01:01:11,140 --> 01:01:21,140
-Wait, Alva
+Wait, Alfa
 
 957
 01:01:21,140 --> 01:01:27,140
-Alva
+Alfa
 
 958
 01:01:27,140 --> 01:01:29,140
