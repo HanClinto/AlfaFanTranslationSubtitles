@@ -122,6 +122,13 @@ def process_file(filename):
         for idx, (timestamp, text) in enumerate(merged, 1):
             file.write(f"{idx}\n{timestamp}\n{text}\n\n")
 
+
+    # Also write to a simple txt file with just the entries
+    with open(filename + ".txt", 'w', encoding='utf-8') as file:
+        for idx, (timestamp, text) in enumerate(merged, 1):
+            file.write(f"{idx}: {text}\n")
+
+
 def main():
     if len(sys.argv) < 2:
         print("Usage: script.py <path>")
