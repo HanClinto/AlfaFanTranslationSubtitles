@@ -2,6 +2,12 @@ import sys
 import re
 import glob
 
+remove_strings = [
+    '[Music]',
+    '[Music Playing]',
+    'To be continued...',
+]
+
 def process_file(filename):
     print(f' Processing {filename}')
     with open(filename, 'r', encoding='utf-8') as file:
@@ -21,6 +27,10 @@ def process_file(filename):
         elif line.isdigit() or not line:
             continue
         else:
+            # Skip over lines if they are in the ignored list
+            if line in remove_strings:
+                print(f'  Skipping {line}')
+                continue
             current_text.append(line.strip())
     if current_timestamp and current_text:
         entries.append((current_timestamp, " ".join(current_text)))
