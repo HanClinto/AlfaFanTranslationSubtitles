@@ -8,6 +8,11 @@ remove_strings = [
     'To be continued...',
 ]
 
+substitute_strings = {
+    'Alva': 'Alfa',
+    'ALVA': 'ALFA',
+}
+
 def process_file(filename):
     print(f' Processing {filename}')
     with open(filename, 'r', encoding='utf-8') as file:
@@ -31,6 +36,9 @@ def process_file(filename):
             if line in remove_strings:
                 print(f'  Skipping {line}')
                 continue
+            # Substitute strings
+            for key, value in substitute_strings.items():
+                line = line.replace(key, value)
             current_text.append(line.strip())
     if current_timestamp and current_text:
         entries.append((current_timestamp, " ".join(current_text)))
