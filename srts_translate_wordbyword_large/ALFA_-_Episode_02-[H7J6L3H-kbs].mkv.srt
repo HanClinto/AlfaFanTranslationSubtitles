@@ -1,0 +1,9088 @@
+1
+00:00:07,620 --> 00:00:22,300
+<u>To</u> be continued...
+
+2
+00:00:22,300 --> 00:00:29,640
+To<u> be</u> continued...
+
+3
+00:00:29,640 --> 00:00:29,980
+To be<u> continued...</u>
+
+4
+00:00:30,000 --> 00:00:34,520
+<u>To</u> be continued...
+
+5
+00:00:34,520 --> 00:00:34,520
+To<u> be</u> continued...
+
+6
+00:00:34,520 --> 00:00:34,520
+To be<u> continued...</u>
+
+7
+00:01:16,840 --> 00:01:17,720
+<u>To</u> be continued...
+
+8
+00:01:17,720 --> 00:01:06,120
+To<u> be</u> continued...
+
+9
+00:01:06,120 --> 00:01:18,600
+To be<u> continued...</u>
+
+10
+00:01:18,600 --> 00:01:20,060
+<u>What</u> are you doing to my sister?
+
+11
+00:01:20,060 --> 00:01:23,180
+What<u> are</u> you doing to my sister?
+
+12
+00:01:23,180 --> 00:01:23,300
+What are<u> you</u> doing to my sister?
+
+13
+00:01:23,300 --> 00:01:23,540
+What are you<u> doing</u> to my sister?
+
+14
+00:01:23,540 --> 00:01:23,820
+What are you doing<u> to</u> my sister?
+
+15
+00:01:23,820 --> 00:01:23,820
+What are you doing to<u> my</u> sister?
+
+16
+00:01:23,820 --> 00:01:24,100
+What are you doing to my<u> sister?</u>
+
+17
+00:01:24,500 --> 00:01:25,080
+<u>I'm</u> here to see you.
+
+18
+00:01:25,080 --> 00:01:25,500
+I'm<u> here</u> to see you.
+
+19
+00:01:25,500 --> 00:01:26,520
+I'm here<u> to</u> see you.
+
+20
+00:01:26,520 --> 00:01:26,860
+I'm here to<u> see</u> you.
+
+21
+00:01:26,860 --> 00:01:27,320
+I'm here to see<u> you.</u>
+
+22
+00:01:30,000 --> 00:01:30,120
+<u>You</u> have my permission.
+
+23
+00:01:30,120 --> 00:01:30,340
+You<u> have</u> my permission.
+
+24
+00:01:30,340 --> 00:01:30,980
+You have<u> my</u> permission.
+
+25
+00:01:30,980 --> 00:01:31,520
+You have my<u> permission.</u>
+
+26
+00:01:32,500 --> 00:01:33,080
+<u>No</u> one can stop you.
+
+27
+00:01:33,080 --> 00:01:33,420
+No<u> one</u> can stop you.
+
+28
+00:01:33,420 --> 00:01:34,100
+No one<u> can</u> stop you.
+
+29
+00:01:34,100 --> 00:01:34,560
+No one can<u> stop</u> you.
+
+30
+00:01:34,560 --> 00:01:35,280
+No one can stop<u> you.</u>
+
+31
+00:01:37,880 --> 00:01:38,120
+<u>Good</u> afternoon, children.
+
+32
+00:01:38,120 --> 00:01:38,600
+Good<u> afternoon,</u> children.
+
+33
+00:01:38,600 --> 00:01:39,040
+Good afternoon, children.
+
+34
+00:01:39,040 --> 00:01:39,040
+Good afternoon,<u> children.</u>
+
+35
+00:01:39,780 --> 00:01:40,100
+<u>Wow,</u> you can make the hat.
+
+36
+00:01:40,100 --> 00:01:40,300
+Wow, you can make the hat.
+
+37
+00:01:40,300 --> 00:01:40,580
+Wow,<u> you</u> can make the hat.
+
+38
+00:01:40,580 --> 00:01:41,080
+Wow, you<u> can</u> make the hat.
+
+39
+00:01:41,080 --> 00:01:41,280
+Wow, you can<u> make</u> the hat.
+
+40
+00:01:41,280 --> 00:01:41,280
+Wow, you can make<u> the</u> hat.
+
+41
+00:01:41,280 --> 00:01:41,280
+Wow, you can make the<u> hat.</u>
+
+42
+00:01:41,560 --> 00:01:42,180
+<u>Wow,</u> it's so cool.
+
+43
+00:01:42,180 --> 00:01:42,280
+Wow, it's so cool.
+
+44
+00:01:42,280 --> 00:01:42,400
+Wow,<u> it's</u> so cool.
+
+45
+00:01:42,400 --> 00:01:42,640
+Wow, it's<u> so</u> cool.
+
+46
+00:01:42,640 --> 00:01:42,640
+Wow, it's so<u> cool.</u>
+
+47
+00:01:46,020 --> 00:01:47,580
+<u>Don't</u> you dare to enter this room.
+
+48
+00:01:47,580 --> 00:01:47,820
+Don't<u> you</u> dare to enter this room.
+
+49
+00:01:47,820 --> 00:01:48,380
+Don't you<u> dare</u> to enter this room.
+
+50
+00:01:48,380 --> 00:01:49,000
+Don't you dare<u> to</u> enter this room.
+
+51
+00:01:49,000 --> 00:01:49,340
+Don't you dare to<u> enter</u> this room.
+
+52
+00:01:49,340 --> 00:01:50,100
+Don't you dare to enter<u> this</u> room.
+
+53
+00:01:50,100 --> 00:01:50,100
+Don't you dare to enter this<u> room.</u>
+
+54
+00:01:50,460 --> 00:01:52,160
+<u>Alfa</u> entered the secret room and met the third-in-command.
+
+55
+00:01:52,160 --> 00:01:52,520
+Alfa<u> entered</u> the secret room and met the third-in-command.
+
+56
+00:01:52,520 --> 00:01:52,840
+Alfa entered<u> the</u> secret room and met the third-in-command.
+
+57
+00:01:52,840 --> 00:01:53,400
+Alfa entered the<u> secret</u> room and met the third-in-command.
+
+58
+00:01:53,400 --> 00:01:53,420
+Alfa entered the secret<u> room</u> and met the third-in-command.
+
+59
+00:01:53,420 --> 00:01:53,800
+Alfa entered the secret room<u> and</u> met the third-in-command.
+
+60
+00:01:53,800 --> 00:01:54,220
+Alfa entered the secret room and<u> met</u> the third-in-command.
+
+61
+00:01:54,220 --> 00:01:54,500
+Alfa entered the secret room and met<u> the</u> third-in-command.
+
+62
+00:01:54,500 --> 00:01:55,160
+Alfa entered the secret room and met the<u> third</u>-in-command.
+
+63
+00:01:55,160 --> 00:01:55,160
+Alfa entered the secret room and met the third<u>-in</u>-command.
+
+64
+00:01:55,160 --> 00:01:55,160
+Alfa entered the secret room and met the third-in<u>-command.</u>
+
+65
+00:01:56,580 --> 00:01:58,300
+<u>What</u> we fear will happen.
+
+66
+00:01:58,300 --> 00:01:58,560
+What<u> we</u> fear will happen.
+
+67
+00:01:58,560 --> 00:01:58,920
+What we<u> fear</u> will happen.
+
+68
+00:01:58,920 --> 00:02:00,160
+What we fear<u> will</u> happen.
+
+69
+00:02:00,160 --> 00:02:00,640
+What we fear will<u> happen.</u>
+
+70
+00:02:30,700 --> 00:02:31,380
+<u>What's</u> going on?
+
+71
+00:02:31,380 --> 00:02:31,380
+What's<u> going</u> on?
+
+72
+00:02:31,380 --> 00:02:31,380
+What's going<u> on?</u>
+
+73
+00:02:31,900 --> 00:02:32,580
+<u>What's</u> going on?
+
+74
+00:02:32,580 --> 00:02:32,740
+What's<u> going</u> on?
+
+75
+00:02:32,740 --> 00:02:32,940
+What's going<u> on?</u>
+
+76
+00:02:33,480 --> 00:02:33,780
+<u>What's</u> going on?
+
+77
+00:02:33,780 --> 00:02:33,900
+What's<u> going</u> on?
+
+78
+00:02:33,900 --> 00:02:33,900
+What's going<u> on?</u>
+
+79
+00:02:34,460 --> 00:02:36,660
+<u>What's</u> going on?
+
+80
+00:02:36,660 --> 00:02:36,660
+What's<u> going</u> on?
+
+81
+00:02:36,660 --> 00:02:36,660
+What's going<u> on?</u>
+
+82
+00:02:36,660 --> 00:02:36,700
+<u>Calm</u> down, children.
+
+83
+00:02:36,700 --> 00:02:36,760
+Calm<u> down,</u> children.
+
+84
+00:02:36,760 --> 00:02:36,840
+Calm down, children.
+
+85
+00:02:36,840 --> 00:02:37,880
+Calm down,<u> children.</u>
+
+86
+00:02:38,400 --> 00:02:38,600
+<u>Calm</u> down, everyone.
+
+87
+00:02:38,600 --> 00:02:38,900
+Calm<u> down,</u> everyone.
+
+88
+00:02:38,900 --> 00:02:39,220
+Calm down, everyone.
+
+89
+00:02:39,220 --> 00:02:39,220
+Calm down,<u> everyone.</u>
+
+90
+00:02:39,720 --> 00:02:41,040
+<u>What's</u> going on?
+
+91
+00:02:41,040 --> 00:02:41,100
+What's<u> going</u> on?
+
+92
+00:02:41,100 --> 00:02:41,100
+What's going<u> on?</u>
+
+93
+00:02:41,360 --> 00:02:41,360
+<u>What's</u> going on?
+
+94
+00:02:41,360 --> 00:02:41,360
+What's<u> going</u> on?
+
+95
+00:02:41,360 --> 00:02:41,580
+What's going<u> on?</u>
+
+96
+00:02:42,320 --> 00:02:43,700
+<u>Calm</u> down.
+
+97
+00:02:43,700 --> 00:02:44,200
+Calm<u> down.</u>
+
+98
+00:02:45,920 --> 00:02:46,260
+<u>There's</u> a monster that managed to get in.
+
+99
+00:02:46,260 --> 00:02:46,400
+There's<u> a</u> monster that managed to get in.
+
+100
+00:02:46,400 --> 00:02:46,780
+There's a<u> monster</u> that managed to get in.
+
+101
+00:02:46,780 --> 00:02:47,000
+There's a monster<u> that</u> managed to get in.
+
+102
+00:02:47,000 --> 00:02:47,340
+There's a monster that<u> managed</u> to get in.
+
+103
+00:02:47,340 --> 00:02:47,460
+There's a monster that managed<u> to</u> get in.
+
+104
+00:02:47,460 --> 00:02:47,680
+There's a monster that managed to<u> get</u> in.
+
+105
+00:02:47,680 --> 00:02:47,760
+There's a monster that managed to get<u> in.</u>
+
+106
+00:02:48,240 --> 00:02:49,760
+<u>Monster?</u>
+
+107
+00:02:49,760 --> 00:02:50,280
+<u>Is</u> it a food for children?
+
+108
+00:02:50,280 --> 00:02:50,660
+Is<u> it</u> a food for children?
+
+109
+00:02:50,660 --> 00:02:51,020
+Is it<u> a</u> food for children?
+
+110
+00:02:51,020 --> 00:02:51,080
+Is it a<u> food</u> for children?
+
+111
+00:02:51,080 --> 00:02:51,120
+Is it a food<u> for</u> children?
+
+112
+00:02:51,120 --> 00:02:51,400
+Is it a food for<u> children?</u>
+
+113
+00:02:51,400 --> 00:02:51,400
+<u>Is</u> it a food for children?
+
+114
+00:02:51,400 --> 00:02:51,400
+Is<u> it</u> a food for children?
+
+115
+00:02:51,400 --> 00:02:51,400
+Is it<u> a</u> food for children?
+
+116
+00:02:51,400 --> 00:02:51,400
+Is it a<u> food</u> for children?
+
+117
+00:02:51,400 --> 00:02:52,160
+Is it a food<u> for</u> children?
+
+118
+00:02:52,160 --> 00:02:52,160
+Is it a food for<u> children?</u>
+
+119
+00:02:52,160 --> 00:02:52,520
+<u>Yes,</u> ma'am.
+
+120
+00:02:52,520 --> 00:02:52,900
+Yes, ma'am.
+
+121
+00:02:52,900 --> 00:02:52,900
+Yes,<u> ma</u>'am.
+
+122
+00:02:52,900 --> 00:02:52,980
+Yes, ma<u>'am.</u>
+
+123
+00:02:53,100 --> 00:02:56,920
+<u>Don't</u> make noise.
+
+124
+00:02:56,920 --> 00:02:57,240
+Don't<u> make</u> noise.
+
+125
+00:02:57,240 --> 00:02:57,280
+Don't make<u> noise.</u>
+
+126
+00:02:57,500 --> 00:02:59,200
+<u>You're</u> not safe now.
+
+127
+00:02:59,200 --> 00:02:59,200
+You're<u> not</u> safe now.
+
+128
+00:02:59,200 --> 00:02:59,460
+You're not<u> safe</u> now.
+
+129
+00:02:59,460 --> 00:02:59,780
+You're not safe<u> now.</u>
+
+130
+00:03:00,000 --> 00:03:00,300
+<u>And</u> don't go out before I order you.
+
+131
+00:03:00,300 --> 00:03:00,660
+And<u> don't</u> go out before I order you.
+
+132
+00:03:00,660 --> 00:03:00,860
+And don't<u> go</u> out before I order you.
+
+133
+00:03:00,860 --> 00:03:01,040
+And don't go<u> out</u> before I order you.
+
+134
+00:03:01,040 --> 00:03:01,240
+And don't go out<u> before</u> I order you.
+
+135
+00:03:01,240 --> 00:03:01,520
+And don't go out before<u> I</u> order you.
+
+136
+00:03:01,520 --> 00:03:01,820
+And don't go out before I<u> order</u> you.
+
+137
+00:03:01,820 --> 00:03:02,080
+And don't go out before I order<u> you.</u>
+
+138
+00:03:02,180 --> 00:03:02,460
+<u>Do</u> you understand?
+
+139
+00:03:02,460 --> 00:03:02,460
+Do<u> you</u> understand?
+
+140
+00:03:02,460 --> 00:03:02,660
+Do you<u> understand?</u>
+
+141
+00:03:02,980 --> 00:03:03,680
+<u>Yes,</u> ma'am.
+
+142
+00:03:03,680 --> 00:03:04,220
+Yes, ma'am.
+
+143
+00:03:04,220 --> 00:03:04,220
+Yes,<u> ma</u>'am.
+
+144
+00:03:04,220 --> 00:03:04,220
+Yes, ma<u>'am.</u>
+
+145
+00:03:04,420 --> 00:03:05,200
+<u>Let's</u> go.
+
+146
+00:03:05,200 --> 00:03:05,240
+Let's<u> go.</u>
+
+147
+00:03:08,260 --> 00:03:14,240
+<u>Did</u> you see Vega?
+
+148
+00:03:14,240 --> 00:03:18,140
+Did<u> you</u> see Vega?
+
+149
+00:03:18,140 --> 00:03:18,240
+Did you<u> see</u> Vega?
+
+150
+00:03:18,240 --> 00:03:18,460
+Did you see<u> Vega?</u>
+
+151
+00:03:18,940 --> 00:03:20,000
+<u>Vega?</u>
+
+152
+00:03:20,240 --> 00:03:20,860
+<u>Where's</u> Vega?
+
+153
+00:03:20,860 --> 00:03:21,160
+Where's<u> Vega?</u>
+
+154
+00:03:21,800 --> 00:03:22,880
+<u>Vega?</u>
+
+155
+00:03:23,260 --> 00:03:23,900
+<u>Where</u> are you?
+
+156
+00:03:23,900 --> 00:03:24,560
+Where<u> are</u> you?
+
+157
+00:03:24,560 --> 00:03:24,840
+Where are<u> you?</u>
+
+158
+00:03:24,920 --> 00:03:25,340
+<u>I</u> was with Vega.
+
+159
+00:03:25,340 --> 00:03:25,620
+I<u> was</u> with Vega.
+
+160
+00:03:25,620 --> 00:03:25,840
+I was<u> with</u> Vega.
+
+161
+00:03:25,840 --> 00:03:26,300
+I was with<u> Vega.</u>
+
+162
+00:03:26,440 --> 00:03:27,000
+<u>He</u> said he wanted to go to the bathroom.
+
+163
+00:03:27,000 --> 00:03:27,320
+He<u> said</u> he wanted to go to the bathroom.
+
+164
+00:03:27,320 --> 00:03:27,720
+He said<u> he</u> wanted to go to the bathroom.
+
+165
+00:03:27,720 --> 00:03:27,860
+He said he<u> wanted</u> to go to the bathroom.
+
+166
+00:03:27,860 --> 00:03:27,940
+He said he wanted<u> to</u> go to the bathroom.
+
+167
+00:03:27,940 --> 00:03:27,980
+He said he wanted to<u> go</u> to the bathroom.
+
+168
+00:03:27,980 --> 00:03:28,000
+He said he wanted to go<u> to</u> the bathroom.
+
+169
+00:03:28,000 --> 00:03:28,060
+He said he wanted to go to<u> the</u> bathroom.
+
+170
+00:03:28,060 --> 00:03:28,500
+He said he wanted to go to the<u> bathroom.</u>
+
+171
+00:03:30,260 --> 00:03:30,700
+<u>He's</u> over there.
+
+172
+00:03:30,700 --> 00:03:30,860
+He's<u> over</u> there.
+
+173
+00:03:30,860 --> 00:03:31,120
+He's over<u> there.</u>
+
+174
+00:03:32,360 --> 00:03:33,040
+<u>Don't</u> go.
+
+175
+00:03:33,040 --> 00:03:33,340
+Don't<u> go.</u>
+
+176
+00:03:33,360 --> 00:03:34,420
+<u>We</u> can't go out with him.
+
+177
+00:03:34,420 --> 00:03:34,880
+We<u> can't</u> go out with him.
+
+178
+00:03:34,880 --> 00:03:35,000
+We can't<u> go</u> out with him.
+
+179
+00:03:35,000 --> 00:03:35,100
+We can't go<u> out</u> with him.
+
+180
+00:03:35,100 --> 00:03:35,220
+We can't go out<u> with</u> him.
+
+181
+00:03:35,220 --> 00:03:35,360
+We can't go out with<u> him.</u>
+
+182
+00:03:35,660 --> 00:03:36,300
+<u>He's</u> safe.
+
+183
+00:03:36,300 --> 00:03:36,580
+He's<u> safe.</u>
+
+184
+00:03:36,860 --> 00:03:37,200
+<u>But,</u> he's our friend.
+
+185
+00:03:37,200 --> 00:03:37,240
+But, he's our friend.
+
+186
+00:03:37,240 --> 00:03:37,360
+But,<u> he's</u> our friend.
+
+187
+00:03:37,360 --> 00:03:37,920
+But, he's<u> our</u> friend.
+
+188
+00:03:37,920 --> 00:03:37,920
+But, he's our<u> friend.</u>
+
+189
+00:03:38,660 --> 00:03:39,040
+<u>What</u> if something happens to him?
+
+190
+00:03:39,040 --> 00:03:39,040
+What<u> if</u> something happens to him?
+
+191
+00:03:39,040 --> 00:03:39,380
+What if<u> something</u> happens to him?
+
+192
+00:03:39,380 --> 00:03:39,380
+What if something<u> happens</u> to him?
+
+193
+00:03:39,380 --> 00:03:39,380
+What if something happens<u> to</u> him?
+
+194
+00:03:39,380 --> 00:03:39,520
+What if something happens to<u> him?</u>
+
+195
+00:03:40,060 --> 00:03:41,160
+<u>It's</u> dangerous.
+
+196
+00:03:41,160 --> 00:03:41,620
+It's<u> dangerous.</u>
+
+197
+00:03:42,020 --> 00:03:44,640
+<u>Wait</u> for me.
+
+198
+00:03:44,640 --> 00:03:44,920
+Wait<u> for</u> me.
+
+199
+00:03:44,920 --> 00:03:48,960
+Wait for<u> me.</u>
+
+200
+00:03:48,960 --> 00:03:54,100
+<u>What's</u> going on?
+
+201
+00:03:54,100 --> 00:03:54,220
+What's<u> going</u> on?
+
+202
+00:03:54,220 --> 00:03:54,220
+What's going<u> on?</u>
+
+203
+00:04:11,360 --> 00:04:15,980
+<u>What's</u> going on?
+
+204
+00:04:15,980 --> 00:04:19,760
+What's<u> going</u> on?
+
+205
+00:04:19,760 --> 00:04:19,760
+What's going<u> on?</u>
+
+206
+00:04:19,760 --> 00:04:20,080
+<u>No!</u>
+
+207
+00:04:31,120 --> 00:04:33,100
+<u>I</u> am...
+
+208
+00:04:33,100 --> 00:04:33,780
+I<u> am...</u>
+
+209
+00:04:33,780 --> 00:04:35,520
+<u>Varga!</u>
+
+210
+00:04:39,500 --> 00:04:45,280
+<u>It's</u> huge!
+
+211
+00:04:45,280 --> 00:04:45,540
+It's<u> huge!</u>
+
+212
+00:04:46,800 --> 00:04:47,900
+<u>Why</u> is it so small?
+
+213
+00:04:47,900 --> 00:04:48,160
+Why<u> is</u> it so small?
+
+214
+00:04:48,160 --> 00:04:48,160
+Why is<u> it</u> so small?
+
+215
+00:04:48,160 --> 00:04:48,420
+Why is it<u> so</u> small?
+
+216
+00:04:48,420 --> 00:04:48,420
+Why is it so<u> small?</u>
+
+217
+00:05:18,420 --> 00:05:20,260
+<u>What's</u> going on?
+
+218
+00:05:20,260 --> 00:05:22,100
+What's<u> going</u> on?
+
+219
+00:05:22,100 --> 00:05:22,100
+What's going<u> on?</u>
+
+220
+00:05:22,380 --> 00:05:25,800
+<u>We're</u> going to be late.
+
+221
+00:05:25,800 --> 00:05:25,840
+We're<u> going</u> to be late.
+
+222
+00:05:25,840 --> 00:05:25,840
+We're going<u> to</u> be late.
+
+223
+00:05:25,840 --> 00:05:26,040
+We're going to<u> be</u> late.
+
+224
+00:05:26,040 --> 00:05:26,360
+We're going to be<u> late.</u>
+
+225
+00:05:27,780 --> 00:05:30,100
+<u>It's</u> Vega!
+
+226
+00:05:30,100 --> 00:05:30,320
+It's<u> Vega!</u>
+
+227
+00:05:31,220 --> 00:05:32,260
+<u>Let's</u> go!
+
+228
+00:05:32,260 --> 00:05:32,420
+Let's<u> go!</u>
+
+229
+00:05:35,840 --> 00:05:39,080
+<u>Let's</u> go!
+
+230
+00:05:39,080 --> 00:05:39,120
+Let's<u> go!</u>
+
+231
+00:05:42,840 --> 00:05:48,160
+<u>I</u> am...
+
+232
+00:05:48,160 --> 00:05:50,420
+I<u> am...</u>
+
+233
+00:05:50,420 --> 00:05:51,220
+<u>Varga!</u>
+
+234
+00:05:56,360 --> 00:06:00,140
+<u>Varga!</u>
+
+235
+00:06:00,140 --> 00:06:04,180
+<u>Where</u> are we going?
+
+236
+00:06:04,180 --> 00:06:06,800
+Where<u> are</u> we going?
+
+237
+00:06:06,800 --> 00:06:06,800
+Where are<u> we</u> going?
+
+238
+00:06:06,800 --> 00:06:06,960
+Where are we<u> going?</u>
+
+239
+00:06:08,860 --> 00:06:22,260
+<u>Help!</u>
+
+240
+00:06:26,360 --> 00:06:26,980
+<u>I</u> am...
+
+241
+00:06:26,980 --> 00:06:27,020
+I<u> am...</u>
+
+242
+00:06:27,020 --> 00:06:34,880
+<u>Varga!</u>
+
+243
+00:06:34,880 --> 00:06:34,880
+
+
+244
+00:06:36,320 --> 00:06:37,360
+<u>This</u> way.
+
+245
+00:06:37,360 --> 00:06:46,340
+This<u> way.</u>
+
+246
+00:06:48,840 --> 00:06:54,820
+<u>Vega!</u>
+
+247
+00:06:56,360 --> 00:06:56,680
+<u>Let's</u> go!
+
+248
+00:06:56,680 --> 00:06:56,680
+Let's<u> go!</u>
+
+249
+00:07:28,420 --> 00:07:29,760
+<u>Varga!</u>
+
+250
+00:07:29,920 --> 00:07:31,100
+<u>Let</u> the kid go!
+
+251
+00:07:31,100 --> 00:07:31,240
+Let<u> the</u> kid go!
+
+252
+00:07:31,240 --> 00:07:31,460
+Let the<u> kid</u> go!
+
+253
+00:07:31,460 --> 00:07:31,700
+Let the kid<u> go!</u>
+
+254
+00:07:37,980 --> 00:07:43,640
+<u>C</u>-3PO!
+
+255
+00:07:43,640 --> 00:07:43,940
+C<u>-3PO!</u>
+
+256
+00:07:57,140 --> 00:07:58,680
+<u>Varga!</u>
+
+257
+00:07:59,900 --> 00:08:00,980
+<u>Varga!</u>
+
+258
+00:08:04,340 --> 00:08:04,920
+<u>Help</u> me!
+
+259
+00:08:04,920 --> 00:08:05,160
+Help<u> me!</u>
+
+260
+00:08:06,040 --> 00:08:06,260
+<u>What's</u> going on?
+
+261
+00:08:06,260 --> 00:08:06,480
+What's<u> going</u> on?
+
+262
+00:08:06,480 --> 00:08:06,480
+What's going<u> on?</u>
+
+263
+00:08:35,220 --> 00:08:39,860
+<u>I</u> am...
+
+264
+00:08:39,860 --> 00:08:43,100
+I<u> am...</u>
+
+265
+00:08:43,100 --> 00:08:44,500
+<u>Varga!</u>
+
+266
+00:08:45,760 --> 00:08:45,760
+
+
+267
+00:08:45,760 --> 00:08:45,760
+
+
+268
+00:08:48,080 --> 00:08:52,900
+<u>Magneto!</u>
+
+269
+00:08:59,820 --> 00:09:05,620
+<u>I</u> am...
+
+270
+00:09:05,620 --> 00:09:05,980
+I<u> am...</u>
+
+271
+00:09:05,980 --> 00:09:11,080
+<u>Varga!</u>
+
+272
+00:09:11,780 --> 00:09:11,780
+
+
+273
+00:09:11,780 --> 00:09:11,780
+
+
+274
+00:09:11,780 --> 00:09:11,780
+
+
+275
+00:09:11,780 --> 00:09:11,780
+<u>I</u> am...
+
+276
+00:09:11,780 --> 00:09:14,680
+I<u> am...</u>
+
+277
+00:09:14,680 --> 00:09:25,440
+<u>Varga!</u>
+
+278
+00:09:38,820 --> 00:09:39,700
+<u>I</u> am...
+
+279
+00:09:39,700 --> 00:09:39,480
+I<u> am...</u>
+
+280
+00:09:39,480 --> 00:09:40,580
+<u>Varga!</u>
+
+281
+00:09:45,420 --> 00:09:45,860
+<u>C</u>-3PO.
+
+282
+00:09:45,860 --> 00:09:53,980
+C<u>-3PO.</u>
+
+283
+00:09:54,320 --> 00:09:54,480
+<u>His</u> teeth can really kill.
+
+284
+00:09:54,480 --> 00:09:54,660
+His<u> teeth</u> can really kill.
+
+285
+00:09:54,660 --> 00:09:55,380
+His teeth<u> can</u> really kill.
+
+286
+00:09:55,380 --> 00:09:55,380
+His teeth can<u> really</u> kill.
+
+287
+00:09:55,380 --> 00:09:55,760
+His teeth can really<u> kill.</u>
+
+288
+00:09:56,180 --> 00:09:56,340
+<u>Let's</u> go.
+
+289
+00:09:56,340 --> 00:09:56,340
+Let's<u> go.</u>
+
+290
+00:09:56,340 --> 00:09:56,340
+
+
+291
+00:09:56,340 --> 00:09:56,340
+
+
+292
+00:09:56,340 --> 00:09:56,340
+
+
+293
+00:09:56,340 --> 00:09:56,340
+
+
+294
+00:09:56,340 --> 00:09:56,340
+
+
+295
+00:09:56,340 --> 00:09:56,700
+<u>But</u> you can kill him...
+
+296
+00:09:56,700 --> 00:09:57,480
+But<u> you</u> can kill him...
+
+297
+00:09:57,480 --> 00:09:57,820
+But you<u> can</u> kill him...
+
+298
+00:09:57,820 --> 00:09:58,180
+But you can<u> kill</u> him...
+
+299
+00:09:58,180 --> 00:09:58,620
+But you can kill<u> him...</u>
+
+300
+00:09:58,620 --> 00:09:58,920
+<u>...through</u> his teeth.
+
+301
+00:09:58,920 --> 00:09:59,080
+...through<u> his</u> teeth.
+
+302
+00:09:59,080 --> 00:09:59,360
+...through his<u> teeth.</u>
+
+303
+00:10:03,600 --> 00:10:19,700
+<u>Concentrate.</u>
+
+304
+00:10:20,220 --> 00:10:20,380
+<u>And</u> use your lollipop.
+
+305
+00:10:20,380 --> 00:10:21,080
+And<u> use</u> your lollipop.
+
+306
+00:10:21,080 --> 00:10:21,340
+And use<u> your</u> lollipop.
+
+307
+00:10:21,340 --> 00:10:21,840
+And use your<u> lollipop.</u>
+
+308
+00:10:49,760 --> 00:10:51,960
+<u>I</u> am...
+
+309
+00:10:51,960 --> 00:10:53,200
+I<u> am...</u>
+
+310
+00:10:53,200 --> 00:10:54,160
+<u>Varga!</u>
+
+311
+00:10:55,260 --> 00:10:56,320
+<u>I</u> am...
+
+312
+00:10:56,320 --> 00:10:56,320
+I<u> am...</u>
+
+313
+00:10:56,320 --> 00:10:56,320
+
+
+314
+00:10:56,340 --> 00:11:13,760
+<u>Varga!</u>
+
+315
+00:11:26,340 --> 00:11:27,340
+<u>I</u> am...
+
+316
+00:11:27,340 --> 00:11:27,800
+I<u> am...</u>
+
+317
+00:11:27,800 --> 00:11:35,140
+<u>Varga!</u>
+
+318
+00:11:56,340 --> 00:11:59,800
+<u>I</u> am...
+
+319
+00:11:59,800 --> 00:12:01,640
+I<u> am...</u>
+
+320
+00:12:01,640 --> 00:12:14,640
+<u>Varga!</u>
+
+321
+00:12:31,260 --> 00:12:32,060
+<u>Alva.</u>
+
+322
+00:12:29,780 --> 00:12:32,860
+<u>Thank</u> you, Alva.
+
+323
+00:12:32,860 --> 00:12:33,120
+Thank<u> you,</u> Alva.
+
+324
+00:12:33,120 --> 00:12:33,180
+Thank you, Alva.
+
+325
+00:12:33,180 --> 00:12:33,520
+Thank you,<u> Alva.</u>
+
+326
+00:12:34,360 --> 00:12:35,160
+<u>It's</u> not your fault.
+
+327
+00:12:35,160 --> 00:12:35,160
+It's<u> not</u> your fault.
+
+328
+00:12:35,160 --> 00:12:35,360
+It's not<u> your</u> fault.
+
+329
+00:12:35,360 --> 00:12:35,440
+It's not your<u> fault.</u>
+
+330
+00:12:36,020 --> 00:12:36,860
+<u>You're</u> the only one who can do this.
+
+331
+00:12:36,860 --> 00:12:37,060
+You're<u> the</u> only one who can do this.
+
+332
+00:12:37,060 --> 00:12:37,060
+You're the<u> only</u> one who can do this.
+
+333
+00:12:37,060 --> 00:12:37,260
+You're the only<u> one</u> who can do this.
+
+334
+00:12:37,260 --> 00:12:37,380
+You're the only one<u> who</u> can do this.
+
+335
+00:12:37,380 --> 00:12:37,480
+You're the only one who<u> can</u> do this.
+
+336
+00:12:37,480 --> 00:12:37,700
+You're the only one who can<u> do</u> this.
+
+337
+00:12:37,700 --> 00:12:38,060
+You're the only one who can do<u> this.</u>
+
+338
+00:12:38,660 --> 00:12:40,120
+<u>Why</u> me, Professor?
+
+339
+00:12:40,120 --> 00:12:40,360
+Why<u> me,</u> Professor?
+
+340
+00:12:40,360 --> 00:12:40,440
+Why me, Professor?
+
+341
+00:12:40,440 --> 00:12:40,740
+Why me,<u> Professor?</u>
+
+342
+00:12:41,520 --> 00:12:42,860
+<u>Alva.</u>
+
+343
+00:12:44,100 --> 00:12:44,520
+<u>Promise</u> me.
+
+344
+00:12:44,520 --> 00:12:44,820
+Promise<u> me.</u>
+
+345
+00:12:45,820 --> 00:12:46,400
+<u>Don't</u> tell anyone...
+
+346
+00:12:46,400 --> 00:12:46,840
+Don't<u> tell</u> anyone...
+
+347
+00:12:46,840 --> 00:12:47,880
+Don't tell<u> anyone...</u>
+
+348
+00:12:47,880 --> 00:12:48,400
+<u>...what</u> just happened.
+
+349
+00:12:48,400 --> 00:12:48,560
+...what<u> just</u> happened.
+
+350
+00:12:48,560 --> 00:12:48,560
+...what just<u> happened.</u>
+
+351
+00:12:49,820 --> 00:12:50,420
+<u>Don't</u> tell anyone...
+
+352
+00:12:50,420 --> 00:12:50,760
+Don't<u> tell</u> anyone...
+
+353
+00:12:50,760 --> 00:12:51,600
+Don't tell<u> anyone...</u>
+
+354
+00:12:51,600 --> 00:12:51,980
+<u>...that</u> you've defeated the monster.
+
+355
+00:12:51,980 --> 00:12:52,440
+...that<u> you've</u> defeated the monster.
+
+356
+00:12:52,440 --> 00:12:52,760
+...that you've<u> defeated</u> the monster.
+
+357
+00:12:52,760 --> 00:12:52,940
+...that you've defeated<u> the</u> monster.
+
+358
+00:12:52,940 --> 00:12:53,140
+...that you've defeated the<u> monster.</u>
+
+359
+00:12:59,820 --> 00:13:00,680
+<u>Now...</u>
+
+360
+00:13:00,680 --> 00:13:01,400
+<u>...go</u> back to the lab.
+
+361
+00:13:01,400 --> 00:13:01,720
+...go<u> back</u> to the lab.
+
+362
+00:13:01,720 --> 00:13:01,820
+...go back<u> to</u> the lab.
+
+363
+00:13:01,820 --> 00:13:02,020
+...go back to<u> the</u> lab.
+
+364
+00:13:02,020 --> 00:13:02,100
+...go back to the<u> lab.</u>
+
+365
+00:13:03,020 --> 00:13:03,960
+<u>Let</u> your friends take care of it.
+
+366
+00:13:03,960 --> 00:13:04,060
+Let<u> your</u> friends take care of it.
+
+367
+00:13:04,060 --> 00:13:04,360
+Let your<u> friends</u> take care of it.
+
+368
+00:13:04,360 --> 00:13:04,820
+Let your friends<u> take</u> care of it.
+
+369
+00:13:04,820 --> 00:13:05,200
+Let your friends take<u> care</u> of it.
+
+370
+00:13:05,200 --> 00:13:05,200
+Let your friends take care<u> of</u> it.
+
+371
+00:13:05,200 --> 00:13:05,420
+Let your friends take care of<u> it.</u>
+
+372
+00:13:08,160 --> 00:13:18,300
+<u>The</u> monster?
+
+373
+00:13:18,300 --> 00:13:18,460
+The<u> monster?</u>
+
+374
+00:13:19,020 --> 00:13:20,080
+<u>What</u> do we do?
+
+375
+00:13:20,080 --> 00:13:20,340
+What<u> do</u> we do?
+
+376
+00:13:20,340 --> 00:13:20,340
+What do<u> we</u> do?
+
+377
+00:13:20,340 --> 00:13:20,340
+What do we<u> do?</u>
+
+378
+00:13:20,900 --> 00:13:21,520
+<u>Varga</u> is a very powerful monster.
+
+379
+00:13:21,520 --> 00:13:21,780
+Varga<u> is</u> a very powerful monster.
+
+380
+00:13:21,780 --> 00:13:21,940
+Varga is<u> a</u> very powerful monster.
+
+381
+00:13:21,940 --> 00:13:22,540
+Varga is a<u> very</u> powerful monster.
+
+382
+00:13:22,540 --> 00:13:22,920
+Varga is a very<u> powerful</u> monster.
+
+383
+00:13:22,920 --> 00:13:22,920
+Varga is a very powerful<u> monster.</u>
+
+384
+00:13:23,580 --> 00:13:24,000
+<u>He's</u> the hand of the 8th Prince.
+
+385
+00:13:24,000 --> 00:13:24,140
+He's<u> the</u> hand of the 8th Prince.
+
+386
+00:13:24,140 --> 00:13:24,640
+He's the<u> hand</u> of the 8th Prince.
+
+387
+00:13:24,640 --> 00:13:24,640
+He's the hand<u> of</u> the 8th Prince.
+
+388
+00:13:24,640 --> 00:13:25,660
+He's the hand of<u> the</u> 8th Prince.
+
+389
+00:13:25,660 --> 00:13:26,100
+He's the hand of the<u> 8th</u> Prince.
+
+390
+00:13:26,100 --> 00:13:26,100
+He's the hand of the 8th<u> Prince.</u>
+
+391
+00:13:27,720 --> 00:13:28,400
+<u>The</u> only one who can defeat him...
+
+392
+00:13:28,400 --> 00:13:28,440
+The<u> only</u> one who can defeat him...
+
+393
+00:13:28,440 --> 00:13:28,440
+The only<u> one</u> who can defeat him...
+
+394
+00:13:28,440 --> 00:13:28,440
+The only one<u> who</u> can defeat him...
+
+395
+00:13:28,440 --> 00:13:28,660
+The only one who<u> can</u> defeat him...
+
+396
+00:13:28,660 --> 00:13:28,980
+The only one who can<u> defeat</u> him...
+
+397
+00:13:28,980 --> 00:13:29,660
+The only one who can defeat<u> him...</u>
+
+398
+00:13:29,660 --> 00:13:30,440
+<u>...is</u> the 8th Prince...
+
+399
+00:13:30,440 --> 00:13:30,660
+...is<u> the</u> 8th Prince...
+
+400
+00:13:30,660 --> 00:13:30,840
+...is the<u> 8th</u> Prince...
+
+401
+00:13:30,840 --> 00:13:31,880
+...is the 8th<u> Prince...</u>
+
+402
+00:13:31,880 --> 00:13:32,260
+<u>...and</u> a chosen child.
+
+403
+00:13:32,260 --> 00:13:32,640
+...and<u> a</u> chosen child.
+
+404
+00:13:32,640 --> 00:13:33,280
+...and a<u> chosen</u> child.
+
+405
+00:13:33,280 --> 00:13:33,280
+...and a chosen<u> child.</u>
+
+406
+00:13:33,860 --> 00:13:34,460
+<u>Who</u> is he?
+
+407
+00:13:34,460 --> 00:13:34,580
+Who<u> is</u> he?
+
+408
+00:13:34,580 --> 00:13:34,680
+Who is<u> he?</u>
+
+409
+00:13:35,240 --> 00:13:36,220
+<u>Alva.</u>
+
+410
+00:13:37,020 --> 00:13:37,780
+<u>He's</u> the chosen child.
+
+411
+00:13:37,780 --> 00:13:38,140
+He's<u> the</u> chosen child.
+
+412
+00:13:38,140 --> 00:13:38,420
+He's the<u> chosen</u> child.
+
+413
+00:13:38,420 --> 00:13:38,440
+He's the chosen<u> child.</u>
+
+414
+00:13:40,600 --> 00:13:42,360
+<u>The</u> son of Gamma and Aquila.
+
+415
+00:13:42,360 --> 00:13:42,480
+The<u> son</u> of Gamma and Aquila.
+
+416
+00:13:42,480 --> 00:13:42,620
+The son<u> of</u> Gamma and Aquila.
+
+417
+00:13:42,620 --> 00:13:42,980
+The son of<u> Gamma</u> and Aquila.
+
+418
+00:13:42,980 --> 00:13:43,080
+The son of Gamma<u> and</u> Aquila.
+
+419
+00:13:43,080 --> 00:13:43,460
+The son of Gamma and<u> Aquila.</u>
+
+420
+00:13:45,040 --> 00:13:45,360
+<u>He</u> will be our savior.
+
+421
+00:13:45,360 --> 00:13:45,540
+He<u> will</u> be our savior.
+
+422
+00:13:45,540 --> 00:13:46,360
+He will<u> be</u> our savior.
+
+423
+00:13:46,360 --> 00:13:46,500
+He will be<u> our</u> savior.
+
+424
+00:13:46,500 --> 00:13:46,800
+He will be our<u> savior.</u>
+
+425
+00:13:47,420 --> 00:13:48,160
+<u>That's</u> why...
+
+426
+00:13:48,160 --> 00:13:48,980
+That's<u> why...</u>
+
+427
+00:13:48,980 --> 00:13:49,240
+<u>...we</u> have to take care of him.
+
+428
+00:13:49,240 --> 00:13:49,380
+...we<u> have</u> to take care of him.
+
+429
+00:13:49,380 --> 00:13:49,500
+...we have<u> to</u> take care of him.
+
+430
+00:13:49,500 --> 00:13:49,980
+...we have to<u> take</u> care of him.
+
+431
+00:13:49,980 --> 00:13:50,020
+...we have to take<u> care</u> of him.
+
+432
+00:13:50,020 --> 00:13:50,080
+...we have to take care<u> of</u> him.
+
+433
+00:13:50,080 --> 00:13:50,280
+...we have to take care of<u> him.</u>
+
+434
+00:13:50,640 --> 00:13:50,940
+<u>Train</u> him...
+
+435
+00:13:50,940 --> 00:13:52,080
+Train<u> him...</u>
+
+436
+00:13:52,080 --> 00:13:52,340
+<u>...with</u> all our abilities.
+
+437
+00:13:52,340 --> 00:13:52,580
+...with<u> all</u> our abilities.
+
+438
+00:13:52,580 --> 00:13:52,840
+...with all<u> our</u> abilities.
+
+439
+00:13:52,840 --> 00:13:53,140
+...with all our<u> abilities.</u>
+
+440
+00:13:54,620 --> 00:13:55,640
+<u>So</u> that when the time comes...
+
+441
+00:13:55,640 --> 00:13:55,800
+So<u> that</u> when the time comes...
+
+442
+00:13:55,800 --> 00:13:56,320
+So that<u> when</u> the time comes...
+
+443
+00:13:56,320 --> 00:13:56,740
+So that when<u> the</u> time comes...
+
+444
+00:13:56,740 --> 00:13:56,740
+So that when the<u> time</u> comes...
+
+445
+00:13:56,740 --> 00:13:58,000
+So that when the time<u> comes...</u>
+
+446
+00:13:58,000 --> 00:13:58,860
+<u>...Alva</u> can fight the 8th Prince.
+
+447
+00:13:58,860 --> 00:13:59,120
+...Alva<u> can</u> fight the 8th Prince.
+
+448
+00:13:59,120 --> 00:13:59,460
+...Alva can<u> fight</u> the 8th Prince.
+
+449
+00:13:59,460 --> 00:14:00,020
+...Alva can fight<u> the</u> 8th Prince.
+
+450
+00:14:00,020 --> 00:14:00,160
+...Alva can fight the<u> 8th</u> Prince.
+
+451
+00:14:00,160 --> 00:14:00,160
+...Alva can fight the 8th<u> Prince.</u>
+
+452
+00:14:05,560 --> 00:14:10,900
+<u>Agni.</u>
+
+453
+00:14:11,840 --> 00:14:12,760
+<u>Keep</u> this a secret.
+
+454
+00:14:12,760 --> 00:14:12,940
+Keep<u> this</u> a secret.
+
+455
+00:14:12,940 --> 00:14:13,240
+Keep this<u> a</u> secret.
+
+456
+00:14:13,240 --> 00:14:13,240
+Keep this a<u> secret.</u>
+
+457
+00:14:14,100 --> 00:14:14,600
+<u>Don't</u> let anyone know...
+
+458
+00:14:14,600 --> 00:14:14,940
+Don't<u> let</u> anyone know...
+
+459
+00:14:14,940 --> 00:14:15,400
+Don't let<u> anyone</u> know...
+
+460
+00:14:15,400 --> 00:14:16,540
+Don't let anyone<u> know...</u>
+
+461
+00:14:16,540 --> 00:14:17,080
+<u>...that</u> the chosen child is in this school.
+
+462
+00:14:17,080 --> 00:14:17,300
+...that<u> the</u> chosen child is in this school.
+
+463
+00:14:17,300 --> 00:14:17,780
+...that the<u> chosen</u> child is in this school.
+
+464
+00:14:17,780 --> 00:14:17,800
+...that the chosen<u> child</u> is in this school.
+
+465
+00:14:17,800 --> 00:14:18,020
+...that the chosen child<u> is</u> in this school.
+
+466
+00:14:18,020 --> 00:14:18,140
+...that the chosen child is<u> in</u> this school.
+
+467
+00:14:18,140 --> 00:14:18,180
+...that the chosen child is in<u> this</u> school.
+
+468
+00:14:18,180 --> 00:14:18,400
+...that the chosen child is in this<u> school.</u>
+
+469
+00:14:19,300 --> 00:14:19,800
+<u>If</u> anyone finds out...
+
+470
+00:14:19,800 --> 00:14:20,460
+If<u> anyone</u> finds out...
+
+471
+00:14:20,460 --> 00:14:21,100
+If anyone<u> finds</u> out...
+
+472
+00:14:21,100 --> 00:14:21,640
+If anyone finds<u> out...</u>
+
+473
+00:14:21,640 --> 00:14:22,500
+<u>...the</u> 8th Prince...
+
+474
+00:14:22,500 --> 00:14:23,120
+...the<u> 8th</u> Prince...
+
+475
+00:14:23,120 --> 00:14:23,120
+...the 8th<u> Prince...</u>
+
+476
+00:14:23,820 --> 00:14:24,540
+<u>...they</u> will know sooner than we think.
+
+477
+00:14:24,540 --> 00:14:24,700
+...they<u> will</u> know sooner than we think.
+
+478
+00:14:24,700 --> 00:14:24,860
+...they will<u> know</u> sooner than we think.
+
+479
+00:14:24,860 --> 00:14:25,240
+...they will know<u> sooner</u> than we think.
+
+480
+00:14:25,240 --> 00:14:25,500
+...they will know sooner<u> than</u> we think.
+
+481
+00:14:25,500 --> 00:14:25,880
+...they will know sooner than<u> we</u> think.
+
+482
+00:14:25,880 --> 00:14:26,240
+...they will know sooner than we<u> think.</u>
+
+483
+00:14:26,960 --> 00:14:27,520
+<u>Yes,</u> sir.
+
+484
+00:14:27,520 --> 00:14:27,600
+Yes, sir.
+
+485
+00:14:27,600 --> 00:14:27,840
+Yes,<u> sir.</u>
+
+486
+00:14:28,240 --> 00:14:28,900
+<u>We</u> are ready...
+
+487
+00:14:28,900 --> 00:14:29,160
+We<u> are</u> ready...
+
+488
+00:14:29,160 --> 00:14:30,780
+We are<u> ready...</u>
+
+489
+00:14:30,780 --> 00:14:30,780
+<u>...to</u> be sworn.
+
+490
+00:14:30,780 --> 00:14:30,960
+...to<u> be</u> sworn.
+
+491
+00:14:30,960 --> 00:14:31,140
+...to be<u> sworn.</u>
+
+492
+00:14:31,840 --> 00:14:32,840
+<u>I</u> swear.
+
+493
+00:14:32,840 --> 00:14:33,000
+I<u> swear.</u>
+
+494
+00:14:34,120 --> 00:14:46,040
+<u>My</u> monster!
+
+495
+00:14:46,040 --> 00:14:46,040
+My<u> monster!</u>
+
+496
+00:14:46,360 --> 00:14:47,640
+<u>My</u> monster!
+
+497
+00:14:47,640 --> 00:14:47,640
+My<u> monster!</u>
+
+498
+00:14:47,640 --> 00:14:49,900
+<u>Where</u> is my monster?
+
+499
+00:14:49,900 --> 00:14:50,020
+Where<u> is</u> my monster?
+
+500
+00:14:50,020 --> 00:14:50,060
+Where is<u> my</u> monster?
+
+501
+00:14:50,060 --> 00:14:50,280
+Where is my<u> monster?</u>
+
+502
+00:14:51,100 --> 00:14:51,460
+<u>Where</u> is my monster?
+
+503
+00:14:51,460 --> 00:14:51,460
+Where<u> is</u> my monster?
+
+504
+00:14:51,460 --> 00:14:51,680
+Where is<u> my</u> monster?
+
+505
+00:14:51,680 --> 00:14:51,680
+Where is my<u> monster?</u>
+
+506
+00:14:51,680 --> 00:14:52,260
+<u>Where</u> is my monster?
+
+507
+00:14:52,260 --> 00:14:52,620
+Where<u> is</u> my monster?
+
+508
+00:14:52,620 --> 00:14:52,840
+Where is<u> my</u> monster?
+
+509
+00:14:52,840 --> 00:14:53,140
+Where is my<u> monster?</u>
+
+510
+00:14:53,600 --> 00:14:54,040
+<u>Where</u> is my monster?
+
+511
+00:14:54,040 --> 00:14:54,180
+Where<u> is</u> my monster?
+
+512
+00:14:54,180 --> 00:14:54,540
+Where is<u> my</u> monster?
+
+513
+00:14:54,540 --> 00:14:54,540
+Where is my<u> monster?</u>
+
+514
+00:14:55,020 --> 00:14:55,220
+<u>Calm</u> down, Ray.
+
+515
+00:14:55,220 --> 00:14:55,400
+Calm<u> down,</u> Ray.
+
+516
+00:14:55,400 --> 00:14:55,520
+Calm down,<u> Ray.</u>
+
+517
+00:14:55,640 --> 00:14:56,900
+<u>There's</u> a monster here.
+
+518
+00:14:56,900 --> 00:14:56,940
+There's<u> a</u> monster here.
+
+519
+00:14:56,940 --> 00:14:57,340
+There's a<u> monster</u> here.
+
+520
+00:14:57,340 --> 00:14:57,580
+There's a monster<u> here.</u>
+
+521
+00:14:58,020 --> 00:14:58,840
+<u>Really?</u>
+
+522
+00:14:59,300 --> 00:14:59,960
+<u>But</u> I was in my room.
+
+523
+00:14:59,960 --> 00:15:00,220
+But<u> I</u> was in my room.
+
+524
+00:15:00,220 --> 00:15:00,780
+But I<u> was</u> in my room.
+
+525
+00:15:00,780 --> 00:15:00,900
+But I was<u> in</u> my room.
+
+526
+00:15:00,900 --> 00:15:01,100
+But I was in<u> my</u> room.
+
+527
+00:15:01,100 --> 00:15:01,360
+But I was in my<u> room.</u>
+
+528
+00:15:01,840 --> 00:15:02,060
+<u>Weren't</u> we fighting the monster?
+
+529
+00:15:02,060 --> 00:15:02,380
+Weren't<u> we</u> fighting the monster?
+
+530
+00:15:02,380 --> 00:15:03,300
+Weren't we<u> fighting</u> the monster?
+
+531
+00:15:03,300 --> 00:15:03,520
+Weren't we fighting<u> the</u> monster?
+
+532
+00:15:03,520 --> 00:15:03,780
+Weren't we fighting the<u> monster?</u>
+
+533
+00:15:04,140 --> 00:15:05,220
+<u>Of</u> course.
+
+534
+00:15:05,220 --> 00:15:05,220
+Of<u> course.</u>
+
+535
+00:15:05,960 --> 00:15:06,280
+<u>But</u> you fainted.
+
+536
+00:15:06,280 --> 00:15:06,580
+But<u> you</u> fainted.
+
+537
+00:15:06,580 --> 00:15:07,100
+But you<u> fainted.</u>
+
+538
+00:15:07,760 --> 00:15:08,080
+<u>Then?</u>
+
+539
+00:15:08,440 --> 00:15:09,040
+<u>Then?</u>
+
+540
+00:15:09,040 --> 00:15:09,980
+<u>Where</u> is my monster now?
+
+541
+00:15:09,980 --> 00:15:09,980
+Where<u> is</u> my monster now?
+
+542
+00:15:09,980 --> 00:15:10,360
+Where is<u> my</u> monster now?
+
+543
+00:15:10,360 --> 00:15:10,360
+Where is my<u> monster</u> now?
+
+544
+00:15:10,360 --> 00:15:10,800
+Where is my monster<u> now?</u>
+
+545
+00:15:11,000 --> 00:15:11,280
+<u>Who</u> defeated him?
+
+546
+00:15:11,280 --> 00:15:11,680
+Who<u> defeated</u> him?
+
+547
+00:15:11,680 --> 00:15:11,800
+Who defeated<u> him?</u>
+
+548
+00:15:12,440 --> 00:15:13,360
+<u>Again?</u>
+
+549
+00:15:14,300 --> 00:15:14,860
+<u>Hold</u> it.
+
+550
+00:15:14,860 --> 00:15:15,020
+Hold<u> it.</u>
+
+551
+00:15:15,200 --> 00:15:16,000
+<u>Don't</u> shout like a thief.
+
+552
+00:15:16,000 --> 00:15:16,400
+Don't<u> shout</u> like a thief.
+
+553
+00:15:16,400 --> 00:15:16,700
+Don't shout<u> like</u> a thief.
+
+554
+00:15:16,700 --> 00:15:16,880
+Don't shout like<u> a</u> thief.
+
+555
+00:15:16,880 --> 00:15:17,160
+Don't shout like a<u> thief.</u>
+
+556
+00:15:17,380 --> 00:15:18,280
+<u>I'm</u> so curious.
+
+557
+00:15:18,280 --> 00:15:18,320
+I'm<u> so</u> curious.
+
+558
+00:15:18,320 --> 00:15:18,760
+I'm so<u> curious.</u>
+
+559
+00:15:18,880 --> 00:15:19,680
+<u>I</u> was in my room when I woke up.
+
+560
+00:15:19,680 --> 00:15:19,800
+I<u> was</u> in my room when I woke up.
+
+561
+00:15:19,800 --> 00:15:20,040
+I was<u> in</u> my room when I woke up.
+
+562
+00:15:20,040 --> 00:15:21,020
+I was in<u> my</u> room when I woke up.
+
+563
+00:15:21,020 --> 00:15:21,180
+I was in my<u> room</u> when I woke up.
+
+564
+00:15:21,180 --> 00:15:21,180
+I was in my room<u> when</u> I woke up.
+
+565
+00:15:21,180 --> 00:15:21,180
+I was in my room when<u> I</u> woke up.
+
+566
+00:15:21,180 --> 00:15:21,180
+I was in my room when I<u> woke</u> up.
+
+567
+00:15:21,180 --> 00:15:21,180
+I was in my room when I woke<u> up.</u>
+
+568
+00:15:21,620 --> 00:15:22,140
+<u>You</u> fainted.
+
+569
+00:15:22,140 --> 00:15:22,940
+You<u> fainted.</u>
+
+570
+00:15:23,200 --> 00:15:23,720
+<u>Then</u> the teachers and Professor Aldebaran came.
+
+571
+00:15:23,720 --> 00:15:24,180
+Then<u> the</u> teachers and Professor Aldebaran came.
+
+572
+00:15:24,180 --> 00:15:24,580
+Then the<u> teachers</u> and Professor Aldebaran came.
+
+573
+00:15:24,580 --> 00:15:25,060
+Then the teachers<u> and</u> Professor Aldebaran came.
+
+574
+00:15:25,060 --> 00:15:25,880
+Then the teachers and<u> Professor</u> Aldebaran came.
+
+575
+00:15:25,880 --> 00:15:26,560
+Then the teachers and Professor<u> Aldebaran</u> came.
+
+576
+00:15:26,560 --> 00:15:27,480
+Then the teachers and Professor Aldebaran<u> came.</u>
+
+577
+00:15:27,880 --> 00:15:28,200
+<u>Professor</u> Aldebaran defeated the monster?
+
+578
+00:15:28,200 --> 00:15:28,680
+Professor<u> Aldebaran</u> defeated the monster?
+
+579
+00:15:28,680 --> 00:15:28,920
+Professor Aldebaran<u> defeated</u> the monster?
+
+580
+00:15:28,920 --> 00:15:29,140
+Professor Aldebaran defeated<u> the</u> monster?
+
+581
+00:15:29,140 --> 00:15:29,280
+Professor Aldebaran defeated the<u> monster?</u>
+
+582
+00:15:29,880 --> 00:15:30,540
+<u>Yes.</u>
+
+583
+00:15:31,280 --> 00:15:32,760
+<u>I'm</u> the monster.
+
+584
+00:15:32,760 --> 00:15:32,940
+I'm<u> the</u> monster.
+
+585
+00:15:32,940 --> 00:15:33,200
+I'm the<u> monster.</u>
+
+586
+00:15:34,040 --> 00:15:34,380
+<u>Professor</u> Aldebaran was defeated.
+
+587
+00:15:34,380 --> 00:15:34,700
+Professor<u> Aldebaran</u> was defeated.
+
+588
+00:15:34,700 --> 00:15:34,820
+Professor Aldebaran<u> was</u> defeated.
+
+589
+00:15:34,820 --> 00:15:35,280
+Professor Aldebaran was<u> defeated.</u>
+
+590
+00:15:35,740 --> 00:15:35,980
+<u>I'm</u> the monster.
+
+591
+00:15:35,980 --> 00:15:37,160
+I'm<u> the</u> monster.
+
+592
+00:15:37,160 --> 00:15:37,580
+I'm the<u> monster.</u>
+
+593
+00:15:38,060 --> 00:15:38,420
+<u>As</u> long as Professor Aldebaran is here, we are safe.
+
+594
+00:15:38,420 --> 00:15:38,520
+As<u> long</u> as Professor Aldebaran is here, we are safe.
+
+595
+00:15:38,520 --> 00:15:38,560
+As long<u> as</u> Professor Aldebaran is here, we are safe.
+
+596
+00:15:38,560 --> 00:15:39,000
+As long as<u> Professor</u> Aldebaran is here, we are safe.
+
+597
+00:15:39,000 --> 00:15:39,500
+As long as Professor<u> Aldebaran</u> is here, we are safe.
+
+598
+00:15:39,500 --> 00:15:39,660
+As long as Professor Aldebaran<u> is</u> here, we are safe.
+
+599
+00:15:39,660 --> 00:15:39,980
+As long as Professor Aldebaran is<u> here,</u> we are safe.
+
+600
+00:15:39,980 --> 00:15:40,160
+As long as Professor Aldebaran is here, we are safe.
+
+601
+00:15:40,160 --> 00:15:40,380
+As long as Professor Aldebaran is here,<u> we</u> are safe.
+
+602
+00:15:40,380 --> 00:15:40,600
+As long as Professor Aldebaran is here, we<u> are</u> safe.
+
+603
+00:15:40,600 --> 00:15:40,960
+As long as Professor Aldebaran is here, we are<u> safe.</u>
+
+604
+00:15:41,560 --> 00:15:41,820
+<u>That's</u> right.
+
+605
+00:15:41,820 --> 00:15:42,200
+That's<u> right.</u>
+
+606
+00:15:59,680 --> 00:16:00,620
+<u>Why</u> am I here?
+
+607
+00:16:00,620 --> 00:16:00,900
+Why<u> am</u> I here?
+
+608
+00:16:00,900 --> 00:16:00,940
+Why am<u> I</u> here?
+
+609
+00:16:00,940 --> 00:16:01,340
+Why am I<u> here?</u>
+
+610
+00:16:03,060 --> 00:16:05,740
+<u>Thank</u> God.
+
+611
+00:16:05,740 --> 00:16:06,060
+Thank<u> God.</u>
+
+612
+00:16:06,880 --> 00:16:07,540
+<u>Both</u> of you are awake.
+
+613
+00:16:07,540 --> 00:16:07,540
+Both<u> of</u> you are awake.
+
+614
+00:16:07,540 --> 00:16:07,600
+Both of<u> you</u> are awake.
+
+615
+00:16:07,600 --> 00:16:07,800
+Both of you<u> are</u> awake.
+
+616
+00:16:07,800 --> 00:16:08,060
+Both of you are<u> awake.</u>
+
+617
+00:16:09,900 --> 00:16:12,640
+<u>Professor</u> Ali.
+
+618
+00:16:12,640 --> 00:16:12,900
+Professor<u> Ali.</u>
+
+619
+00:16:13,940 --> 00:16:14,480
+<u>Where</u> is my monster?
+
+620
+00:16:14,480 --> 00:16:14,480
+Where<u> is</u> my monster?
+
+621
+00:16:14,480 --> 00:16:15,080
+Where is<u> my</u> monster?
+
+622
+00:16:15,080 --> 00:16:15,080
+Where is my<u> monster?</u>
+
+623
+00:16:15,840 --> 00:16:17,000
+<u>Calm</u> down, Professor Pula.
+
+624
+00:16:17,000 --> 00:16:17,040
+Calm<u> down,</u> Professor Pula.
+
+625
+00:16:17,040 --> 00:16:17,060
+Calm down, Professor Pula.
+
+626
+00:16:17,060 --> 00:16:17,360
+Calm down,<u> Professor</u> Pula.
+
+627
+00:16:17,360 --> 00:16:17,700
+Calm down, Professor<u> Pula.</u>
+
+628
+00:16:18,440 --> 00:16:18,740
+<u>Calm</u> down, Professor Pula.
+
+629
+00:16:18,740 --> 00:16:18,740
+Calm<u> down,</u> Professor Pula.
+
+630
+00:16:18,740 --> 00:16:18,740
+Calm down,<u> Professor</u> Pula.
+
+631
+00:16:18,740 --> 00:16:18,740
+Calm down, Professor<u> Pula.</u>
+
+632
+00:16:18,740 --> 00:16:18,740
+
+
+633
+00:16:18,740 --> 00:16:18,740
+
+
+634
+00:16:18,740 --> 00:16:18,740
+
+
+635
+00:16:18,740 --> 00:16:18,740
+
+
+636
+00:16:18,740 --> 00:16:18,740
+<u>My</u> monster has been defeated.
+
+637
+00:16:18,740 --> 00:16:19,020
+My<u> monster</u> has been defeated.
+
+638
+00:16:19,020 --> 00:16:19,440
+My monster<u> has</u> been defeated.
+
+639
+00:16:19,440 --> 00:16:19,500
+My monster has<u> been</u> defeated.
+
+640
+00:16:19,500 --> 00:16:19,840
+My monster has been<u> defeated.</u>
+
+641
+00:16:21,900 --> 00:16:27,180
+<u>So</u> the Dark Lord is here.
+
+642
+00:16:27,180 --> 00:16:27,320
+So<u> the</u> Dark Lord is here.
+
+643
+00:16:27,320 --> 00:16:27,820
+So the<u> Dark</u> Lord is here.
+
+644
+00:16:27,820 --> 00:16:27,820
+So the Dark<u> Lord</u> is here.
+
+645
+00:16:27,820 --> 00:16:28,060
+So the Dark Lord<u> is</u> here.
+
+646
+00:16:28,060 --> 00:16:28,400
+So the Dark Lord is<u> here.</u>
+
+647
+00:16:28,920 --> 00:16:29,900
+<u>Because</u> only he can defeat him.
+
+648
+00:16:29,900 --> 00:16:30,140
+Because<u> only</u> he can defeat him.
+
+649
+00:16:30,140 --> 00:16:30,260
+Because only<u> he</u> can defeat him.
+
+650
+00:16:30,260 --> 00:16:30,480
+Because only he<u> can</u> defeat him.
+
+651
+00:16:30,480 --> 00:16:30,800
+Because only he can<u> defeat</u> him.
+
+652
+00:16:30,800 --> 00:16:31,120
+Because only he can defeat<u> him.</u>
+
+653
+00:16:31,380 --> 00:16:31,660
+<u>Calm</u> down, Professor Pula.
+
+654
+00:16:31,660 --> 00:16:31,700
+Calm<u> down,</u> Professor Pula.
+
+655
+00:16:31,700 --> 00:16:31,760
+Calm down, Professor Pula.
+
+656
+00:16:31,760 --> 00:16:32,080
+Calm down,<u> Professor</u> Pula.
+
+657
+00:16:32,080 --> 00:16:32,380
+Calm down, Professor<u> Pula.</u>
+
+658
+00:16:33,040 --> 00:16:33,500
+<u>The</u> Dark Lord is not here.
+
+659
+00:16:33,500 --> 00:16:34,180
+The<u> Dark</u> Lord is not here.
+
+660
+00:16:34,180 --> 00:16:34,180
+The Dark<u> Lord</u> is not here.
+
+661
+00:16:34,180 --> 00:16:34,400
+The Dark Lord<u> is</u> not here.
+
+662
+00:16:34,400 --> 00:16:34,460
+The Dark Lord is<u> not</u> here.
+
+663
+00:16:34,460 --> 00:16:34,920
+The Dark Lord is not<u> here.</u>
+
+664
+00:16:37,640 --> 00:16:38,600
+<u>But</u> the chosen one has defeated him.
+
+665
+00:16:38,600 --> 00:16:39,400
+But<u> the</u> chosen one has defeated him.
+
+666
+00:16:39,400 --> 00:16:39,900
+But the<u> chosen</u> one has defeated him.
+
+667
+00:16:39,900 --> 00:16:39,960
+But the chosen<u> one</u> has defeated him.
+
+668
+00:16:39,960 --> 00:16:40,320
+But the chosen one<u> has</u> defeated him.
+
+669
+00:16:40,320 --> 00:16:41,160
+But the chosen one has<u> defeated</u> him.
+
+670
+00:16:41,160 --> 00:16:41,620
+But the chosen one has defeated<u> him.</u>
+
+671
+00:16:49,020 --> 00:16:49,860
+<u>Who</u> is he?
+
+672
+00:16:49,860 --> 00:16:49,980
+Who<u> is</u> he?
+
+673
+00:16:49,980 --> 00:16:50,100
+Who is<u> he?</u>
+
+674
+00:16:50,720 --> 00:16:51,140
+<u>I'm</u> sorry.
+
+675
+00:16:51,140 --> 00:16:51,140
+I'm<u> sorry.</u>
+
+676
+00:16:51,900 --> 00:16:52,360
+<u>But</u> I promised not to tell anyone.
+
+677
+00:16:52,360 --> 00:16:52,560
+But<u> I</u> promised not to tell anyone.
+
+678
+00:16:52,560 --> 00:16:53,140
+But I<u> promised</u> not to tell anyone.
+
+679
+00:16:53,140 --> 00:16:53,520
+But I promised<u> not</u> to tell anyone.
+
+680
+00:16:53,520 --> 00:16:53,580
+But I promised not<u> to</u> tell anyone.
+
+681
+00:16:53,580 --> 00:16:53,940
+But I promised not to<u> tell</u> anyone.
+
+682
+00:16:53,940 --> 00:16:54,400
+But I promised not to tell<u> anyone.</u>
+
+683
+00:16:55,160 --> 00:16:55,800
+<u>What's</u> clear is that...
+
+684
+00:16:55,800 --> 00:16:56,160
+What's<u> clear</u> is that...
+
+685
+00:16:56,160 --> 00:16:56,220
+What's clear<u> is</u> that...
+
+686
+00:16:56,220 --> 00:16:57,100
+What's clear is<u> that...</u>
+
+687
+00:16:57,100 --> 00:16:57,380
+<u>the</u> chosen one is among our students here.
+
+688
+00:16:57,380 --> 00:16:57,720
+the<u> chosen</u> one is among our students here.
+
+689
+00:16:57,720 --> 00:16:57,760
+the chosen<u> one</u> is among our students here.
+
+690
+00:16:57,760 --> 00:16:58,100
+the chosen one<u> is</u> among our students here.
+
+691
+00:16:58,100 --> 00:16:58,520
+the chosen one is<u> among</u> our students here.
+
+692
+00:16:58,520 --> 00:16:58,720
+the chosen one is among<u> our</u> students here.
+
+693
+00:16:58,720 --> 00:16:59,120
+the chosen one is among our<u> students</u> here.
+
+694
+00:16:59,120 --> 00:16:59,740
+the chosen one is among our students<u> here.</u>
+
+695
+00:17:07,580 --> 00:17:14,340
+<u>Alfa.</u>
+
+696
+00:17:14,340 --> 00:17:14,560
+<u>Alfa.</u>
+
+697
+00:17:15,040 --> 00:17:18,040
+<u>Alfa.</u>
+
+698
+00:17:18,360 --> 00:17:19,980
+<u>Alfa.</u>
+
+699
+00:17:20,740 --> 00:17:22,140
+<u>Alfa.</u>
+
+700
+00:17:22,500 --> 00:17:27,480
+<u>Alfa.</u>
+
+701
+00:17:27,600 --> 00:17:41,160
+<u>Alfa.</u>
+
+702
+00:17:41,160 --> 00:17:41,240
+<u>Alfa.</u>
+
+703
+00:17:41,940 --> 00:17:42,380
+<u>You</u> have to protect the Stone of Eternity in this school.
+
+704
+00:17:42,380 --> 00:17:42,600
+You<u> have</u> to protect the Stone of Eternity in this school.
+
+705
+00:17:42,600 --> 00:17:42,720
+You have<u> to</u> protect the Stone of Eternity in this school.
+
+706
+00:17:42,720 --> 00:17:43,080
+You have to<u> protect</u> the Stone of Eternity in this school.
+
+707
+00:17:43,080 --> 00:17:43,320
+You have to protect<u> the</u> Stone of Eternity in this school.
+
+708
+00:17:43,320 --> 00:17:43,460
+You have to protect the<u> Stone</u> of Eternity in this school.
+
+709
+00:17:43,460 --> 00:17:43,540
+You have to protect the Stone<u> of</u> Eternity in this school.
+
+710
+00:17:43,540 --> 00:17:43,940
+You have to protect the Stone of<u> Eternity</u> in this school.
+
+711
+00:17:43,940 --> 00:17:44,320
+You have to protect the Stone of Eternity<u> in</u> this school.
+
+712
+00:17:44,320 --> 00:17:44,420
+You have to protect the Stone of Eternity in<u> this</u> school.
+
+713
+00:17:44,420 --> 00:17:44,640
+You have to protect the Stone of Eternity in this<u> school.</u>
+
+714
+00:17:45,860 --> 00:17:46,240
+<u>What</u> is the Stone of Eternity?
+
+715
+00:17:46,240 --> 00:17:46,240
+What<u> is</u> the Stone of Eternity?
+
+716
+00:17:46,240 --> 00:17:46,380
+What is<u> the</u> Stone of Eternity?
+
+717
+00:17:46,380 --> 00:17:46,380
+What is the<u> Stone</u> of Eternity?
+
+718
+00:17:46,380 --> 00:17:46,480
+What is the Stone<u> of</u> Eternity?
+
+719
+00:17:46,480 --> 00:17:46,700
+What is the Stone of<u> Eternity?</u>
+
+720
+00:17:48,220 --> 00:17:50,060
+<u>The</u> Stone of Eternity is a very strong stone.
+
+721
+00:17:50,060 --> 00:17:50,240
+The<u> Stone</u> of Eternity is a very strong stone.
+
+722
+00:17:50,240 --> 00:17:50,360
+The Stone<u> of</u> Eternity is a very strong stone.
+
+723
+00:17:50,360 --> 00:17:50,780
+The Stone of<u> Eternity</u> is a very strong stone.
+
+724
+00:17:50,780 --> 00:17:51,360
+The Stone of Eternity<u> is</u> a very strong stone.
+
+725
+00:17:51,360 --> 00:17:51,520
+The Stone of Eternity is<u> a</u> very strong stone.
+
+726
+00:17:51,520 --> 00:17:52,380
+The Stone of Eternity is a<u> very</u> strong stone.
+
+727
+00:17:52,380 --> 00:17:53,040
+The Stone of Eternity is a very<u> strong</u> stone.
+
+728
+00:17:53,040 --> 00:17:53,040
+The Stone of Eternity is a very strong<u> stone.</u>
+
+729
+00:17:53,880 --> 00:17:54,280
+<u>The</u> stone cannot fall into the wrong hands.
+
+730
+00:17:54,280 --> 00:17:54,280
+The<u> stone</u> cannot fall into the wrong hands.
+
+731
+00:17:54,280 --> 00:17:54,800
+The stone<u> cannot</u> fall into the wrong hands.
+
+732
+00:17:54,800 --> 00:17:55,160
+The stone cannot<u> fall</u> into the wrong hands.
+
+733
+00:17:55,160 --> 00:17:55,520
+The stone cannot fall<u> into</u> the wrong hands.
+
+734
+00:17:55,520 --> 00:17:56,160
+The stone cannot fall into<u> the</u> wrong hands.
+
+735
+00:17:56,160 --> 00:17:56,400
+The stone cannot fall into the<u> wrong</u> hands.
+
+736
+00:17:56,400 --> 00:17:56,400
+The stone cannot fall into the wrong<u> hands.</u>
+
+737
+00:17:56,420 --> 00:17:57,740
+<u>You</u> have to protect that stone.
+
+738
+00:17:57,740 --> 00:17:58,180
+You<u> have</u> to protect that stone.
+
+739
+00:17:58,180 --> 00:17:58,460
+You have<u> to</u> protect that stone.
+
+740
+00:17:58,460 --> 00:17:58,880
+You have to<u> protect</u> that stone.
+
+741
+00:17:58,880 --> 00:17:59,600
+You have to protect<u> that</u> stone.
+
+742
+00:17:59,600 --> 00:17:59,600
+You have to protect that<u> stone.</u>
+
+743
+00:18:00,360 --> 00:18:00,760
+<u>But</u> how do I protect it?
+
+744
+00:18:00,760 --> 00:18:01,080
+But<u> how</u> do I protect it?
+
+745
+00:18:01,080 --> 00:18:01,340
+But how<u> do</u> I protect it?
+
+746
+00:18:01,340 --> 00:18:01,400
+But how do<u> I</u> protect it?
+
+747
+00:18:01,400 --> 00:18:01,640
+But how do I<u> protect</u> it?
+
+748
+00:18:01,640 --> 00:18:01,840
+But how do I protect<u> it?</u>
+
+749
+00:18:02,420 --> 00:18:02,900
+<u>Protect</u> it with your sincerity, Alfa.
+
+750
+00:18:02,900 --> 00:18:03,160
+Protect<u> it</u> with your sincerity, Alfa.
+
+751
+00:18:03,160 --> 00:18:03,300
+Protect it<u> with</u> your sincerity, Alfa.
+
+752
+00:18:03,300 --> 00:18:03,520
+Protect it with<u> your</u> sincerity, Alfa.
+
+753
+00:18:03,520 --> 00:18:03,900
+Protect it with your<u> sincerity,</u> Alfa.
+
+754
+00:18:03,900 --> 00:18:04,320
+Protect it with your sincerity, Alfa.
+
+755
+00:18:04,320 --> 00:18:04,660
+Protect it with your sincerity,<u> Alfa.</u>
+
+756
+00:18:11,880 --> 00:18:12,620
+<u>How</u> do you know this school?
+
+757
+00:18:12,620 --> 00:18:12,720
+How<u> do</u> you know this school?
+
+758
+00:18:12,720 --> 00:18:12,880
+How do<u> you</u> know this school?
+
+759
+00:18:12,880 --> 00:18:13,060
+How do you<u> know</u> this school?
+
+760
+00:18:13,060 --> 00:18:13,160
+How do you know<u> this</u> school?
+
+761
+00:18:13,160 --> 00:18:13,300
+How do you know this<u> school?</u>
+
+762
+00:18:14,140 --> 00:18:14,580
+<u>And</u> you know my name?
+
+763
+00:18:14,580 --> 00:18:14,720
+And<u> you</u> know my name?
+
+764
+00:18:14,720 --> 00:18:14,720
+And you<u> know</u> my name?
+
+765
+00:18:14,720 --> 00:18:15,060
+And you know<u> my</u> name?
+
+766
+00:18:15,060 --> 00:18:15,060
+And you know my<u> name?</u>
+
+767
+00:18:15,640 --> 00:18:16,660
+<u>Who</u> are you really?
+
+768
+00:18:16,660 --> 00:18:17,120
+Who<u> are</u> you really?
+
+769
+00:18:17,120 --> 00:18:17,120
+Who are<u> you</u> really?
+
+770
+00:18:17,120 --> 00:18:17,120
+Who are you<u> really?</u>
+
+771
+00:18:18,480 --> 00:18:19,360
+<u>One</u> day you will know who we really are.
+
+772
+00:18:19,360 --> 00:18:19,660
+One<u> day</u> you will know who we really are.
+
+773
+00:18:19,660 --> 00:18:20,500
+One day<u> you</u> will know who we really are.
+
+774
+00:18:20,500 --> 00:18:20,760
+One day you<u> will</u> know who we really are.
+
+775
+00:18:20,760 --> 00:18:21,040
+One day you will<u> know</u> who we really are.
+
+776
+00:18:21,040 --> 00:18:21,320
+One day you will know<u> who</u> we really are.
+
+777
+00:18:21,320 --> 00:18:21,680
+One day you will know who<u> we</u> really are.
+
+778
+00:18:21,680 --> 00:18:22,100
+One day you will know who we<u> really</u> are.
+
+779
+00:18:22,100 --> 00:18:22,820
+One day you will know who we really<u> are.</u>
+
+780
+00:18:29,700 --> 00:18:34,580
+<u>Hey!</u> Who are you?
+
+781
+00:18:34,580 --> 00:18:34,960
+Hey! Who are you?
+
+782
+00:18:34,960 --> 00:18:35,580
+Hey!<u> Who</u> are you?
+
+783
+00:18:35,580 --> 00:18:35,780
+Hey! Who<u> are</u> you?
+
+784
+00:18:35,780 --> 00:18:36,000
+Hey! Who are<u> you?</u>
+
+785
+00:18:41,780 --> 00:18:42,540
+<u>What</u> is it?
+
+786
+00:18:42,540 --> 00:18:42,740
+What<u> is</u> it?
+
+787
+00:18:42,740 --> 00:18:42,820
+What is<u> it?</u>
+
+788
+00:18:43,340 --> 00:18:43,940
+<u>I</u> had a weird dream.
+
+789
+00:18:43,940 --> 00:18:44,220
+I<u> had</u> a weird dream.
+
+790
+00:18:44,220 --> 00:18:44,220
+I had<u> a</u> weird dream.
+
+791
+00:18:44,220 --> 00:18:44,480
+I had a<u> weird</u> dream.
+
+792
+00:18:44,480 --> 00:18:44,480
+I had a weird<u> dream.</u>
+
+793
+00:18:44,880 --> 00:18:45,120
+<u>What</u> dream?
+
+794
+00:18:45,120 --> 00:18:45,120
+What<u> dream?</u>
+
+795
+00:18:45,960 --> 00:18:46,400
+<u>This.</u>
+
+796
+00:18:47,500 --> 00:18:48,020
+<u>A</u> statue.
+
+797
+00:18:48,020 --> 00:18:48,060
+A<u> statue.</u>
+
+798
+00:18:52,780 --> 00:18:55,740
+<u>What?</u>
+
+799
+00:18:56,220 --> 00:18:57,060
+<u>I</u> was visited by someone.
+
+800
+00:18:57,060 --> 00:18:57,200
+I<u> was</u> visited by someone.
+
+801
+00:18:57,200 --> 00:18:57,460
+I was<u> visited</u> by someone.
+
+802
+00:18:57,460 --> 00:18:57,500
+I was visited<u> by</u> someone.
+
+803
+00:18:57,500 --> 00:18:57,880
+I was visited by<u> someone.</u>
+
+804
+00:18:58,620 --> 00:18:59,660
+<u>And</u> that person is really nice.
+
+805
+00:18:59,660 --> 00:18:59,960
+And<u> that</u> person is really nice.
+
+806
+00:18:59,960 --> 00:18:59,960
+And that<u> person</u> is really nice.
+
+807
+00:18:59,960 --> 00:19:00,160
+And that person<u> is</u> really nice.
+
+808
+00:19:00,160 --> 00:19:00,320
+And that person is<u> really</u> nice.
+
+809
+00:19:00,320 --> 00:19:00,640
+And that person is really<u> nice.</u>
+
+810
+00:19:01,520 --> 00:19:01,720
+<u>I</u> can feel it.
+
+811
+00:19:01,720 --> 00:19:01,900
+I<u> can</u> feel it.
+
+812
+00:19:01,900 --> 00:19:02,260
+I can<u> feel</u> it.
+
+813
+00:19:02,260 --> 00:19:02,540
+I can feel<u> it.</u>
+
+814
+00:19:03,020 --> 00:19:03,600
+<u>They</u> love me.
+
+815
+00:19:03,600 --> 00:19:03,900
+They<u> love</u> me.
+
+816
+00:19:03,900 --> 00:19:04,360
+They love<u> me.</u>
+
+817
+00:19:05,180 --> 00:19:05,800
+<u>And</u> the weirdest thing is...
+
+818
+00:19:05,800 --> 00:19:05,920
+And<u> the</u> weirdest thing is...
+
+819
+00:19:05,920 --> 00:19:06,240
+And the<u> weirdest</u> thing is...
+
+820
+00:19:06,240 --> 00:19:06,360
+And the weirdest<u> thing</u> is...
+
+821
+00:19:06,360 --> 00:19:07,200
+And the weirdest thing<u> is...</u>
+
+822
+00:19:07,500 --> 00:19:08,100
+<u>They</u> told me to protect the Stone of Eternity in this school.
+
+823
+00:19:08,100 --> 00:19:08,360
+They<u> told</u> me to protect the Stone of Eternity in this school.
+
+824
+00:19:08,360 --> 00:19:08,720
+They told<u> me</u> to protect the Stone of Eternity in this school.
+
+825
+00:19:08,720 --> 00:19:09,080
+They told me<u> to</u> protect the Stone of Eternity in this school.
+
+826
+00:19:09,080 --> 00:19:09,340
+They told me to<u> protect</u> the Stone of Eternity in this school.
+
+827
+00:19:09,340 --> 00:19:09,580
+They told me to protect<u> the</u> Stone of Eternity in this school.
+
+828
+00:19:09,580 --> 00:19:09,700
+They told me to protect the<u> Stone</u> of Eternity in this school.
+
+829
+00:19:09,700 --> 00:19:09,760
+They told me to protect the Stone<u> of</u> Eternity in this school.
+
+830
+00:19:09,760 --> 00:19:10,120
+They told me to protect the Stone of<u> Eternity</u> in this school.
+
+831
+00:19:10,120 --> 00:19:10,680
+They told me to protect the Stone of Eternity<u> in</u> this school.
+
+832
+00:19:10,680 --> 00:19:10,780
+They told me to protect the Stone of Eternity in<u> this</u> school.
+
+833
+00:19:10,780 --> 00:19:11,000
+They told me to protect the Stone of Eternity in this<u> school.</u>
+
+834
+00:19:12,000 --> 00:19:12,660
+<u>The</u> Stone of Eternity?
+
+835
+00:19:12,660 --> 00:19:12,660
+The<u> Stone</u> of Eternity?
+
+836
+00:19:12,660 --> 00:19:12,840
+The Stone<u> of</u> Eternity?
+
+837
+00:19:12,840 --> 00:19:13,020
+The Stone of<u> Eternity?</u>
+
+838
+00:19:13,620 --> 00:19:14,260
+<u>What</u> is that?
+
+839
+00:19:14,260 --> 00:19:14,440
+What<u> is</u> that?
+
+840
+00:19:14,440 --> 00:19:14,580
+What is<u> that?</u>
+
+841
+00:19:15,240 --> 00:19:15,760
+<u>I've</u> never heard of it.
+
+842
+00:19:15,760 --> 00:19:15,780
+I've<u> never</u> heard of it.
+
+843
+00:19:15,780 --> 00:19:16,120
+I've never<u> heard</u> of it.
+
+844
+00:19:16,120 --> 00:19:16,120
+I've never heard<u> of</u> it.
+
+845
+00:19:16,120 --> 00:19:16,120
+I've never heard of<u> it.</u>
+
+846
+00:19:18,280 --> 00:19:18,940
+<u>Maybe</u> it's just a dream.
+
+847
+00:19:18,940 --> 00:19:19,060
+Maybe<u> it's</u> just a dream.
+
+848
+00:19:19,060 --> 00:19:19,180
+Maybe it's<u> just</u> a dream.
+
+849
+00:19:19,180 --> 00:19:19,280
+Maybe it's just<u> a</u> dream.
+
+850
+00:19:19,280 --> 00:19:19,440
+Maybe it's just a<u> dream.</u>
+
+851
+00:19:20,040 --> 00:19:20,400
+<u>I'm</u> going to sleep.
+
+852
+00:19:20,400 --> 00:19:20,460
+I'm<u> going</u> to sleep.
+
+853
+00:19:20,460 --> 00:19:20,460
+I'm going<u> to</u> sleep.
+
+854
+00:19:20,460 --> 00:19:20,580
+I'm going to<u> sleep.</u>
+
+855
+00:19:21,080 --> 00:19:21,540
+<u>I'm</u> sleepy.
+
+856
+00:19:21,540 --> 00:19:21,680
+I'm<u> sleepy.</u>
+
+857
+00:19:21,740 --> 00:19:22,180
+<u>Wait!</u>
+
+858
+00:19:22,800 --> 00:19:23,480
+<u>The</u> dream is real.
+
+859
+00:19:23,480 --> 00:19:23,680
+The<u> dream</u> is real.
+
+860
+00:19:23,680 --> 00:19:23,880
+The dream<u> is</u> real.
+
+861
+00:19:23,880 --> 00:19:24,360
+The dream is<u> real.</u>
+
+862
+00:19:25,240 --> 00:19:25,500
+<u>It's</u> real.
+
+863
+00:19:25,500 --> 00:19:25,780
+It's<u> real.</u>
+
+864
+00:19:26,100 --> 00:19:26,400
+<u>The</u> person in the dream must be serious.
+
+865
+00:19:26,400 --> 00:19:26,460
+The<u> person</u> in the dream must be serious.
+
+866
+00:19:26,460 --> 00:19:26,740
+The person<u> in</u> the dream must be serious.
+
+867
+00:19:26,740 --> 00:19:26,900
+The person in<u> the</u> dream must be serious.
+
+868
+00:19:26,900 --> 00:19:27,080
+The person in the<u> dream</u> must be serious.
+
+869
+00:19:27,080 --> 00:19:27,460
+The person in the dream<u> must</u> be serious.
+
+870
+00:19:27,460 --> 00:19:27,560
+The person in the dream must<u> be</u> serious.
+
+871
+00:19:27,560 --> 00:19:27,920
+The person in the dream must be<u> serious.</u>
+
+872
+00:19:28,280 --> 00:19:28,820
+<u>Who</u> is the person in your dream?
+
+873
+00:19:28,820 --> 00:19:28,960
+Who<u> is</u> the person in your dream?
+
+874
+00:19:28,960 --> 00:19:29,400
+Who is<u> the</u> person in your dream?
+
+875
+00:19:29,400 --> 00:19:29,400
+Who is the<u> person</u> in your dream?
+
+876
+00:19:29,400 --> 00:19:29,600
+Who is the person<u> in</u> your dream?
+
+877
+00:19:29,600 --> 00:19:30,140
+Who is the person in<u> your</u> dream?
+
+878
+00:19:30,140 --> 00:19:30,140
+Who is the person in your<u> dream?</u>
+
+879
+00:19:30,780 --> 00:19:31,840
+<u>I</u> don't know. I don't know.
+
+880
+00:19:31,840 --> 00:19:31,960
+I<u> don't</u> know. I don't know.
+
+881
+00:19:31,960 --> 00:19:32,300
+I don't<u> know.</u> I don't know.
+
+882
+00:19:32,300 --> 00:19:32,420
+I don't know. I don't know.
+
+883
+00:19:32,420 --> 00:19:32,580
+I don't know.<u> I</u> don't know.
+
+884
+00:19:32,580 --> 00:19:32,700
+I don't know. I<u> don't</u> know.
+
+885
+00:19:32,700 --> 00:19:32,900
+I don't know. I don't<u> know.</u>
+
+886
+00:19:33,260 --> 00:19:33,940
+<u>How</u> about this?
+
+887
+00:19:33,940 --> 00:19:33,940
+How<u> about</u> this?
+
+888
+00:19:33,940 --> 00:19:33,940
+How about<u> this?</u>
+
+889
+00:19:34,840 --> 00:19:35,640
+<u>Let's</u> ask Tantara tomorrow.
+
+890
+00:19:35,640 --> 00:19:35,840
+Let's<u> ask</u> Tantara tomorrow.
+
+891
+00:19:35,840 --> 00:19:36,440
+Let's ask<u> Tantara</u> tomorrow.
+
+892
+00:19:36,440 --> 00:19:36,580
+Let's ask Tantara<u> tomorrow.</u>
+
+893
+00:19:36,920 --> 00:19:37,220
+<u>Maybe</u> she knows.
+
+894
+00:19:37,220 --> 00:19:37,360
+Maybe<u> she</u> knows.
+
+895
+00:19:37,360 --> 00:19:37,580
+Maybe she<u> knows.</u>
+
+896
+00:19:39,880 --> 00:19:49,340
+<u>Where</u> is Tantara?
+
+897
+00:19:49,340 --> 00:19:49,500
+Where<u> is</u> Tantara?
+
+898
+00:19:49,500 --> 00:19:49,980
+Where is<u> Tantara?</u>
+
+899
+00:19:51,060 --> 00:19:53,540
+<u>There</u> he is.
+
+900
+00:19:53,540 --> 00:19:53,940
+There<u> he</u> is.
+
+901
+00:19:53,940 --> 00:19:53,980
+There he<u> is.</u>
+
+902
+00:19:55,100 --> 00:19:55,640
+<u>Oh</u> yeah.
+
+903
+00:19:55,640 --> 00:19:55,900
+Oh<u> yeah.</u>
+
+904
+00:19:56,400 --> 00:19:56,580
+<u>Let's</u> go.
+
+905
+00:19:56,580 --> 00:19:56,660
+Let's<u> go.</u>
+
+906
+00:19:59,780 --> 00:20:00,840
+<u>Tantara.</u>
+
+907
+00:20:00,840 --> 00:20:01,380
+<u>Tantara.</u>
+
+908
+00:20:01,060 --> 00:20:01,920
+<u>What</u> is the Stone of Eternity?
+
+909
+00:20:01,920 --> 00:20:01,920
+What<u> is</u> the Stone of Eternity?
+
+910
+00:20:01,920 --> 00:20:02,180
+What is<u> the</u> Stone of Eternity?
+
+911
+00:20:02,180 --> 00:20:02,180
+What is the<u> Stone</u> of Eternity?
+
+912
+00:20:02,180 --> 00:20:02,240
+What is the Stone<u> of</u> Eternity?
+
+913
+00:20:02,240 --> 00:20:02,480
+What is the Stone of<u> Eternity?</u>
+
+914
+00:20:03,580 --> 00:20:04,060
+<u>The</u> Stone of Eternity.
+
+915
+00:20:04,060 --> 00:20:04,300
+The<u> Stone</u> of Eternity.
+
+916
+00:20:04,300 --> 00:20:04,420
+The Stone<u> of</u> Eternity.
+
+917
+00:20:04,420 --> 00:20:04,920
+The Stone of<u> Eternity.</u>
+
+918
+00:20:05,440 --> 00:20:06,000
+<u>The</u> stone that guards the three-headed dragon.
+
+919
+00:20:06,000 --> 00:20:06,300
+The<u> stone</u> that guards the three-headed dragon.
+
+920
+00:20:06,300 --> 00:20:06,560
+The stone<u> that</u> guards the three-headed dragon.
+
+921
+00:20:06,560 --> 00:20:07,220
+The stone that<u> guards</u> the three-headed dragon.
+
+922
+00:20:07,220 --> 00:20:07,880
+The stone that guards<u> the</u> three-headed dragon.
+
+923
+00:20:07,880 --> 00:20:08,300
+The stone that guards the<u> three</u>-headed dragon.
+
+924
+00:20:08,300 --> 00:20:08,840
+The stone that guards the three<u>-headed</u> dragon.
+
+925
+00:20:08,840 --> 00:20:08,840
+The stone that guards the three-headed<u> dragon.</u>
+
+926
+00:20:09,640 --> 00:20:11,080
+<u>So,</u> there really is the Stone of Eternity.
+
+927
+00:20:11,080 --> 00:20:11,200
+So, there really is the Stone of Eternity.
+
+928
+00:20:11,200 --> 00:20:11,260
+So,<u> there</u> really is the Stone of Eternity.
+
+929
+00:20:11,260 --> 00:20:11,420
+So, there<u> really</u> is the Stone of Eternity.
+
+930
+00:20:11,420 --> 00:20:11,820
+So, there really<u> is</u> the Stone of Eternity.
+
+931
+00:20:11,820 --> 00:20:12,140
+So, there really is<u> the</u> Stone of Eternity.
+
+932
+00:20:12,140 --> 00:20:12,280
+So, there really is the<u> Stone</u> of Eternity.
+
+933
+00:20:12,280 --> 00:20:12,320
+So, there really is the Stone<u> of</u> Eternity.
+
+934
+00:20:12,320 --> 00:20:12,600
+So, there really is the Stone of<u> Eternity.</u>
+
+935
+00:20:13,520 --> 00:20:16,980
+<u>Alva.</u>
+
+936
+00:20:17,540 --> 00:20:18,880
+<u>You...</u>
+
+937
+00:20:18,880 --> 00:20:20,180
+<u>How</u> do you know the Stone of Eternity?
+
+938
+00:20:20,180 --> 00:20:20,220
+How<u> do</u> you know the Stone of Eternity?
+
+939
+00:20:20,220 --> 00:20:20,560
+How do<u> you</u> know the Stone of Eternity?
+
+940
+00:20:20,560 --> 00:20:20,560
+How do you<u> know</u> the Stone of Eternity?
+
+941
+00:20:20,560 --> 00:20:21,600
+How do you know<u> the</u> Stone of Eternity?
+
+942
+00:20:21,600 --> 00:20:21,840
+How do you know the<u> Stone</u> of Eternity?
+
+943
+00:20:21,840 --> 00:20:21,960
+How do you know the Stone<u> of</u> Eternity?
+
+944
+00:20:21,960 --> 00:20:22,260
+How do you know the Stone of<u> Eternity?</u>
+
+945
+00:20:22,600 --> 00:20:24,000
+<u>You're</u> just in the first grade.
+
+946
+00:20:24,000 --> 00:20:24,260
+You're<u> just</u> in the first grade.
+
+947
+00:20:24,260 --> 00:20:24,460
+You're just<u> in</u> the first grade.
+
+948
+00:20:24,460 --> 00:20:24,560
+You're just in<u> the</u> first grade.
+
+949
+00:20:24,560 --> 00:20:25,100
+You're just in the<u> first</u> grade.
+
+950
+00:20:25,100 --> 00:20:25,100
+You're just in the first<u> grade.</u>
+
+951
+00:20:25,580 --> 00:20:26,000
+<u>You</u> don't know it yet.
+
+952
+00:20:26,000 --> 00:20:26,000
+You<u> don't</u> know it yet.
+
+953
+00:20:26,000 --> 00:20:26,860
+You don't<u> know</u> it yet.
+
+954
+00:20:26,860 --> 00:20:27,340
+You don't know<u> it</u> yet.
+
+955
+00:20:27,340 --> 00:20:27,340
+You don't know it<u> yet.</u>
+
+956
+00:20:27,760 --> 00:20:28,560
+<u>Over</u> there.
+
+957
+00:20:28,560 --> 00:20:28,640
+Over<u> there.</u>
+
+958
+00:20:29,180 --> 00:20:29,900
+<u>I'm</u> busy cooking for the three-headed dragon.
+
+959
+00:20:29,900 --> 00:20:30,300
+I'm<u> busy</u> cooking for the three-headed dragon.
+
+960
+00:20:30,300 --> 00:20:31,060
+I'm busy<u> cooking</u> for the three-headed dragon.
+
+961
+00:20:31,060 --> 00:20:32,020
+I'm busy cooking<u> for</u> the three-headed dragon.
+
+962
+00:20:32,020 --> 00:20:32,560
+I'm busy cooking for<u> the</u> three-headed dragon.
+
+963
+00:20:32,560 --> 00:20:32,840
+I'm busy cooking for the<u> three</u>-headed dragon.
+
+964
+00:20:32,840 --> 00:20:32,840
+I'm busy cooking for the three<u>-headed</u> dragon.
+
+965
+00:20:32,840 --> 00:20:32,960
+I'm busy cooking for the three-headed<u> dragon.</u>
+
+966
+00:20:33,500 --> 00:20:34,500
+<u>Oh.</u>
+
+967
+00:20:34,960 --> 00:20:35,320
+<u>So,</u> the three-headed dragon...
+
+968
+00:20:35,320 --> 00:20:35,520
+So, the three-headed dragon...
+
+969
+00:20:35,520 --> 00:20:35,800
+So,<u> the</u> three-headed dragon...
+
+970
+00:20:35,800 --> 00:20:36,460
+So, the<u> three</u>-headed dragon...
+
+971
+00:20:36,460 --> 00:20:36,460
+So, the three<u>-headed</u> dragon...
+
+972
+00:20:36,460 --> 00:20:36,740
+So, the three-headed<u> dragon...</u>
+
+973
+00:20:36,740 --> 00:20:37,100
+<u>likes</u> rendang, gudeg, and asinan.
+
+974
+00:20:37,100 --> 00:20:37,740
+likes<u> rendang,</u> gudeg, and asinan.
+
+975
+00:20:37,740 --> 00:20:38,100
+likes rendang, gudeg, and asinan.
+
+976
+00:20:38,100 --> 00:20:38,480
+likes rendang,<u> gudeg,</u> and asinan.
+
+977
+00:20:38,480 --> 00:20:38,580
+likes rendang, gudeg, and asinan.
+
+978
+00:20:38,580 --> 00:20:38,840
+likes rendang, gudeg,<u> and</u> asinan.
+
+979
+00:20:38,840 --> 00:20:39,200
+likes rendang, gudeg, and<u> asinan.</u>
+
+980
+00:20:40,240 --> 00:20:43,780
+<u>This.</u>
+
+981
+00:20:44,300 --> 00:20:45,620
+<u>This</u> is my cooking.
+
+982
+00:20:45,620 --> 00:20:45,660
+This<u> is</u> my cooking.
+
+983
+00:20:45,660 --> 00:20:46,840
+This is<u> my</u> cooking.
+
+984
+00:20:46,840 --> 00:20:46,840
+This is my<u> cooking.</u>
+
+985
+00:20:47,020 --> 00:20:47,600
+<u>I</u> love eating gudeg, asinan, and rendang.
+
+986
+00:20:47,600 --> 00:20:47,960
+I<u> love</u> eating gudeg, asinan, and rendang.
+
+987
+00:20:47,960 --> 00:20:48,380
+I love<u> eating</u> gudeg, asinan, and rendang.
+
+988
+00:20:48,380 --> 00:20:48,640
+I love eating<u> gudeg,</u> asinan, and rendang.
+
+989
+00:20:48,640 --> 00:20:48,880
+I love eating gudeg, asinan, and rendang.
+
+990
+00:20:48,880 --> 00:20:49,460
+I love eating gudeg,<u> asinan,</u> and rendang.
+
+991
+00:20:49,460 --> 00:20:49,540
+I love eating gudeg, asinan, and rendang.
+
+992
+00:20:49,540 --> 00:20:49,720
+I love eating gudeg, asinan,<u> and</u> rendang.
+
+993
+00:20:49,720 --> 00:20:50,140
+I love eating gudeg, asinan, and<u> rendang.</u>
+
+994
+00:20:50,380 --> 00:20:50,720
+<u>I'm</u> hungry.
+
+995
+00:20:50,720 --> 00:20:51,020
+I'm<u> hungry.</u>
+
+996
+00:20:51,500 --> 00:20:51,740
+<u>Don't</u> disturb me.
+
+997
+00:20:51,740 --> 00:20:52,000
+Don't<u> disturb</u> me.
+
+998
+00:20:52,000 --> 00:20:52,260
+Don't disturb<u> me.</u>
+
+999
+00:20:52,560 --> 00:20:52,700
+<u>Let's</u> go.
+
+1000
+00:20:52,700 --> 00:20:53,140
+Let's<u> go.</u>
+
+1001
+00:20:53,800 --> 00:20:55,300
+<u>Let's</u> go.
+
+1002
+00:20:55,300 --> 00:20:55,460
+Let's<u> go.</u>
+
+1003
+00:20:59,200 --> 00:21:00,080
+<u>Gosh.</u>
+
+1004
+00:21:00,360 --> 00:21:00,920
+<u>My</u> mouth.
+
+1005
+00:21:00,920 --> 00:21:01,400
+My<u> mouth.</u>
+
+1006
+00:21:01,620 --> 00:21:02,480
+<u>My</u> mouth.
+
+1007
+00:21:02,480 --> 00:21:02,980
+My<u> mouth.</u>
+
+1008
+00:21:03,600 --> 00:21:03,740
+<u>I</u> can't keep it.
+
+1009
+00:21:03,740 --> 00:21:03,860
+I<u> can't</u> keep it.
+
+1010
+00:21:03,860 --> 00:21:04,240
+I can't<u> keep</u> it.
+
+1011
+00:21:04,240 --> 00:21:04,240
+I can't keep<u> it.</u>
+
+1012
+00:21:05,140 --> 00:21:08,920
+<u>There's</u> a stone behind the dragon.
+
+1013
+00:21:08,920 --> 00:21:09,020
+There's<u> a</u> stone behind the dragon.
+
+1014
+00:21:09,020 --> 00:21:09,200
+There's a<u> stone</u> behind the dragon.
+
+1015
+00:21:09,200 --> 00:21:09,540
+There's a stone<u> behind</u> the dragon.
+
+1016
+00:21:09,540 --> 00:21:10,040
+There's a stone behind<u> the</u> dragon.
+
+1017
+00:21:10,040 --> 00:21:10,040
+There's a stone behind the<u> dragon.</u>
+
+1018
+00:21:10,720 --> 00:21:11,860
+<u>And</u> the dragon guards the stone.
+
+1019
+00:21:11,860 --> 00:21:12,400
+And<u> the</u> dragon guards the stone.
+
+1020
+00:21:12,400 --> 00:21:12,400
+And the<u> dragon</u> guards the stone.
+
+1021
+00:21:12,400 --> 00:21:12,620
+And the dragon<u> guards</u> the stone.
+
+1022
+00:21:12,620 --> 00:21:12,800
+And the dragon guards<u> the</u> stone.
+
+1023
+00:21:12,800 --> 00:21:13,060
+And the dragon guards the<u> stone.</u>
+
+1024
+00:21:14,420 --> 00:21:16,540
+<u>What's</u> so special about the stone?
+
+1025
+00:21:16,540 --> 00:21:16,720
+What's<u> so</u> special about the stone?
+
+1026
+00:21:16,720 --> 00:21:16,720
+What's so<u> special</u> about the stone?
+
+1027
+00:21:16,720 --> 00:21:16,760
+What's so special<u> about</u> the stone?
+
+1028
+00:21:16,760 --> 00:21:16,900
+What's so special about<u> the</u> stone?
+
+1029
+00:21:16,900 --> 00:21:17,080
+What's so special about the<u> stone?</u>
+
+1030
+00:21:17,500 --> 00:21:18,640
+<u>I</u> don't know.
+
+1031
+00:21:18,640 --> 00:21:19,100
+I<u> don't</u> know.
+
+1032
+00:21:19,100 --> 00:21:19,340
+I don't<u> know.</u>
+
+1033
+00:21:36,220 --> 00:21:43,100
+<u>To</u> be continued...
+
+1034
+00:21:43,100 --> 00:21:43,380
+To<u> be</u> continued...
+
+1035
+00:21:43,380 --> 00:21:46,820
+To be<u> continued...</u>
+
+1036
+00:22:28,440 --> 00:22:28,520
+<u>To</u> be continued...
+
+1037
+00:22:28,520 --> 00:22:28,540
+To<u> be</u> continued...
+
+1038
+00:22:28,540 --> 00:22:28,580
+To be<u> continued...</u>
+
+1039
+00:22:32,080 --> 00:22:33,280
+<u>To</u> be continued...
+
+1040
+00:22:33,280 --> 00:22:33,560
+To<u> be</u> continued...
+
+1041
+00:22:33,560 --> 00:22:33,560
+To be<u> continued...</u>
+
+1042
+00:22:33,560 --> 00:22:33,560
+<u>To</u> be continued...
+
+1043
+00:22:33,560 --> 00:22:33,560
+To<u> be</u> continued...
+
+1044
+00:22:33,560 --> 00:22:46,360
+To be<u> continued...</u>
+
+1045
+00:22:46,360 --> 00:22:46,920
+<u>Don't</u> you dare to eat...
+
+1046
+00:22:46,920 --> 00:22:47,560
+Don't<u> you</u> dare to eat...
+
+1047
+00:22:47,560 --> 00:22:47,820
+Don't you<u> dare</u> to eat...
+
+1048
+00:22:47,820 --> 00:22:48,000
+Don't you dare<u> to</u> eat...
+
+1049
+00:22:48,000 --> 00:22:48,760
+Don't you dare to<u> eat...</u>
+
+1050
+00:22:48,760 --> 00:22:49,020
+<u>or</u> do anything...
+
+1051
+00:22:49,020 --> 00:22:49,420
+or<u> do</u> anything...
+
+1052
+00:22:49,420 --> 00:22:50,200
+or do<u> anything...</u>
+
+1053
+00:22:50,200 --> 00:22:50,840
+<u>during</u> my lesson time.
+
+1054
+00:22:50,840 --> 00:22:51,620
+during<u> my</u> lesson time.
+
+1055
+00:22:51,620 --> 00:22:52,500
+during my<u> lesson</u> time.
+
+1056
+00:22:52,500 --> 00:22:53,100
+during my lesson<u> time.</u>
+
+1057
+00:22:53,500 --> 00:22:54,180
+<u>You</u> all know it.
+
+1058
+00:22:54,180 --> 00:22:54,640
+You<u> all</u> know it.
+
+1059
+00:22:54,640 --> 00:22:55,220
+You all<u> know</u> it.
+
+1060
+00:22:55,220 --> 00:22:55,580
+You all know<u> it.</u>
+
+1061
+00:22:56,940 --> 00:22:57,600
+<u>The</u> students have entered our school.
+
+1062
+00:22:57,600 --> 00:22:58,040
+The<u> students</u> have entered our school.
+
+1063
+00:22:58,040 --> 00:22:58,480
+The students<u> have</u> entered our school.
+
+1064
+00:22:58,480 --> 00:22:59,060
+The students have<u> entered</u> our school.
+
+1065
+00:22:59,060 --> 00:22:59,680
+The students have entered<u> our</u> school.
+
+1066
+00:22:59,680 --> 00:23:00,280
+The students have entered our<u> school.</u>
+
+1067
+00:23:01,300 --> 00:23:01,540
+<u>And</u> for that, there's a new rule that will be applied.
+
+1068
+00:23:01,540 --> 00:23:01,740
+And<u> for</u> that, there's a new rule that will be applied.
+
+1069
+00:23:01,740 --> 00:23:01,980
+And for<u> that,</u> there's a new rule that will be applied.
+
+1070
+00:23:01,980 --> 00:23:02,120
+And for that, there's a new rule that will be applied.
+
+1071
+00:23:02,120 --> 00:23:02,300
+And for that,<u> there's</u> a new rule that will be applied.
+
+1072
+00:23:02,300 --> 00:23:02,360
+And for that, there's<u> a</u> new rule that will be applied.
+
+1073
+00:23:02,360 --> 00:23:03,100
+And for that, there's a<u> new</u> rule that will be applied.
+
+1074
+00:23:03,100 --> 00:23:03,100
+And for that, there's a new<u> rule</u> that will be applied.
+
+1075
+00:23:03,100 --> 00:23:03,320
+And for that, there's a new rule<u> that</u> will be applied.
+
+1076
+00:23:03,320 --> 00:23:03,600
+And for that, there's a new rule that<u> will</u> be applied.
+
+1077
+00:23:03,600 --> 00:23:03,720
+And for that, there's a new rule that will<u> be</u> applied.
+
+1078
+00:23:03,720 --> 00:23:04,060
+And for that, there's a new rule that will be<u> applied.</u>
+
+1079
+00:23:04,520 --> 00:23:04,880
+<u>After</u> 8 p.m.
+
+1080
+00:23:04,880 --> 00:23:05,540
+After<u> 8</u> p.m.
+
+1081
+00:23:05,540 --> 00:23:05,980
+After 8<u> p</u>.m.
+
+1082
+00:23:05,980 --> 00:23:06,000
+After 8 p<u>.m.</u>
+
+1083
+00:23:06,920 --> 00:23:08,200
+<u>All</u> students are forbidden to leave the classroom.
+
+1084
+00:23:08,200 --> 00:23:08,580
+All<u> students</u> are forbidden to leave the classroom.
+
+1085
+00:23:08,580 --> 00:23:08,840
+All students<u> are</u> forbidden to leave the classroom.
+
+1086
+00:23:08,840 --> 00:23:09,200
+All students are<u> forbidden</u> to leave the classroom.
+
+1087
+00:23:09,200 --> 00:23:09,380
+All students are forbidden<u> to</u> leave the classroom.
+
+1088
+00:23:09,380 --> 00:23:09,700
+All students are forbidden to<u> leave</u> the classroom.
+
+1089
+00:23:09,700 --> 00:23:10,100
+All students are forbidden to leave<u> the</u> classroom.
+
+1090
+00:23:10,100 --> 00:23:10,100
+All students are forbidden to leave the<u> classroom.</u>
+
+1091
+00:23:10,720 --> 00:23:11,020
+<u>And</u> if anyone steps in...
+
+1092
+00:23:11,020 --> 00:23:11,200
+And<u> if</u> anyone steps in...
+
+1093
+00:23:11,200 --> 00:23:11,480
+And if<u> anyone</u> steps in...
+
+1094
+00:23:11,480 --> 00:23:11,800
+And if anyone<u> steps</u> in...
+
+1095
+00:23:11,800 --> 00:23:14,220
+And if anyone steps<u> in...</u>
+
+1096
+00:23:14,220 --> 00:23:14,320
+<u>the</u> perpetrator will be punished.
+
+1097
+00:23:14,320 --> 00:23:14,660
+the<u> perpetrator</u> will be punished.
+
+1098
+00:23:14,660 --> 00:23:14,940
+the perpetrator<u> will</u> be punished.
+
+1099
+00:23:14,940 --> 00:23:15,060
+the perpetrator will<u> be</u> punished.
+
+1100
+00:23:15,060 --> 00:23:15,260
+the perpetrator will be<u> punished.</u>
+
+1101
+00:23:16,800 --> 00:23:17,440
+<u>And</u> one classroom will be punished.
+
+1102
+00:23:17,440 --> 00:23:17,760
+And<u> one</u> classroom will be punished.
+
+1103
+00:23:17,760 --> 00:23:18,240
+And one<u> classroom</u> will be punished.
+
+1104
+00:23:18,240 --> 00:23:18,540
+And one classroom<u> will</u> be punished.
+
+1105
+00:23:18,540 --> 00:23:18,780
+And one classroom will<u> be</u> punished.
+
+1106
+00:23:18,780 --> 00:23:19,000
+And one classroom will be<u> punished.</u>
+
+1107
+00:23:20,260 --> 00:23:20,900
+<u>Do</u> you understand?
+
+1108
+00:23:20,900 --> 00:23:21,220
+Do<u> you</u> understand?
+
+1109
+00:23:21,220 --> 00:23:21,500
+Do you<u> understand?</u>
+
+1110
+00:23:22,540 --> 00:23:23,540
+<u>Yes,</u> sir.
+
+1111
+00:23:23,540 --> 00:23:24,540
+Yes, sir.
+
+1112
+00:23:24,540 --> 00:23:24,540
+Yes,<u> sir.</u>
+
+1113
+00:23:25,460 --> 00:23:26,060
+<u>Good.</u>
+
+1114
+00:23:26,580 --> 00:23:27,240
+<u>Now,</u> I'm going to teach you a new mantra...
+
+1115
+00:23:27,240 --> 00:23:27,400
+Now, I'm going to teach you a new mantra...
+
+1116
+00:23:27,400 --> 00:23:27,780
+Now,<u> I'm</u> going to teach you a new mantra...
+
+1117
+00:23:27,780 --> 00:23:27,820
+Now, I'm<u> going</u> to teach you a new mantra...
+
+1118
+00:23:27,820 --> 00:23:27,820
+Now, I'm going<u> to</u> teach you a new mantra...
+
+1119
+00:23:27,820 --> 00:23:28,280
+Now, I'm going to<u> teach</u> you a new mantra...
+
+1120
+00:23:28,280 --> 00:23:28,560
+Now, I'm going to teach<u> you</u> a new mantra...
+
+1121
+00:23:28,560 --> 00:23:28,580
+Now, I'm going to teach you<u> a</u> new mantra...
+
+1122
+00:23:28,580 --> 00:23:29,280
+Now, I'm going to teach you a<u> new</u> mantra...
+
+1123
+00:23:29,280 --> 00:23:30,120
+Now, I'm going to teach you a new<u> mantra...</u>
+
+1124
+00:23:30,120 --> 00:23:30,580
+<u>that</u> you can use...
+
+1125
+00:23:30,580 --> 00:23:31,140
+that<u> you</u> can use...
+
+1126
+00:23:31,140 --> 00:23:31,380
+that you<u> can</u> use...
+
+1127
+00:23:31,380 --> 00:23:32,460
+that you can<u> use...</u>
+
+1128
+00:23:32,460 --> 00:23:32,940
+<u>to</u> take other things.
+
+1129
+00:23:32,940 --> 00:23:33,260
+to<u> take</u> other things.
+
+1130
+00:23:33,260 --> 00:23:33,760
+to take<u> other</u> things.
+
+1131
+00:23:33,760 --> 00:23:33,760
+to take other<u> things.</u>
+
+1132
+00:23:34,120 --> 00:23:35,100
+<u>Pay</u> attention, all of you.
+
+1133
+00:23:35,100 --> 00:23:35,300
+Pay<u> attention,</u> all of you.
+
+1134
+00:23:35,300 --> 00:23:35,580
+Pay attention, all of you.
+
+1135
+00:23:35,580 --> 00:23:36,180
+Pay attention,<u> all</u> of you.
+
+1136
+00:23:36,180 --> 00:23:36,180
+Pay attention, all<u> of</u> you.
+
+1137
+00:23:36,180 --> 00:23:36,280
+Pay attention, all of<u> you.</u>
+
+1138
+00:23:39,040 --> 00:23:48,840
+<u>Lafathang</u> Buku.
+
+1139
+00:23:48,840 --> 00:23:49,760
+Lafathang<u> Buku.</u>
+
+1140
+00:24:10,120 --> 00:24:11,320
+<u>Lafathang</u> Buku.
+
+1141
+00:24:11,320 --> 00:24:12,520
+Lafathang<u> Buku.</u>
+
+1142
+00:24:12,520 --> 00:24:14,420
+<u>Now...</u>
+
+1143
+00:24:14,420 --> 00:24:15,840
+<u>Concentrate.</u>
+
+1144
+00:24:16,980 --> 00:24:17,580
+<u>All</u> of you, try it.
+
+1145
+00:24:17,580 --> 00:24:17,900
+All<u> of</u> you, try it.
+
+1146
+00:24:17,900 --> 00:24:17,900
+All of<u> you,</u> try it.
+
+1147
+00:24:17,900 --> 00:24:18,140
+All of you, try it.
+
+1148
+00:24:18,140 --> 00:24:18,380
+All of you,<u> try</u> it.
+
+1149
+00:24:18,380 --> 00:24:18,580
+All of you, try<u> it.</u>
+
+1150
+00:24:21,600 --> 00:24:23,520
+<u>Start!</u>
+
+1151
+00:24:23,220 --> 00:24:25,440
+<u>Lafathang</u> Buku.
+
+1152
+00:24:25,440 --> 00:24:26,060
+Lafathang<u> Buku.</u>
+
+1153
+00:24:26,680 --> 00:24:28,760
+<u>Lafathang</u> Buku.
+
+1154
+00:24:28,760 --> 00:24:29,360
+Lafathang<u> Buku.</u>
+
+1155
+00:24:29,760 --> 00:24:30,800
+<u>Lafathang</u> Buku.
+
+1156
+00:24:30,800 --> 00:24:31,420
+Lafathang<u> Buku.</u>
+
+1157
+00:24:32,020 --> 00:24:34,480
+<u>Lafathang</u> Buku.
+
+1158
+00:24:34,480 --> 00:24:35,160
+Lafathang<u> Buku.</u>
+
+1159
+00:24:35,720 --> 00:24:36,680
+<u>Lafathang</u> Buku.
+
+1160
+00:24:36,680 --> 00:24:37,160
+Lafathang<u> Buku.</u>
+
+1161
+00:24:38,480 --> 00:24:39,600
+<u>Lafathang</u> Buku.
+
+1162
+00:24:39,600 --> 00:24:40,000
+Lafathang<u> Buku.</u>
+
+1163
+00:24:40,500 --> 00:24:45,180
+<u>Lafathang</u> Buku.
+
+1164
+00:24:45,180 --> 00:24:46,220
+Lafathang<u> Buku.</u>
+
+1165
+00:24:53,080 --> 00:24:54,540
+<u>Lafathang</u> Buku.
+
+1166
+00:24:54,540 --> 00:24:54,900
+Lafathang<u> Buku.</u>
+
+1167
+00:24:55,740 --> 00:25:07,540
+<u>Lafathang</u> Buku.
+
+1168
+00:25:07,540 --> 00:25:08,160
+Lafathang<u> Buku.</u>
+
+1169
+00:25:08,640 --> 00:25:17,500
+<u>Lafathang</u> Buku.
+
+1170
+00:25:17,500 --> 00:25:17,720
+Lafathang<u> Buku.</u>
+
+1171
+00:25:17,720 --> 00:25:19,200
+<u>It's</u> so cool.
+
+1172
+00:25:19,200 --> 00:25:19,200
+It's<u> so</u> cool.
+
+1173
+00:25:19,200 --> 00:25:19,620
+It's so<u> cool.</u>
+
+1174
+00:25:20,340 --> 00:25:24,280
+<u>Lafathang</u> Buku.
+
+1175
+00:25:24,280 --> 00:25:24,940
+Lafathang<u> Buku.</u>
+
+1176
+00:25:25,840 --> 00:25:33,440
+<u>Lafathang</u> Buku.
+
+1177
+00:25:33,440 --> 00:25:34,020
+Lafathang<u> Buku.</u>
+
+1178
+00:25:56,260 --> 00:25:57,860
+<u>Lafathang</u> Buku.
+
+1179
+00:25:57,860 --> 00:25:57,900
+Lafathang<u> Buku.</u>
+
+1180
+00:25:57,920 --> 00:25:58,000
+<u>Lafathang</u> Buku.
+
+1181
+00:25:58,000 --> 00:26:00,840
+Lafathang<u> Buku.</u>
+
+1182
+00:26:01,940 --> 00:26:12,120
+<u>Alfa.</u>
+
+1183
+00:26:12,120 --> 00:26:12,240
+<u>Alfa.</u>
+
+1184
+00:26:12,840 --> 00:26:14,220
+<u>I</u> assign you to clean this page.
+
+1185
+00:26:14,220 --> 00:26:14,700
+I<u> assign</u> you to clean this page.
+
+1186
+00:26:14,700 --> 00:26:14,700
+I assign<u> you</u> to clean this page.
+
+1187
+00:26:14,700 --> 00:26:15,180
+I assign you<u> to</u> clean this page.
+
+1188
+00:26:15,180 --> 00:26:15,660
+I assign you to<u> clean</u> this page.
+
+1189
+00:26:15,660 --> 00:26:15,940
+I assign you to clean<u> this</u> page.
+
+1190
+00:26:15,940 --> 00:26:16,360
+I assign you to clean this<u> page.</u>
+
+1191
+00:26:18,040 --> 00:26:18,800
+<u>How</u> much time do you need?
+
+1192
+00:26:18,800 --> 00:26:19,120
+How<u> much</u> time do you need?
+
+1193
+00:26:19,120 --> 00:26:19,400
+How much<u> time</u> do you need?
+
+1194
+00:26:19,400 --> 00:26:19,660
+How much time<u> do</u> you need?
+
+1195
+00:26:19,660 --> 00:26:19,900
+How much time do<u> you</u> need?
+
+1196
+00:26:19,900 --> 00:26:20,200
+How much time do you<u> need?</u>
+
+1197
+00:26:21,380 --> 00:26:27,820
+<u>Three</u> hours, Prof.
+
+1198
+00:26:27,820 --> 00:26:28,080
+Three<u> hours,</u> Prof.
+
+1199
+00:26:28,080 --> 00:26:28,120
+Three hours, Prof.
+
+1200
+00:26:28,120 --> 00:26:28,320
+Three hours,<u> Prof.</u>
+
+1201
+00:26:30,420 --> 00:26:32,560
+<u>Living</u> in this world...
+
+1202
+00:26:32,560 --> 00:26:32,820
+Living<u> in</u> this world...
+
+1203
+00:26:32,820 --> 00:26:33,400
+Living in<u> this</u> world...
+
+1204
+00:26:33,400 --> 00:26:33,760
+Living in this<u> world...</u>
+
+1205
+00:26:33,760 --> 00:26:34,440
+<u>is</u> not as easy as living in the real world.
+
+1206
+00:26:34,440 --> 00:26:34,640
+is<u> not</u> as easy as living in the real world.
+
+1207
+00:26:34,640 --> 00:26:34,980
+is not<u> as</u> easy as living in the real world.
+
+1208
+00:26:34,980 --> 00:26:35,160
+is not as<u> easy</u> as living in the real world.
+
+1209
+00:26:35,160 --> 00:26:35,360
+is not as easy<u> as</u> living in the real world.
+
+1210
+00:26:35,360 --> 00:26:35,600
+is not as easy as<u> living</u> in the real world.
+
+1211
+00:26:35,600 --> 00:26:35,760
+is not as easy as living<u> in</u> the real world.
+
+1212
+00:26:35,760 --> 00:26:36,100
+is not as easy as living in<u> the</u> real world.
+
+1213
+00:26:36,100 --> 00:26:36,420
+is not as easy as living in the<u> real</u> world.
+
+1214
+00:26:36,420 --> 00:26:36,420
+is not as easy as living in the real<u> world.</u>
+
+1215
+00:26:37,240 --> 00:26:38,280
+<u>I</u> assign you three minutes...
+
+1216
+00:26:38,280 --> 00:26:38,520
+I<u> assign</u> you three minutes...
+
+1217
+00:26:38,520 --> 00:26:38,520
+I assign<u> you</u> three minutes...
+
+1218
+00:26:38,520 --> 00:26:39,160
+I assign you<u> three</u> minutes...
+
+1219
+00:26:39,160 --> 00:26:39,660
+I assign you three<u> minutes...</u>
+
+1220
+00:26:39,660 --> 00:26:40,320
+<u>to</u> clean this page...
+
+1221
+00:26:40,320 --> 00:26:40,720
+to<u> clean</u> this page...
+
+1222
+00:26:40,720 --> 00:26:40,960
+to clean<u> this</u> page...
+
+1223
+00:26:40,960 --> 00:26:42,180
+to clean this<u> page...</u>
+
+1224
+00:26:42,180 --> 00:26:42,320
+<u>and</u> you must be able to finish it.
+
+1225
+00:26:42,320 --> 00:26:42,700
+and<u> you</u> must be able to finish it.
+
+1226
+00:26:42,700 --> 00:26:43,080
+and you<u> must</u> be able to finish it.
+
+1227
+00:26:43,080 --> 00:26:43,380
+and you must<u> be</u> able to finish it.
+
+1228
+00:26:43,380 --> 00:26:43,460
+and you must be<u> able</u> to finish it.
+
+1229
+00:26:43,460 --> 00:26:43,640
+and you must be able<u> to</u> finish it.
+
+1230
+00:26:43,640 --> 00:26:43,980
+and you must be able to<u> finish</u> it.
+
+1231
+00:26:43,980 --> 00:26:45,260
+and you must be able to finish<u> it.</u>
+
+1232
+00:26:45,960 --> 00:26:46,340
+<u>Do</u> you understand?
+
+1233
+00:26:46,340 --> 00:26:46,480
+Do<u> you</u> understand?
+
+1234
+00:26:46,480 --> 00:26:46,480
+Do you<u> understand?</u>
+
+1235
+00:26:47,020 --> 00:26:47,400
+<u>Three</u> minutes.
+
+1236
+00:26:47,400 --> 00:26:47,740
+Three<u> minutes.</u>
+
+1237
+00:26:49,960 --> 00:26:51,220
+<u>Prof.</u>
+
+1238
+00:26:51,680 --> 00:26:53,920
+<u>I</u> think, Prof...
+
+1239
+00:26:53,920 --> 00:26:54,320
+I<u> think,</u> Prof...
+
+1240
+00:26:54,320 --> 00:26:54,480
+I think, Prof...
+
+1241
+00:26:54,480 --> 00:26:55,200
+I think,<u> Prof...</u>
+
+1242
+00:26:55,200 --> 00:26:55,660
+<u>for</u> Alfa's size...
+
+1243
+00:26:55,660 --> 00:26:57,160
+for<u> Alfa's</u> size...
+
+1244
+00:26:57,160 --> 00:26:57,760
+for Alfa's<u> size...</u>
+
+1245
+00:26:57,760 --> 00:26:58,180
+<u>the</u> punishment is...
+
+1246
+00:26:58,180 --> 00:26:58,460
+the<u> punishment</u> is...
+
+1247
+00:26:58,460 --> 00:26:59,720
+the punishment<u> is...</u>
+
+1248
+00:26:59,720 --> 00:27:00,160
+<u>too</u> heavy.
+
+1249
+00:27:00,160 --> 00:27:00,500
+too<u> heavy.</u>
+
+1250
+00:27:01,080 --> 00:27:01,480
+<u>This</u> is still in my class.
+
+1251
+00:27:01,480 --> 00:27:01,680
+This<u> is</u> still in my class.
+
+1252
+00:27:01,680 --> 00:27:02,080
+This is<u> still</u> in my class.
+
+1253
+00:27:02,080 --> 00:27:02,400
+This is still<u> in</u> my class.
+
+1254
+00:27:02,400 --> 00:27:02,860
+This is still in<u> my</u> class.
+
+1255
+00:27:02,860 --> 00:27:03,260
+This is still in my<u> class.</u>
+
+1256
+00:27:03,780 --> 00:27:04,520
+<u>So</u> I have the right to decide anything...
+
+1257
+00:27:04,520 --> 00:27:04,880
+So<u> I</u> have the right to decide anything...
+
+1258
+00:27:04,880 --> 00:27:05,020
+So I<u> have</u> the right to decide anything...
+
+1259
+00:27:05,020 --> 00:27:05,260
+So I have<u> the</u> right to decide anything...
+
+1260
+00:27:05,260 --> 00:27:05,260
+So I have the<u> right</u> to decide anything...
+
+1261
+00:27:05,260 --> 00:27:05,420
+So I have the right<u> to</u> decide anything...
+
+1262
+00:27:05,420 --> 00:27:05,720
+So I have the right to<u> decide</u> anything...
+
+1263
+00:27:05,720 --> 00:27:06,640
+So I have the right to decide<u> anything...</u>
+
+1264
+00:27:06,640 --> 00:27:07,040
+<u>for</u> the students' education.
+
+1265
+00:27:07,040 --> 00:27:07,800
+for<u> the</u> students' education.
+
+1266
+00:27:07,800 --> 00:27:08,200
+for the<u> students'</u> education.
+
+1267
+00:27:08,200 --> 00:27:08,220
+for the students' education.
+
+1268
+00:27:08,220 --> 00:27:08,220
+for the students'<u> education.</u>
+
+1269
+00:27:10,140 --> 00:27:10,900
+<u>I</u> forgot, Prof.
+
+1270
+00:27:10,900 --> 00:27:11,520
+I<u> forgot,</u> Prof.
+
+1271
+00:27:11,520 --> 00:27:11,540
+I forgot, Prof.
+
+1272
+00:27:11,540 --> 00:27:12,060
+I forgot,<u> Prof.</u>
+
+1273
+00:27:12,500 --> 00:27:14,120
+<u>If</u> that's the case...
+
+1274
+00:27:14,120 --> 00:27:14,500
+If<u> that's</u> the case...
+
+1275
+00:27:14,500 --> 00:27:14,660
+If that's<u> the</u> case...
+
+1276
+00:27:14,660 --> 00:27:15,340
+If that's the<u> case...</u>
+
+1277
+00:27:15,340 --> 00:27:15,680
+<u>please</u> continue.
+
+1278
+00:27:15,680 --> 00:27:16,180
+please<u> continue.</u>
+
+1279
+00:27:17,240 --> 00:27:18,160
+<u>Thank</u> you.
+
+1280
+00:27:18,160 --> 00:27:18,540
+Thank<u> you.</u>
+
+1281
+00:27:20,080 --> 00:27:22,120
+<u>Alfa.</u>
+
+1282
+00:27:22,460 --> 00:27:22,720
+<u>Do</u> as I say.
+
+1283
+00:27:22,720 --> 00:27:23,020
+Do<u> as</u> I say.
+
+1284
+00:27:23,020 --> 00:27:23,260
+Do as<u> I</u> say.
+
+1285
+00:27:23,260 --> 00:27:23,500
+Do as I<u> say.</u>
+
+1286
+00:27:24,000 --> 00:27:24,320
+<u>If</u> you can't finish it...
+
+1287
+00:27:24,320 --> 00:27:24,680
+If<u> you</u> can't finish it...
+
+1288
+00:27:24,680 --> 00:27:25,140
+If you<u> can't</u> finish it...
+
+1289
+00:27:25,140 --> 00:27:25,620
+If you can't<u> finish</u> it...
+
+1290
+00:27:25,620 --> 00:27:26,880
+If you can't finish<u> it...</u>
+
+1291
+00:27:26,880 --> 00:27:27,480
+<u>your</u> punishment will be heavier.
+
+1292
+00:27:27,480 --> 00:27:27,740
+your<u> punishment</u> will be heavier.
+
+1293
+00:27:27,740 --> 00:27:28,260
+your punishment<u> will</u> be heavier.
+
+1294
+00:27:28,260 --> 00:27:28,380
+your punishment will<u> be</u> heavier.
+
+1295
+00:27:28,380 --> 00:27:28,620
+your punishment will be<u> heavier.</u>
+
+1296
+00:27:33,700 --> 00:27:35,620
+<u>Three</u> minutes.
+
+1297
+00:27:35,620 --> 00:27:36,080
+Three<u> minutes.</u>
+
+1298
+00:27:36,400 --> 00:27:36,880
+<u>Two</u> minutes and fifty-nine seconds.
+
+1299
+00:27:36,880 --> 00:27:37,120
+Two<u> minutes</u> and fifty-nine seconds.
+
+1300
+00:27:37,120 --> 00:27:37,240
+Two minutes<u> and</u> fifty-nine seconds.
+
+1301
+00:27:37,240 --> 00:27:37,500
+Two minutes and<u> fifty</u>-nine seconds.
+
+1302
+00:27:37,500 --> 00:27:37,720
+Two minutes and fifty<u>-nine</u> seconds.
+
+1303
+00:27:37,720 --> 00:27:37,960
+Two minutes and fifty-nine<u> seconds.</u>
+
+1304
+00:27:38,060 --> 00:27:38,740
+<u>Two</u> minutes and fifty-nine seconds.
+
+1305
+00:27:38,740 --> 00:27:39,020
+Two<u> minutes</u> and fifty-nine seconds.
+
+1306
+00:27:39,020 --> 00:27:39,200
+Two minutes<u> and</u> fifty-nine seconds.
+
+1307
+00:27:39,200 --> 00:27:39,440
+Two minutes and<u> fifty</u>-nine seconds.
+
+1308
+00:27:39,440 --> 00:27:39,740
+Two minutes and fifty<u>-nine</u> seconds.
+
+1309
+00:27:39,740 --> 00:27:40,000
+Two minutes and fifty-nine<u> seconds.</u>
+
+1310
+00:27:47,200 --> 00:27:55,440
+<u>One</u> box, please.
+
+1311
+00:27:55,440 --> 00:27:55,780
+One<u> box,</u> please.
+
+1312
+00:27:55,780 --> 00:27:56,300
+One box, please.
+
+1313
+00:27:56,300 --> 00:27:56,400
+One box,<u> please.</u>
+
+1314
+00:27:56,460 --> 00:27:56,880
+<u>One</u> box.
+
+1315
+00:27:56,880 --> 00:27:57,240
+One<u> box.</u>
+
+1316
+00:27:57,360 --> 00:27:58,120
+<u>There's</u> a ripe fruit.
+
+1317
+00:27:58,120 --> 00:27:58,240
+There's<u> a</u> ripe fruit.
+
+1318
+00:27:58,240 --> 00:27:59,180
+There's a<u> ripe</u> fruit.
+
+1319
+00:27:59,180 --> 00:27:59,200
+There's a ripe<u> fruit.</u>
+
+1320
+00:27:59,740 --> 00:28:00,220
+<u>Sir.</u>
+
+1321
+00:28:00,340 --> 00:28:00,640
+<u>I'm</u> hungry.
+
+1322
+00:28:00,640 --> 00:28:01,060
+I'm<u> hungry.</u>
+
+1323
+00:28:01,380 --> 00:28:01,880
+<u>Try</u> it.
+
+1324
+00:28:01,880 --> 00:28:02,080
+Try<u> it.</u>
+
+1325
+00:28:02,540 --> 00:28:03,180
+<u>It</u> must be delicious.
+
+1326
+00:28:03,180 --> 00:28:03,240
+It<u> must</u> be delicious.
+
+1327
+00:28:03,240 --> 00:28:03,500
+It must<u> be</u> delicious.
+
+1328
+00:28:03,500 --> 00:28:03,840
+It must be<u> delicious.</u>
+
+1329
+00:28:08,240 --> 00:28:08,920
+<u>Ripe...</u>
+
+1330
+00:28:08,920 --> 00:28:09,100
+<u>fruit.</u>
+
+1331
+00:28:09,600 --> 00:28:17,020
+<u>Ripe</u> fruit.
+
+1332
+00:28:17,020 --> 00:28:17,700
+Ripe<u> fruit.</u>
+
+1333
+00:28:17,900 --> 00:28:18,100
+<u>Oh,</u> yes.
+
+1334
+00:28:18,100 --> 00:28:18,280
+Oh, yes.
+
+1335
+00:28:18,280 --> 00:28:18,380
+Oh,<u> yes.</u>
+
+1336
+00:28:18,720 --> 00:28:19,380
+<u>I've</u> learned...
+
+1337
+00:28:19,380 --> 00:28:20,080
+I've<u> learned...</u>
+
+1338
+00:28:20,080 --> 00:28:20,480
+<u>Mantra</u> Bindai Menda.
+
+1339
+00:28:20,480 --> 00:28:20,780
+Mantra<u> Bindai</u> Menda.
+
+1340
+00:28:20,780 --> 00:28:21,040
+Mantra Bindai<u> Menda.</u>
+
+1341
+00:28:21,780 --> 00:28:22,180
+<u>It's</u> a good idea.
+
+1342
+00:28:22,180 --> 00:28:22,220
+It's<u> a</u> good idea.
+
+1343
+00:28:22,220 --> 00:28:22,400
+It's a<u> good</u> idea.
+
+1344
+00:28:22,400 --> 00:28:22,400
+It's a good<u> idea.</u>
+
+1345
+00:28:22,920 --> 00:28:23,260
+<u>I</u> can use the mantra...
+
+1346
+00:28:23,260 --> 00:28:23,480
+I<u> can</u> use the mantra...
+
+1347
+00:28:23,480 --> 00:28:23,720
+I can<u> use</u> the mantra...
+
+1348
+00:28:23,720 --> 00:28:23,860
+I can use<u> the</u> mantra...
+
+1349
+00:28:23,860 --> 00:28:24,460
+I can use the<u> mantra...</u>
+
+1350
+00:28:24,460 --> 00:28:24,660
+<u>for</u> this punishment.
+
+1351
+00:28:24,660 --> 00:28:24,760
+for<u> this</u> punishment.
+
+1352
+00:28:24,760 --> 00:28:25,000
+for this<u> punishment.</u>
+
+1353
+00:28:26,000 --> 00:28:26,200
+<u>Try</u> it.
+
+1354
+00:28:26,200 --> 00:28:26,260
+Try<u> it.</u>
+
+1355
+00:28:27,340 --> 00:28:28,400
+<u>Ripe...</u>
+
+1356
+00:28:28,400 --> 00:28:29,040
+<u>small</u> paper.
+
+1357
+00:28:29,040 --> 00:28:29,040
+small<u> paper.</u>
+
+1358
+00:28:41,780 --> 00:28:43,620
+<u>Ripe...</u>
+
+1359
+00:28:43,620 --> 00:28:44,540
+<u>small</u> paper.
+
+1360
+00:28:44,540 --> 00:28:45,040
+small<u> paper.</u>
+
+1361
+00:28:45,040 --> 00:28:54,880
+<u>Ripe...</u>
+
+1362
+00:28:54,880 --> 00:28:55,560
+<u>small</u> paper.
+
+1363
+00:28:55,560 --> 00:28:55,560
+small<u> paper.</u>
+
+1364
+00:28:56,200 --> 00:28:58,140
+<u>Ripe...</u>
+
+1365
+00:28:58,140 --> 00:28:58,140
+
+
+1366
+00:29:08,320 --> 00:29:09,220
+<u>small</u> paper.
+
+1367
+00:29:09,220 --> 00:29:03,840
+small<u> paper.</u>
+
+1368
+00:29:10,120 --> 00:29:17,360
+<u>It's</u> so big.
+
+1369
+00:29:17,360 --> 00:29:17,360
+It's<u> so</u> big.
+
+1370
+00:29:17,360 --> 00:29:17,360
+It's so<u> big.</u>
+
+1371
+00:29:18,060 --> 00:29:29,500
+<u>Yes!</u>
+
+1372
+00:29:30,040 --> 00:29:30,180
+<u>I</u> did it!
+
+1373
+00:29:30,180 --> 00:29:30,440
+I<u> did</u> it!
+
+1374
+00:29:30,440 --> 00:29:30,460
+I did<u> it!</u>
+
+1375
+00:29:31,340 --> 00:29:31,700
+<u>It's</u> clean!
+
+1376
+00:29:31,700 --> 00:29:31,960
+It's<u> clean!</u>
+
+1377
+00:29:31,960 --> 00:29:31,960
+<u>I</u> did it!
+
+1378
+00:29:31,960 --> 00:29:32,040
+I<u> did</u> it!
+
+1379
+00:29:32,040 --> 00:29:32,040
+I did<u> it!</u>
+
+1380
+00:29:32,740 --> 00:29:33,380
+<u>Yeah!</u>
+
+1381
+00:30:31,420 --> 00:30:31,500
+<u>To</u> be continued...
+
+1382
+00:30:31,500 --> 00:30:31,520
+To<u> be</u> continued...
+
+1383
+00:30:31,520 --> 00:30:31,560
+To be<u> continued...</u>
+
+1384
+00:30:53,980 --> 00:30:56,240
+<u>To</u> be continued...
+
+1385
+00:30:56,240 --> 00:30:45,660
+To<u> be</u> continued...
+
+1386
+00:30:45,660 --> 00:30:58,500
+To be<u> continued...</u>
+
+1387
+00:30:58,500 --> 00:30:58,500
+<u>You</u> must answer my question.
+
+1388
+00:30:58,500 --> 00:30:59,640
+You<u> must</u> answer my question.
+
+1389
+00:30:59,640 --> 00:31:00,120
+You must<u> answer</u> my question.
+
+1390
+00:31:00,120 --> 00:31:01,240
+You must answer<u> my</u> question.
+
+1391
+00:31:01,240 --> 00:31:01,240
+You must answer my<u> question.</u>
+
+1392
+00:31:01,960 --> 00:31:02,580
+<u>Who</u> is the chosen one?
+
+1393
+00:31:02,580 --> 00:31:02,880
+Who<u> is</u> the chosen one?
+
+1394
+00:31:02,880 --> 00:31:03,300
+Who is<u> the</u> chosen one?
+
+1395
+00:31:03,300 --> 00:31:03,660
+Who is the<u> chosen</u> one?
+
+1396
+00:31:03,660 --> 00:31:03,720
+Who is the chosen<u> one?</u>
+
+1397
+00:31:04,880 --> 00:31:05,900
+<u>I</u> can't answer, Professor.
+
+1398
+00:31:05,900 --> 00:31:06,440
+I<u> can't</u> answer, Professor.
+
+1399
+00:31:06,440 --> 00:31:07,020
+I can't<u> answer,</u> Professor.
+
+1400
+00:31:07,020 --> 00:31:07,200
+I can't answer, Professor.
+
+1401
+00:31:07,200 --> 00:31:08,040
+I can't answer,<u> Professor.</u>
+
+1402
+00:31:08,740 --> 00:31:09,140
+<u>Because</u> my mouth has been swore by the mantra...
+
+1403
+00:31:09,140 --> 00:31:09,340
+Because<u> my</u> mouth has been swore by the mantra...
+
+1404
+00:31:09,340 --> 00:31:09,540
+Because my<u> mouth</u> has been swore by the mantra...
+
+1405
+00:31:09,540 --> 00:31:10,000
+Because my mouth<u> has</u> been swore by the mantra...
+
+1406
+00:31:10,000 --> 00:31:10,120
+Because my mouth has<u> been</u> swore by the mantra...
+
+1407
+00:31:10,120 --> 00:31:10,440
+Because my mouth has been<u> swore</u> by the mantra...
+
+1408
+00:31:10,440 --> 00:31:10,720
+Because my mouth has been swore<u> by</u> the mantra...
+
+1409
+00:31:10,720 --> 00:31:11,040
+Because my mouth has been swore by<u> the</u> mantra...
+
+1410
+00:31:11,040 --> 00:31:11,440
+Because my mouth has been swore by the<u> mantra...</u>
+
+1411
+00:31:11,440 --> 00:31:11,440
+<u>to</u> tell anyone.
+
+1412
+00:31:11,440 --> 00:31:12,000
+to<u> tell</u> anyone.
+
+1413
+00:31:12,000 --> 00:31:12,680
+to tell<u> anyone.</u>
+
+1414
+00:31:13,700 --> 00:31:14,100
+<u>I</u> see.
+
+1415
+00:31:14,100 --> 00:31:14,340
+I<u> see.</u>
+
+1416
+00:31:15,600 --> 00:31:17,540
+<u>Now,</u> you must do...
+
+1417
+00:31:17,540 --> 00:31:17,900
+Now, you must do...
+
+1418
+00:31:17,900 --> 00:31:18,160
+Now,<u> you</u> must do...
+
+1419
+00:31:18,160 --> 00:31:18,440
+Now, you<u> must</u> do...
+
+1420
+00:31:18,440 --> 00:31:19,280
+Now, you must<u> do...</u>
+
+1421
+00:31:19,280 --> 00:31:19,600
+<u>what</u> I ask you to do.
+
+1422
+00:31:19,600 --> 00:31:20,000
+what<u> I</u> ask you to do.
+
+1423
+00:31:20,000 --> 00:31:20,420
+what I<u> ask</u> you to do.
+
+1424
+00:31:20,420 --> 00:31:20,740
+what I ask<u> you</u> to do.
+
+1425
+00:31:20,740 --> 00:31:20,740
+what I ask you<u> to</u> do.
+
+1426
+00:31:20,740 --> 00:31:20,840
+what I ask you to<u> do.</u>
+
+1427
+00:31:21,920 --> 00:31:22,880
+<u>Because</u> you...
+
+1428
+00:31:22,880 --> 00:31:24,040
+Because<u> you...</u>
+
+1429
+00:31:24,040 --> 00:31:24,960
+<u>know</u> who the chosen one is.
+
+1430
+00:31:24,960 --> 00:31:25,500
+know<u> who</u> the chosen one is.
+
+1431
+00:31:25,500 --> 00:31:25,820
+know who<u> the</u> chosen one is.
+
+1432
+00:31:25,820 --> 00:31:26,180
+know who the<u> chosen</u> one is.
+
+1433
+00:31:26,180 --> 00:31:26,240
+know who the chosen<u> one</u> is.
+
+1434
+00:31:26,240 --> 00:31:26,260
+know who the chosen one<u> is.</u>
+
+1435
+00:31:26,820 --> 00:31:27,860
+<u>You</u> must be able to...
+
+1436
+00:31:27,860 --> 00:31:28,200
+You<u> must</u> be able to...
+
+1437
+00:31:28,200 --> 00:31:28,620
+You must<u> be</u> able to...
+
+1438
+00:31:28,620 --> 00:31:28,680
+You must be<u> able</u> to...
+
+1439
+00:31:28,680 --> 00:31:29,160
+You must be able<u> to...</u>
+
+1440
+00:31:29,160 --> 00:31:29,740
+<u>tell</u> the chosen one.
+
+1441
+00:31:29,740 --> 00:31:30,120
+tell<u> the</u> chosen one.
+
+1442
+00:31:30,120 --> 00:31:30,800
+tell the<u> chosen</u> one.
+
+1443
+00:31:30,800 --> 00:31:30,800
+tell the chosen<u> one.</u>
+
+1444
+00:31:31,960 --> 00:31:32,380
+<u>To</u> enter the secret room...
+
+1445
+00:31:32,380 --> 00:31:32,860
+To<u> enter</u> the secret room...
+
+1446
+00:31:32,860 --> 00:31:33,700
+To enter<u> the</u> secret room...
+
+1447
+00:31:33,700 --> 00:31:34,180
+To enter the<u> secret</u> room...
+
+1448
+00:31:34,180 --> 00:31:34,960
+To enter the secret<u> room...</u>
+
+1449
+00:31:34,960 --> 00:31:35,680
+<u>and</u> take the stone.
+
+1450
+00:31:35,680 --> 00:31:36,020
+and<u> take</u> the stone.
+
+1451
+00:31:36,020 --> 00:31:36,220
+and take<u> the</u> stone.
+
+1452
+00:31:36,220 --> 00:31:36,500
+and take the<u> stone.</u>
+
+1453
+00:31:37,140 --> 00:31:38,300
+<u>Yes,</u> Professor.
+
+1454
+00:31:38,300 --> 00:31:38,460
+Yes, Professor.
+
+1455
+00:31:38,460 --> 00:31:38,680
+Yes,<u> Professor.</u>
+
+1456
+00:31:38,940 --> 00:31:39,440
+<u>One</u> more thing.
+
+1457
+00:31:39,440 --> 00:31:39,740
+One<u> more</u> thing.
+
+1458
+00:31:39,740 --> 00:31:39,740
+One more<u> thing.</u>
+
+1459
+00:31:40,580 --> 00:31:41,120
+<u>You</u> must lead the chosen one...
+
+1460
+00:31:41,120 --> 00:31:41,580
+You<u> must</u> lead the chosen one...
+
+1461
+00:31:41,580 --> 00:31:42,220
+You must<u> lead</u> the chosen one...
+
+1462
+00:31:42,220 --> 00:31:42,820
+You must lead<u> the</u> chosen one...
+
+1463
+00:31:42,820 --> 00:31:43,300
+You must lead the<u> chosen</u> one...
+
+1464
+00:31:43,300 --> 00:31:43,640
+You must lead the chosen<u> one...</u>
+
+1465
+00:31:43,640 --> 00:31:43,880
+<u>to</u> take the stone.
+
+1466
+00:31:43,880 --> 00:31:44,780
+to<u> take</u> the stone.
+
+1467
+00:31:44,780 --> 00:31:45,100
+to take<u> the</u> stone.
+
+1468
+00:31:45,100 --> 00:31:45,340
+to take the<u> stone.</u>
+
+1469
+00:31:46,500 --> 00:31:56,020
+<u>Alva.</u>
+
+1470
+00:31:56,400 --> 00:31:56,800
+<u>We</u> want to help you with the punishment.
+
+1471
+00:31:56,800 --> 00:31:56,980
+We<u> want</u> to help you with the punishment.
+
+1472
+00:31:56,980 --> 00:31:57,040
+We want<u> to</u> help you with the punishment.
+
+1473
+00:31:57,040 --> 00:31:57,240
+We want to<u> help</u> you with the punishment.
+
+1474
+00:31:57,240 --> 00:31:57,580
+We want to help<u> you</u> with the punishment.
+
+1475
+00:31:57,580 --> 00:31:57,820
+We want to help you<u> with</u> the punishment.
+
+1476
+00:31:57,820 --> 00:31:58,040
+We want to help you with<u> the</u> punishment.
+
+1477
+00:31:58,040 --> 00:31:58,280
+We want to help you with the<u> punishment.</u>
+
+1478
+00:31:58,820 --> 00:31:59,100
+<u>Yes.</u>
+
+1479
+00:31:59,660 --> 00:31:59,840
+<u>Do</u> we still need to work?
+
+1480
+00:31:59,840 --> 00:31:59,940
+Do<u> we</u> still need to work?
+
+1481
+00:31:59,940 --> 00:31:59,940
+Do we<u> still</u> need to work?
+
+1482
+00:31:59,940 --> 00:32:00,060
+Do we still<u> need</u> to work?
+
+1483
+00:32:00,060 --> 00:32:00,320
+Do we still need<u> to</u> work?
+
+1484
+00:32:00,320 --> 00:32:00,600
+Do we still need to<u> work?</u>
+
+1485
+00:32:00,600 --> 00:32:00,820
+<u>No.</u>
+
+1486
+00:32:01,420 --> 00:32:01,860
+<u>No</u> need.
+
+1487
+00:32:01,860 --> 00:32:02,120
+No<u> need.</u>
+
+1488
+00:32:02,560 --> 00:32:02,680
+<u>The</u> punishment is over.
+
+1489
+00:32:02,680 --> 00:32:02,920
+The<u> punishment</u> is over.
+
+1490
+00:32:02,920 --> 00:32:03,200
+The punishment<u> is</u> over.
+
+1491
+00:32:03,200 --> 00:32:03,500
+The punishment is<u> over.</u>
+
+1492
+00:32:05,040 --> 00:32:05,480
+<u>Huh?</u>
+
+1493
+00:32:05,660 --> 00:32:06,580
+<u>Why</u> is it so fast?
+
+1494
+00:32:06,580 --> 00:32:06,640
+Why<u> is</u> it so fast?
+
+1495
+00:32:06,640 --> 00:32:06,640
+Why is<u> it</u> so fast?
+
+1496
+00:32:06,640 --> 00:32:06,640
+Why is it<u> so</u> fast?
+
+1497
+00:32:06,640 --> 00:32:06,860
+Why is it so<u> fast?</u>
+
+1498
+00:32:07,440 --> 00:32:07,740
+<u>Yeah.</u>
+
+1499
+00:32:07,960 --> 00:32:08,080
+<u>How</u> is it possible?
+
+1500
+00:32:08,080 --> 00:32:08,200
+How<u> is</u> it possible?
+
+1501
+00:32:08,200 --> 00:32:08,200
+How is<u> it</u> possible?
+
+1502
+00:32:08,200 --> 00:32:08,480
+How is it<u> possible?</u>
+
+1503
+00:32:09,180 --> 00:32:09,760
+<u>Alva.</u>
+
+1504
+00:32:10,440 --> 00:32:10,920
+<u>Come</u> to my room now.
+
+1505
+00:32:10,920 --> 00:32:11,160
+Come<u> to</u> my room now.
+
+1506
+00:32:11,160 --> 00:32:11,640
+Come to<u> my</u> room now.
+
+1507
+00:32:11,640 --> 00:32:11,640
+Come to my<u> room</u> now.
+
+1508
+00:32:11,640 --> 00:32:12,020
+Come to my room<u> now.</u>
+
+1509
+00:32:13,860 --> 00:32:20,120
+<u>What's</u> wrong, Alva?
+
+1510
+00:32:20,120 --> 00:32:20,360
+What's<u> wrong,</u> Alva?
+
+1511
+00:32:20,360 --> 00:32:20,360
+What's wrong,<u> Alva?</u>
+
+1512
+00:32:21,200 --> 00:32:21,820
+<u>You're</u> smart.
+
+1513
+00:32:21,820 --> 00:32:22,300
+You're<u> smart.</u>
+
+1514
+00:32:23,080 --> 00:32:24,360
+<u>You</u> know everything.
+
+1515
+00:32:24,360 --> 00:32:24,540
+You<u> know</u> everything.
+
+1516
+00:32:24,540 --> 00:32:24,560
+You know<u> everything.</u>
+
+1517
+00:32:25,080 --> 00:32:25,660
+<u>But</u> I don't know everything.
+
+1518
+00:32:25,660 --> 00:32:26,140
+But<u> I</u> don't know everything.
+
+1519
+00:32:26,140 --> 00:32:26,280
+But I<u> don't</u> know everything.
+
+1520
+00:32:26,280 --> 00:32:26,440
+But I don't<u> know</u> everything.
+
+1521
+00:32:26,440 --> 00:32:26,740
+But I don't know<u> everything.</u>
+
+1522
+00:32:30,620 --> 00:32:31,420
+<u>Let's</u> find out.
+
+1523
+00:32:31,420 --> 00:32:31,580
+Let's<u> find</u> out.
+
+1524
+00:32:31,580 --> 00:32:31,980
+Let's find<u> out.</u>
+
+1525
+00:32:33,360 --> 00:32:43,880
+<u>Alva.</u>
+
+1526
+00:32:44,500 --> 00:32:45,340
+<u>I</u> called you...
+
+1527
+00:32:45,340 --> 00:32:45,640
+I<u> called</u> you...
+
+1528
+00:32:45,640 --> 00:32:46,220
+I called<u> you...</u>
+
+1529
+00:32:46,220 --> 00:32:46,360
+<u>because</u> you must do something for me.
+
+1530
+00:32:46,360 --> 00:32:46,740
+because<u> you</u> must do something for me.
+
+1531
+00:32:46,740 --> 00:32:46,980
+because you<u> must</u> do something for me.
+
+1532
+00:32:46,980 --> 00:32:47,260
+because you must<u> do</u> something for me.
+
+1533
+00:32:47,260 --> 00:32:47,840
+because you must do<u> something</u> for me.
+
+1534
+00:32:47,840 --> 00:32:48,080
+because you must do something<u> for</u> me.
+
+1535
+00:32:48,080 --> 00:32:48,420
+because you must do something for<u> me.</u>
+
+1536
+00:32:49,160 --> 00:32:49,880
+<u>Tonight.</u>
+
+1537
+00:32:50,640 --> 00:32:51,920
+<u>Before</u> the sun rises.
+
+1538
+00:32:51,920 --> 00:32:52,120
+Before<u> the</u> sun rises.
+
+1539
+00:32:52,120 --> 00:32:52,500
+Before the<u> sun</u> rises.
+
+1540
+00:32:52,500 --> 00:32:52,860
+Before the sun<u> rises.</u>
+
+1541
+00:32:53,400 --> 00:32:54,140
+<u>You</u> must return to the secret room.
+
+1542
+00:32:54,140 --> 00:32:54,500
+You<u> must</u> return to the secret room.
+
+1543
+00:32:54,500 --> 00:32:54,960
+You must<u> return</u> to the secret room.
+
+1544
+00:32:54,960 --> 00:32:55,100
+You must return<u> to</u> the secret room.
+
+1545
+00:32:55,100 --> 00:32:55,780
+You must return to<u> the</u> secret room.
+
+1546
+00:32:55,780 --> 00:32:56,000
+You must return to the<u> secret</u> room.
+
+1547
+00:32:56,000 --> 00:32:56,020
+You must return to the secret<u> room.</u>
+
+1548
+00:32:56,680 --> 00:32:57,280
+<u>And</u> take the Stone of Eternity for me.
+
+1549
+00:32:57,280 --> 00:32:57,780
+And<u> take</u> the Stone of Eternity for me.
+
+1550
+00:32:57,780 --> 00:32:58,060
+And take<u> the</u> Stone of Eternity for me.
+
+1551
+00:32:58,060 --> 00:32:58,220
+And take the<u> Stone</u> of Eternity for me.
+
+1552
+00:32:58,220 --> 00:32:58,360
+And take the Stone<u> of</u> Eternity for me.
+
+1553
+00:32:58,360 --> 00:32:58,700
+And take the Stone of<u> Eternity</u> for me.
+
+1554
+00:32:58,700 --> 00:32:59,000
+And take the Stone of Eternity<u> for</u> me.
+
+1555
+00:32:59,000 --> 00:32:59,420
+And take the Stone of Eternity for<u> me.</u>
+
+1556
+00:32:59,420 --> 00:33:00,160
+<u>Isn't</u> that forbidden?
+
+1557
+00:33:00,160 --> 00:33:00,560
+Isn't<u> that</u> forbidden?
+
+1558
+00:33:00,560 --> 00:33:01,000
+Isn't that<u> forbidden?</u>
+
+1559
+00:33:01,600 --> 00:33:03,120
+<u>This</u> school is in danger, Alva.
+
+1560
+00:33:03,120 --> 00:33:03,400
+This<u> school</u> is in danger, Alva.
+
+1561
+00:33:03,400 --> 00:33:03,780
+This school<u> is</u> in danger, Alva.
+
+1562
+00:33:03,780 --> 00:33:03,840
+This school is<u> in</u> danger, Alva.
+
+1563
+00:33:03,840 --> 00:33:04,260
+This school is in<u> danger,</u> Alva.
+
+1564
+00:33:04,260 --> 00:33:04,560
+This school is in danger, Alva.
+
+1565
+00:33:04,560 --> 00:33:04,680
+This school is in danger,<u> Alva.</u>
+
+1566
+00:33:05,340 --> 00:33:05,780
+<u>And</u> only the Stone of Eternity...
+
+1567
+00:33:05,780 --> 00:33:06,120
+And<u> only</u> the Stone of Eternity...
+
+1568
+00:33:06,120 --> 00:33:06,300
+And only<u> the</u> Stone of Eternity...
+
+1569
+00:33:06,300 --> 00:33:06,440
+And only the<u> Stone</u> of Eternity...
+
+1570
+00:33:06,440 --> 00:33:06,520
+And only the Stone<u> of</u> Eternity...
+
+1571
+00:33:06,520 --> 00:33:07,400
+And only the Stone of<u> Eternity...</u>
+
+1572
+00:33:07,400 --> 00:33:07,500
+<u>can</u> save us all.
+
+1573
+00:33:07,500 --> 00:33:08,120
+can<u> save</u> us all.
+
+1574
+00:33:08,120 --> 00:33:08,520
+can save<u> us</u> all.
+
+1575
+00:33:08,520 --> 00:33:09,000
+can save us<u> all.</u>
+
+1576
+00:33:09,380 --> 00:33:09,980
+<u>But</u> why do I have to take the stone?
+
+1577
+00:33:09,980 --> 00:33:10,260
+But<u> why</u> do I have to take the stone?
+
+1578
+00:33:10,260 --> 00:33:10,460
+But why<u> do</u> I have to take the stone?
+
+1579
+00:33:10,460 --> 00:33:10,720
+But why do<u> I</u> have to take the stone?
+
+1580
+00:33:10,720 --> 00:33:10,720
+But why do I<u> have</u> to take the stone?
+
+1581
+00:33:10,720 --> 00:33:10,720
+But why do I have<u> to</u> take the stone?
+
+1582
+00:33:10,720 --> 00:33:11,000
+But why do I have to<u> take</u> the stone?
+
+1583
+00:33:11,000 --> 00:33:11,140
+But why do I have to take<u> the</u> stone?
+
+1584
+00:33:11,140 --> 00:33:11,280
+But why do I have to take the<u> stone?</u>
+
+1585
+00:33:11,820 --> 00:33:12,360
+<u>Because</u> you managed to defeat Varga.
+
+1586
+00:33:12,360 --> 00:33:12,780
+Because<u> you</u> managed to defeat Varga.
+
+1587
+00:33:12,780 --> 00:33:13,480
+Because you<u> managed</u> to defeat Varga.
+
+1588
+00:33:13,480 --> 00:33:13,640
+Because you managed<u> to</u> defeat Varga.
+
+1589
+00:33:13,640 --> 00:33:13,980
+Because you managed to<u> defeat</u> Varga.
+
+1590
+00:33:13,980 --> 00:33:14,560
+Because you managed to defeat<u> Varga.</u>
+
+1591
+00:33:15,180 --> 00:33:15,380
+<u>That</u> monster...
+
+1592
+00:33:15,380 --> 00:33:16,760
+That<u> monster...</u>
+
+1593
+00:33:16,760 --> 00:33:17,560
+<u>will</u> come back to life...
+
+1594
+00:33:17,560 --> 00:33:17,780
+will<u> come</u> back to life...
+
+1595
+00:33:17,780 --> 00:33:18,100
+will come<u> back</u> to life...
+
+1596
+00:33:18,100 --> 00:33:18,320
+will come back<u> to</u> life...
+
+1597
+00:33:18,320 --> 00:33:18,760
+will come back to<u> life...</u>
+
+1598
+00:33:18,760 --> 00:33:19,220
+<u>when</u> the sun rises.
+
+1599
+00:33:19,220 --> 00:33:19,400
+when<u> the</u> sun rises.
+
+1600
+00:33:19,400 --> 00:33:19,760
+when the<u> sun</u> rises.
+
+1601
+00:33:19,760 --> 00:33:20,080
+when the sun<u> rises.</u>
+
+1602
+00:33:20,620 --> 00:33:21,240
+<u>But</u> how, ma'am?
+
+1603
+00:33:21,240 --> 00:33:21,700
+But<u> how,</u> ma'am?
+
+1604
+00:33:21,700 --> 00:33:22,100
+But how, ma'am?
+
+1605
+00:33:22,100 --> 00:33:22,300
+But how,<u> ma</u>'am?
+
+1606
+00:33:22,300 --> 00:33:22,300
+But how, ma<u>'am?</u>
+
+1607
+00:33:22,500 --> 00:33:23,060
+<u>There's</u> a three-headed dragon there.
+
+1608
+00:33:23,060 --> 00:33:23,360
+There's<u> a</u> three-headed dragon there.
+
+1609
+00:33:23,360 --> 00:33:23,420
+There's a<u> three</u>-headed dragon there.
+
+1610
+00:33:23,420 --> 00:33:23,580
+There's a three<u>-headed</u> dragon there.
+
+1611
+00:33:23,580 --> 00:33:23,580
+There's a three-headed<u> dragon</u> there.
+
+1612
+00:33:23,580 --> 00:33:24,120
+There's a three-headed dragon<u> there.</u>
+
+1613
+00:33:24,660 --> 00:33:24,960
+<u>And</u> that dragon is very strong.
+
+1614
+00:33:24,960 --> 00:33:25,260
+And<u> that</u> dragon is very strong.
+
+1615
+00:33:25,260 --> 00:33:25,260
+And that<u> dragon</u> is very strong.
+
+1616
+00:33:25,260 --> 00:33:25,360
+And that dragon<u> is</u> very strong.
+
+1617
+00:33:25,360 --> 00:33:25,560
+And that dragon is<u> very</u> strong.
+
+1618
+00:33:25,560 --> 00:33:25,560
+And that dragon is very<u> strong.</u>
+
+1619
+00:33:26,500 --> 00:33:27,580
+<u>I</u> will tell you...
+
+1620
+00:33:27,580 --> 00:33:27,940
+I<u> will</u> tell you...
+
+1621
+00:33:27,940 --> 00:33:28,600
+I will<u> tell</u> you...
+
+1622
+00:33:28,600 --> 00:33:29,200
+I will tell<u> you...</u>
+
+1623
+00:33:29,200 --> 00:33:29,280
+<u>the</u> story of the three-headed dragon.
+
+1624
+00:33:29,280 --> 00:33:29,540
+the<u> story</u> of the three-headed dragon.
+
+1625
+00:33:29,540 --> 00:33:29,540
+the story<u> of</u> the three-headed dragon.
+
+1626
+00:33:29,540 --> 00:33:29,720
+the story of<u> the</u> three-headed dragon.
+
+1627
+00:33:29,720 --> 00:33:29,720
+the story of the<u> three</u>-headed dragon.
+
+1628
+00:33:29,720 --> 00:33:30,060
+the story of the three<u>-headed</u> dragon.
+
+1629
+00:33:30,060 --> 00:33:30,260
+the story of the three-headed<u> dragon.</u>
+
+1630
+00:33:31,540 --> 00:33:33,160
+<u>Three</u> hundred years ago.
+
+1631
+00:33:33,160 --> 00:33:33,560
+Three<u> hundred</u> years ago.
+
+1632
+00:33:33,560 --> 00:33:34,120
+Three hundred<u> years</u> ago.
+
+1633
+00:33:34,120 --> 00:33:34,740
+Three hundred years<u> ago.</u>
+
+1634
+00:33:35,460 --> 00:33:35,740
+<u>There</u> lived three great warriors...
+
+1635
+00:33:35,740 --> 00:33:35,840
+There<u> lived</u> three great warriors...
+
+1636
+00:33:35,840 --> 00:33:36,500
+There lived<u> three</u> great warriors...
+
+1637
+00:33:36,500 --> 00:33:37,060
+There lived three<u> great</u> warriors...
+
+1638
+00:33:37,060 --> 00:33:37,600
+There lived three great<u> warriors...</u>
+
+1639
+00:33:37,600 --> 00:33:38,680
+<u>and</u> three great dragons.
+
+1640
+00:33:38,680 --> 00:33:39,200
+and<u> three</u> great dragons.
+
+1641
+00:33:39,200 --> 00:33:39,200
+and three<u> great</u> dragons.
+
+1642
+00:33:39,200 --> 00:33:39,200
+and three great<u> dragons.</u>
+
+1643
+00:33:58,540 --> 00:33:59,540
+<u>They</u> loved those dragons so much.
+
+1644
+00:33:59,540 --> 00:34:00,340
+They<u> loved</u> those dragons so much.
+
+1645
+00:34:00,340 --> 00:34:01,320
+They loved<u> those</u> dragons so much.
+
+1646
+00:34:01,320 --> 00:34:01,320
+They loved those<u> dragons</u> so much.
+
+1647
+00:34:01,320 --> 00:34:01,640
+They loved those dragons<u> so</u> much.
+
+1648
+00:34:01,640 --> 00:34:01,640
+They loved those dragons so<u> much.</u>
+
+1649
+00:34:02,600 --> 00:34:03,060
+<u>They</u> gave them their favorite food.
+
+1650
+00:34:03,060 --> 00:34:03,440
+They<u> gave</u> them their favorite food.
+
+1651
+00:34:03,440 --> 00:34:03,760
+They gave<u> them</u> their favorite food.
+
+1652
+00:34:03,760 --> 00:34:04,220
+They gave them<u> their</u> favorite food.
+
+1653
+00:34:04,220 --> 00:34:04,520
+They gave them their<u> favorite</u> food.
+
+1654
+00:34:04,520 --> 00:34:04,520
+They gave them their favorite<u> food.</u>
+
+1655
+00:34:05,680 --> 00:34:09,380
+<u>Until</u> one day...
+
+1656
+00:34:09,380 --> 00:34:09,940
+Until<u> one</u> day...
+
+1657
+00:34:09,940 --> 00:34:11,480
+Until one<u> day...</u>
+
+1658
+00:34:11,480 --> 00:34:12,320
+<u>they</u> were faced by the Dark Lord's army.
+
+1659
+00:34:12,320 --> 00:34:12,540
+they<u> were</u> faced by the Dark Lord's army.
+
+1660
+00:34:12,540 --> 00:34:12,920
+they were<u> faced</u> by the Dark Lord's army.
+
+1661
+00:34:12,920 --> 00:34:13,300
+they were faced<u> by</u> the Dark Lord's army.
+
+1662
+00:34:13,300 --> 00:34:13,520
+they were faced by<u> the</u> Dark Lord's army.
+
+1663
+00:34:13,520 --> 00:34:14,040
+they were faced by the<u> Dark</u> Lord's army.
+
+1664
+00:34:14,040 --> 00:34:14,520
+they were faced by the Dark<u> Lord's</u> army.
+
+1665
+00:34:14,520 --> 00:34:14,520
+they were faced by the Dark Lord's<u> army.</u>
+
+1666
+00:35:27,440 --> 00:35:28,200
+<u>And</u> the three of them were defeated.
+
+1667
+00:35:28,200 --> 00:35:28,300
+And<u> the</u> three of them were defeated.
+
+1668
+00:35:28,300 --> 00:35:28,660
+And the<u> three</u> of them were defeated.
+
+1669
+00:35:28,660 --> 00:35:28,660
+And the three<u> of</u> them were defeated.
+
+1670
+00:35:28,660 --> 00:35:28,840
+And the three of<u> them</u> were defeated.
+
+1671
+00:35:28,840 --> 00:35:29,200
+And the three of them<u> were</u> defeated.
+
+1672
+00:35:29,200 --> 00:35:30,160
+And the three of them were<u> defeated.</u>
+
+1673
+00:35:35,280 --> 00:35:41,720
+<u>Ashifa</u> and Daini died.
+
+1674
+00:35:41,720 --> 00:35:41,920
+Ashifa<u> and</u> Daini died.
+
+1675
+00:35:41,920 --> 00:35:42,540
+Ashifa and<u> Daini</u> died.
+
+1676
+00:35:42,540 --> 00:35:42,540
+Ashifa and Daini<u> died.</u>
+
+1677
+00:35:43,600 --> 00:35:44,840
+<u>The</u> three of them felt very lonely...
+
+1678
+00:35:44,840 --> 00:35:44,840
+The<u> three</u> of them felt very lonely...
+
+1679
+00:35:44,840 --> 00:35:44,960
+The three<u> of</u> them felt very lonely...
+
+1680
+00:35:44,960 --> 00:35:45,320
+The three of<u> them</u> felt very lonely...
+
+1681
+00:35:45,320 --> 00:35:45,720
+The three of them<u> felt</u> very lonely...
+
+1682
+00:35:45,720 --> 00:35:46,180
+The three of them felt<u> very</u> lonely...
+
+1683
+00:35:46,180 --> 00:35:46,840
+The three of them felt very<u> lonely...</u>
+
+1684
+00:35:46,840 --> 00:35:46,840
+<u>because</u> they lost their master.
+
+1685
+00:35:46,840 --> 00:35:47,000
+because<u> they</u> lost their master.
+
+1686
+00:35:47,000 --> 00:35:47,280
+because they<u> lost</u> their master.
+
+1687
+00:35:47,280 --> 00:35:47,480
+because they lost<u> their</u> master.
+
+1688
+00:35:47,480 --> 00:35:47,640
+because they lost their<u> master.</u>
+
+1689
+00:35:55,560 --> 00:35:56,200
+<u>The</u> cries of the three of them...
+
+1690
+00:35:56,200 --> 00:35:56,520
+The<u> cries</u> of the three of them...
+
+1691
+00:35:56,520 --> 00:35:56,680
+The cries<u> of</u> the three of them...
+
+1692
+00:35:56,680 --> 00:35:56,940
+The cries of<u> the</u> three of them...
+
+1693
+00:35:56,940 --> 00:35:57,060
+The cries of the<u> three</u> of them...
+
+1694
+00:35:57,060 --> 00:35:57,160
+The cries of the three<u> of</u> them...
+
+1695
+00:35:57,160 --> 00:35:57,900
+The cries of the three of<u> them...</u>
+
+1696
+00:35:57,900 --> 00:35:57,980
+<u>lit</u> up the sky.
+
+1697
+00:35:57,980 --> 00:35:58,200
+lit<u> up</u> the sky.
+
+1698
+00:35:58,200 --> 00:35:58,380
+lit up<u> the</u> sky.
+
+1699
+00:35:58,380 --> 00:35:59,160
+lit up the<u> sky.</u>
+
+1700
+00:36:00,220 --> 00:36:01,980
+<u>This</u> brought the three of them together.
+
+1701
+00:36:01,980 --> 00:36:02,420
+This<u> brought</u> the three of them together.
+
+1702
+00:36:02,420 --> 00:36:02,880
+This brought<u> the</u> three of them together.
+
+1703
+00:36:02,880 --> 00:36:03,240
+This brought the<u> three</u> of them together.
+
+1704
+00:36:03,240 --> 00:36:03,420
+This brought the three<u> of</u> them together.
+
+1705
+00:36:03,420 --> 00:36:03,680
+This brought the three of<u> them</u> together.
+
+1706
+00:36:03,680 --> 00:36:04,240
+This brought the three of them<u> together.</u>
+
+1707
+00:36:05,400 --> 00:36:06,020
+<u>Senua</u> and Daini...
+
+1708
+00:36:06,020 --> 00:36:06,340
+Senua<u> and</u> Daini...
+
+1709
+00:36:06,340 --> 00:36:07,180
+Senua and<u> Daini...</u>
+
+1710
+00:36:07,180 --> 00:36:07,220
+<u>became</u> the three-headed dragons...
+
+1711
+00:36:07,220 --> 00:36:07,420
+became<u> the</u> three-headed dragons...
+
+1712
+00:36:07,420 --> 00:36:07,420
+became the<u> three</u>-headed dragons...
+
+1713
+00:36:07,420 --> 00:36:07,420
+became the three<u>-headed</u> dragons...
+
+1714
+00:36:07,420 --> 00:36:07,540
+became the three-headed<u> dragons...</u>
+
+1715
+00:36:07,540 --> 00:36:07,800
+<u>and</u> they were very powerful.
+
+1716
+00:36:07,800 --> 00:36:08,320
+and<u> they</u> were very powerful.
+
+1717
+00:36:08,320 --> 00:36:08,320
+and they<u> were</u> very powerful.
+
+1718
+00:36:08,320 --> 00:36:08,340
+and they were<u> very</u> powerful.
+
+1719
+00:36:08,340 --> 00:36:08,660
+and they were very<u> powerful.</u>
+
+1720
+00:36:40,440 --> 00:36:41,180
+<u>So,</u> the three of them...
+
+1721
+00:36:41,180 --> 00:36:41,240
+So, the three of them...
+
+1722
+00:36:41,240 --> 00:36:41,400
+So,<u> the</u> three of them...
+
+1723
+00:36:41,400 --> 00:36:41,580
+So, the<u> three</u> of them...
+
+1724
+00:36:41,580 --> 00:36:41,580
+So, the three<u> of</u> them...
+
+1725
+00:36:41,580 --> 00:36:42,340
+So, the three of<u> them...</u>
+
+1726
+00:36:42,340 --> 00:36:42,600
+<u>can</u> eat the same food...
+
+1727
+00:36:42,600 --> 00:36:42,960
+can<u> eat</u> the same food...
+
+1728
+00:36:42,960 --> 00:36:43,380
+can eat<u> the</u> same food...
+
+1729
+00:36:43,380 --> 00:36:44,560
+can eat the<u> same</u> food...
+
+1730
+00:36:44,560 --> 00:36:44,680
+can eat the same<u> food...</u>
+
+1731
+00:36:44,680 --> 00:36:45,380
+<u>as</u> their master.
+
+1732
+00:36:45,380 --> 00:36:45,700
+as<u> their</u> master.
+
+1733
+00:36:45,700 --> 00:36:45,700
+as their<u> master.</u>
+
+1734
+00:36:46,160 --> 00:36:46,600
+<u>I</u> saw the army...
+
+1735
+00:36:46,600 --> 00:36:46,920
+I<u> saw</u> the army...
+
+1736
+00:36:46,920 --> 00:36:47,360
+I saw<u> the</u> army...
+
+1737
+00:36:47,360 --> 00:36:47,500
+I saw the<u> army...</u>
+
+1738
+00:36:47,500 --> 00:36:47,880
+<u>cooking</u> three different foods.
+
+1739
+00:36:47,880 --> 00:36:48,120
+cooking<u> three</u> different foods.
+
+1740
+00:36:48,120 --> 00:36:48,740
+cooking three<u> different</u> foods.
+
+1741
+00:36:48,740 --> 00:36:48,740
+cooking three different<u> foods.</u>
+
+1742
+00:36:49,260 --> 00:36:49,800
+<u>Is</u> that true for the three-headed dragons?
+
+1743
+00:36:49,800 --> 00:36:50,040
+Is<u> that</u> true for the three-headed dragons?
+
+1744
+00:36:50,040 --> 00:36:50,380
+Is that<u> true</u> for the three-headed dragons?
+
+1745
+00:36:50,380 --> 00:36:50,600
+Is that true<u> for</u> the three-headed dragons?
+
+1746
+00:36:50,600 --> 00:36:51,160
+Is that true for<u> the</u> three-headed dragons?
+
+1747
+00:36:51,160 --> 00:36:51,240
+Is that true for the<u> three</u>-headed dragons?
+
+1748
+00:36:51,240 --> 00:36:51,240
+Is that true for the three<u>-headed</u> dragons?
+
+1749
+00:36:51,240 --> 00:36:51,240
+Is that true for the three-headed<u> dragons?</u>
+
+1750
+00:36:52,100 --> 00:36:52,300
+<u>It's</u> very true, Alva.
+
+1751
+00:36:52,300 --> 00:36:52,840
+It's<u> very</u> true, Alva.
+
+1752
+00:36:52,840 --> 00:36:52,840
+It's very<u> true,</u> Alva.
+
+1753
+00:36:52,840 --> 00:36:53,000
+It's very true, Alva.
+
+1754
+00:36:53,000 --> 00:36:53,280
+It's very true,<u> Alva.</u>
+
+1755
+00:36:54,200 --> 00:36:55,540
+<u>I've</u> already told you...
+
+1756
+00:36:55,540 --> 00:36:55,540
+I've<u> already</u> told you...
+
+1757
+00:36:55,540 --> 00:36:55,540
+I've already<u> told</u> you...
+
+1758
+00:36:55,540 --> 00:36:55,540
+I've already told<u> you...</u>
+
+1759
+00:36:55,540 --> 00:36:55,540
+
+
+1760
+00:36:55,540 --> 00:36:55,540
+
+
+1761
+00:36:55,540 --> 00:36:55,540
+
+
+1762
+00:36:55,540 --> 00:36:55,540
+
+
+1763
+00:36:58,800 --> 00:36:59,560
+<u>everything.</u>
+
+1764
+00:36:57,340 --> 00:37:00,320
+<u>Now...</u>
+
+1765
+00:37:00,320 --> 00:37:01,040
+<u>it's</u> up to you.
+
+1766
+00:37:01,040 --> 00:37:01,420
+it's<u> up</u> to you.
+
+1767
+00:37:01,420 --> 00:37:01,500
+it's up<u> to</u> you.
+
+1768
+00:37:01,500 --> 00:37:02,100
+it's up to<u> you.</u>
+
+1769
+00:37:02,780 --> 00:37:04,160
+<u>You're</u> the only one...
+
+1770
+00:37:04,160 --> 00:37:04,160
+You're<u> the</u> only one...
+
+1771
+00:37:04,160 --> 00:37:04,160
+You're the<u> only</u> one...
+
+1772
+00:37:04,160 --> 00:37:04,340
+You're the only<u> one...</u>
+
+1773
+00:37:04,340 --> 00:37:04,340
+<u>who</u> can take the Stone of Eternity...
+
+1774
+00:37:04,340 --> 00:37:04,680
+who<u> can</u> take the Stone of Eternity...
+
+1775
+00:37:04,680 --> 00:37:05,220
+who can<u> take</u> the Stone of Eternity...
+
+1776
+00:37:05,220 --> 00:37:05,420
+who can take<u> the</u> Stone of Eternity...
+
+1777
+00:37:05,420 --> 00:37:05,600
+who can take the<u> Stone</u> of Eternity...
+
+1778
+00:37:05,600 --> 00:37:05,720
+who can take the Stone<u> of</u> Eternity...
+
+1779
+00:37:05,720 --> 00:37:06,740
+who can take the Stone of<u> Eternity...</u>
+
+1780
+00:37:06,740 --> 00:37:06,900
+<u>and</u> save our lives.
+
+1781
+00:37:06,900 --> 00:37:07,400
+and<u> save</u> our lives.
+
+1782
+00:37:07,400 --> 00:37:07,660
+and save<u> our</u> lives.
+
+1783
+00:37:07,660 --> 00:37:08,040
+and save our<u> lives.</u>
+
+1784
+00:37:25,720 --> 00:37:27,440
+<u>We</u> can do it!
+
+1785
+00:37:27,440 --> 00:37:28,000
+We<u> can</u> do it!
+
+1786
+00:37:28,000 --> 00:37:31,280
+We can<u> do</u> it!
+
+1787
+00:37:31,280 --> 00:37:32,020
+We can do<u> it!</u>
+
+1788
+00:37:34,180 --> 00:37:37,440
+<u>We</u> can do it!
+
+1789
+00:37:37,440 --> 00:37:38,300
+We<u> can</u> do it!
+
+1790
+00:37:38,300 --> 00:37:41,200
+We can<u> do</u> it!
+
+1791
+00:37:41,200 --> 00:37:41,640
+We can do<u> it!</u>
+
+1792
+00:37:42,160 --> 00:37:48,400
+<u>It's</u> scary when it's narrow.
+
+1793
+00:37:48,400 --> 00:37:48,400
+It's<u> scary</u> when it's narrow.
+
+1794
+00:37:48,400 --> 00:37:48,620
+It's scary<u> when</u> it's narrow.
+
+1795
+00:37:48,620 --> 00:37:48,800
+It's scary when<u> it's</u> narrow.
+
+1796
+00:37:48,800 --> 00:37:49,120
+It's scary when it's<u> narrow.</u>
+
+1797
+00:38:00,220 --> 00:38:01,140
+<u>It's</u> scary when it's narrow.
+
+1798
+00:38:01,140 --> 00:38:00,900
+It's<u> scary</u> when it's narrow.
+
+1799
+00:38:00,900 --> 00:38:02,060
+It's scary<u> when</u> it's narrow.
+
+1800
+00:38:02,060 --> 00:38:02,060
+It's scary when<u> it's</u> narrow.
+
+1801
+00:38:02,060 --> 00:38:02,060
+It's scary when it's<u> narrow.</u>
+
+1802
+00:38:04,940 --> 00:38:09,220
+<u>It's</u> 6 o'clock.
+
+1803
+00:38:09,220 --> 00:38:09,240
+It's<u> 6</u> o'clock.
+
+1804
+00:38:09,240 --> 00:38:09,420
+It's 6<u> o</u>'clock.
+
+1805
+00:38:09,420 --> 00:38:09,420
+It's 6 o<u>'clock.</u>
+
+1806
+00:38:11,180 --> 00:38:12,540
+<u>What</u> we have to do now...
+
+1807
+00:38:12,540 --> 00:38:13,340
+What<u> we</u> have to do now...
+
+1808
+00:38:13,340 --> 00:38:13,340
+What we<u> have</u> to do now...
+
+1809
+00:38:13,340 --> 00:38:13,420
+What we have<u> to</u> do now...
+
+1810
+00:38:13,420 --> 00:38:13,840
+What we have to<u> do</u> now...
+
+1811
+00:38:13,840 --> 00:38:14,440
+What we have to do<u> now...</u>
+
+1812
+00:38:14,440 --> 00:38:14,880
+<u>is</u> to make three different foods...
+
+1813
+00:38:14,880 --> 00:38:14,900
+is<u> to</u> make three different foods...
+
+1814
+00:38:14,900 --> 00:38:15,200
+is to<u> make</u> three different foods...
+
+1815
+00:38:15,200 --> 00:38:16,020
+is to make<u> three</u> different foods...
+
+1816
+00:38:16,020 --> 00:38:16,700
+is to make three<u> different</u> foods...
+
+1817
+00:38:16,700 --> 00:38:17,200
+is to make three different<u> foods...</u>
+
+1818
+00:38:17,200 --> 00:38:17,400
+<u>that</u> the three-headed dragons like...
+
+1819
+00:38:17,400 --> 00:38:17,660
+that<u> the</u> three-headed dragons like...
+
+1820
+00:38:17,660 --> 00:38:18,100
+that the<u> three</u>-headed dragons like...
+
+1821
+00:38:18,100 --> 00:38:18,340
+that the three<u>-headed</u> dragons like...
+
+1822
+00:38:18,340 --> 00:38:18,500
+that the three-headed<u> dragons</u> like...
+
+1823
+00:38:18,500 --> 00:38:19,220
+that the three-headed dragons<u> like...</u>
+
+1824
+00:38:19,220 --> 00:38:19,340
+<u>which</u> are...
+
+1825
+00:38:19,340 --> 00:38:20,640
+which<u> are...</u>
+
+1826
+00:38:20,640 --> 00:38:21,080
+<u>rendang,</u> budek, and asinan.
+
+1827
+00:38:21,080 --> 00:38:21,360
+rendang, budek, and asinan.
+
+1828
+00:38:21,360 --> 00:38:22,040
+rendang,<u> budek,</u> and asinan.
+
+1829
+00:38:22,040 --> 00:38:22,580
+rendang, budek, and asinan.
+
+1830
+00:38:22,580 --> 00:38:22,800
+rendang, budek,<u> and</u> asinan.
+
+1831
+00:38:22,800 --> 00:38:23,300
+rendang, budek, and<u> asinan.</u>
+
+1832
+00:38:23,300 --> 00:38:23,960
+<u>And</u> finally, we have to cook...
+
+1833
+00:38:23,960 --> 00:38:24,280
+And<u> finally,</u> we have to cook...
+
+1834
+00:38:24,280 --> 00:38:24,600
+And finally, we have to cook...
+
+1835
+00:38:24,600 --> 00:38:24,880
+And finally,<u> we</u> have to cook...
+
+1836
+00:38:24,880 --> 00:38:25,140
+And finally, we<u> have</u> to cook...
+
+1837
+00:38:25,140 --> 00:38:25,640
+And finally, we have<u> to</u> cook...
+
+1838
+00:38:25,640 --> 00:38:25,860
+And finally, we have to<u> cook...</u>
+
+1839
+00:38:25,860 --> 00:38:26,680
+<u>the</u> Stone of Eternity.
+
+1840
+00:38:26,680 --> 00:38:27,400
+the<u> Stone</u> of Eternity.
+
+1841
+00:38:27,400 --> 00:38:27,460
+the Stone<u> of</u> Eternity.
+
+1842
+00:38:27,460 --> 00:38:28,020
+the Stone of<u> Eternity.</u>
+
+1843
+00:38:28,460 --> 00:38:29,360
+<u>That</u> means we have to go to the kitchen.
+
+1844
+00:38:29,360 --> 00:38:29,360
+That<u> means</u> we have to go to the kitchen.
+
+1845
+00:38:29,360 --> 00:38:29,980
+That means<u> we</u> have to go to the kitchen.
+
+1846
+00:38:29,980 --> 00:38:30,120
+That means we<u> have</u> to go to the kitchen.
+
+1847
+00:38:30,120 --> 00:38:30,160
+That means we have<u> to</u> go to the kitchen.
+
+1848
+00:38:30,160 --> 00:38:30,300
+That means we have to<u> go</u> to the kitchen.
+
+1849
+00:38:30,300 --> 00:38:30,300
+That means we have to go<u> to</u> the kitchen.
+
+1850
+00:38:30,300 --> 00:38:30,640
+That means we have to go to<u> the</u> kitchen.
+
+1851
+00:38:30,640 --> 00:38:30,640
+That means we have to go to the<u> kitchen.</u>
+
+1852
+00:38:31,060 --> 00:38:31,760
+<u>There</u> it is.
+
+1853
+00:38:31,760 --> 00:38:32,020
+There<u> it</u> is.
+
+1854
+00:38:32,020 --> 00:38:32,160
+There it<u> is.</u>
+
+1855
+00:38:32,500 --> 00:38:32,700
+<u>Let's</u> go.
+
+1856
+00:38:32,700 --> 00:38:32,780
+Let's<u> go.</u>
+
+1857
+00:38:38,480 --> 00:38:44,660
+<u>Professor!</u>
+
+1858
+00:38:55,800 --> 00:38:56,840
+<u>Who's</u> there?
+
+1859
+00:38:56,840 --> 00:38:57,200
+Who's<u> there?</u>
+
+1860
+00:38:58,860 --> 00:39:01,440
+<u>Come</u> out!
+
+1861
+00:39:01,440 --> 00:39:01,700
+Come<u> out!</u>
+
+1862
+00:39:04,020 --> 00:39:10,340
+<u>I</u> said, come out...
+
+1863
+00:39:10,340 --> 00:39:10,800
+I<u> said,</u> come out...
+
+1864
+00:39:10,800 --> 00:39:11,040
+I said, come out...
+
+1865
+00:39:11,040 --> 00:39:11,040
+I said,<u> come</u> out...
+
+1866
+00:39:11,040 --> 00:39:11,460
+I said, come<u> out...</u>
+
+1867
+00:39:11,460 --> 00:39:11,620
+<u>or</u> I'll have to use magic.
+
+1868
+00:39:11,620 --> 00:39:12,380
+or<u> I'll</u> have to use magic.
+
+1869
+00:39:12,380 --> 00:39:12,840
+or I'll<u> have</u> to use magic.
+
+1870
+00:39:12,840 --> 00:39:13,060
+or I'll have<u> to</u> use magic.
+
+1871
+00:39:13,060 --> 00:39:13,680
+or I'll have to<u> use</u> magic.
+
+1872
+00:39:13,680 --> 00:39:14,200
+or I'll have to use<u> magic.</u>
+
+1873
+00:39:17,060 --> 00:39:21,000
+<u>One.</u>
+
+1874
+00:39:43,420 --> 00:39:44,460
+<u>Two.</u>
+
+1875
+00:39:31,880 --> 00:39:45,500
+<u>Stop!</u>
+
+1876
+00:39:46,220 --> 00:39:49,540
+<u>I</u> want to talk to you.
+
+1877
+00:39:49,540 --> 00:39:49,640
+I<u> want</u> to talk to you.
+
+1878
+00:39:49,640 --> 00:39:49,880
+I want<u> to</u> talk to you.
+
+1879
+00:39:49,880 --> 00:39:50,140
+I want to<u> talk</u> to you.
+
+1880
+00:39:50,140 --> 00:39:50,420
+I want to talk<u> to</u> you.
+
+1881
+00:39:50,420 --> 00:39:50,940
+I want to talk to<u> you.</u>
+
+1882
+00:39:50,940 --> 00:39:51,360
+<u>Can</u> you let me out?
+
+1883
+00:39:51,360 --> 00:39:51,440
+Can<u> you</u> let me out?
+
+1884
+00:39:51,440 --> 00:39:51,620
+Can you<u> let</u> me out?
+
+1885
+00:39:51,620 --> 00:39:51,820
+Can you let<u> me</u> out?
+
+1886
+00:39:51,820 --> 00:39:51,820
+Can you let me<u> out?</u>
+
+1887
+00:39:58,620 --> 00:40:01,140
+<u>Okay.</u>
+
+1888
+00:40:22,500 --> 00:40:23,140
+<u>The</u> Stone of Eternity
+
+1889
+00:40:23,140 --> 00:40:20,960
+The<u> Stone</u> of Eternity
+
+1890
+00:40:20,960 --> 00:40:23,780
+The Stone<u> of</u> Eternity
+
+1891
+00:40:23,780 --> 00:40:24,100
+The Stone of<u> Eternity</u>
+
+1892
+00:40:24,100 --> 00:40:28,740
+<u>Ouch.</u>
+
+1893
+00:40:29,280 --> 00:40:30,560
+<u>That</u> hurts.
+
+1894
+00:40:30,560 --> 00:40:30,560
+That<u> hurts.</u>
+
+1895
+00:40:31,140 --> 00:40:31,440
+<u>Don't</u> wait.
+
+1896
+00:40:31,440 --> 00:40:31,580
+Don't<u> wait.</u>
+
+1897
+00:40:31,800 --> 00:40:32,040
+<u>We</u> have to take it off.
+
+1898
+00:40:32,040 --> 00:40:32,060
+We<u> have</u> to take it off.
+
+1899
+00:40:32,060 --> 00:40:32,060
+We have<u> to</u> take it off.
+
+1900
+00:40:32,060 --> 00:40:32,060
+We have to<u> take</u> it off.
+
+1901
+00:40:32,060 --> 00:40:32,720
+We have to take<u> it</u> off.
+
+1902
+00:40:32,720 --> 00:40:32,720
+We have to take it<u> off.</u>
+
+1903
+00:40:32,900 --> 00:40:35,380
+<u>Let's</u> talk later.
+
+1904
+00:40:35,380 --> 00:40:36,160
+Let's<u> talk</u> later.
+
+1905
+00:40:36,160 --> 00:40:36,360
+Let's talk<u> later.</u>
+
+1906
+00:40:36,780 --> 00:40:37,240
+<u>Now,</u> let's go to the kitchen...
+
+1907
+00:40:37,240 --> 00:40:37,440
+Now, let's go to the kitchen...
+
+1908
+00:40:37,440 --> 00:40:37,480
+Now,<u> let's</u> go to the kitchen...
+
+1909
+00:40:37,480 --> 00:40:37,600
+Now, let's<u> go</u> to the kitchen...
+
+1910
+00:40:37,600 --> 00:40:37,700
+Now, let's go<u> to</u> the kitchen...
+
+1911
+00:40:37,700 --> 00:40:37,840
+Now, let's go to<u> the</u> kitchen...
+
+1912
+00:40:37,840 --> 00:40:38,380
+Now, let's go to the<u> kitchen...</u>
+
+1913
+00:40:38,380 --> 00:40:38,440
+<u>and</u> cook.
+
+1914
+00:40:38,440 --> 00:40:38,580
+and<u> cook.</u>
+
+1915
+00:40:39,400 --> 00:40:40,380
+<u>Okay.</u>
+
+1916
+00:40:40,960 --> 00:40:41,500
+<u>Let's</u> go.
+
+1917
+00:40:41,500 --> 00:40:41,560
+Let's<u> go.</u>
+
+1918
+00:40:41,860 --> 00:40:42,420
+<u>Be</u> careful.
+
+1919
+00:40:42,420 --> 00:40:42,540
+Be<u> careful.</u>
+
+1920
+00:40:44,240 --> 00:40:47,820
+<u>Help</u> me.
+
+1921
+00:40:47,820 --> 00:40:48,160
+Help<u> me.</u>
+
+1922
+00:40:50,940 --> 00:40:50,960
+<u>The</u> Stone of Eternity
+
+1923
+00:40:50,960 --> 00:40:50,980
+The<u> Stone</u> of Eternity
+
+1924
+00:40:50,980 --> 00:40:50,980
+The Stone<u> of</u> Eternity
+
+1925
+00:40:50,980 --> 00:41:04,600
+The Stone of<u> Eternity</u>
+
+1926
+00:41:04,600 --> 00:41:06,440
+<u>It's</u> time.
+
+1927
+00:41:06,440 --> 00:41:07,020
+It's<u> time.</u>
+
+1928
+00:41:07,200 --> 00:41:07,460
+<u>It's</u> time to show up.
+
+1929
+00:41:07,460 --> 00:41:07,460
+It's<u> time</u> to show up.
+
+1930
+00:41:07,460 --> 00:41:08,000
+It's time<u> to</u> show up.
+
+1931
+00:41:08,000 --> 00:41:08,000
+It's time to<u> show</u> up.
+
+1932
+00:41:08,000 --> 00:41:08,020
+It's time to show<u> up.</u>
+
+1933
+00:41:09,760 --> 00:41:17,240
+<u>Like</u> someone who's cooking.
+
+1934
+00:41:17,240 --> 00:41:17,480
+Like<u> someone</u> who's cooking.
+
+1935
+00:41:17,480 --> 00:41:17,700
+Like someone<u> who's</u> cooking.
+
+1936
+00:41:17,700 --> 00:41:18,020
+Like someone who's<u> cooking.</u>
+
+1937
+00:41:20,940 --> 00:41:22,420
+<u>Who's</u> in there?
+
+1938
+00:41:22,420 --> 00:41:22,520
+Who's<u> in</u> there?
+
+1939
+00:41:22,520 --> 00:41:22,780
+Who's in<u> there?</u>
+
+1940
+00:41:50,940 --> 00:41:51,040
+<u>The</u> Stone of Eternity
+
+1941
+00:41:51,040 --> 00:42:20,920
+The<u> Stone</u> of Eternity
+
+1942
+00:42:20,920 --> 00:42:20,920
+The Stone<u> of</u> Eternity
+
+1943
+00:42:20,920 --> 00:42:20,920
+The Stone of<u> Eternity</u>
+
+1944
+00:42:20,940 --> 00:42:20,940
+<u>The</u> Stone of Eternity
+
+1945
+00:42:20,940 --> 00:42:20,940
+The<u> Stone</u> of Eternity
+
+1946
+00:42:20,940 --> 00:42:23,580
+The Stone<u> of</u> Eternity
+
+1947
+00:42:23,580 --> 00:42:23,580
+The Stone of<u> Eternity</u>
+
+1948
+00:42:23,580 --> 00:42:24,080
+<u>It's</u> heavy.
+
+1949
+00:42:24,080 --> 00:42:24,380
+It's<u> heavy.</u>
+
+1950
+00:42:24,920 --> 00:42:29,000
+<u>Be</u> careful.
+
+1951
+00:42:29,000 --> 00:42:30,820
+Be<u> careful.</u>
+
+1952
+00:42:57,540 --> 00:42:58,160
+<u>The</u> Stone of Eternity
+
+1953
+00:42:58,160 --> 00:42:54,400
+The<u> Stone</u> of Eternity
+
+1954
+00:42:54,400 --> 00:42:58,780
+The Stone<u> of</u> Eternity
+
+1955
+00:42:58,780 --> 00:42:59,600
+The Stone of<u> Eternity</u>
+
+1956
+00:42:59,600 --> 00:43:08,460
+<u>Rey,</u> Vega.
+
+1957
+00:43:08,460 --> 00:43:08,780
+Rey, Vega.
+
+1958
+00:43:08,780 --> 00:43:09,060
+Rey,<u> Vega.</u>
+
+1959
+00:43:09,620 --> 00:43:09,860
+<u>If</u> you don't like this food...
+
+1960
+00:43:09,860 --> 00:43:10,120
+If<u> you</u> don't like this food...
+
+1961
+00:43:10,120 --> 00:43:10,620
+If you<u> don't</u> like this food...
+
+1962
+00:43:10,620 --> 00:43:11,280
+If you don't<u> like</u> this food...
+
+1963
+00:43:11,280 --> 00:43:11,580
+If you don't like<u> this</u> food...
+
+1964
+00:43:11,580 --> 00:43:12,560
+If you don't like this<u> food...</u>
+
+1965
+00:43:12,560 --> 00:43:13,040
+<u>and</u> it's getting worse...
+
+1966
+00:43:13,040 --> 00:43:13,240
+and<u> it's</u> getting worse...
+
+1967
+00:43:13,240 --> 00:43:13,440
+and it's<u> getting</u> worse...
+
+1968
+00:43:13,440 --> 00:43:14,300
+and it's getting<u> worse...</u>
+
+1969
+00:43:14,300 --> 00:43:14,720
+<u>you</u> have to turn around...
+
+1970
+00:43:14,720 --> 00:43:14,940
+you<u> have</u> to turn around...
+
+1971
+00:43:14,940 --> 00:43:15,060
+you have<u> to</u> turn around...
+
+1972
+00:43:15,060 --> 00:43:15,260
+you have to<u> turn</u> around...
+
+1973
+00:43:15,260 --> 00:43:16,380
+you have to turn<u> around...</u>
+
+1974
+00:43:16,380 --> 00:43:16,800
+<u>so</u> I can face it.
+
+1975
+00:43:16,800 --> 00:43:17,040
+so<u> I</u> can face it.
+
+1976
+00:43:17,040 --> 00:43:17,160
+so I<u> can</u> face it.
+
+1977
+00:43:17,160 --> 00:43:17,420
+so I can<u> face</u> it.
+
+1978
+00:43:17,420 --> 00:43:17,720
+so I can face<u> it.</u>
+
+1979
+00:43:20,940 --> 00:43:22,440
+<u>Let's</u> go.
+
+1980
+00:43:22,440 --> 00:43:22,440
+Let's<u> go.</u>
+
+1981
+00:43:50,940 --> 00:43:50,940
+<u>The</u> Stone of Eternity
+
+1982
+00:43:50,940 --> 00:43:50,940
+The<u> Stone</u> of Eternity
+
+1983
+00:43:50,940 --> 00:43:52,100
+The Stone<u> of</u> Eternity
+
+1984
+00:43:52,100 --> 00:44:20,920
+The Stone of<u> Eternity</u>
+
+1985
+00:44:20,920 --> 00:44:21,440
+<u>Be</u> careful.
+
+1986
+00:44:21,440 --> 00:44:21,440
+Be<u> careful.</u>
+
+1987
+00:44:21,940 --> 00:44:22,180
+<u>It</u> can drown you.
+
+1988
+00:44:22,180 --> 00:44:22,400
+It<u> can</u> drown you.
+
+1989
+00:44:22,400 --> 00:44:22,780
+It can<u> drown</u> you.
+
+1990
+00:44:22,780 --> 00:44:23,460
+It can drown<u> you.</u>
+
+1991
+00:44:26,600 --> 00:44:33,580
+<u>Rey,</u> wake up.
+
+1992
+00:44:33,580 --> 00:44:33,820
+Rey, wake up.
+
+1993
+00:44:33,820 --> 00:44:34,080
+Rey,<u> wake</u> up.
+
+1994
+00:44:34,080 --> 00:44:34,120
+Rey, wake<u> up.</u>
+
+1995
+00:44:34,540 --> 00:44:35,220
+<u>Her</u> face is blue.
+
+1996
+00:44:35,220 --> 00:44:35,520
+Her<u> face</u> is blue.
+
+1997
+00:44:35,520 --> 00:44:35,640
+Her face<u> is</u> blue.
+
+1998
+00:44:35,640 --> 00:44:35,960
+Her face is<u> blue.</u>
+
+1999
+00:44:36,320 --> 00:44:36,680
+<u>Rey,</u> she's possessed.
+
+2000
+00:44:36,680 --> 00:44:36,940
+Rey, she's possessed.
+
+2001
+00:44:36,940 --> 00:44:37,300
+Rey,<u> she's</u> possessed.
+
+2002
+00:44:37,300 --> 00:44:37,500
+Rey, she's<u> possessed.</u>
+
+2003
+00:44:38,180 --> 00:44:39,180
+<u>The</u> Stone of Eternity
+
+2004
+00:44:39,180 --> 00:44:43,140
+The<u> Stone</u> of Eternity
+
+2005
+00:44:43,140 --> 00:44:43,140
+The Stone<u> of</u> Eternity
+
+2006
+00:44:43,140 --> 00:44:43,140
+The Stone of<u> Eternity</u>
+
+2007
+00:44:56,600 --> 00:45:06,560
+<u>The</u> Stone of Eternity
+
+2008
+00:45:06,560 --> 00:45:16,440
+The<u> Stone</u> of Eternity
+
+2009
+00:45:16,440 --> 00:45:16,520
+The Stone<u> of</u> Eternity
+
+2010
+00:45:16,520 --> 00:45:20,500
+The Stone of<u> Eternity</u>
+
+2011
+00:45:24,900 --> 00:45:26,460
+<u>The</u> Stone of Eternity
+
+2012
+00:45:26,460 --> 00:45:27,580
+The<u> Stone</u> of Eternity
+
+2013
+00:45:27,580 --> 00:45:28,020
+The Stone<u> of</u> Eternity
+
+2014
+00:45:28,020 --> 00:45:33,900
+The Stone of<u> Eternity</u>
+
+2015
+00:45:33,900 --> 00:45:34,760
+<u>Vega!</u>
+
+2016
+00:45:37,680 --> 00:45:38,380
+<u>Vega!</u>
+
+2017
+00:45:50,920 --> 00:45:51,900
+<u>Rey!</u>
+
+2018
+00:46:20,920 --> 00:46:23,340
+<u>Rey!</u>
+
+2019
+00:46:23,340 --> 00:46:23,620
+<u>Vega!</u>
+
+2020
+00:46:23,980 --> 00:46:25,940
+<u>Rey!</u>
+
+2021
+00:46:27,220 --> 00:46:27,740
+<u>Vega!</u>
+
+2022
+00:46:31,300 --> 00:46:31,600
+<u>Vega!</u>
+
+2023
+00:46:33,540 --> 00:46:39,300
+<u>Rey!</u>
+
+2024
+00:46:50,920 --> 00:47:07,440
+<u>Vega!</u>
+
+2025
+00:47:20,920 --> 00:47:21,850
+<u>Rey!</u>
+
+2026
+00:47:22,780 --> 00:47:22,780
+
+
+2027
+00:47:26,900 --> 00:47:27,320
+<u>Rey!</u>
+
+2028
+00:47:31,040 --> 00:47:31,040
+
+
+2029
+00:47:31,760 --> 00:47:33,200
+<u>Rey!</u>
+
+2030
+00:47:33,400 --> 00:47:33,840
+<u>Rey!</u>
+
+2031
+00:47:41,740 --> 00:47:42,820
+<u>Someone's</u> coming! Let's go!
+
+2032
+00:47:42,820 --> 00:47:42,820
+Someone's<u> coming!</u> Let's go!
+
+2033
+00:47:42,820 --> 00:47:42,960
+Someone's coming! Let's go!
+
+2034
+00:47:42,960 --> 00:47:43,200
+Someone's coming!<u> Let's</u> go!
+
+2035
+00:47:43,200 --> 00:47:43,200
+Someone's coming! Let's<u> go!</u>
+
+2036
+00:48:11,420 --> 00:48:12,140
+<u>Rey!</u>
+
+2037
+00:48:12,480 --> 00:48:12,960
+<u>Rey!</u>
+
+2038
+00:48:13,360 --> 00:48:13,860
+<u>Rey!</u>
+
+2039
+00:48:14,080 --> 00:48:14,360
+<u>Rey!</u>
+
+2040
+00:48:14,720 --> 00:48:14,720
+
+
+2041
+00:48:14,800 --> 00:48:15,440
+<u>Her</u> face is blue!
+
+2042
+00:48:15,440 --> 00:48:15,740
+Her<u> face</u> is blue!
+
+2043
+00:48:15,740 --> 00:48:15,880
+Her face<u> is</u> blue!
+
+2044
+00:48:15,880 --> 00:48:16,200
+Her face is<u> blue!</u>
+
+2045
+00:48:16,560 --> 00:48:16,860
+<u>Rey!</u>
+
+2046
+00:48:17,120 --> 00:48:17,540
+<u>She's</u> poisoned!
+
+2047
+00:48:17,540 --> 00:48:18,160
+She's<u> poisoned!</u>
+
+2048
+00:48:18,860 --> 00:48:19,420
+<u>Poison</u> gas can kill you if it's not in your body!
+
+2049
+00:48:19,420 --> 00:48:19,420
+Poison<u> gas</u> can kill you if it's not in your body!
+
+2050
+00:48:19,420 --> 00:48:19,740
+Poison gas<u> can</u> kill you if it's not in your body!
+
+2051
+00:48:19,740 --> 00:48:20,200
+Poison gas can<u> kill</u> you if it's not in your body!
+
+2052
+00:48:20,200 --> 00:48:20,580
+Poison gas can kill<u> you</u> if it's not in your body!
+
+2053
+00:48:20,580 --> 00:48:20,580
+Poison gas can kill you<u> if</u> it's not in your body!
+
+2054
+00:48:20,580 --> 00:48:20,720
+Poison gas can kill you if<u> it's</u> not in your body!
+
+2055
+00:48:20,720 --> 00:48:20,720
+Poison gas can kill you if it's<u> not</u> in your body!
+
+2056
+00:48:20,720 --> 00:48:21,280
+Poison gas can kill you if it's not<u> in</u> your body!
+
+2057
+00:48:21,280 --> 00:48:21,620
+Poison gas can kill you if it's not in<u> your</u> body!
+
+2058
+00:48:21,620 --> 00:48:21,960
+Poison gas can kill you if it's not in your<u> body!</u>
+
+2059
+00:48:26,120 --> 00:48:29,820
+<u>What</u> should we do?
+
+2060
+00:48:29,820 --> 00:48:29,820
+What<u> should</u> we do?
+
+2061
+00:48:29,820 --> 00:48:29,880
+What should<u> we</u> do?
+
+2062
+00:48:29,880 --> 00:48:29,880
+What should we<u> do?</u>
+
+2063
+00:48:30,760 --> 00:48:31,320
+<u>We</u> have to take her to the clinic!
+
+2064
+00:48:31,320 --> 00:48:31,840
+We<u> have</u> to take her to the clinic!
+
+2065
+00:48:31,840 --> 00:48:31,940
+We have<u> to</u> take her to the clinic!
+
+2066
+00:48:31,940 --> 00:48:32,080
+We have to<u> take</u> her to the clinic!
+
+2067
+00:48:32,080 --> 00:48:32,240
+We have to take<u> her</u> to the clinic!
+
+2068
+00:48:32,240 --> 00:48:32,320
+We have to take her<u> to</u> the clinic!
+
+2069
+00:48:32,320 --> 00:48:32,440
+We have to take her to<u> the</u> clinic!
+
+2070
+00:48:32,440 --> 00:48:32,660
+We have to take her to the<u> clinic!</u>
+
+2071
+00:48:33,320 --> 00:48:34,120
+<u>No,</u> no, no!
+
+2072
+00:48:34,120 --> 00:48:34,460
+No, no, no!
+
+2073
+00:48:34,460 --> 00:48:34,460
+No,<u> no,</u> no!
+
+2074
+00:48:34,460 --> 00:48:34,520
+No, no, no!
+
+2075
+00:48:34,520 --> 00:48:34,640
+No, no,<u> no!</u>
+
+2076
+00:48:34,880 --> 00:48:35,340
+<u>Just</u> do your job!
+
+2077
+00:48:35,340 --> 00:48:36,180
+Just<u> do</u> your job!
+
+2078
+00:48:36,180 --> 00:48:36,420
+Just do<u> your</u> job!
+
+2079
+00:48:36,420 --> 00:48:36,640
+Just do your<u> job!</u>
+
+2080
+00:48:37,240 --> 00:48:37,660
+<u>You</u> have to take her to the hospital before the sun sets!
+
+2081
+00:48:37,660 --> 00:48:37,860
+You<u> have</u> to take her to the hospital before the sun sets!
+
+2082
+00:48:37,860 --> 00:48:37,940
+You have<u> to</u> take her to the hospital before the sun sets!
+
+2083
+00:48:37,940 --> 00:48:38,140
+You have to<u> take</u> her to the hospital before the sun sets!
+
+2084
+00:48:38,140 --> 00:48:38,280
+You have to take<u> her</u> to the hospital before the sun sets!
+
+2085
+00:48:38,280 --> 00:48:38,480
+You have to take her<u> to</u> the hospital before the sun sets!
+
+2086
+00:48:38,480 --> 00:48:38,580
+You have to take her to<u> the</u> hospital before the sun sets!
+
+2087
+00:48:38,580 --> 00:48:38,840
+You have to take her to the<u> hospital</u> before the sun sets!
+
+2088
+00:48:38,840 --> 00:48:39,560
+You have to take her to the hospital<u> before</u> the sun sets!
+
+2089
+00:48:39,560 --> 00:48:39,740
+You have to take her to the hospital before<u> the</u> sun sets!
+
+2090
+00:48:39,740 --> 00:48:40,040
+You have to take her to the hospital before the<u> sun</u> sets!
+
+2091
+00:48:40,040 --> 00:48:40,420
+You have to take her to the hospital before the sun<u> sets!</u>
+
+2092
+00:48:40,940 --> 00:48:41,120
+<u>So</u> I can take care of her, Rey!
+
+2093
+00:48:41,120 --> 00:48:41,460
+So<u> I</u> can take care of her, Rey!
+
+2094
+00:48:41,460 --> 00:48:41,560
+So I<u> can</u> take care of her, Rey!
+
+2095
+00:48:41,560 --> 00:48:41,840
+So I can<u> take</u> care of her, Rey!
+
+2096
+00:48:41,840 --> 00:48:41,840
+So I can take<u> care</u> of her, Rey!
+
+2097
+00:48:41,840 --> 00:48:41,840
+So I can take care<u> of</u> her, Rey!
+
+2098
+00:48:41,840 --> 00:48:41,900
+So I can take care of<u> her,</u> Rey!
+
+2099
+00:48:41,900 --> 00:48:42,160
+So I can take care of her,<u> Rey!</u>
+
+2100
+00:48:42,360 --> 00:48:42,840
+<u>But...</u>
+
+2101
+00:48:42,840 --> 00:48:43,300
+<u>It's</u> okay!
+
+2102
+00:48:43,300 --> 00:48:43,560
+It's<u> okay!</u>
+
+2103
+00:48:51,800 --> 00:48:53,880
+<u>Rey!</u>
+
+2104
+00:48:53,880 --> 00:48:54,080
+<u>We're</u> here!
+
+2105
+00:48:54,080 --> 00:48:58,980
+We're<u> here!</u>
+
+2106
+00:49:00,020 --> 00:49:00,560
+<u>Let's</u> go!
+
+2107
+00:49:00,560 --> 00:49:00,660
+Let's<u> go!</u>
+
+2108
+00:49:00,660 --> 00:49:00,780
+<u>Let's</u> go, Rey!
+
+2109
+00:49:00,780 --> 00:49:00,780
+Let's<u> go,</u> Rey!
+
+2110
+00:49:00,780 --> 00:49:00,800
+Let's go, Rey!
+
+2111
+00:49:00,800 --> 00:49:01,100
+Let's go,<u> Rey!</u>
+
+2112
+00:49:11,360 --> 00:49:17,660
+<u>Alpha!</u>
+
+2113
+00:49:18,800 --> 00:49:20,500
+<u>You</u> have to succeed!
+
+2114
+00:49:20,500 --> 00:49:20,620
+You<u> have</u> to succeed!
+
+2115
+00:49:20,620 --> 00:49:20,680
+You have<u> to</u> succeed!
+
+2116
+00:49:20,680 --> 00:49:21,000
+You have to<u> succeed!</u>
+
+2117
+00:49:40,260 --> 00:49:41,180
+<u>The</u> three of you are still not ready!
+
+2118
+00:49:41,180 --> 00:49:41,580
+The<u> three</u> of you are still not ready!
+
+2119
+00:49:41,580 --> 00:49:41,580
+The three<u> of</u> you are still not ready!
+
+2120
+00:49:41,580 --> 00:49:42,500
+The three of<u> you</u> are still not ready!
+
+2121
+00:49:42,500 --> 00:49:42,960
+The three of you<u> are</u> still not ready!
+
+2122
+00:49:42,960 --> 00:49:42,980
+The three of you are<u> still</u> not ready!
+
+2123
+00:49:42,980 --> 00:49:43,060
+The three of you are still<u> not</u> ready!
+
+2124
+00:49:43,060 --> 00:49:43,640
+The three of you are still not<u> ready!</u>
+
+2125
+00:49:44,280 --> 00:49:46,600
+<u>You</u> better go to Vega now!
+
+2126
+00:49:46,600 --> 00:49:46,700
+You<u> better</u> go to Vega now!
+
+2127
+00:49:46,700 --> 00:49:46,940
+You better<u> go</u> to Vega now!
+
+2128
+00:49:46,940 --> 00:49:47,460
+You better go<u> to</u> Vega now!
+
+2129
+00:49:47,460 --> 00:49:47,760
+You better go to<u> Vega</u> now!
+
+2130
+00:49:47,760 --> 00:49:48,020
+You better go to Vega<u> now!</u>
+
+2131
+00:49:48,380 --> 00:49:49,400
+<u>They</u> are not just any ordinary people...
+
+2132
+00:49:49,400 --> 00:49:49,820
+They<u> are</u> not just any ordinary people...
+
+2133
+00:49:49,820 --> 00:49:50,000
+They are<u> not</u> just any ordinary people...
+
+2134
+00:49:50,000 --> 00:49:50,720
+They are not<u> just</u> any ordinary people...
+
+2135
+00:49:50,720 --> 00:49:51,100
+They are not just<u> any</u> ordinary people...
+
+2136
+00:49:51,100 --> 00:49:51,100
+They are not just any<u> ordinary</u> people...
+
+2137
+00:49:51,100 --> 00:49:51,760
+They are not just any ordinary<u> people...</u>
+
+2138
+00:49:51,760 --> 00:49:53,260
+<u>..</u>.but they are...
+
+2139
+00:49:53,260 --> 00:49:53,280
+..<u>.but</u> they are...
+
+2140
+00:49:53,280 --> 00:49:53,740
+...but<u> they</u> are...
+
+2141
+00:49:53,740 --> 00:49:54,940
+...but they<u> are...</u>
+
+2142
+00:49:54,940 --> 00:49:55,160
+<u>...the</u> princesses of Angsa!
+
+2143
+00:49:55,160 --> 00:49:55,600
+...the<u> princesses</u> of Angsa!
+
+2144
+00:49:55,600 --> 00:49:56,620
+...the princesses<u> of</u> Angsa!
+
+2145
+00:49:56,620 --> 00:49:57,200
+...the princesses of<u> Angsa!</u>
+
+2146
+00:49:57,540 --> 00:50:00,640
+<u>I</u> will save you!
+
+2147
+00:50:00,640 --> 00:50:00,640
+I<u> will</u> save you!
+
+2148
+00:50:00,640 --> 00:50:00,640
+I will<u> save</u> you!
+
+2149
+00:50:00,640 --> 00:50:00,640
+I will save<u> you!</u>
+
+2150
+00:50:00,640 --> 00:50:00,640
+
+
+2151
+00:50:00,640 --> 00:50:00,640
+
+
+2152
+00:50:00,640 --> 00:50:00,640
+
+
+2153
+00:50:00,640 --> 00:50:00,640
+
+
+2154
+00:50:00,640 --> 00:50:00,640
+
+
+2155
+00:50:00,640 --> 00:50:00,640
+
+
+2156
+00:50:00,640 --> 00:50:00,640
+
+
+2157
+00:50:00,640 --> 00:50:01,080
+<u>Alva,</u> why did you take that stone?
+
+2158
+00:50:01,080 --> 00:50:01,340
+Alva, why did you take that stone?
+
+2159
+00:50:01,340 --> 00:50:02,260
+Alva,<u> why</u> did you take that stone?
+
+2160
+00:50:02,260 --> 00:50:02,360
+Alva, why<u> did</u> you take that stone?
+
+2161
+00:50:02,360 --> 00:50:02,580
+Alva, why did<u> you</u> take that stone?
+
+2162
+00:50:02,580 --> 00:50:02,760
+Alva, why did you<u> take</u> that stone?
+
+2163
+00:50:02,760 --> 00:50:03,040
+Alva, why did you take<u> that</u> stone?
+
+2164
+00:50:03,040 --> 00:50:03,040
+Alva, why did you take that<u> stone?</u>
+
+2165
+00:50:03,540 --> 00:50:04,060
+<u>Professor</u> Agni asked me to do it...
+
+2166
+00:50:04,060 --> 00:50:04,400
+Professor<u> Agni</u> asked me to do it...
+
+2167
+00:50:04,400 --> 00:50:04,680
+Professor Agni<u> asked</u> me to do it...
+
+2168
+00:50:04,680 --> 00:50:04,780
+Professor Agni asked<u> me</u> to do it...
+
+2169
+00:50:04,780 --> 00:50:04,780
+Professor Agni asked me<u> to</u> do it...
+
+2170
+00:50:04,780 --> 00:50:04,980
+Professor Agni asked me to<u> do</u> it...
+
+2171
+00:50:04,980 --> 00:50:05,140
+Professor Agni asked me to do<u> it...</u>
+
+2172
+00:50:05,140 --> 00:50:05,660
+<u>...because</u> this school is in danger.
+
+2173
+00:50:05,660 --> 00:50:06,100
+...because<u> this</u> school is in danger.
+
+2174
+00:50:06,100 --> 00:50:06,100
+...because this<u> school</u> is in danger.
+
+2175
+00:50:06,100 --> 00:50:06,240
+...because this school<u> is</u> in danger.
+
+2176
+00:50:06,240 --> 00:50:06,340
+...because this school is<u> in</u> danger.
+
+2177
+00:50:06,340 --> 00:50:06,660
+...because this school is in<u> danger.</u>
+
+2178
+00:50:07,400 --> 00:50:07,700
+<u>Only</u> that stone can save this school.
+
+2179
+00:50:07,700 --> 00:50:08,080
+Only<u> that</u> stone can save this school.
+
+2180
+00:50:08,080 --> 00:50:08,080
+Only that<u> stone</u> can save this school.
+
+2181
+00:50:08,080 --> 00:50:08,400
+Only that stone<u> can</u> save this school.
+
+2182
+00:50:08,400 --> 00:50:08,780
+Only that stone can<u> save</u> this school.
+
+2183
+00:50:08,780 --> 00:50:09,000
+Only that stone can save<u> this</u> school.
+
+2184
+00:50:09,000 --> 00:50:09,160
+Only that stone can save this<u> school.</u>
+
+2185
+00:50:10,400 --> 00:50:11,280
+<u>Alva</u> must be released.
+
+2186
+00:50:11,280 --> 00:50:11,600
+Alva<u> must</u> be released.
+
+2187
+00:50:11,600 --> 00:50:11,760
+Alva must<u> be</u> released.
+
+2188
+00:50:11,760 --> 00:50:12,100
+Alva must be<u> released.</u>
+
+2189
+00:50:12,720 --> 00:50:13,800
+<u>Three</u> more days until the lunar month.
+
+2190
+00:50:13,800 --> 00:50:14,220
+Three<u> more</u> days until the lunar month.
+
+2191
+00:50:14,220 --> 00:50:14,220
+Three more<u> days</u> until the lunar month.
+
+2192
+00:50:14,220 --> 00:50:14,540
+Three more days<u> until</u> the lunar month.
+
+2193
+00:50:14,540 --> 00:50:14,660
+Three more days until<u> the</u> lunar month.
+
+2194
+00:50:14,660 --> 00:50:15,060
+Three more days until the<u> lunar</u> month.
+
+2195
+00:50:15,060 --> 00:50:15,060
+Three more days until the lunar<u> month.</u>
+
+2196
+00:50:15,480 --> 00:50:15,720
+<u>And</u> if in the lunar month...
+
+2197
+00:50:15,720 --> 00:50:16,120
+And<u> if</u> in the lunar month...
+
+2198
+00:50:16,120 --> 00:50:16,340
+And if<u> in</u> the lunar month...
+
+2199
+00:50:16,340 --> 00:50:16,700
+And if in<u> the</u> lunar month...
+
+2200
+00:50:16,700 --> 00:50:17,060
+And if in the<u> lunar</u> month...
+
+2201
+00:50:17,060 --> 00:50:17,240
+And if in the lunar<u> month...</u>
+
+2202
+00:50:17,240 --> 00:50:17,360
+<u>...the</u> Dark Lord gets the Kabadian Stone...
+
+2203
+00:50:17,360 --> 00:50:17,640
+...the<u> Dark</u> Lord gets the Kabadian Stone...
+
+2204
+00:50:17,640 --> 00:50:17,760
+...the Dark<u> Lord</u> gets the Kabadian Stone...
+
+2205
+00:50:17,760 --> 00:50:18,620
+...the Dark Lord<u> gets</u> the Kabadian Stone...
+
+2206
+00:50:18,620 --> 00:50:19,160
+...the Dark Lord gets<u> the</u> Kabadian Stone...
+
+2207
+00:50:19,160 --> 00:50:19,800
+...the Dark Lord gets the<u> Kabadian</u> Stone...
+
+2208
+00:50:19,800 --> 00:50:20,220
+...the Dark Lord gets the Kabadian<u> Stone...</u>
+
+2209
+00:50:20,220 --> 00:50:20,460
+<u>...he</u> will get an unlimited power...
+
+2210
+00:50:20,460 --> 00:50:20,660
+...he<u> will</u> get an unlimited power...
+
+2211
+00:50:20,660 --> 00:50:21,040
+...he will<u> get</u> an unlimited power...
+
+2212
+00:50:21,040 --> 00:50:21,860
+...he will get<u> an</u> unlimited power...
+
+2213
+00:50:21,860 --> 00:50:22,540
+...he will get an<u> unlimited</u> power...
+
+2214
+00:50:22,540 --> 00:50:22,920
+...he will get an unlimited<u> power...</u>
+
+2215
+00:50:22,920 --> 00:50:23,280
+<u>...that</u> will destroy this world.
+
+2216
+00:50:23,280 --> 00:50:23,440
+...that<u> will</u> destroy this world.
+
+2217
+00:50:23,440 --> 00:50:23,800
+...that will<u> destroy</u> this world.
+
+2218
+00:50:23,800 --> 00:50:24,040
+...that will destroy<u> this</u> world.
+
+2219
+00:50:24,040 --> 00:50:24,500
+...that will destroy this<u> world.</u>
+
+2220
+00:50:37,760 --> 00:50:46,120
+<u>To</u> be continued...
+
+2221
+00:50:46,120 --> 00:50:53,140
+To<u> be</u> continued...
+
+2222
+00:50:53,140 --> 00:50:54,480
+To be<u> continued...</u>
+
+2223
+00:50:56,080 --> 00:50:56,760
+<u>Go!</u> Go! Go!
+
+2224
+00:50:56,760 --> 00:50:56,940
+Go! Go! Go!
+
+2225
+00:50:56,940 --> 00:50:57,100
+Go!<u> Go!</u> Go!
+
+2226
+00:50:57,100 --> 00:50:57,360
+Go! Go! Go!
+
+2227
+00:50:57,360 --> 00:50:58,040
+Go! Go!<u> Go!</u>
+
+2228
+00:50:58,160 --> 00:50:58,760
+<u>Achieve</u> all your dreams!
+
+2229
+00:50:58,760 --> 00:50:59,340
+Achieve<u> all</u> your dreams!
+
+2230
+00:50:59,340 --> 00:50:59,540
+Achieve all<u> your</u> dreams!
+
+2231
+00:50:59,540 --> 00:50:59,760
+Achieve all your<u> dreams!</u>
+
+2232
+00:50:59,960 --> 00:51:00,300
+<u>Go!</u> Go! Go!
+
+2233
+00:51:00,300 --> 00:51:00,400
+Go! Go! Go!
+
+2234
+00:51:00,400 --> 00:51:00,560
+Go!<u> Go!</u> Go!
+
+2235
+00:51:00,560 --> 00:51:00,800
+Go! Go! Go!
+
+2236
+00:51:00,800 --> 00:51:01,020
+Go! Go!<u> Go!</u>
+
+2237
+00:51:01,560 --> 00:51:02,160
+<u>Never</u> stop!
+
+2238
+00:51:02,160 --> 00:51:03,140
+Never<u> stop!</u>
+
+2239
+00:51:03,360 --> 00:51:03,720
+<u>Go!</u> Go! Go!
+
+2240
+00:51:03,720 --> 00:51:03,820
+Go! Go! Go!
+
+2241
+00:51:03,820 --> 00:51:04,020
+Go!<u> Go!</u> Go!
+
+2242
+00:51:04,020 --> 00:51:04,220
+Go! Go! Go!
+
+2243
+00:51:04,220 --> 00:51:04,760
+Go! Go!<u> Go!</u>
+
+2244
+00:51:05,100 --> 00:51:05,560
+<u>Fight</u> with all your might!
+
+2245
+00:51:05,560 --> 00:51:06,040
+Fight<u> with</u> all your might!
+
+2246
+00:51:06,040 --> 00:51:06,300
+Fight with<u> all</u> your might!
+
+2247
+00:51:06,300 --> 00:51:06,500
+Fight with all<u> your</u> might!
+
+2248
+00:51:06,500 --> 00:51:06,860
+Fight with all your<u> might!</u>
+
+2249
+00:51:08,080 --> 00:51:10,400
+<u>Go!</u> Go! Go!
+
+2250
+00:51:10,400 --> 00:51:10,620
+Go! Go! Go!
+
+2251
+00:51:10,620 --> 00:51:10,780
+Go!<u> Go!</u> Go!
+
+2252
+00:51:10,780 --> 00:51:11,060
+Go! Go! Go!
+
+2253
+00:51:11,060 --> 00:51:11,220
+Go! Go!<u> Go!</u>
+
+2254
+00:51:11,920 --> 00:51:12,480
+<u>Be</u> proud of yourself!
+
+2255
+00:51:12,480 --> 00:51:12,840
+Be<u> proud</u> of yourself!
+
+2256
+00:51:12,840 --> 00:51:13,140
+Be proud<u> of</u> yourself!
+
+2257
+00:51:13,140 --> 00:51:13,440
+Be proud of<u> yourself!</u>
+
+2258
+00:51:13,660 --> 00:51:13,980
+<u>Go!</u> Go! Go!
+
+2259
+00:51:13,980 --> 00:51:14,080
+Go! Go! Go!
+
+2260
+00:51:14,080 --> 00:51:14,260
+Go!<u> Go!</u> Go!
+
+2261
+00:51:14,260 --> 00:51:14,520
+Go! Go! Go!
+
+2262
+00:51:14,520 --> 00:51:14,900
+Go! Go!<u> Go!</u>
+
+2263
+00:51:15,480 --> 00:51:16,060
+<u>Let's</u> dream!
+
+2264
+00:51:16,060 --> 00:51:16,660
+Let's<u> dream!</u>
+
+2265
+00:51:17,040 --> 00:51:17,420
+<u>Go!</u> Go! Go!
+
+2266
+00:51:17,420 --> 00:51:17,800
+Go! Go! Go!
+
+2267
+00:51:17,800 --> 00:51:18,240
+Go!<u> Go!</u> Go!
+
+2268
+00:51:18,240 --> 00:51:18,620
+Go! Go! Go!
+
+2269
+00:51:18,620 --> 00:51:19,040
+Go! Go!<u> Go!</u>
+
+2270
+00:51:19,220 --> 00:51:20,140
+<u>We'll</u> make it!
+
+2271
+00:51:20,140 --> 00:51:20,560
+We'll<u> make</u> it!
+
+2272
+00:51:20,560 --> 00:51:20,660
+We'll make<u> it!</u>
+
